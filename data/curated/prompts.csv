@@ -1,0 +1,2143 @@
+id,author,author_name,prompt,image,source_url,tags,created_at
+1,ai_suxiaole,苏乐,"Use the single uploaded image as the sole source. Create one finished vertical before-and-after comparison image composed of two equal-sized panels stacked vertically. The upper panel must be an exact, pixel-faithful copy of the uploaded image: do not redraw, retouch, crop, resize disproportionately, recolor, sharpen, blur, remove, add, or cover anything. Generate only the lower panel. Make the final canvas the same width as the source and exactly twice its height, with the original image occupying the upper 50% and the generated artwork occupying the lower 50%. Join them at the exact midpoint with no gap, border, divider, frame, label, or overlap. If a fixed output canvas is required, fit both panels into identical bounds without cropping or changing their relative proportions.
+
+Transform the complete visual meaning of the source into a handcrafted dimensional yarn-embroidery patch artwork. Reconstruct every important subject and recognizable scene element using thick twisted yarn, braided cord, crochet loops, satin stitches, chain stitches, dense thread fills, and raised appliqué embroidery. Present the lower panel as a straight-on macro product photograph of real needlework mounted on tightly woven fabric. Every visible element—including people, skin, hair, clothing, objects, environmental shapes, decorative marks, and typography—must be physically formed from thread or yarn, never painted, printed, photographic, plastic, clay, paper, flat vector art, or digital brushwork. Show crisp individual fibers, tactile stitch direction, slight handmade irregularity, layered thread thickness, clean edges, gentle relief, and small natural contact shadows created by the raised embroidery.
+
+Preserve the source image’s semantic identity with high accuracy: keep the exact number of people, their relative scale, age category, hairstyle silhouette, recognizable clothing colors and layers, hats, glasses, bags, footwear, accessories, pose, gesture, viewing direction, body orientation, overlap, interaction, and relationship to important objects. Preserve distinctive objects and the main storytelling action. Keep the original viewpoint and overall spatial arrangement, but simplify photographic clutter, architecture, perspective, and minor background details into a clean, readable embroidered emblem. Do not invent extra people, limbs, faces, objects, or actions, and do not remove any subject or object essential to understanding the scene. When faces are visible, render them as charming simplified thread portraits while retaining distinguishing hair, expression, and accessories; when faces are hidden or turned away, preserve that exact condition.
+
+Build a balanced editorial patch composition in the lower panel. Place the embroidered scene in the upper approximately 70–78% of the lower panel and reserve the remaining lower area for three centered lines of embroidered text. Use generous negative space, a strong central silhouette, restrained depth, and a few short radiating accent stitches only where they support the action. Use a warm ivory or natural oatmeal woven-canvas background by default. If one strong background color is essential to the source image’s identity, the fabric ground may instead use a muted version of that dominant color while maintaining clear contrast. Derive the embroidery palette from the source, preserving its key black, white, red, blue, green, yellow, orange, brown, and skin-tone relationships without introducing unrelated colors. Remove incidental signs, captions, logos, watermarks, wall writing, and unreadable environmental text from the transformed lower scene unless the user explicitly requests that they remain.
+
+Add exactly three centered embroidered text lines below the artwork. Line 1 is “[TITLE]” in large uppercase bold block lettering made from thick raised yarn. Line 2 is “[EDITION]” in smaller uppercase compact lettering, defaulting to “PATCH NO. 01”. Line 3 is “[CAPTION]” in a smaller friendly hand-stitched script. If the user supplies any bracketed text, reproduce it exactly with correct spelling, capitalization, punctuation, and spacing. If a field is blank or omitted, automatically create suitable English copy from the image: generate a concise one- or two-word uppercase title, use “PATCH NO. 01” for the edition, and write one warm, memorable sentence of approximately three to eight words for the caption. Do not display brackets, placeholders, quotation marks, explanations, labels, or any additional text.
+
+The lower panel must feel like a premium handmade travel-memory patch photographed under soft, even studio lighting: tactile, cozy, playful, polished, symmetrical where appropriate, and faithful to the uploaded moment. Prioritize in this order: the upper panel remains completely unchanged; subject count and action remain correct; distinctive clothing, accessories, and objects remain recognizable; the lower scene reads clearly as raised yarn embroidery; all requested text is exact; the two panels remain equal in size. Output only the completed vertically stitched comparison image.",prompt_001.webp,https://x.com/ai_suxiaole/status/2099824477173690831,"彩色刺绣, 工艺手作",2026-09-16 07:09
+2,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成完整而明确的上下转译关系。
+
+上半部分：
+直接呈现用户上传的原图，将其视为唯一主体参考来源。
+重点保留原图中的人物、宠物、动物等核心主体，保留其最具识别性的面部特征、毛色或发型、姿态、动作、表情、服装和整体气质。
+建筑、交通工具、室内环境、街景、景观等内容只作为辅助环境存在，不作为主要转译对象。
+整体维持真实照片感、自然光感与原始拍摄氛围，明确区分于下半部分的风格化纸艺区域。
+
+下半部分：
+从上半部分照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为极简手工分层剪纸与纸雕拼贴。
+以一个核心主体作为视觉锚点，用折叠、切割、层叠和遮挡重新概括其关键轮廓、比例与结构，不机械复刻细节；再从原图选择少量环境关系转化为前景、中景与背景纸层，通过尺度差、轴线、正负形、前后遮挡和大面积留白建立清晰层级，使主体一眼可辨，同时具有现代编辑构图的克制与秩序。
+主体必须优先是人物、宠物或动物，不以建筑风格为主角。
+
+配色从上传原图中提取最有辨识度、最有精气神的颜色，转化为有限而协调的纸张色组，以暖象牙或浅色纸面为基底，通过主色、深色结构色、浅色层次与极少量强调色建立空间。
+使用细腻哑光卡纸、可见纸纤维、清晰切边和柔和接触阴影，光线自然漫射，突出折层厚度与真实手工触感，避免塑料三维、廉价卡纸、霓虹色和复杂渐变。
+
+文字建立完整的高级编辑式微排版系统。
+从照片主体的身份、动作、情绪或象征意义中提炼一个简短主标题，同时搭配 2–4 组极小辅助文字，可灵活组合对象名称、编号、章节标记、序列号、坐标式数字、方向词、状态词、材质词、分类标签或一句极短的诗意注释，不使用年份。
+主标题负责识别与情绪，小字负责秩序、节奏与精致感。
+
+文字必须与剪纸图形共同构图，可沿纸层边缘、主体轮廓、几何轴线或负空间排列，也可采用横排、竖排、旋转、宽字距、贴边、压角、跨越色块、嵌入纸层之间或与主体发生遮挡和穿插。
+主标题可适度转化为剪纸或折纸字形，小字则保持纤细、克制的现代编辑排版，通过字号反差和方向变化形成阅读路径，使纸艺负责视觉记忆，微型文字负责高级秩序。
+
+整体呈现原始影像 × 手工剪纸 × 高级编辑设计的视觉气质，干净、优雅、触感细腻、现代而有收藏感。
+下半部分必须保留一个核心主体、少量纸层、大面积留白和精密微排版，并与上半部分形成明确可辨认的对应关系。
+避免儿童手工感、复杂堆积、重复主体、电商展示感和模板感。",prompt_002.webp,https://x.com/zhidawang219555/status/2099831605603041739,"立体折纸, 纸雕拼贴, 形象改造",2026-09-16 07:16
+3,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成“原始照片 × 风格转译”的清晰双拼结构。
+
+上半部分：
+直接展示用户上传的原图，并将其视为唯一主体参考来源。
+上半部分重点保留原图中的人物、宠物、动物等核心主体，保留其最具识别性的脸部特征、毛色或发色、姿态、动作、服装、配饰、神态和整体气质。
+建筑、街景、室内结构、家具、背景装饰等内容不要作为主要主体，只作为辅助环境存在，且可以适度弱化。
+整体保持真实照片质感、自然光线与原始拍摄氛围，明确让人看出这是风格转译前的原始参考图。
+
+下半部分：
+从上半部分照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为一张 三维厚涂油画风格的微景观插画海报。
+不要机械复刻照片，而是将主体转化为精致、立体、可触摸的微缩景观，以厚涂笔触、色彩堆叠和雕塑般的体积感重新塑造；保留主体核心身份和关键特征，同时适度优化角度、比例与细节，使其更适合微景观式呈现。
+主体优先是人物、宠物或动物本身，不以建筑风格为主，不把建筑、家具或环境做成主视觉中心。
+
+构图采用大面积留白 + 居中或轻微偏心的斜向主轴。在明亮白色纹理纸面上，以一抹与原图主题相关的清透厚涂色带承托主体，这条色带可以转化为水面、地面、路径、光带或抽象风景切片；主体与色带自然交互，并根据内容加入倒影、波纹、光斑或延展笔触。背景仅保留少量厚涂云层、太阳、雾气或与主体情绪相关的自然意象，形成轻盈而富有诗意的空间层次。
+
+绘画语言强调厚涂油画 × 微缩实体 × 清透光感。保留明显的颜料堆积、刮刀痕迹、起伏边缘、纸张纹理和半手工塑形感；厚涂集中在水面、云层、色带与局部高光，让主体既精致立体，又具有真实油彩的物质感。
+
+配色从上传原图中提取最明亮、最鲜活、最有生命力的颜色重新调制，而不是平均取色。整体提高明度与色彩纯净度，采用清澈天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉等由原图自然推导出的明快色相，通过清爽冷暖关系形成治愈感。以大量纯净暖白作为呼吸空间，主色鲜明但不刺眼，局部暖橙、金黄或粉红可作为阳光般的点睛色，使画面具有晴朗、鲜活、温暖、轻快、有生命力的色彩精神。避免灰脏、发旧、低沉莫兰迪化、暗褐滤镜、荧光色和廉价糖果感。
+
+文字少量介入。可从照片中主体的身份、情绪或象征意义中提炼一个简短标题，并搭配极少量副文、编号或微型注释。文字保持细致、克制、留白充足，可沿斜向主轴、主体边缘或大面积空白巧妙排布，像艺术出版物中的精致标注。
+
+整体呈现 明亮白底、鲜活厚涂、清透色彩、微缩主体、大面积留白与温暖光感 共同构成的高级治愈气质。
+无论上半部分主体是人物、宠物还是动物，下半部分都应保持清晰身份与鲜活色彩，避免灰脏、沉闷、卡通玩具感、塑料感电脑渲染感、电商感和模板感。
+
+整体要求：
+下半部分必须让人一眼认出是上半部分同一主体的风格化重构。
+不要把场景建筑做成主角，不要生成无关第二主体，不要让上下两部分风格关系断裂，不要多余水印、Logo 或解释性大段文字。",prompt_003.webp,https://x.com/zhidawang219555/status/2099703434882744418,"厚涂油画, 立体微景观, 双拼海报",2026-09-16 07:18
+4,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成清晰而完整的上下视觉对照关系。
+
+上半部分：
+直接呈现用户上传的原图，将原图视为唯一主体参考来源。重点保留原图中的人物、宠物、动物等核心主体，优先提取主体的脸部特征、发型或毛发特征、五官、神态、动作、服装、配饰、体型轮廓与整体气质。
+如果原图中同时出现建筑、室内环境、街景、家具、风景等内容，这些都不作为主要表现对象，只作为弱化的辅助背景存在。
+上半部分整体保持真实照片感、自然光感和原始拍摄氛围，让人一眼看出这是原始参考图本身，不要将上半部分也做成插画或风格化重绘。
+
+下半部分：
+将上半部分中的同一人物 / 同一宠物 / 同一动物主体重构为一张黑白墨线画。
+突出主体最具辨识度的特征，不机械照搬照片细节，而是保留最有识别性的脸型、轮廓、姿态、表情、动作关系和身份气质。
+整体采用二十世纪七十年代二维动画美学，强调粗犷而富有节奏感的高对比轮廓、锐利清晰的线稿、极简但有层级变化的线宽控制，以及老动画清稿式的图形语言。
+画面采用高调构图，并在主体周围或局部区域加入纯白衬底，使主体从背景中更清晰地浮现出来。
+只允许使用黑白两色，不得添加阴影、颜色、灰度或中间调，不要做素描式明暗塑造，也不要加入彩色点缀。
+下半部分不追求复杂环境刻画，而是通过线条的轻重、疏密和轮廓的概括，形成具有年代感、图形感和动画感的黑白视觉效果。
+如果原图主体是人物，则突出神态、发型、动作和服装轮廓；如果是宠物或动物，则突出耳朵、毛发边缘、眼神、体态和动作节奏。
+整体效果要让人明显感受到：上方是真实原图，下方是同一主体被转译成七十年代黑白动画墨线形象。
+
+整体要求：
+上下两部分之间必须存在明确呼应关系，保证下半部分一眼就能识别出是上半部分主体的风格化转译。
+画面干净、克制、有设计感，不要生成多余文字、Logo、水印，不要出现无关主体，不要让建筑或背景元素抢夺视觉中心。",prompt_004.webp,https://x.com/zhidawang219555/status/2099662710321693002,"黑白墨线, 70年代动画, 双拼海报",2026-09-16 07:18
+5,zhidawang219555,DAAI,"创作一张竖版“上下双拼”风格海报。画布严格分为上下两个区域，上半部分为用户上传的原始照片，下半部分为根据同一主体转化出的扁平笔触手绘插画。整体干净、现代、手作感明确，并带有轻微复古色调。
+
+上半部分：
+保留用户上传照片中的主要人物、宠物、动物，或人物与宠物互动作为主体展示。上半部分保持真实照片质感，不进行绘制化处理，重点保留主体最具辨识度的五官、毛色、发型、服装、姿态、情绪与整体气质。背景可裁切简化，但不要让建筑和环境喧宾夺主，上半部分作用是明确显示“原始参考主体”。
+
+下半部分：
+请将上半部分照片中的同一主体在画面内转化为扁平笔触手绘插画。以单枚主体插画为核心完成构图，确保仍然能清楚识别出与上半部分是同一人物、同一只宠物或同一组互动关系。
+
+【风格】
+使用数字绘画与手绘笔触效果。保留清楚可见的笔触、不均匀边缘和略有拉伸感的颜料痕迹，呈现未经修饰、真实自然的手绘外观。将图像理解为由简洁形状组成的扁平插画，不进行写实描绘。不要使用渐变、阴影、三维渲染或细密纹理，所有元素保持完全扁平。使用纤细、不规则的手绘轮廓线，轮廓与色块之间允许出现轻微偏差。
+
+【色彩】
+背景使用奶油色或米白色纸张。只从上传照片中提取 3 至 4 种颜色：一种深色主色、一种明亮主色，以及一至两种辅助色。整体略微降低饱和度，呈现复古色调，绝不增加颜色数量。
+
+【构图】
+主体放大并居中，约占下半部分画面区域的 50% 至 55%。纵向延展构图，在上下保留更多空间，同时增加左右边距。顶部放置一至两个描述主体氛围的英文大写词，以非常醒目的手绘笔刷字书写，字距极宽；文字可以环绕插画，或向右侧和下方延伸。右下角以强调色加入一句 3 至 5 个英文单词的简短手写短语。
+
+【文字】
+观察照片并选择合适的顶部与底部短语。顶部文字不要直接使用主体名称，应根据照片呈现的氛围、地点、季节、时间或情绪选择。底部短语应轻松、随意、略带俏皮，不要过于严肃或解释性过强。所有文字必须清晰、拼写正确。
+
+【禁止】
+禁止写实渲染、三维效果、阴影、反射、品牌标志、水印、边框，以及过度放大主体。
+
+整体最终效果应明确形成“上半部分真实照片 + 下半部分扁平笔触手绘主题插画”的双拼对照关系，下方插画必须清楚继承上方主体身份与气质，但以扁平手绘的方式重新表达。",prompt_005.webp,https://x.com/zhidawang219555/status/2099469619010617739,"扁平手绘, 复古插画, 双拼海报",2026-09-16 07:18
+6,zhidawang219555,DAAI,"创作一张竖版“上下双拼”风格海报，画布严格划分为上下两个区域，上方为真实摄影原图，下方为同一主体的复古水彩手绘编辑插画转译。整体气质轻松、俏皮、温柔、时髦、复古且带少量幽默感。
+
+上半部分：
+放置用户上传的原始照片。以人物、宠物、动物，或人物与宠物之间的关系作为画面主体，清楚呈现主体的脸部特征、发型、毛色、服饰、动作、姿态和整体氛围。上半部分保留真实摄影风格，不做插画化处理，可适度裁切以增强主体聚焦。背景尽量克制，建筑和复杂空间只作为弱化环境，不作为主要内容。
+
+下半部分：
+从上半部分照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为轻盈、稚拙、复古的手绘编辑插画。不要机械复刻细节，以概括造型、适度夸张比例、符号化特征和幽默视觉隐喻重新表达，同时保持原物一眼可辨。融合现代主义编辑插画、包豪斯平面构成、儿童绘本、稚拙艺术与时尚速写气质，形体简练，轮廓略带迟疑与手工误差，局部特征可适度放大，让画面兼具故事感、时尚感与俏皮感。
+
+配色从上传的原图中提取，采用高明度、低至中等饱和度的柔和有限色盘，以近似色统一氛围，小面积互补色制造视觉跳点。使用水彩、水粉、彩铅、粉蜡笔与干刷混合质感，保留纸张颗粒、透底、笔触断裂、边缘毛糙、轻微脏色与旧印刷套色偏差。背景大面积留白，仅以松散淡彩、局部斜线或简单几何元素承托主体，避免复杂场景堆积、写实光影、光滑矢量、三维渲染和过度精修。
+
+文字从照片的地点、人物、场景或主题中提炼少量英文关键词、标题、编号或适配金句，并延续画面的手绘编辑语言。主标题采用略带稚拙与复古感的手写艺术字，辅助文字使用克制温和的无衬线或衬线字体，可轻微错位、倾斜、拉伸、叠色或产生旧印刷套色偏移，让文字像插画的一部分自然生长在画面中，而不是后期贴上的排版元素。
+
+整体使用米白或浅色背景与大量留白，主体特征、色彩、姿态与视觉符号在画面中保持统一呼应。整体气质轻松、俏皮、复古、温柔、聪明、时髦、幽默、浪漫、松弛，略带笨拙与古怪自信，像一页被精心保存的旧时尚绘本与现代艺术杂志。
+
+整体需清晰传达“上半部分为原始照片参考，下半部分为同一主体的复古水彩编辑插画转译”，二者之间既有身份一致性，也有明显风格落差。",prompt_006.webp,https://x.com/zhidawang219555/status/2099295085250916707,"复古水彩, 手绘插画, 双拼海报",2026-09-16 07:18
+7,zhidawang219555,DAAI,"创作一张竖版“上下双拼”风格海报，整体像一本被拆开的绘本页：上方是真实照片，下方是同一主体的童话版画式图像转译。构图简洁、清楚、带叙事性，具有绘本和艺术出版物气质。
+
+上半部分：
+展示用户上传的原始照片。保留照片中的主要人物、宠物、动物，或人物与动物之间最重要的互动关系。主体必须清晰可辨，尽量保留其身份、动作、姿态、表情、服装特征、毛色、外轮廓与情绪状态。上半部分保留真实摄影感，不进行绘画化处理。环境和建筑只作为辅助空间线索存在，不占据主体地位。
+
+下半部分：
+从上半部分照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为童话版画式手绘图像。不要机械描摹细节，而是将主体压缩为一两个清楚的大体块，以钝拙剪影、略微夸张的比例和少量关键边缘，保留原始对象的身份、动作、功能与情绪。画面从原图内容中提炼出一个大面积低明度或高反差的结构场，作为包裹主体的容器、路径、框架或密度层；背景像故事发生的外壳一样从原图空间与意义中生长出来，形成遮挡、裁切、吞没与局部露出的结构叙事。整体采用平面叙事透视和绘本页面式层级，可使用俯视压缩、侧向移动、正面框架、路径引导、尺度跳跃或边缘裁切组织阅读。
+
+配色从上传的原图提取，并保持明确的三层关系：大面积暗结构色负责重量与边界，适量浅色或留白负责呼吸，小面积高饱和情绪色负责读图路线与故事信号。最重要的信息仅以少量鲜明色块集中在面部、姿态、路径、器物功能点、环境标识或叙事焦点上，并始终被深色结构或浅色负形压住，让画面鲜艳但不平均。色相可随主题情绪调整，但面积比例与明度秩序保持稳定。
+
+线条只在功能、路径、边界、纹理和识别处出现，保持稀疏、手绘、略不准的细线。所有色块保持平面化处理，同时保留干刷、颗粒、飞白、纸纹、喷点和轻微套印错位，呈现丝网印刷与粉蜡笔共同完成的手工质感，避免写实光影、复杂体积、光滑矢量边缘、三维渲染和塑料质感。
+
+整体构图简洁、低细节、高识别，暗场包裹亮色信号，兼具可爱叙事与厚重版画感。若画面包含文字，可将文字处理为小标识、物体面板或边缘注释，数量精简，服从图形结构；字形圆钝，粗细略不均，密度低，带有自然手写感，使其像画面的一部分而不是后期贴上去的说明。
+
+整体呈现“上半部分真实原图 + 下半部分童话绘本、手工版画、编辑插画与艺术出版物气质结合”的视觉关系，形成非常明确的“同一主体前后转译”效果，视觉统一、鲜明、可迁移。",prompt_007.webp,https://x.com/zhidawang219555/status/2099122402362024421,"童话版画, 绘本风, 双拼海报",2026-09-16 07:18
+8,zhidawang219555,DAAI,"创作一张竖版“上下双拼”风格海报，画布严格分为上下两个区域，整体保持留白充分、安静、有高级童书编辑感。
+
+上半部分：
+展示用户上传的原始照片。主体限定为人物、宠物、动物或人物与宠物之间的互动关系，保留主体的真实摄影状态，包括外形、毛色或肤色、发型、服装、姿态、动作、表情与整体气质。上半部分不进行插画风重绘，应像一张干净、真实、明确的参考照片。背景可适度简化与裁切，但不要让建筑和环境成为主角，重点始终是人物或动物主体。
+
+下半部分：
+将上半部分照片中的同一主体提取出来，重构为极简粗黑干媒介剪影插画。不要机械描摹照片细节，而是将主体压缩成圆润、敦厚、略带稚拙感的概括形体，可适度放大头部、脸部、耳朵、手部动作、尾巴、身体轮廓或最有记忆点的局部，使其在极少信息下仍能一眼识别原物。若照片包含多个主体，则保留最重要的互动关系，将它们视为一个整体视觉单元，而不是平均分散焦点。
+
+画面只使用近乎纯白的纸面底 + 浓黑蜡笔、炭笔或干擦痕迹，不使用彩色，不使用灰阶渐变。黑色形体不是光滑实心矢量块，而是由短促、有力度的蜡笔反复涂抹形成，保留纸张颗粒、断笔、压痕、边缘毛糙、浓淡不均和局部露白。轮廓略微摇晃、不完整、不精确，让画面保持真实手作感。
+
+主体最关键的识别特征可通过“黑色剪影中突然切出的白色特征区”强化，例如人物的脸部轮廓、眼睛周围、发际线、嘴型、宠物面部、鼻口区域、胸前花纹、物件核心结构或最具有辨识度的局部；再以极少黑点、短线或符号完成表情与细节。不要追求写实五官和精密结构，而是让黑、白之间形成直接、有趣而强烈的辨识关系。
+
+构图保持大面积纯净留白 + 一个主要视觉关系。主体可居中悬浮，也可轻微偏置、局部裁切或靠近画面下方，仅用一条粗糙地面摩擦线、几根短线或极少环境符号提示空间。草叶、风、桌面、地面、烟气、道路、影子或其他环境信息都应被压缩成极少的蜡笔记号，让背景保持安静空旷。整体不追求复杂场景，而让一个姿态、动作、距离或关系承担主要叙事。
+
+文字保留少量高级编辑感与童书感并存的小字系统。不要只写地点或物体名称，而从照片中的情绪、动作、关系、时间或微小故事提炼一个简短英文标题，再搭配编号、适配的金句、章节号或一句极短的含蓄小文案。文字可以是克制的印刷小字，也可以加入极少量笨拙手写、蜡笔字或不完全规整的字形，使其像原本就属于这幅插画。
+
+文字需要与图形发生巧妙关系：可以贴着地面线排列、沿主体动作方向延伸、躲在大片留白中、与轮廓产生轻微遮挡、卡在两个主体之间的负形里，或用一条细线把编号与主体连接起来。保持“一个短标题 + 1–2 组极小辅助文字”即可，让文字成为构图节奏的一部分，而不是普通海报标题。
+
+整体呈现“上半部分真实原图 + 下半部分黑要粗、白要净、形要简、质要糙”的视觉特征，在童稚、温软、安静、幽默与孤独之间保持微妙平衡，像一本由高级设计工作室重新编辑的旧黑白童书。避免光滑数字描边、精密线稿、写实光影、厚涂、三维效果、彩色、大面积灰色渲染、卡通贴纸感和模板化商业插画。",prompt_008.webp,https://x.com/zhidawang219555/status/2099031654975361099,"粗黑蜡笔, 童书插画, 双拼海报",2026-09-16 07:18
+9,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
+
+**上半部分：**
+请自行设计一张真实摄影感原图，主体为**一个人物或一个动物**，例如安静站立的小女孩、坐着发呆的人物、趴卧的小狗、蜷缩的猫等。主体姿态要自然、松弛、明确，便于下半部分进行概括性的手绘转译。环境作为陪衬存在，但不要以建筑为主角。
+
+**下半部分：**
+严格以上半部分原图中的同一主体、轮廓、姿态与叙事关系为依据，将其重构为**松弛、稚拙的蜡粉笔手绘图像**。以米白色粗纤维手工纸作为底层，在画面中设置一块横向延展的低饱和纸张色域，颜色从上半部分原图的综合色彩与情绪中自然提炼并重新调和，不固定色相。主体以浅色哑光蜡粉笔概括描绘，去除繁杂细节，只保留最核心的比例、走势和识别特征，线条随性、不规整、略带断裂与粗糙摩擦感，让人一眼能够联想到上半部分原图中的主体，又具有独立的手绘表达。
+
+构图强调**横向色域、主体重心与上下留白之间的比例关系**。主体可根据原图姿态自然偏置、裁切或跨越色块边界，不必机械居中；利用尺度、方向、正负形和留白建立安静的视觉节奏。色块只承担主体与空间关系，不增加多余装饰，保留双层纸张、轻微做旧、孔版印刷（Risograph）颗粒与真实纤维质感，避免复杂阴影、写实塑造和数字光滑感。
+
+文字从上半部分照片的**情绪、动作、状态或隐喻**中提炼一句简短英文短句，以柔软、潦草、略带不完美的手写方式融入画面。文字可沿色块边缘、主体走势或留白区域自然排列，也可与轮廓发生轻微穿插、错位或跨界，使文字像手绘作品的一部分，而不是后期添加的标题。
+
+整体呈现**安静、松弛、温柔、复古、文艺而克制**的纸上编辑视觉，兼具手工温度与现代构图感。保持上半部分原始影像与下半部分极简手绘之间清晰而巧妙的视觉呼应，避免卡通感、廉价手账感、复杂装饰、固定配色和模板感。",prompt_009.webp,https://x.com/zhidawang219555/status/2098953170047369586,"治愈系, 柔和插画, 双拼海报",2026-09-16 07:18
+10,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
+
+**上半部分：**
+请自行设计一张真实摄影感原图，主体为**一只在自然环境中的动物**，例如站立的小鸟、草地上的猫、观察周围的小狗、停驻的兔子等。主体必须清晰，具有明确的轮廓、姿态、方向与环境关系。背景可以带有自然环境线索，但仅为陪衬，不以建筑为主体。
+
+**下半部分：**
+严格以上半部分原图中的同一主体、轮廓、姿态、空间关系与叙事特征为依据，将其重构为**一枚精炼的多色橡皮章图像**。不要完整复制照片，而是删去无关细节，只保留最能代表原物的结构、走势和视觉记忆点，通过剪影、色块、刻线和少量层叠重新概括，使人能够一眼识别与上半部分原图之间的对应关系。
+
+构图保持小尺度章印与大面积留白的关系，根据主体自身的方向、比例和视觉重心自由安排位置，可偏心、贴边或局部裁切，但保持清晰主次与编辑式平衡。配色从上半部分原图中提取 2–4 种最具辨识度的颜色，转化为克制而有精神的专色油墨，通过套色关系建立层次，不使用固定旅行色卡。
+
+章印保留真实手工雕刻与盖印质感，包括粗细不均的刻线、断墨、纸张透底、颗粒油墨、边缘缺口、压力变化和轻微套色错位；背景使用温暖浅色纸张与细微纤维纹理，避免平滑矢量、滤镜效果和儿童手工感。
+
+文字像旅行者或观察者留下的**田野注释**，从上半部分照片的地点、主体、状态或意象中提炼一个简短英文标题，并搭配 No. 编号、2–3 个关键词或极短说明。使用小型打字机字体或档案式微排版，可与章印的边缘、留白、基线或局部轮廓巧妙对齐，使文字成为记录系统的一部分，而不是商业标题。
+
+整体呈现**原始影像 × 手工橡皮章 × 旅行田野笔记**的视觉关系，安静、克制、质朴、精致而具有收藏感。上半部分原图提供现场依据，下半部分章印负责留下记忆中最值得辨认的部分，避免旅游纪念品感、邮票模板、圆形印章、贴纸拼贴、卡通风格、过多文字和装饰堆积。",prompt_010.webp,https://x.com/zhidawang219555/status/2098759028755063191,"田野记录, 手工印章, 双拼海报",2026-09-16 07:18
+11,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
+
+**上半部分：**
+请自行设计一张真实摄影感原图，主体为**一只安静站立或坐着的小狗**，也可以是人物与小狗之间的自然互动，但主体重心必须清晰地落在人物 / 宠物本身。照片应具有柔和、治愈、明亮的氛围，可置于草地、室内角落、门边、窗边等自然环境中，但环境只做陪衬，不要把建筑或空间当主体。
+
+**下半部分：**
+严格以上半部分原图中的同一主体、轮廓、姿态与叙事关系为依据，将其重构为**一枚悬浮在纸面上的限色木刻版画印记**。不要直接复制整张照片，也不要简单套用滤镜，而是主动删减复杂背景与细碎信息，只保留决定识别度的轮廓、比例、方向、明暗分区、关键结构与核心空间关系，以木刻版画、油毡版画和手工套印的语言重新概括主体，使其一眼可辨，同时具有朴拙、笨拙、手工感强烈的艺术气质。
+
+图形笔触要带有木刻版画特有的笨拙感与手作痕迹：线条不必光滑精确，允许出现刀刻般的轻微迟疑、粗细不均、边缘发毛、转折生硬、局部断裂、缺口、错位和不规则留白；色块边缘可呈现干刷、漏印、缺墨和粗颗粒纹理。整体不是精致矢量插画，而是像用手工刻刀和油墨一刀一刀刻印出来，带着朴素、直接、略微稚拙却非常耐看的版画气质。
+
+构图以单一视觉锚点、大面积留白和不完整边缘为核心，根据主体自身的视觉重心、动作方向和结构走势决定位置与尺度，可居中、偏置、轻微裁切或沿某一方向延展。主体周围保留充分的温暖纸张留白，边缘通过缺墨、断裂纹理、纸张透底和自然磨损感逐渐消失，避免完整矩形边框，让画面像一段被轻轻压印在纸面上的记忆。
+
+配色从上半部分原图中提取最具辨识度和生命力的颜色，但整体转化为小清新、柔和、治愈、明亮的限色逻辑。采用奶油白、象牙白、浅粉、雾绿、浅蓝、嫩黄、淡橙、薄荷绿、柔和珊瑚色、浅赭色等干净而轻盈的综合色系，保持低至中等饱和度、高明度与柔和对比。保留原图最动人的色彩记忆点，但避免灰暗、沉闷、脏旧、厚重和过度复古的配色。所有颜色应像哑光实体油墨层层套印，柔和清透，却仍有版画的颗粒与温度。
+
+文字同样作为版画构图的一部分介入，而不是固定说明文字。从上半部分照片的主体身份、动作、情绪、状态、地点或隐喻中提炼一个 1–3 词的主标题，并搭配一组极短关键词或微型说明。主标题可沿主体轮廓、留白边界、视觉轴线或版画边缘排列，与图形形成承托、穿插、错位或呼应关系；辅助小字保持细小、克制，采用打字机体、等宽衬线体或旧档案式排版，像旅行笔记或私人收藏版画中的注释。不要固定使用年份，让文字根据照片本身自然生长。
+
+整体强调木刻版画的朴拙手感、清新柔和的限色、纸张留白、不完整边缘与克制排版，呈现温暖、安静、治愈、轻盈、怀旧而不灰暗的高级版画气质。保持上半部分原图与下半部分版画重构之间清晰而巧妙的视觉呼应，避免普通滤镜、完整背景复刻、光滑矢量描边、卡通插画、旅游模板感和廉价复古感。",prompt_011.webp,https://x.com/zhidawang219555/status/2098662532978544661,"木刻版画, 复古手作, 双拼海报",2026-09-16 07:18
+12,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
+
+上半部分：
+请自行设计一张真实摄影感原图，主体为一个具有鲜明轮廓与动作特征的人物或动物，例如回头的黑猫、抬头的小狗、跳跃中的人物、探身的人物等。主体必须有明显可提炼的头部、轮廓、肢体、尾巴、耳朵或局部结构，方便在下半部分形成“越界”构图。环境仅作为陪衬，不以建筑为主体。
+下半部分：
+严格以上半部分原图中的同一主体、轮廓、姿态与叙事关系为依据，将其重构为极简黑白手绘编辑插画。以一个横向或纵向的纯黑矩形色域作为主要视觉场，让主体大部分存在于矩形内部，同时选择最具识别度的头部、顶部轮廓、肢体、尾巴、耳朵、器物边缘或其他关键结构自然突破矩形边界，形成明确的“越界”关系。主体不是贴在黑色矩形上，而像从黑色空间中探出、穿过或生长出来，使矩形既是背景，也是构图的一部分。
+
+主体仅保留最必要的外轮廓、姿态和关键结构，以黑色流畅手绘线 + 白色负形 + 少量灰色块面表现。线条应简洁、顺滑、稳定，有自然手绘弹性和节奏感，允许轻微手工感，但不要过度抖动、重复描边、毛躁噪点或刻意稚拙化；整体更接近干净利落的插画师线稿，而不是粗糙随意的涂鸦。内部细节保持极简，只用少量结构线、表情线和局部阴影建立辨识度。
+整体以黑、白、灰为主，但允许在必要时加入一个核心局部的强调彩色，作为点睛之笔。这个彩色只能落在最关键、最有叙事性或最有记忆点的局部，例如主体的某个部位、一个小物件、一块关键表面、一个动作焦点或一个情绪信号。强调色面积必须很小、位置精准、作用明确，像画面中唯一被点亮的部分，用来提升记忆点和情绪张力，而不是打破整体黑白秩序。颜色应从上半部分原图中提取最有代表性的单一亮点色，并适度提纯。
+
+构图强调黑色矩形的几何秩序与主体自由轮廓之间的冲突。矩形承担稳定、沉重的视觉基座，主体以不对称位置、局部裁切和越界制造活力；大面积白色纸面留白包围黑色区域，使黑、白、灰形成强烈而克制的面积关系。辅助结构可以转化为极少量直线、斜面、平台、边缘或几何切片，但不得形成第二主体。
+
+文字建立轻巧的黑白编辑式微排版系统，从上半部分照片的动作、情绪、状态或隐喻中提炼一个简短英文标题，并搭配 1–3 组极小注释、编号、状态词或短句。文字可贴近黑色矩形边缘、藏在负形中、顺着越界方向排列，或与主体轮廓形成对齐和错位；使用黑色手写字、细瘦无衬线或克制衬线字体，保持小尺度，让文字像插画师留下的签注和编辑标记，而不是商业标题。
+
+整体呈现纯白纸面 × 黑色几何色域 × 流畅手绘线条 × 主体越界 × 单点彩色强调的视觉气质，克制、聪明、轻巧、幽默、现代且具有艺术出版感。避免彩色卡通、复杂场景、光滑矢量描边、写实明暗、三维质感、纯黑剪影、粗糙乱线和模板式居中构图。",prompt_012.webp,https://x.com/zhidawang219555/status/2098343054159835367,"黑白高亮, 时尚海报, 双拼海报",2026-09-16 07:18
+13,ai_suxiaole,苏乐,"Transform the uploaded photograph into a vintage mid-century editorial magazine cover illustration printed with a limited-color letterpress and halftone process. Treat the uploaded photograph as the sole source of visual content. Output only the finished transformed magazine artwork. Do not create a before-and-after comparison, split screen, contact sheet, collage, or presentation mockup.
+
+First analyze the source image and identify the primary subjects, their relationship, pose, gesture, expression, gaze direction, body orientation, relative scale, clothing, accessories, essential props, environmental context, dominant colors, secondary colors, warm accents, and neutral areas. Preserve the exact number and type of primary subjects. Preserve their left-to-right order, interaction, pose, hand placement, facial direction, emotional relationship, clothing categories, and all story-defining objects. Do not add, remove, duplicate, merge, or replace primary subjects.
+
+Preserve the source composition and visual narrative as closely as possible. Maintain the original camera angle, perspective, crop, subject placement, overlap, foreground-background relationship, and major negative spaces. If the source is a close-up, retain the close-up. If it is a seated, crouching, standing, or low-angle composition, preserve that structure. Do not invent off-frame anatomy or expand the scene into a different shot.
+
+Convert the photograph into a bold vintage editorial illustration resembling a mass-produced magazine cover, pulp publication, travel poster, or human-interest feature printed between the 1950s and 1970s. The result should feel screen-printed, letterpress-printed, and mechanically reproduced rather than digitally painted. Use strong contour drawing, simplified anatomical forms, posterized shadows, flat ink shapes, coarse halftone dots, stippled tonal fields, and visibly printed texture.
+
+Keep the subjects recognizable through their facial structure, hairstyle, age range, distinctive clothing, accessories, posture, expression, and interaction. Simplify fine facial details into confident ink contours and halftone shading without turning the subjects into generic characters. Preserve each subject’s exact mouth state and emotional expression. If a mouth is open, keep it open. If teeth are visible, retain a simplified visible tooth shape. If the lips are closed, keep them closed. Preserve smiles, pouts, neutral expressions, laughter, and gaze direction without changing their emotional meaning.
+
+Before selecting the poster palette, derive a clear color hierarchy directly from the uploaded photograph. Identify the dominant clothing or subject color, the secondary environmental or clothing color, the principal warm accent, and the neutral or pale areas. The final limited-color palette must feel extracted from the source image rather than imposed as a fixed vintage template.
+
+Map the dominant source color to the dominant vintage ink color and preserve its visual dominance throughout the illustration. The dominant ink should control the largest subject areas, important graphic shapes, and normally the main headline. Map lighter or darker variations of the dominant source color to one related secondary ink tone. Map white, gray, beige, pale, and neutral background areas to aged warm cream paper. Map naturally warm details such as skin, hair highlights, sunlight, wood, food packaging, bricks, flowers, or brown accessories to muted mustard yellow or restrained burnt orange.
+
+Use a maximum of four principal ink colors plus the aged cream paper base. Select those inks adaptively from deep navy or blue-black, muted cyan or teal blue, burnt orange or vermilion red, and mustard yellow. These are available ink families, not mandatory colors that must appear equally in every image. Their hierarchy and area must follow the uploaded photograph.
+
+If the source photograph is predominantly blue, navy, cyan, teal, or denim, keep deep navy and muted cyan-blue as the dominant inks. Use mustard yellow as a restrained secondary accent and restrict orange-red to small local details already supported by the source. Do not use a large red or orange headline on a predominantly blue source image. The headline should normally be navy or blue in this case.
+
+If the source photograph is predominantly red, orange, pink, brown, or strongly illuminated by warm light, allow burnt orange or vermilion to become the dominant or secondary ink. Use navy or blue-black for structural shadows, outlines, and typographic contrast. Do not force blue to dominate when the source is clearly warm.
+
+If the source photograph is predominantly neutral, monochrome, white, black, gray, or beige, derive the dominant accent from the most visually important garment, accessory, prop, or lighting cue. Keep the remaining image restrained and allow the cream paper base and dark structural ink to occupy more space.
+
+Maintain approximately the same visual color hierarchy as the source photograph. Allocate roughly 50–65% of the printed color area to the dominant mapped ink, 20–30% to cream paper and light neutral space, 10–20% to the related secondary ink, and no more than 5–10% to a contrasting accent. Treat these percentages as compositional guidance rather than rigid mathematical measurements.
+
+Do not allow typography to overturn the source-derived color hierarchy. The main headline should normally use the dominant mapped ink. A contrasting headline color may be used only when the source already contains a visually significant contrasting accent and the change does not make that accent dominate the entire composition. Avoid defaulting to red merely because the output is designed as a vintage magazine cover.
+
+Render skin primarily with the warm cream paper base, sparse burnt-orange or mustard shadow shapes, and controlled halftone dots. Do not make skin bright red, saturated orange, or unnaturally dark. Render dark hair and dark clothing with deep navy or blue-black ink masses, leaving occasional cream highlights for readability. Translate light-colored clothing into cream paper with source-derived contour colors and halftone shadows. Convert complex fabric patterns and environmental details into simplified graphic marks rather than literal photographic texture.
+
+Apply coarse, clearly visible halftone screening throughout the image. Use larger dots in midtones, denser dots in shadows, sparse dots in highlights, and occasional rough stippling around contours. Introduce subtle imperfect ink registration so selected ink edges sit slightly out of alignment. Add restrained ink bleeding, uneven coverage, distressed edges, faded patches, small scratches, printing speckles, fold marks, and horizontal or vertical paper creases. These defects must feel authentic and physical, not like a generic digital grunge overlay.
+
+Place the artwork on visibly aged, warm ivory or yellowed newsprint stock. The paper may contain subtle fiber texture, softened corners, faint stains, worn edges, old fold lines, and slight discoloration. Keep the ageing believable and restrained. The primary subject, facial expression, hands, clothing, and essential props must remain readable beneath the print texture.
+
+Preserve environmental elements only when they support the original story, spatial relationship, or composition. Simplify architecture, furniture, vehicles, plants, stairs, windows, trees, streets, water, fences, or sky into large graphic silhouettes, flat ink areas, and halftone fields. Remove incidental clutter, unrelated people, modern signage, tiny background details, brand marks, watermarks, interface elements, and distracting objects. Do not replace the original location with an unrelated setting.
+
+Preserve the original relative importance of objects. A background object must remain subordinate unless it is essential to the photograph’s story. Do not enlarge incidental scenery into a dominant decorative field. Do not introduce large color blocks that overpower the subject merely to create empty areas for typography.
+
+Design the transformed image as a complete vintage editorial cover or feature-page composition. Integrate a bold, content-aware English headline into genuine negative space without covering important faces, hands, bodies, gestures, or story-defining objects. Generate a concise headline of two to five words that reflects the visible mood or narrative of the source image. Use uppercase condensed sans-serif, heavy grotesque, slab serif, or another period-appropriate display typeface. The headline should look manually typeset and printed with the same distressed ink process as the illustration.
+
+Add two or three small supporting editorial elements selected from the following: a brief subtitle, a compact two- or three-line teaser, a fictional volume and issue number, a season label, a small price mark, a section label, or a short poetic caption. Generate the wording from the visible mood and story of the photograph. Keep all language concise, natural, correctly spelled, and stylistically appropriate.
+
+Use only fictional and generic publication metadata. Suitable examples include “VOL. 07,” “SPRING ISSUE,” “No. 042,” “25¢,” or “CITY STORIES.” Do not reproduce text, logos, publication names, product branding, signatures, watermarks, creator marks, or social-media handles from the source image.
+
+The generated typography must be readable and correctly spelled. Keep the headline to two to five words. Keep supporting copy extremely short. If reliable text rendering is not possible, reduce the number of editorial elements rather than filling the cover with malformed or meaningless writing. Never repeat the same headline unnecessarily.
+
+Allow the headline to occupy one strong region of existing negative space while smaller metadata sits near an edge or corner. Keep the primary subjects as the dominant visual focus. Use asymmetric editorial balance, geometric fields, circles, rectangles, starburst shapes, or rough ink blocks only when they complement the original composition and source-derived palette. Do not add decorative elements that obscure or change the source narrative.
+
+Do not automatically enlarge the headline to occupy most of the canvas. Match the title scale to the available negative space. The headline may be large when the source naturally provides a broad empty region, but it must remain secondary to the human or animal subject and must not force a major change in crop or composition.
+
+Prioritize the transformation in this order: preserve the exact number and type of subjects; preserve pose, interaction, gesture, expression, mouth state, camera angle, perspective, and crop; preserve recognizable identity cues, clothing, accessories, and essential props; derive the color hierarchy from the source image; preserve the dominance and relative area of the mapped colors; convert the image into a simplified limited-color editorial illustration; apply authentic halftone printing and aged-paper texture; create coherent source-responsive magazine typography; and remove irrelevant photographic detail.
+
+Avoid photorealism, smooth digital painting, polished vector art, modern comic rendering, anime, manga, chibi proportions, 3D rendering, cinematic CGI, watercolor, oil painting, pencil sketching, glossy gradients, neon colors, airbrushed skin, realistic pores, modern fashion-editorial retouching, excessive background detail, arbitrary scene replacement, fixed one-size-fits-all color schemes, automatic red headlines, excessive red or orange, color palettes unrelated to the source, altered subject count, changed pose, changed mouth state, invented limbs, malformed hands, duplicated objects, illegible text, misspelled headlines, real publication logos, signatures, social-media marks, and watermarks.
+
+The final result must look like an authentic rediscovered vintage magazine cover or editorial print: bold, tactile, imperfect, limited in color, strongly composed, narratively faithful to the uploaded photograph, and visibly produced through an old mechanical printing process. Its color hierarchy must clearly originate from the dominant and secondary colors of the uploaded photograph.
+
+Return exactly one finished transformed magazine-cover illustration.",prompt_013.webp,https://x.com/ai_suxiaole/status/2098745656412344344,"复古杂志, Midjourney, 封面海报",2026-09-16 07:18
+14,Hamburgerai,蛋黄堡,"制作一张完整、独立的3:4竖版上下对比旅行转绘海报。上半部分高保真保留输入的意大利旅行街拍，保持人物、服装、动作、建筑、街道、光线、色彩、透视和主体位置，不做插画化。下半部分把同一人物与同一街道重新绘制成“童趣蜡笔城市记忆”。
+
+只提炼原照片中真实可见且有识别意义的城市细节，例如窄巷透视、暖色墙面、窗户、路灯、石板路、节日灯饰、栏杆或游客手中的地图；根据每张照片自身内容选择，不套用固定山景、汽车或通用地标。
+
+保留主要人物的数量、相对位置、姿态、动作方向、服装轮廓及人与街道的关系。人物可以稚拙简化，但必须一眼对应原照片。
+
+下半使用米白粗纹纸上的儿童蜡笔、彩色铅笔与油性笔涂鸦：歪斜粗黑轮廓、明显蜡笔颗粒、反复涂抹、不均匀填色、偶尔越界、稚拙透视和天真比例，像小朋友凭旅行记忆认真画出的城市。颜色从原照片提取并提高童趣饱和度，但不同照片不要固定使用同一套配色。
+
+上下约各占一半，中间仅使用一条干净的细白横线。下半不能等比例描摹完整照片，需要缩小提炼或重新组织人物和最有意义的城市细节，并保留米白纸张呼吸感。
+
+下半必须是真正重新绘制，不是照片滤镜。不要发明额外地标、车辆、人物或动物。不要添加标题、字幕、标签、logo、水印、原图角标、AI角标、乱码、九宫格或多图拼贴；避免精致矢量插画、3D渲染和写实下半。",prompt_014.webp,https://x.com/Hamburgerai/status/2099501924278235384,"童趣蜡笔, 城市记忆, 上下双拼",2026-09-16 07:19
+15,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分只提取照片中最具识别性的**主体、轮廓、结构、姿态与叙事关系**，重构为**大面积负空间中的微缩文本景观**。不要复制完整场景，不要保留无关背景，而是将原图压缩为一个很小的视觉片段，只保留最能代表原始主题的关键符号与视觉记忆点，使人一眼识别它与上方照片之间的对应关系，同时明显感受到经过理解、删减与重构后的美学表达。
+
+下半部分采用**小尺度视觉锚点 + 超大量留白**的构图逻辑。主体整体仅占下半部分约 10–20%，像一处孤立悬浮的纸上微景观，被安放在大片安静留白之中。可偏心、贴边、悬置或局部裁切，根据主体自身方向、比例和视觉重心自由安排位置，通过删减、重组、尺度变化和负空间关系，把原图重新导演成一张更成立、更高级的作品。留白必须是画面的一部分，与主体共同形成呼吸感、空间感、停顿感与东方极简的节奏。
+
+视觉语言采用**微缩景观化 + 意象提取**。主体不是宏大建筑，而像一小块被压缩后的纸本场景切片，可借鉴古籍纸张、文字、竖向纸片、层叠纸面、小人物或少量结构元素的关系，但只保留最必要的信息，不做复杂环境铺陈。",prompt_015.webp,https://x.com/xiaoxiaodong01/status/2099385632305090994,"留白美学, 极简景观, 上下双拼",2026-09-16 07:24
+16,Hamburgerai,蛋黄堡,制作一张独立的3:4竖版上下对比转绘海报。上半完整保留输入的泰国旅行街拍真实照片，不裁掉主体、不改成插画、不改变原色。下半从同一张照片中提炼街道、建筑、摊位、树木、车辆和人物，将其重绘为米白纸张上的黑色与朱红双色高对比丝网印刷。使用粗颗粒油墨、干刷边缘、轻微套印错位、宽粗横线、水平拖影和速度条纹表现横向动势。保留人物或车辆的数量、姿态、服装、动作方向和关键轮廓；下半可以改变裁切、尺度和信息密度，但必须保持场景可识别。中间使用细白分隔线。不要添加文字、logo、水印、原图角标、AI角标或多图拼贴。,prompt_016.webp,https://x.com/Hamburgerai/status/2099459657484087595,"横向动势, 丝网印刷, 上下双拼",2026-09-16 07:24
+17,ai_suxiaole,苏乐,"Transform the attached image into a minimal navy-and-white hand-drawn die-cut sticker illustration.
+
+Treat the uploaded image as the sole source of content. First identify the primary subject or subjects. Support a single person, a single pet, two people, two pets, or one person with one pet. Preserve the exact number and type of primary subjects. Preserve their left-to-right order, relative scale, interaction, pose, gesture, head angle, gaze direction, expression category, clothing categories, worn accessories, and any object that is essential to the action or story. Preserve the source crop and viewpoint; if the source is a close-up, keep it a close-up. Never invent off-frame bodies, limbs, clothing, or scenery.
+
+Create a recognizable but deliberately simplified character interpretation, not a traced portrait. Preserve identity through a small set of distinctive cues: face shape, hairstyle and silhouette, key accessories, characteristic expression, posture, and relationship between subjects. Do not reproduce pores, wrinkles, individual eyelashes, realistic eye anatomy, or photographic skin detail. For adults, use mild cartoon simplification only: slightly enlarged heads, moderately shortened torsos, and simplified limbs while clearly remaining adult. Avoid baby proportions, swollen cheeks, toddler bodies, oversized heads, or extreme chibi anatomy.
+
+Use clean, friendly editorial doodle art with rounded, moderately thick, nearly uniform strokes and only slight hand-drawn variation. Outer contours may be slightly stronger than interior lines. Faces must be extremely economical: dot or short curved eyes, short brows, a one-stroke nose, and a simple mouth that retains the original expression. Render all outlines and dark fills in one deep navy blue, approximately #173B7A; never use pure black. Use white as the default fill. Convert clearly dark source areas such as dark hair or dark clothing into solid navy shapes, using only minimal white highlight cutouts when needed for readability. Keep human skin white and unshaded.
+
+The default palette is strictly deep navy, white, and a very pale neutral-gray shadow. Do not introduce a third color unless the source contains at least two separate, clearly purple or lavender accessories or travel props that are narratively important; only then may those corresponding items use one flat muted lavender accent. Otherwise use no lavender and no additional color.
+
+Remove the entire original environment. Remove architecture, landscape, ordinary furniture, floor texture, incidental objects, unrelated people, signage, interface marks, logos, captions, and watermarks. Place the simplified subject group alone on a clean, opaque white square canvas with generous margins. Wrap the complete group in one continuous wide white die-cut sticker border. Add a very subtle soft pale-gray shadow offset slightly down and right so the white border remains visible against the white canvas. No transparency.
+
+Keep the original grouping and emotional relationship. Compress only empty space; do not change the narrative. Use a balanced centered composition, but keep asymmetry when it comes from the source. Include only the body parts visible in the source and retain the source framing. The finished image should feel like one cohesive sticker, not multiple separate stickers.
+
+Avoid photorealism, line-art tracing, realistic portrait rendering, detailed anatomy, pencil or charcoal texture, watercolor, oil paint, anime or manga rendering, extreme chibi style, 3D rendering, gradients, glow, paper texture, grain, halftone, collage, complex lighting, detailed backgrounds, added props, altered subject count, duplicated limbs, malformed hands, text, captions, logos, signatures, and watermarks.
+
+Return exactly one finished square sticker illustration.",prompt_017.webp,https://x.com/ai_suxiaole/status/2098367415768019289,"手绘贴纸, 深蓝白底, 极简插画",2026-09-16 07:24
+18,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分先对原照片进行一次**智能审美筛选与视觉精简**：不追求保留最多信息，而是判断画面中最优美、最有气质、最具识别度和构图价值的场景、对象或关系，只保留一个核心主体及极少量必要陪衬。主动舍弃杂乱背景、普通环境、重复物件和无叙事价值的细节，让最终画面像从真实记忆中只留下最美的一幕。
+
+提取保留下来的**主体、轮廓、结构、姿态与叙事关系**，重构为诗意极简主义纸本拼贴插画，结合单版画、丝网印刷与 Risograph 式印刷肌理。不要完整描摹照片，而是将主体概括成纸片、色块和简洁几何形，通过剪切、撕贴、叠压和少量不规则形体重新组织，使人仍能一眼认出原物，同时获得比原照片更纯粹、更优雅的视觉关系。
+
+构图强调**大面积负空间、单一视觉重心、块面比例与疏密节奏**。主体可根据原图最优美的走势重新裁切、偏置、放大或缩小，不必忠实复制原始构图；只保留能够强化主体美感的空间、植物、器物或环境片段，其余全部留白。画面应像经过艺术指导后的“记忆摘录”，而不是照片的插画版。
+
+材质采用 mixed-media collage、cut-paper collage、monoprint、screen print 与 Risograph-inspired texture：色块扁平而有纸感，保留颗粒、漏印、干擦、墨色不均、轻微套色偏差、剪纸与撕纸的不规则边缘，以及刻意保留的手工误差。避免光滑矢量、写实光影、复杂肌理和数字滤镜感。
+
+配色从上方照片中提炼最有美感和记忆点的颜色关系重新组织，不平均取色。整体以柔和、通透、协调的有限色盘为主，通过主色、辅助色、点睛色与大面积纸白建立节奏，使颜色既与原图有关，又经过艺术化净化和重新调制，避免灰脏、杂乱、过度做旧和无意义的多色堆积。
+
+文字少量介入，不预设固定标题、地点、编号或语种。根据照片留下来的核心主题、情绪、动作或隐喻，自由生成少量真正有意义的字词、短句或微型注记，并利用留白、主体边缘和块面关系进行克制的图文混排，使文字像艺术出版物中的轻声注释，而不是信息栏目。
+
+整体呈现**诗意、极简、安静、朴拙、现代而有温度**的视觉气质。核心原则是：**只留下最值得被记住的画面，只画最有美感的部分，让删减本身成为设计。** 避免完整场景复刻、背景填满、多个并列主体、细节堆积、卡通化、商业插画感和模板化效果。",prompt_018.webp,https://x.com/xiaoxiaodong01/status/2098110986809200982,"纸本拼贴, 丝网印刷, 上下双拼",2026-09-16 07:24
+19,Hamburgerai,蛋黄堡,"请将上传的旅行照片制作成一张3:4竖版“滑稽圆钝毛毡旅行角色”对比海报。
+
+画面采用清晰的上下两段结构。上方约占45%，完整保留原始旅行照片并横向铺满：保持人物、姿势、服装、随身物件、地点环境、拍摄视角、透视、光线、色彩及空间关系，只允许轻微摄影调色。上方不得毛毡化，也不得替换场景。
+
+下方约占55%，在暖燕麦色毛毡纸背景上，把同一瞬间重构为真实手工针毡微缩场景。
+
+主角不要做成写实毛毡肖像，而要重新设计成滑稽、圆钝、略显笨拙的动漫毛毡角色：超大圆脑袋、两只醒目的椭圆大眼睛、小而鼓的圆鼻、简化嘴形、短粗身体、短胳膊、圆手、很短且略弯的腿、夸张的圆头鞋。表情略呆、亲切、有轻微喜感，但不要恶搞；不要机械复制真人五官和正常人体比例。
+
+角色仍须保留原图中可辨识的服装色彩、帽子或围巾、动作、朝向及旅行道具，使上下画面关系清楚。
+
+只从原图提炼2–4个最有地点识别度的环境元素，做成围绕角色的小型毛毡舞台，例如建筑立面、拱门、沙丘、栏杆、市场物件、热气球或其他主导线索。不要把整个场景逐项照搬。
+
+材质必须像真实手工作品：清晰羊毛纤维、针毡绒毛、缝合线、略不整齐的裁边、填充鼓度、叠层毛毡、微小布结和柔和桌面投影。整体应是可触摸的三维手工微缩，不是平面数码插画、钩针玩偶、塑料公仔、黏土模型或写实真人。
+
+下半部保留适量暖色留白。在右上附近加入一块带缝线边缘的长方形布标，只写三行：
+
+“【地点英文名】”
+“FELT JOURNEY 【编号】”
+“【与画面相关的简短英文地点描述】”
+
+地点标题使用粗窄、略有磨损的织物印刷字体，另外两行使用小号等宽字体。所有文字必须准确、清晰、可读，不得添加其他文字。
+
+上方照片与下方毛毡舞台之间保持干净利落的水平边界。毛毡角色要足够大，能立刻读出圆钝滑稽的性格，但不得挤压布标。整体具有成熟的旅行编辑设计、温暖的手工质感和克制的幽默。
+
+避免：写实毛毡肖像、正常人体比例、小眼睛、优雅时装娃娃、完整场景机械复刻、无关道具、重复人物、作者名、摄影师名、品牌、Logo、水印、网址、乱码和随机文字。",prompt_019.webp,https://x.com/Hamburgerai/status/2098065358926327899,"毛毡手作, 滑稽圆钝, 旅行微缩",2026-09-16 07:24
+20,hann7712,橘子多,"为上传照片生成一张3:4竖版高端插画海报，非拼贴
+
+画面上下严格1:1分割。上半部分保留原照片：主体、结构、真实质感、自然光影和原有氛围不变，仅做轻微艺术杂志感摄影调色，可自然延展背景但不变形主体
+
+下半部分将照片重构为笨拙可爱的韩式平面插画：保留主体轮廓、动作、物体关系和叙事布局，去除写实光影、透视和材质，用圆润几何形、纯色填充、粗糙抖动的手绘黑线表现，清晰可识别但不写实
+
+插画使用从照片提取的高饱和有限色彩，大面积明亮纯色背景和负空间，构图有明确视觉中心，辅以错位、遮挡、大小变化和轻微裁切，避免杂乱、渐变、阴影、灰浊混色和塑料感
+
+最后加入简短英文标题和少量英文注释，沿主体、色块或负空间自然排版，可轻微旋转和错位，使文字融入画面
+
+整体感觉：真实摄影、儿童绘本式平面插画、独立出版物海报、明亮、童真、友好、俏皮",prompt_020.webp,https://x.com/hann7712/status/2098063748795924953,"稚拙主义, 韩式插画, 双拼海报",2026-09-16 07:24
+21,Alina_with_Ai,Alina Ai,"Create a realistic two-panel editorial travel diary poster using the first image as the exact composition/reference and the second uploaded image as the facial reference.
+
+Replace the woman in the original poster with the woman from my reference photo. Preserve my facial identity and recognizable facial features accurately—face shape, eyes, eyebrows, nose, lips, skin tone, and natural proportions. Do not beautify, alter, or redesign my face.
+
+TOP PANEL
+
+Recreate the original street scene exactly:
+
+European-style narrow cobblestone street
+
+Historic cream-colored buildings
+
+Café signs, windows, balconies, street lamps and bollards
+
+Same camera angle, framing, perspective and composition
+
+Same seated/leaning pose and body position
+
+Same black textured sweater/coat
+
+Natural long dark hair
+
+Soft cinematic daylight
+
+Photorealistic skin texture and realistic lighting
+
+Integrate my face naturally with the original pose, head angle and lighting
+
+BOTTOM PANEL
+
+Create the matching hand-drawn/printed illustration version of the same scene.
+
+Keep the same pose, clothing, hairstyle and facial identity
+
+Convert the photograph into a textured vintage editorial illustration
+
+Blue, cream and muted warm-orange ink palette
+
+Visible paper grain and imperfect ink texture
+
+Keep my facial features recognizable while matching the illustrated style
+
+Preserve the street, buildings, plants, cars and perspective from the original
+
+TYPOGRAPHY & LAYOUT
+
+Keep the original poster layout and typography style:
+
+Large handwritten title: “By the Street”
+
+Small English diary text
+
+Chinese text in the upper-left
+
+Date: 2026.08.29
+
+Small diary number/details
+
+Right-side phrase: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Most important: My face should be the only facial identity used. Do not copy the original woman's face. Keep the overall poster composition, pose, clothing, background and artistic style as close to the reference as possible. High-quality, natural, seamless face integration, photorealistic top panel and authentic printed illustration bottom panel.",prompt_021.webp,https://x.com/Alina_with_Ai/status/2097628670143954978,"旅行日记, 双拼海报, 人物换脸",2026-09-16 07:24
+22,hann7712,橘子多,"请创作一张 3:4 竖版「摄影 × 刺绣图鉴」艺术海报。
+
+整体画面上下分区，但视觉风格必须统一、自然、克制、高级。
+
+【上半部分｜真实摄影】
+
+上半部分约占画面的 48%–50%。
+
+呈现一张高度真实、自然的生活方式摄影或旅行摄影照片。
+
+主题主体为：
+[填写主体，例如：海边的一把白色椅子 / 一杯咖啡 / 一只海鸥 / 一盏旧灯 / 一盆橄榄树]
+
+画面要求：
+主体明确，构图简单，不要堆积过多物体。
+尽量一个主要主体，最多搭配 1–2 个辅助元素。
+场景安静、自然、有呼吸感。
+使用柔和自然光、清晨光线或金色夕阳。
+真实材质，真实阴影，真实摄影质感。
+背景适度虚化，保留空间层次。
+色彩低饱和、温暖、自然、高级。
+具有 Mediterranean slow living、欧洲旅行摄影、quiet luxury、editorial photography 的气质。
+
+不要复杂场景。
+不要过度电影化。
+不要强烈 HDR。
+不要夸张光效。
+不要明显 AI 感。
+
+【下半部分｜刺绣转译】
+
+下半部分约占画面的 50%–52%。
+
+背景改为高质感天然亚麻布、棉麻布或织物底布。
+
+将上半部分照片中的主要主体重新转译成一幅精致的手工刺绣作品。
+
+必须保持：
+相同主体，
+相似姿态，
+相似轮廓，
+相似比例，
+相似主要颜色。
+
+刺绣使用真实线材质感表现：
+long and short stitch,
+satin stitch,
+stem stitch,
+thread embroidery,
+hand stitched textile illustration.
+
+线材必须具有真实纤维感、轻微立体感和手工温度。
+针脚方向跟随物体结构。
+不要变成毛毡。
+不要变成布料拼贴。
+不要变成针织。
+不要变成厚重毛线。
+不要满画面密集针脚。
+
+刺绣主体居中，四周保留大量留白。
+整体像一本复古旅行图鉴、自然图鉴或博物馆收藏卡。
+
+【文字排版】
+
+刺绣主体下方加入极简英文排版：
+
+主标题：
+[填写英文标题]
+
+第二行：
+PATCH NO. [编号]
+
+第三行：
+[填写一句简短英文描述]
+
+文字采用复古 Serif 字体或轻微手工刺绣字体。
+排版居中。
+字体克制、精致，不要过大。
+文字像绣在线布上，而不是电脑直接贴上去。
+
+【整体风格关键词】
+
+Photography × Embroidery
+Embroidered Patch Illustration
+Vintage Natural History Plate
+Editorial Poster Design
+Slow Living
+Quiet Luxury
+Mediterranean Lifestyle
+Handcrafted Textile Art
+Museum Archive Card
+Warm Natural Light
+Minimal Composition
+Premium Lifestyle Photography
+Refined Textile Texture
+Soft Vintage Color Palette
+
+整体要求：
+简洁、高级、安静、有收藏感。
+真实摄影与刺绣之间形成明显但自然的视觉转换。
+画面不要拥挤。
+不要卡通。
+不要可爱化。
+不要商业广告感。
+不要水印。
+不要 Logo。
+不要平台标识。
+超高清，高细节，真实摄影质感，精细刺绣纹理。",prompt_022.webp,https://x.com/hann7712/status/2097639117828075975,"复古刺绣, 图鉴海报, 上下双拼",2026-09-16 07:24
+23,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为精致的极简等距视角插画，如一件陈列在纸面上的微缩立体模型或建筑沙盘。不要机械复刻照片细节，而是以概括体块、清晰边缘、简洁层级和微型场景关系重新表达主体，使其保留一眼可辨的身份特征，同时具有安静、克制、诗意的编辑插画气质。
+
+整体采用**等距视角、微缩景观、纸面模型感**的构图逻辑：主体像被切割并安放在一小块纸面或微型基座上，周围保留大面积留白，通过体量对比、边缘裁切、轻微投影和少量微小细节建立尺度感与孤独感。可加入极少量辅助元素承托主体，但不得形成第二视觉中心。
+
+配色完全从上方原始照片中提取，优先保留最具辨识度、最有气质和最能代表主体的颜色，再将复杂色彩**归纳、提纯、柔化并统一为有限色盘**。保留原图的冷暖关系与色彩性格，但降低杂色和视觉噪声，使颜色更平静、克制、柔和、有纸上编辑插画感；通过同色深浅、邻近色关系和少量色差区分体块，不凭空加入与原图无关的固定色系。使用精细墨线、扁平色面、轻微阴影和纸张颗粒表现结构与层次。
+
+文字作为构图的一部分巧妙介入，从照片的主题、地点、动作、状态或情绪中提炼一个简短英文标题，并搭配极少量编号、短句或微型注释。文字保持细瘦、克制、现代编辑感，可沿留白边缘、主体基座、水平轴线或等距结构排列，与图形共同形成安静而精致的版式节奏。
+
+整体参考**极简等距插画、微缩立体模型、纸上景观和高级编辑设计**，呈现安静、诗意、克制、精致、具有收藏感的视觉气质。避免卡通感、高饱和撞色、与原图无关的固定配色、塑料3D感、复杂场景堆积、电商感和模板感。",prompt_023.webp,https://x.com/xiaoxiaodong01/status/2090447110168822128,"立体模型, 微缩景观, 上下双拼",2026-09-16 07:27
+24,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为中国印压浮雕 / 纸雕凹凸质感的极简艺术海报。整体像压印在厚重乳白色纸张上，以浅浮雕、细腻阴影、极简线刻和克制层次重新概括主体，不机械复刻细节，而是保留最核心的结构特征与空间关系，使人一眼能够识别与上方为同一对象。根据主体类型，可将其转化为俯瞰、正视、微俯视或轴线延展的浅浮雕构图，并适度保留与主体相关的环境轮廓，使画面具有清晰主次、纵深秩序与博物馆展陈般的宁静感。
+
+整体以下半部分大面积乳白、暖白或浅纸色留白为基底，主体及相关元素统一以同色系浅浮雕呈现，通过压印高低差、边缘投影和细微明暗建立层次；可仅在主体最关键的局部结构或视觉焦点处加入少量哑金色细节与柔和暖白光感，用来强化核心识别点，避免颜色杂乱、过度装饰和堆砌场景。
+
+文字需转化为画面结构的一部分，而不是普通标题说明。从照片的主体身份、地点属性、主题气质、动作状态或象征意义中提炼简短文字，可使用**标题 + 关键词 + 少量编号、地点或微型注释 / 哲理金句**。文字采用克制的金色或深灰色衬线 / 高级编辑字体，可置于中央轴线、主体下方、留白边缘或与浮雕结构对齐，使其与压印主体共同形成秩序感与展览海报气质，而非后期贴上的信息层。
+
+整体风格追求**高级、宁静、极简、克制、东方美学、博物馆海报感与纸张雕塑感**。无论原图是建筑、人物、动物、植物、器物、交通工具或自然景观，下半部分都应保持真实摄影与压印浮雕重构之间清晰而优雅的视觉呼应。避免文字乱码、低清晰度、主体畸形、颜色杂乱、构图拥挤、廉价3D感和模板感。",prompt_024.webp,https://x.com/xiaoxiaodong01/status/2090444626285261046,"浮雕纸雕, 印压微金, 上下双拼",2026-09-16 07:28
+25,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有杂志摄影和艺术展览质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为极简抽象的几何视觉表达。使用简洁几何形状、扁平色块、细线条、结构线与留白重新概括主体，不做写实插画，不堆砌复杂细节，但必须保留清晰特征，使人能够一眼识别原物。可根据原图关系加入少量水平线、轮廓线、空间分割线或抽象环境元素，让画面在克制中保有秩序与呼吸感。
+
+构图强调**平衡、节奏与人文气质**。以下半部分主体为唯一视觉核心，整体偏居中但不僵硬对称，通过比例控制、正负形关系、疏密变化、轻微层次错动和大面积留白建立安静而专业的版面秩序。画面应简洁、稳定、克制，同时带有一点温和的空间起伏与浅浅的浮雕感，让几何形体仿佛轻微压印或微微隆起于纸面之上，形成细腻、含蓄的立体层次，而不是明显3D效果。
+
+配色从上方照片中提取，但不机械照搬，而是转化为更具**人文主义气质**的柔和色组。以米白、暖白、浅灰、沙色、灰粉、浅赭、雾蓝、鼠尾草绿等低刺激、温润、克制的颜色为基调，从原图中保留最有气质的主色与辅助色，通过有限色盘形成和谐、安静、耐看的关系。整体色彩应温和、清透、富有文化感与生活感，避免廉价高饱和、脏灰失真、冰冷科技感和普通商业配色。
+
+文字保持少量且高级，不只是地点名，而应从照片的**主题、身份、情绪、动作、时间或隐喻**中提炼简洁英文标题，并搭配少量编号、状态词或微型注释。文字可沿主体轮廓、结构线、留白边缘或画面轴线自然排布，以克制的高级编辑方式与图形共同构图，形成低调但有设计感的版式关系。
+
+整体参考国际设计工作室、建筑海报、艺术展览海报与高级品牌视觉系统，呈现**高级、现代、安静、人文、艺术化、克制而温柔**的视觉气质。避免普通滤镜、廉价矢量感、过强3D、卡通感、电商感和模板感。",prompt_025.webp,https://x.com/xiaoxiaodong01/status/2090433161096581434,"极简几何, 人文浮雕, 上下双拼",2026-09-16 07:28
+26,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为极简的格式塔正负形丝网版画。保留主体最具有辨识度的外轮廓，同时从原图中提炼一个与其关系最紧密的环境、结构、物件或象征性意象，让二者通过**轮廓咬合、负形镂空、边界共用和图底反转**融为一个完整图形：远看首先识别主体，近看才发现另一层场景或意象隐藏其中。不要把两个对象简单叠放，而要让一个形状的边缘自然成为另一个形状的边界。
+
+构图保持**单一视觉锚点、清晰剪影和大面积留白**，根据主体自身姿态、朝向、重心和轮廓走势决定位置，可采用偏心、局部裁切、上下嵌套或边缘对齐，使正形与负形之间形成巧妙视觉转换。辅助元素必须极少，让视觉趣味主要来自“看见什么”与“再次看见什么”的瞬间切换，而不是复杂装饰。
+
+配色采用治愈、柔和而高级的**莫兰迪粉彩体系**，参考梦境般建筑空间中的低饱和配色逻辑：雾粉、柔杏、灰绿、鼠尾草、淡陶土、奶油黄、雾蓝、灰紫等相互协调，以浅色纸面为底，从原照片中选择最有精神的色彩关系进行柔化与重组。整体控制在2–4种颜色，通过综合色温、明度差和面积比例建立层次，颜色干净、柔和、有空气感，避免脏灰、沉重做旧、荧光色和高反差商业配色。
+
+保留轻微纸张纤维、丝网印刷颗粒、油墨覆盖与套色偏差，使图形具有真实版画触感，但保持边缘清晰、色块平整，不使用渐变、3D体积、写实阴影或光滑CG质感。
+
+文字同样参与正负形构图。从照片的**身份、地点、动作、情绪、状态或象征意义**中提炼一个简短英文标题，并搭配极少量地点、编号、状态词或微型注释。文字可沿主体轮廓、负形边界、水平基线或留白轴线排布，也可局部嵌入图形、被轮廓切断或与色块形成遮挡，使文字像版画结构的一部分，而不是后期贴上的标题。整体保持细小、克制、聪明而具有高级编辑感。
+
+整体呈现**极简几何、格式塔错视、柔和莫兰迪色、丝网版画与诗意叙事**结合的视觉气质。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持“一眼识别主体，第二眼发现隐藏意象”的双重阅读体验，避免多个并列焦点、直接拼贴、复杂插画、卡通感、商业宣传感和模板感。
+
+文字偏好：english",prompt_026.webp,https://x.com/xiaoxiaodong01/status/2090423630320779424,"格式塔正负形, 莫兰迪色, 丝网版画",2026-09-16 07:28
+27,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有高端品牌广告、艺术杂志与展览视觉的精致质感。为适配画幅，可自然扩展天空、地面或环境背景，主体本身保持不变。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为具有高级商业审美的极简视觉海报。核心语言是 **“真实物象穿越几何情绪窗口”**：在画面中设置一个窄长、克制、低饱和的几何色块，作为视觉锚点与空间容器。**色块方向不固定，可为横向、竖向或斜向**，根据主体的重心、动作方向、轮廓走势与版面节奏自然决定。主体以真实摄影感或精致写实方式进入色块之中，并局部越界、破框、伸出或穿过边界，形成自然生长感、空间穿透感与留白呼吸感。
+
+构图保持极简、清晰、平衡，以几何色块、主体越界关系和大面积留白建立秩序。主体可居中、偏心、纵向生长或横向舒展，但始终保持单一焦点。背景以白色、浅灰或极浅暖色为主，可加入极轻微的文化纹样、线性图形、地形线、水波线、光影轮廓或抽象符号，作为若隐若现的辅助层次。
+
+配色从上方照片中提取最有辨识度、最有精气神的颜色关系，转化为**浅色几何窗口 + 真实主体色彩 + 极少量中性色排版**的高级系统。色块颜色可柔化为雾蓝、浅青、米白、淡粉、暖灰、浅金或其他与原图气质一致的浅色调，整体轻盈、干净、现代、精致。
+
+文字作为版式结构的一部分自然介入。可从照片的主题、情绪、动作、状态或象征意义中提炼一个简短英文标题，并搭配少量副标题、地点、状态词或微型注释。标题可横排、竖排或沿色块与主体关系排布，辅助信息以小字号、细字重、舒展字距规整排列，使其呈现高端地产、奢侈品、美学杂志或节气视觉般的高级编辑感。
+
+整体气质强调**东方留白、现代秩序、自然生命力与高级商业美感**。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应保持真实摄影与几何情绪窗口之间清晰、优雅、可迁移的视觉呼应。",prompt_027.webp,https://x.com/xiaoxiaodong01/status/2090415726813393008,"几何窗口, 穿透破框, 上下双拼",2026-09-16 07:28
+28,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为极简黑白手绘编辑插画。以一个横向或纵向的纯黑矩形色域作为主要视觉场，让主体大部分存在于矩形内部，同时选择最具识别度的头部、顶部轮廓、枝叶、屋顶、肢体、器物边缘或其他关键结构自然突破矩形边界，形成明确的“越界”关系。主体不是贴在黑色矩形上，而像从黑色空间中探出、穿过或生长出来，使矩形既是背景，也是构图的一部分。
+
+主体仅保留最必要的外轮廓、姿态和关键结构，以黑色流畅手绘线 + 白色负形 + 少量灰色块面表现。线条应简洁、顺滑、稳定，有自然手绘弹性和节奏感，允许轻微手工感，但不要过度抖动、重复描边、毛躁噪点或刻意稚拙化；整体更接近干净利落的插画师线稿，而不是粗糙随意的涂鸦。内部细节保持极简，只用少量结构线、表情线和局部阴影建立辨识度。
+
+整体以黑、白、灰为主，但允许在必要时加入一个核心局部的强调彩色，作为点睛之笔。这个彩色只能落在最关键、最有叙事性或最有记忆点的局部，例如主体的某个部位、一个小物件、一块关键表面、一个动作焦点或一个情绪信号。强调色面积必须很小、位置精准、作用明确，像画面中唯一被点亮的部分，用来提升记忆点和情绪张力，而不是打破整体黑白秩序。颜色应从原图中提取最有代表性的单一亮点色，并适度提纯。
+
+构图强调黑色矩形的几何秩序与主体自由轮廓之间的冲突。矩形承担稳定、沉重的视觉基座，主体以不对称位置、局部裁切和越界制造活力；大面积白色纸面留白包围黑色区域，使黑、白、灰形成强烈而克制的面积关系。辅助结构可以转化为极少量直线、斜面、平台、边缘或几何切片，但不得形成第二主体。
+
+文字建立轻巧的黑白编辑式微排版系统，从照片的动作、情绪、状态或隐喻中提炼一个简短英文标题，并搭配1–3组极小注释、编号、状态词或短句。文字可贴近黑色矩形边缘、藏在负形中、顺着越界方向排列，或与主体轮廓形成对齐和错位；使用黑色手写字、细瘦无衬线或克制衬线字体，保持小尺度，让文字像插画师留下的签注和编辑标记，而不是商业标题。
+
+整体呈现纯白纸面 × 黑色几何色域 × 流畅手绘线条 × 主体越界 × 单点彩色强调的视觉气质，克制、聪明、轻巧、幽默、现代且具有艺术出版感。避免彩色卡通、复杂场景、光滑矢量描边、写实明暗、3D质感、纯黑剪影、粗糙乱线和模板式居中构图。",prompt_028.webp,https://x.com/xiaoxiaodong01/status/2090277026066546845,"越界构图, 黑白插画, 单点彩色",2026-09-16 07:31
+29,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜选择性记忆贴纸重构
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“选择性记忆贴纸重构”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，以“选择性记忆”而非描述性写实的方式重构。不要完整描摹照片，只保留最值得记住的视觉线索，将复杂场景压缩成3–6个大的形体块面，以哑光水粉、剪纸拼贴、孔版印刷（Risograph）与丝网印刷式平涂重新组织，使主体仍能一眼识别，同时具有鲜明的现代平面构成与手工质感。
+
+本层画面采用主视觉 + 六枚记忆贴纸的构图逻辑。主视觉承担主要叙事与视觉重心；另外从原照片中挑选六个具有记忆价值的局部——可以是主体特征、动作、局部结构、植物、器物、交通方式、食物、纹样、材质、光影或某个偶然细节——分别提炼为六枚独立贴纸。贴纸使用厚实的浅色切边，以不同尺度自然平铺、错落分布，可形成松散的两排、边缘聚集或围绕主视觉的非对称关系，保持足够留白，不做整齐商品目录式排列。六枚贴纸之间应有明显主次与大小变化，像从同一段记忆中剪下来的碎片，而不是六个同等重要的图标。
+
+构图重视视觉重心、块面比例、尺度反差、正负形、前后遮挡与留白节奏。主视觉应明显大于贴纸碎片，贴纸可局部越界、轻微旋转、相互错开或与主体形成呼应，但不能抢夺主焦点。复杂环境主动删减，让大面积安静底色成为呼吸场，使整体既有平面秩序，又带轻松自然的收藏册感。
+
+材质使用不透明水粉、剪纸、孔版印刷（Risograph）或丝网印刷式色块，保留轻微粉质边缘、纸张颗粒、手工切边与套印偏差。贴纸与主视觉使用同一种材质语言，避免水彩晕染、复杂笔触、密集线稿、写实纹理、光滑矢量和三维塑料质感。
+
+配色以柔和、通透、略微去饱和的高级色系为基础，可从原图中提炼综合色温进行调整，但整体保持轻盈统一。以浅粉蓝、雾蓝、天空蓝、空气感冷调蓝营造主氛围，再以象牙白、奶油白、浅米色、柔和灰绿、建筑中性色保持平衡；仅允许少量灰调玫瑰粉或低饱和腮红粉作为微小点缀，用于花、服饰、小标识、遮阳篷或局部装饰，使画面既有呼吸感又不失精致层次。
+
+文字不预设固定标题、编号、地点或语种。根据照片的主体、动作、环境、情绪、声音、记忆或文化语境，自由生成极少量真正有意义的文字，并让其自然进入留白、贴纸间隙或主视觉边缘，与图形形成编辑排版关系。文字应小、轻、克制，不做菜单式信息栏，也不把每枚贴纸逐一标注。
+
+整体像一本独立出版的视觉旅行手册、私人记忆册与高级贴纸艺术页：安静、现代、敏锐、松弛，既有专业平面秩序，又保留剪贴、收藏和手工材料的温度。避免贴纸商品目录感、六宫格、等尺寸排列、完整写实风景、密集细节、商业明信片模板、卡通、动漫和电商素材感。
+
+第三层｜水彩旅行票根明信片
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“水彩旅行票根明信片”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，将原场景重新概括为一张融合明信片与票据形式的横向水彩票根。不是孤立画一个物体，而是保留主体与必要环境之间最有记忆点的关系，以简洁水彩笔触重新组织，让画面既能一眼对应上传的原图，又像一张被精心收藏的旅行速写票据。
+
+票体居中悬置于大面积象牙白留白中，采用严格的左大右小几何分区：左侧约74%为水彩画面，右侧约26%为信息票根，中间以竖向虚线、齿孔或撕票线精准分隔；上下边距统一，图像、文字、邮戳、编号均服从同一隐性网格与对齐线，形成规整、安静、专业的编辑秩序。卡纸为厚实哑光水彩纸，边缘细密锯齿，带极轻微自然投影。
+
+左侧水彩以高明度、低至中等饱和度的治愈系色盘重新调和原图颜色，不直接复制脏灰色值。优先保留原图中最清新、最有生命力的色彩，再统一转译为柔和的鼠尾草绿、雾蓝、浅青灰、奶油黄、暖沙色、淡陶土色等自然综合色系；以2–4个相近色建立空气感，仅用极少量温暖对比色点亮主体。整体明亮、干净、通透、柔和，避免灰蒙、发黄、重褐、浓艳撞色和廉价复古滤镜。
+
+水彩笔触清晰而轻薄，保留纸张透白、柔和晕染、干湿变化与少量颗粒，主体稍清晰，远景与次要环境自然减弱，不做写实光影和复杂细节，使画面具有安静、松弛、温柔的绘本与旅行手账感。
+
+右侧票根采用克制的几何信息排版系统，根据照片内容灵活生成 DATE、PLACE、SUBJECT、MOMENT、FIELD、NO. 等少量字段，并搭配日期、编号、短线、点列、坐标式数字和一枚圆形印章。所有文字严格沿统一左边线、基线和间距排列，字号层级清晰，留白充足；邮戳可与分割线或底部网格轻微交叠，让信息元素与票体结构形成巧妙关系，而不是随意散落。若不是城市或旅行题材，地点字段可自然转化为对象名、状态、项目、章节、季节或情绪记录。
+
+整体参考高级旅行明信片、复古票据、艺术家手账、水彩出版物与现代编辑设计，强调治愈色彩、几何秩序、纸张质感和收藏感，呈现清新、温柔、安静、规整、精致而不过度设计的视觉气质。避免脏旧色调、松散排版、信息漂浮、复杂装饰、写实插画、电商模板感和廉价复古效果。
+
+第四层｜流金珐琅旅行冰箱贴
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“流金珐琅旅行冰箱贴”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为一枚精致的流金珐琅旅行冰箱贴 / 金属徽章。不要机械复刻全部细节，而是提炼最有记忆点的外轮廓、结构与局部特征，以简洁几何分区和珐琅色块重新塑造，让人一眼能够认出与原图为同一主体，同时具有真实纪念徽章的设计感。
+
+主体采用真实珐琅填色 + 金属分隔线 + 清晰白色金属外描边，边缘具有适度厚度、圆润倒角和细腻金属反光；内部可加入少量流金般的金属线条或局部金属细节，用于强调结构与层次。珐琅表面光洁、饱满但不过度塑料化，保留轻微高光、材质起伏与真实工艺感。徽章下方产生柔和而短促的立体投影，使其像真正放置在纸面上的实体冰箱贴，而不是扁平插画或数字贴纸。
+
+配色从上传的原图中提取最具辨识度、最有生命力的颜色，转化为干净、鲜明、协调的珐琅色组，通过主色、邻近色与少量对比色区分不同结构区域。背景保持米白、浅灰、柔和粉彩或从原图延伸出的纯净浅色，大面积留白，让金属与珐琅成为唯一视觉焦点。
+
+构图根据主体自身的轮廓走势、视觉重心和动作方向重新设计，徽章可适度偏心、倾斜或局部延展，但整体保持稳定、精致和有收藏感。避免复杂场景，把原照片压缩成一个具有明确轮廓和完整视觉识别度的纪念物。
+
+文字作为徽章造型的一部分巧妙融入，而不是单独贴在背景上。从照片的地点、主体名称、主题或旅行情绪中提炼极短英文标题，可沿徽章边缘弧形排列、嵌入金属框架、穿插于主体负形或作为珐琅铭牌存在；文字同样具有金属或珐琅实体质感，与主体共享同一套结构语言，保持少量、精致、清晰。
+
+整体呈现原始影像 × 流金珐琅 × 白色金属描边 × 立体徽章 × 高级旅行纪念品的视觉气质，清爽、明亮、精致、有收藏感。无论主体是建筑、人物、动物、植物、器物、交通工具、食物或自然景观，都应保持高度可识别和良好迁移性。避免卡通贴纸、塑料三维、廉价金边、厚重阴影、复杂装饰、电商商品图和模板感。",prompt_029.webp,https://x.com/zhidawang219555/status/2092165086165246217,"四等分演化, 记忆贴纸, 水彩票根, 流金珐琅",2026-09-16 07:31
+30,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜韩式稚拙扁平插画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“韩式稚拙扁平插画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为轻松、稚拙的韩式扁平编辑插画。保留原图的大致布局、物体关系和核心动作，但去除写实光影、透视和材质细节，将主体概括成圆润、简单、略带夸张的几何形状，以粗糙抖动、局部断开的黑色手绘轮廓搭配纯色平涂，让画面保持一眼可辨又不过度写实。
+
+构图保持一个明确视觉中心，其余物体作为陪衬，通过大小差、错位、遮挡、轻微裁切和不完全对称建立轻快节奏。背景使用大面积明亮纯色与留白承托主体，可保留左右或局部完整色块作为呼吸空间，不堆积复杂场景，让画面像经过精心设计的儿童绘本或独立编辑插画，而不是照片卡通化。
+
+配色从上传的原图中提取最有生命力和辨识度的颜色，再转化为高明度、高纯度、数量有限的扁平色块；可使用亮蓝、红、黄、绿、白等具有童趣张力的色彩关系，但不机械套用固定色卡。背景与主体形成鲜明面积对比，避免渐变、阴影、灰脏色、复杂混色和塑料感。
+
+文字同样采用稚拙而有设计感的编辑逻辑。从照片的主体、动作、情绪或故事中提炼一个简短英文标题，并搭配少量极小短句、对象词、地点词、编号或俏皮注释。主标题可使用略带手写感、粗细不均或轻微歪斜的字体，小字则保持清晰克制；文字可以沿主体轮廓、色块边缘、留白区域或画面轴线排列，也可出现轻微旋转、错位、拆分和穿插，使文字像插画本身的一部分，而不是后期贴上的排版。
+
+整体呈现原始影像 × 稚拙扁平插画 × 轻松编辑设计的视觉气质，明快、童趣、亲切、俏皮、松弛又有设计感。无论主体是人物、动物、植物、建筑、器物、交通工具、食物或自然场景，都应保持原图身份与插画重构之间清晰的视觉呼应，避免廉价卡通、复杂描绘、三维质感、商业贴纸感和模板化儿童插画。
+
+第三层｜童话版画绘本
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“童话版画绘本”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为童话版画式手绘图像。不要机械描摹细节，而是将主体压缩为一两个清楚的大体块，以钝拙剪影、略微夸张的比例和少量关键边缘，保留原始对象的身份、动作、功能与情绪。画面从原图内容中提炼出一个大面积低明度或高反差的结构场，作为包裹主体的容器、路径、框架或密度层；背景像故事发生的外壳一样从原图空间与意义中生长出来，形成遮挡、裁切、吞没与局部露出的结构叙事。整体采用平面叙事透视和绘本页面式层级，可使用俯视压缩、侧向移动、正面框架、路径引导、尺度跳跃或边缘裁切组织阅读。
+
+配色从上传的原图提取，并保持明确的三层关系：大面积暗结构色负责重量与边界，适量浅色或留白负责呼吸，小面积高饱和情绪色负责读图路线与故事信号。最重要的信息仅以少量鲜明色块集中在面部、姿态、路径、器物功能点、环境标识或叙事焦点上，并始终被深色结构或浅色负形压住，让画面鲜艳但不平均。色相可随主题情绪调整，但面积比例与明度秩序保持稳定。
+
+线条只在功能、路径、边界、纹理和识别处出现，保持稀疏、手绘、略不准的细线。所有色块保持平面化处理，同时保留干刷、颗粒、飞白、纸纹、喷点和轻微套印错位，呈现丝网印刷与粉蜡笔共同完成的手工质感，避免写实光影、复杂体积、光滑矢量边缘、三维渲染和塑料质感。
+
+整体构图简洁、低细节、高识别，暗场包裹亮色信号，兼具可爱叙事与厚重版画感。若画面包含文字，可将文字处理为小标识、物体面板或边缘注释，数量精简，服从图形结构；字形圆钝，粗细略不均，密度低，带有自然手写感，使其像画面的一部分而不是后期贴上去的说明。整体参考童话绘本、手工版画、编辑插画与艺术出版物气质，呈现统一、鲜明、可迁移的作者化视觉语言。
+
+第四层｜乐高积木艺术重构
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“乐高积木艺术重构”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，先理解其核心身份、动作特征与寓意，再重构为乐高 / 《我的世界》（Minecraft）式的像素积木视觉。不要简单卡通化，而是通过体素、积木、模块化几何和拼搭逻辑重新概括主体，使人物、动物、植物、建筑、器物、交通工具或自然景观都保留一眼可辨的核心特征，不强行拟人化。
+
+主体作为唯一视觉核心，通过方块化比例、清晰剪影、模块层级和局部夸张建立辨识度。背景保持极简、安静、低信息量，不还原完整环境，不铺设复杂地块和无关道具，以大面积纯色或极轻微色阶变化作为空间，只保留极少量底座、块面或阴影承托主体，形成“鲜明主体、大面积留白、环境退后”的高级玩具陈列感。
+
+配色从上传的原图中提取最具辨识度和精气神的颜色，再转化为高纯度、高饱和、明艳清晰的积木色组。颜色应像真实注塑积木一样饱满、干净、直接，强调鲜红、亮黄、纯蓝、鲜绿、橙色、紫色等清晰色相之间的块面关系，同时保留原图自身的综合色彩身份。主体颜色可以比原图更纯、更亮、更有能量，但不要荧光、霓虹或糖果渐变；避免莫兰迪色、灰蒙色、粉彩化和刻意降低饱和度。背景应明显更浅、更单纯，让高饱和积木主体成为绝对焦点。
+
+材质强调真实哑光ABS积木材质与体素拼搭感，表面平整而略带柔和塑料反光，模块之间保留清晰拼接缝隙、层级和自然接触阴影。光线柔和而清晰，让颜色保持鲜艳通透，同时表现积木厚度和立体结构，避免金属感、玻璃感、过度电脑渲染反光和廉价游戏截图质感。
+
+文字作为辅助设计元素，从照片的主体身份、动作、情绪或寓意中提炼一个简短英文标题，并搭配极少量标签词或微型注释。文字可使用模块化、像素化或积木说明书式的排版语言，与主体轮廓、底座和留白形成对齐或巧妙穿插，但始终保持克制，不抢主体。
+
+整体呈现原始影像 × 明艳积木重构的视觉关系：原图是真实世界，本层画面像将同一主题重新搭建成一件精致的积木艺术品。画面应鲜活、清爽、可爱而不幼稚，具有高级玩具品牌、设计收藏品和现代编辑海报的视觉气质，避免低饱和、灰脏色、复杂《我的世界》（Minecraft）场景、满地积木、儿童游戏界面和电商玩具展示感。",prompt_030.webp,https://x.com/zhidawang219555/status/2092062124730384570,"四等分演化, 韩式稚拙, 童话版画, 乐高积木",2026-09-16 07:31
+31,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜真实主体与涂鸦小人微叙事
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“真实主体与涂鸦小人微叙事”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+请先理解原图真正的视觉核心与寓意：判断画面最重要的不是“有什么”，而是“什么最值得被记住”——可能是一个主体、一种动作、一组关系、一处反差、一个情绪瞬间或某种象征意味。再从中提取最具识别性的主体、轮廓、姿态、空间关系与叙事线索，重构为“真实主体 + 黑线涂鸦小人”的趣味编辑海报。不要机械截取原图最大物体，而要保留最能代表照片精神和故事性的视觉锚点，使本层画面既能一眼对应原图，又像对原图进行了一次聪明的二次解读。
+
+真实主体保持材质与身份特征，可适度优化角度、比例、光线和色彩，使核心特征更鲜明；原图中与寓意无关的信息可以舍弃，但支撑主题的关键关系必须保留。围绕主体加入少量极简黑线涂鸦小人，小人的动作、位置和互动方式完全根据原图的形态、语境与潜在寓意自然生成，让他们像在回应、放大或反转照片原本的故事，而不是随意做动作。
+
+配色从上传的原图中提取最有辨识度和精气神的颜色，可适度提纯、提亮和重新组织。背景以米白、浅色或原图中最舒适的浅色为主，保持大量留白；真实主体承担主要色彩，小人与文字以黑色或深灰细线形成对比，整体干净、轻快、克制。
+
+文字同样从原图的核心寓意、情绪和视觉关系中自然生长，不直接说明物体名称，也不套固定文案。将照片最值得被记住的那层意思转化成极短、轻松、聪明、略带幽默或双关的手写文字，让它像小人留下的注释、念头或一句画外音。文字可沿主体轮廓、人物动作或留白节奏自由排布，与小人和主体共同完成叙事，而不是后期贴上的标题。
+
+整体保持真实主体、核心寓意、微型叙事、稚拙线条和大量留白之间的平衡。无论原图是人物、动物、植物、食物、建筑、器物、交通工具或自然场景，都应先抓住“这张照片真正讲的是什么”，再决定如何重构，避免只抓物体不抓关系、只做可爱互动没有主题、卡通贴纸感、复杂装饰和模板感。文字语言：英文
+
+第三层｜真实物象穿越几何情绪窗口
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“真实物象穿越几何情绪窗口”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为具有高级商业审美的极简视觉海报。核心语言是 “真实物象穿越几何情绪窗口”：在画面中设置一个窄长、克制、低饱和的几何色块，作为视觉锚点与空间容器。由于本层为约3:1扁横幅，色块优先采用横向延展，也可依据主体动势采用轻微斜向结构；避免竖向贯穿整层，并根据主体重心、动作方向、轮廓走势与版面节奏自然决定具体角度。主体以真实摄影感或精致写实方式进入色块之中，并局部越界、破框、伸出或穿过边界，形成自然生长感、空间穿透感与留白呼吸感。
+
+构图保持极简、清晰、平衡，以几何色块、主体越界关系和大面积留白建立秩序。主体可居中、偏心或横向舒展；若原图主体本身偏纵向，则通过局部越界和横向环境延展解决，但不得纵向拉伸，且始终保持单一焦点。背景以白色、浅灰或极浅暖色为主，可加入极轻微的文化纹样、线性图形、地形线、水波线、光影轮廓或抽象符号，作为若隐若现的辅助层次。
+
+配色从上传的原图中提取最有辨识度、最有精气神的颜色关系，转化为浅色几何窗口 + 真实主体色彩 + 极少量中性色排版的高级系统。色块颜色可柔化为雾蓝、浅青、米白、淡粉、暖灰、浅金或其他与原图气质一致的浅色调，整体轻盈、干净、现代、精致。
+
+文字作为版式结构的一部分自然介入。可从照片的主题、情绪、动作、状态或象征意义中提炼一个简短英文标题，并搭配少量副标题、地点、状态词或微型注释。标题可横排、竖排或沿色块与主体关系排布，辅助信息以小字号、细字重、舒展字距规整排列，使其呈现高端地产、奢侈品、美学杂志或节气视觉般的高级编辑感。
+
+整体气质强调东方留白、现代秩序、自然生命力与高级商业美感。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应保持原始影像与几何情绪窗口之间清晰、优雅、可迁移的视觉呼应。
+
+第四层｜3D厚涂浮现式微景观
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“3D厚涂浮现式微景观”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为一张 三维厚涂油画风格的微景观插画海报。不要机械复刻照片，而是将主体转化为精致、立体、可触摸的微缩景观，以厚涂笔触、色彩堆叠和雕塑般的体积感重新塑造；保留主体核心身份和关键特征，同时在不改变第一层观察方向、主体比例和身份特征的前提下，适度优化局部细节与微景观化层次。
+
+构图采用大面积留白 + 居中或轻微偏心的斜向主轴。在明亮白色纹理纸面上，以一抹与原图主题相关的清透厚涂色带承托主体，可转化为水面、地面、路径、光带或抽象风景切片；主体与色带自然交互，并根据内容加入倒影、波纹、光斑或延展笔触。背景仅保留少量厚涂云层、太阳、雾气或主题相关的自然意象，形成轻盈而富有诗意的空间层次。
+
+绘画语言强调厚涂油画 × 微缩实体 × 清透光感。保留明显的颜料堆积、刮刀痕迹、起伏边缘、纸张纹理和半手工塑形感；厚涂集中在水面、云层、色带与局部高光，让主体既精致立体，又具有真实油彩的物质感。
+
+配色从上传的原图中提取最明亮、最鲜活、最有生命力的颜色重新调制，而不是平均取色。整体提高明度与色彩纯净度，采用清澈天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉等由原图自然推导出的明快色相，通过清爽冷暖关系形成治愈感。以大量纯净暖白作为呼吸空间，主色鲜明但不刺眼，局部暖橙、金黄或粉红可作为阳光般的点睛色，使画面具有晴朗、鲜活、温暖、轻快、有生命力的色彩精神。避免灰脏、发旧、低沉莫兰迪化、暗褐滤镜、荧光色和廉价糖果感。
+
+文字少量介入，从照片的主体身份、地点、情绪或象征意义中提炼一个简短标题，并搭配极少量副文、编号或微型注释。文字保持细致、克制、留白充足，可沿斜向主轴、主体边缘或大面积空白巧妙排布，像艺术出版物中的精致标注。
+
+整体呈现 明亮白底、鲜活厚涂、清透色彩、微缩主体、大面积留白与温暖光感 共同构成的高级治愈气质。无论主体是建筑、人物、动物、植物、器物、交通工具或自然景观，都应保持清晰身份与鲜活色彩，避免灰脏、沉闷、卡通玩具感、塑料感电脑渲染感、电商感和模板感。",prompt_031.webp,https://x.com/zhidawang219555/status/2092058937734713639,"四等分演化, 涂鸦小人, 几何窗口, 3D厚涂",2026-09-16 07:31
+32,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜黑白粗蜡笔剪影
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“黑白粗蜡笔剪影”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为极简粗黑干媒介剪影插画。不要机械描摹照片细节，而是将主体压缩成圆润、敦厚、略带稚拙感的概括形体，可适度放大头部、主要轮廓或最有记忆点的局部，使其在极少信息下仍能一眼识别原物。若照片包含多个主体，则保留最重要的互动关系，将它们视为一个整体视觉单元，而不是平均分散焦点。
+
+本层画面只使用近乎纯白的纸面底 + 浓黑蜡笔、炭笔或干擦痕迹，不使用彩色，不使用灰阶渐变。黑色形体不是光滑实心矢量块，而是由短促、有力度的蜡笔反复涂抹形成，保留纸张颗粒、断笔、压痕、边缘毛糙、浓淡不均和局部露白。轮廓略微摇晃、不完整、不精确，让画面保持真实手作感。
+
+主体最关键的识别特征可通过“黑色剪影中突然切出的白色特征区”强化，例如脸部、眼睛周围、窗洞、器皿开口、动物面部、物件核心结构或最具有辨识度的局部；再以极少黑点、短线或符号完成表情与细节。不要追求写实五官和精密结构，而是让黑、白之间形成直接、有趣而强烈的辨识关系。
+
+构图保持大面积纯净留白 + 一个主要视觉关系。主体可居中悬浮，也可轻微偏置、局部裁切或靠近画面下方，仅用一条粗糙地面摩擦线、几根短线或极少环境符号提示空间。草叶、雨丝、烟气、桌面、影子、道路、风或其他环境信息都应被压缩成极少的蜡笔记号，让背景保持安静空旷。整体不追求复杂场景，而让一个姿态、动作、距离或关系承担主要叙事。
+
+文字保留少量高级编辑感与童书感并存的小字系统。不要只写地点或物体名称，而从照片中的情绪、动作、关系、时间或微小故事提炼一个简短英文标题，再搭配编号、适配的金句、章节号或一句极短的含蓄小文案。文字可以是克制的印刷小字，也可以加入极少量笨拙手写、蜡笔字或不完全规整的字形，使其像原本就属于这幅插画。
+
+文字需要与图形发生巧妙关系：可以贴着地面线排列、沿主体动作方向延伸、躲在大片留白中、与轮廓产生轻微遮挡、卡在两个主体之间的负形里，或用一条细线把编号与主体连接起来。保持“一个短标题 + 1–2组极小辅助文字”即可，让文字成为构图节奏的一部分，而不是普通海报标题。
+
+整体呈现黑要粗、白要净、形要简、质要糙的视觉特征，在童稚、温软、安静、幽默与孤独之间保持微妙平衡，像一本由高级设计工作室重新编辑的旧黑白童书。避免光滑数字描边、精密线稿、写实光影、厚涂、三维效果、彩色、大面积灰色渲染、卡通贴纸感和模板化商业插画。
+
+第三层｜几何秩序线性实验
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“几何秩序线性实验”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为具有几何秩序的线性实验海报。主体由高密度重复线条、错位描线、短促回环和轻微抖动轨迹聚合显形，保留清晰识别边缘，内部保持不稳定与流动感；外围使用同源但更细、更疏、更轻的线条向外扩散，并以水平、垂直、斜线、圆弧、切线或隐性网格建立理性结构，形成中心高密度、外围低密度，几何秩序与自由线性并存的视觉张力。
+
+配色从上传的原图中提取最有生命力、最有辨识度、最能代表主体精气神的颜色作为主线色，不按面积平均取色，也不刻意做旧降灰；可适度提纯、提亮和校正，使颜色更干净、鲜明、现代。整体采用清洁浅色背景、单一主线色和黑灰微排版，通过线条密度、粗细和叠压形成层次，避免脏色、灰蒙、固定蓝调、多色混杂和数字渐变。
+
+文字作为构图的一部分巧妙介入，从照片的情绪、动作、时间、状态或隐喻中提炼极短英文标题，并搭配少量编号、适配的哲理金句、状态词、标尺或微型注释。文字可沿几何轴线、主体轮廓或线场边界排列，横排、竖排、旋转、穿插或错位，通过极小字号、细字重、宽字距和精确对齐形成高级编辑感，使理性排版压住自由线条的躁动。
+
+整体保持大面积留白、唯一视觉焦点和清晰几何秩序，呈现干净、克制、锐利、实验、艺术化且富有生命力的视觉气质。避免随机涂鸦、无方向线团、脏旧复古、赛博科技感、商业宣传感、卡通感和模板感。
+
+第四层｜动态磁场颗粒版画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“动态磁场颗粒版画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为超现实极简版画视觉。将主体压缩成一个清晰而克制的视觉锚点，通常以较小尺度置于大片留白中，仅保留最关键的轮廓与姿态；不要复刻复杂细节，而是让原图中的动作、方向、光影或空间关系转化为围绕主体展开的动态场域。
+
+动态场根据主体自身特征自然选择一种主要运动逻辑：优先沿横向或斜向流动、由核心向两侧扩散，或形成不规则波纹与回响；仅当原图动作本身明确时，才保留短距离的上下坠落或上升。使用大量细线、断裂轨迹、粗粝网点和颗粒密度变化表现运动，核心附近更密、更强，向边缘逐渐稀疏、破碎并消失于留白。避免同时堆叠多种特效，让一个主体、一种运动、一个巨大空间关系成为画面的核心。
+
+配色从上传的原图中提炼最有辨识度、最有精气神的一个主色，与暖白、象牙白或自然纸色及少量黑色组成严格的2–3色体系。主色可适度提纯和强化，使其鲜明、有力量但不过度数字化；通过网点密度、油墨叠压与纸面留白形成深浅，而不是普通渐变。保留丝网印刷、孔版印刷（Risograph）、粗颗粒、纸张纤维、油墨覆盖不均和轻微套印偏差，避免电脑渲染、三维、真实光效和光滑数字插画感。
+
+文字建立克制的实验艺术书微排版系统。从照片的动作、距离、状态、情绪或隐喻中提炼一个极短英文标题，并搭配2–4组微型文字，可由短句、状态词、地点或对象信息、序列号、坐标式数字、方向词、档案标签或观察注释自由组合。文字可沿地平线、动态轨迹、主体轴线或留白边缘排列，也可纵排、旋转、拉开字距、嵌入颗粒场或被线条轻微穿过，使排版本身参与空间与运动，而不是独立贴在画面上。
+
+整体追求极小主体、极大留白、强烈尺度反差、单一动态场与粗粝印刷质感，呈现安静、孤独、神秘、诗意又带有轻微超现实感的实验编辑视觉。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持原始影像与抽象场域之间清晰的身份呼应，避免复杂场景、多重焦点、装饰堆积、普通渐变、商业海报感和模板感。",prompt_032.webp,https://x.com/zhidawang219555/status/2092058284333392032,"四等分演化, 黑白粗蜡笔, 几何秩序, 磁场颗粒版画",2026-09-16 07:31
+33,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜复古现代主义扁平插画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“复古现代主义扁平插画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为复古现代主义平面插画。不要机械描摹细节，而是将主体概括为清晰剪影、几何色块、硬朗切面与简洁曲线，保留最关键的比例、轮廓、动作和结构特征，使其一眼能够对应原图中的主体。构图强调视觉重心、尺度反差、前后层级、正负形和几何节奏，可适度放大、裁切、偏置或叠压主体，用少量辅助形体建立空间，不做复杂写实场景。
+
+配色从上传的原图中提取最具辨识度和精气神的颜色，重新整理为3–5色复古限定色盘，通过主色、深色结构色、浅色背景和少量对比色建立清晰层级。颜色可以适度提纯和艺术化转译，呈现温暖、鲜明、克制的旧印刷与现代平面设计气质，避免灰脏、霓虹、多色混杂、复杂渐变和廉价卡通感。
+
+文字建立现代主义编辑式排版系统，语言优先跟随用户的语言偏好与当前输入语言，不固定使用英文。从照片的主体身份、动作、情绪、场所、材质或隐喻中提炼一个简短主标题，并搭配2–4组极小辅助文字，可使用短句、地点或对象信息、编号、序列号、状态词、方向词、分类标签或微型说明，不使用年份。必要时可少量混用另一种语言作为编辑性点缀，但主信息始终以用户偏好的语言为主。文字可与几何图形形成对齐、切割、穿插、环绕、压角、纵排或跨越色块的关系，通过字号反差、粗细字重、字距与严格网格建立视觉秩序，使排版本身成为插画构图的一部分。
+
+整体呈现原始影像 × 复古平面插画 × 高级编辑设计的视觉气质，简洁、鲜明、几何、时髦、克制而富有图形张力，兼具经典海报的视觉力度与当代设计系统感。避免写实插画、复杂纹理、三维渲染、用户界面感、商业素材感和模板化矢量插画。
+
+第三层｜喷墨干刷时尚编辑
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“喷墨干刷时尚编辑”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为具有现代杂志封面风与高级编辑设计气质的平面插画与拼贴画面。不要机械描摹照片细节，而是从原图中提炼最核心的视觉母题，将主体转化为更概括、更鲜明、更具有品牌感的图形系统；通过重复、层叠、放大、裁切、拼贴和纹理变化，建立一个围绕主体展开的主题性视觉场景，使人一眼就能感受到它与上传的原图属于同一对象、同一情绪与同一叙事。
+
+构图强调清晰的层次、尺度对比与版式节奏。可根据主体特征，将原图中的轮廓、局部形状、环境元素或结构关系转化为大面积重复图形，形成背景层、中层主体层与前景点睛层的递进关系；主要视觉可以自由偏心、穿插或叠压，但必须保持明确焦点与强烈阅读性。可适度加入一个小尺度、强对比的点睛元素，增强戏剧性与故事感，但不能削弱主体本身。
+
+配色从上传的原图中提取最有生命力、最具辨识度和情绪感染力的颜色，转化为更凝练、更鲜明的高质量平面色组。整体可使用高饱和但不廉价的综合色系，通过主色、辅助色、深色压重和亮色提神建立层次；允许综合色块之间形成丰富变化，并保留颗粒、网格、布纹、喷墨、拓印、干刷和印刷质感，使画面兼具清新、浓郁、时尚和自然生命力。避免写实摄影感、灰脏色、光滑三维和普通商业插画感。
+
+文字应像真正的杂志封面排版系统一样参与构图，而不是简单加标题。从照片的主题、气质、动作、季节感、材质感或象征意义中提炼一个醒目的英文主标题，并搭配一个更具情绪感或叙事感的中文标题；可再加入少量说明性短句、编号、期号、地点、时间或标签信息。文字可采用超大字号横向穿插、纵向堆叠、局部遮挡、叠压主体、跨越色块或嵌入留白等方式，与图形共同构成封面感；整体排版要大胆、现代、清晰，具有品牌视觉与高级编辑设计气质。
+
+整体呈现现代时尚、清新浓郁、平面拼贴、层次丰富、排版强烈、印刷纹理明显且富有生命力的视觉效果。无论主体是人物、动物、植物、建筑、器物、交通工具、自然景观或抽象场景，都应保持良好的适配性和可迁移性，避免模板化森林插画、普通旅游海报、电商排版、卡通感和廉价装饰感。
+
+第四层｜极简丝网网点印刷
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“极简丝网网点印刷”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，将复杂信息组织成一个唯一视觉锚点，重构为极简丝网版画与网点印刷海报。若原图包含多人或多主体关系，应把完整关系作为同一视觉锚点保留，不得删减主体数量。不要描摹照片，也不要加入丰富插画细节，只保留最关键的整体形状、动作与空间关系，让主体以极少的信息仍能被一眼识别。
+
+构图遵循“一个主体、一个方向、一个空间关系”。主体通常保持较小尺度，以大面积留白制造距离感和诗意；根据原图自身关系，只选择一种最自然的结构，并优先采用水平延展、孤立悬置、向外消散或由浅入深；仅当原图本身具有明确纵向动势时，才保留有限的纵向延伸，不同时使用多种构图技巧。可以利用一条地平线、边界、阴影或网点带建立空间，让空白本身成为画面的主要组成部分。
+
+配色不直接复制照片，而从原图提炼综合色温、明度与情绪，重新归纳成纸张底色 + 主墨色 + 雾层色的有限专色体系。以米白、暖灰或自然纸色承担大面积留白，以一个沉静而有重量的综合色作为主墨色，再用同色系更浅、更灰的颜色表现空气、距离或层次。整体控制在2–3种颜色，以色彩面积、明度和网点密度建立层次，仅在具有明确叙事意义时允许极小面积点色。
+
+所有雾气、距离、阴影、消散和空间过渡均使用 半色调网点由密至疏自然消失，不要使用数字模糊或普通渐变。保留纸张颗粒、丝网油墨、轻微套印偏差和不均匀着墨，使画面像真正印刷在旧纸上的艺术版画。
+
+保留少量具有高级编辑感的装饰性文字系统。 不局限于地点名称，而从照片的主题、情绪、时间、动作、材质、距离或隐喻中生成极短英文标题，并搭配微型副文、编号、年份、章节号、坐标式数字、档案标记或一句含蓄的英文短句。文案可以略带抽象、文学性和策展语气，不需要完整解释画面，例如关于“距离、静止、经过、回声、边界、时间、光线、痕迹”等概念，使其像艺术书、建筑期刊或独立展览中的编辑注释。
+
+文字本身必须参与构图，而不是后期贴在空白处。可让小字沿地平线排列、贴合主体轮廓、成为纵向视觉轴、跨越网点边界、隐藏在负形中，或与主体发生遮挡、穿插、断开和对齐关系；也可通过极细竖线、短横线、编号、页码感符号与大面积留白建立节奏。允许一个词被拆开、纵排、拉开字距或局部被图形遮住，但始终保持阅读秩序。
+
+文字层级保持克制：一个极短主标题 + 1–3组极小辅助文字即可。字体参考高级艺术出版物与现代主义编辑设计，使用克制的无衬线、温和衬线或极简窄体字，通过极端字号反差、宽字距、细字重、上下标、小型大写和不对称排版制造精致感。文字颜色与主墨色或雾层色统一，可带轻微套印错位与油墨颗粒，使文字和图形属于同一次印刷，而不是数字排版覆盖层。
+
+整体追求极少元素、极大留白、极小主体、极强秩序，以及微妙而聪明的文字介入，呈现安静、孤独、辽阔、含蓄、诗意、知识感和收藏感。避免复杂构图、多个焦点、无意义装饰、大标题压画面、商业广告文案、普通渐变、廉价复古滤镜和模板感。",prompt_033.webp,https://x.com/zhidawang219555/status/2091896977974030695,"四等分演化, 复古扁平, 喷墨干刷, 极简丝网",2026-09-16 07:31
+34,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜极简扁平矢量旅行插画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“极简扁平矢量旅行插画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从上传的原图中提取最具识别性的主体、轮廓、姿态与叙事关系，将其重构为高级极简扁平矢量旅行海报风格的插画场景。不要机械描摹照片，而应根据原图自身的视觉个性，提炼最具代表性的主视觉焦点，并围绕它加入2–4个最能表现环境氛围、日常生活方式、地域感或生活状态的辅助元素。无论原图包含城市、建筑、人物、动物、植物、器物、交通工具还是自然风景，最终画面都应像专门为该主体定制的高级旅行视觉海报，而不是把固定模板套用在所有对象上。
+
+构图必须根据主体自身的气质重新组织，不能重复同一种版式。以一个明确焦点、清晰的前后景层次、适量留白和安静有序的视觉节奏建立画面。根据原图内容，场景可以自然转化为街道、广场、水岸、庭院、通道、站台、植物环境、室内一角、开阔风景，或带有日常生活痕迹的环境切片。主体始终是主要视觉中心，其他元素只用于强化“这个地方、这个物件或这个情境”的独特性。避免地标堆叠式拼贴、明信片清单式陈列或过度叙事的安排。若原图主体包含人物，必须保留原有人员数量、身份、动作与关系，并将其自然融入环境；不得额外加入陌生人物，也不得把原图中的人物主角降格为无关陪衬。
+
+整体采用高级极简扁平矢量插画语言，融合日式文具美学、精品贴纸插画与现代编辑式旅行品牌设计。使用干净的几何形体、柔和轮廓、统一线宽、平涂色块和克制细节，呈现清新、安静、细腻、当代的视觉感受。避免写实绘画、厚重阴影、水彩纹理、纸张纹理、复杂笔触、渐变、拥挤背景和过量细节。
+
+配色采用柔和、通透、略微去饱和的高级色系。可以从原图的综合色温中提取并重新协调，但最终必须保持轻盈统一。以浅粉蓝、雾蓝、天空蓝和空气感冷调蓝建立主要氛围，以象牙白、奶油白、浅米色、柔和灰绿与建筑中性色保持平衡；仅允许少量灰调玫瑰粉或低饱和腮红粉作为细节点缀，可用于花朵、服装、小型标牌、遮阳篷或地方性装饰，使画面既有呼吸感，又保持精致层次。
+
+文字系统也应成为整体风格的一部分，不要简单套用城市名称模板。根据原图的地点、物件名称、主题、状态或氛围提炼一个简短标题，优先放置在左上角或其他留白充足的位置，并搭配一句简洁、克制、有品位的短标语。字体应低调、具有编辑感，字距舒展、排版高级，不能压过主视觉。必要时可加入少量辅助文字、坐标式标注或微型说明，使文字像高级旅行品牌或精品明信片自带的视觉识别元素，而不是后期附加的标题栏。
+
+最终效果应像专门为原图主体设计的高级旅行海报或精品生活方式明信片：清新、优雅、安静、现代、精致，拥有大面积留白和松弛的存在感。本层画面必须必须形成独立的视觉身份，不能只更换名称却重复同一构图、同一前景或同一物件排列。避免模板化、重复、空泛、通用以及标准旅游海报式的公式感。
+
+第三层｜人文几何浅浮雕
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“人文几何浅浮雕”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为极简抽象的几何视觉表达。使用简洁几何形状、扁平色块、细线条、结构线与留白重新概括主体，不做写实插画，不堆砌复杂细节，但必须保留清晰特征，使人能够一眼识别原物。可根据原图关系加入少量水平线、轮廓线、空间分割线或抽象环境元素，让画面在克制中保有秩序与呼吸感。
+
+构图强调平衡、节奏与人文气质。以本层画面主体为唯一视觉核心，整体偏居中但不僵硬对称，通过比例控制、正负形关系、疏密变化、轻微层次错动和大面积留白建立安静而专业的版面秩序。画面应简洁、稳定、克制，同时带有一点温和的空间起伏与浅浅的浮雕感，让几何形体仿佛轻微压印或微微隆起于纸面之上，形成细腻、含蓄的立体层次，而不是明显三维效果。
+
+配色从上传的原图中提取，但不机械照搬，而是转化为更具人文主义气质的柔和色组。以米白、暖白、浅灰、沙色、灰粉、浅赭、雾蓝、鼠尾草绿等低刺激、温润、克制的颜色为基调，从原图中保留最有气质的主色与辅助色，通过有限色盘形成和谐、安静、耐看的关系。整体色彩应温和、清透、富有文化感与生活感，避免廉价高饱和、脏灰失真、冰冷科技感和普通商业配色。
+
+文字保持少量且高级，不只是地点名，而应从照片的主题、身份、情绪、动作、时间或隐喻中提炼简洁英文标题，并搭配少量编号、状态词或微型注释。文字可沿主体轮廓、结构线、留白边缘或画面轴线自然排布，以克制的高级编辑方式与图形共同构图，形成低调但有设计感的版式关系。
+
+整体参考国际设计工作室、建筑海报、艺术展览海报与高级品牌视觉系统，呈现高级、现代、安静、人文、艺术化、克制而温柔的视觉气质。避免普通滤镜、廉价矢量感、过强三维、卡通感、电商感和模板感。
+
+第四层｜纪念碑谷式超现实3D空间
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“纪念碑谷式超现实3D空间”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为「纪念碑谷气质」的极简超现实主义三维空间。不要机械复制原图，而是将核心特征转译为平台、台阶、门洞、拱桥、通道、悬浮结构与不可能空间，通过高低差、路径、连接、遮挡、孤立和重复关系表达照片的情绪与故事。采用正交等距视角，几何结构简洁、诗意、安静，同时保持与原图主体清晰可辨的对应关系。
+
+本层画面不要直接提取上传原图的综合色彩，而是使用鲜明的纪念碑谷式动态粉彩系统：以奶油白、浅砂岩、雾粉、珊瑚粉、柔紫、天空蓝、湖水青、薄荷绿等清透色彩进行组合，本层作品根据主题自动选择2—4个主色，通过相邻色与冷暖对比形成完整色组，并在门洞、转折、人物或局部结构加入1处较高纯度的橙红、玫红、蓝绿或明黄作为视觉跳点。强调大面积纯净色块、清晰色面分区和同色系明度层级，整体明亮、柔和、通透、有空气感，避免灰脏、发黄、低明度、大面积棕色、黑色以及普通莫兰迪配色。
+
+三维材质保持极其干净、平滑、哑光、纯色，使用柔和均匀的光线和轻微环境阴影塑造空间。画面必须清澈细腻，禁止颗粒、噪点、纸张纹理、胶片感、磨砂纹理、旧印刷效果、脏污、复杂基于物理的渲染（PBR）材质和强烈反光。
+
+文字只作为小尺寸编辑注释存在，不做大标题，不抢主体。根据照片中的情绪、关系或故事提炼一句简短、有余韵的中文金句或诗性短句，使用纤细、简洁、几何化的纪念碑谷式排版语言，字号较小、字距舒展、留白充足，可安静地放置在画面边缘、角落、建筑留白或下方空白处，并与几何结构形成对齐、遮挡或微妙穿插。可附一行更小的英文意译。不要出现年份、日期、编号、卷号，不要巨大文字、粗体标题或海报式口号。
+
+整体呈现“由真实世界进入诗意空间”的完整叙事：原图提供真实与记忆，几何空间负责情绪与隐喻，小字金句负责留下余韵。最终效果明亮、纯净、梦幻、克制、聪明，具有鲜明的纪念碑谷式空间语言与粉彩配色，同时适配人物、建筑、动物、静物、自然景观和室内空间等不同题材。",prompt_034.webp,https://x.com/zhidawang219555/status/2091824283068813811,"四等分演化, 扁平矢量, 几何浅浮雕, 纪念碑谷3D",2026-09-16 07:31
+35,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜松弛蜡粉笔手绘
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“松弛蜡粉笔手绘”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为松弛、稚拙的蜡粉笔手绘图像。以米白色粗纤维手工纸作为底层，在画面中设置一块横向延展的低饱和纸张色域，颜色从上传原图的综合色彩与情绪中自然提炼并重新调和，不固定色相。主体以浅色哑光蜡粉笔概括描绘，去除繁杂细节，只保留最核心的比例、走势和识别特征，线条随性、不规整、略带断裂与粗糙摩擦感，让人一眼能够联想到原图中的主体，又具有独立的手绘表达。
+
+构图强调横向色域、主体重心与上下留白之间的比例关系。主体可根据原图姿态自然偏置、裁切或跨越色块边界，不必机械居中；利用尺度、方向、正负形和留白建立安静的视觉节奏。色块只承担主体与空间关系，不增加多余装饰，保留双层纸张、轻微做旧、孔版印刷（Risograph）颗粒与真实纤维质感，避免复杂阴影、写实塑造和数字光滑感。
+
+文字从照片的情绪、动作、状态或隐喻中提炼一句简短英文短句，以柔软、潦草、略带不完美的手写方式融入画面。文字可沿色块边缘、主体走势或留白区域自然排列，也可与轮廓发生轻微穿插、错位或跨界，使文字像手绘作品的一部分，而不是后期添加的标题。
+
+整体呈现安静、松弛、温柔、复古、文艺而克制的纸上编辑视觉，兼具手工温度与现代构图感。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都保持原始影像与极简手绘之间清晰而巧妙的视觉呼应，避免卡通感、廉价手账感、复杂装饰、固定配色和模板感。
+
+第三层｜情绪化手工拼布贴画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“情绪化手工拼布贴画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，进一步理解照片中的情绪、潜台词或隐喻，再重构为温暖复古的手工拼布贴画。不要机械复制原图，而是使用格纹棉布、亚麻、水洗粗麻、补丁布和缝线，将最重要的形态与关系概括成简洁布片，使人一眼能认出原物，同时感受到照片背后的安静、陪伴、距离、停留、成长、归属、偶遇或时间感等内在情绪。
+
+构图强调留白的艺术与视觉呼吸，不把元素平均铺满。根据主体的重心、动作方向和叙事关系，自由安排布片的大小、疏密、层叠、裁切与越界，让主要形态与大面积空白形成有张力的关系；部分枝叶、轮廓、人物动作、器物边缘或景物可以自然伸出拼布区域，让画面像正在生长、经过或延续，而不是被边框封死。留白不是空缺，而是承担距离、情绪、时间和想象的空间。
+
+配色不设固定色卡，从上传的原图中提取最有生命力、最能代表其精神气质的颜色，自适应转化为治愈系、人文主义的柔和布艺配色。保持原图自身的冷暖关系和色彩身份，适度柔化、提亮和协调，使整体温润、清爽、亲切、有生活感；主体可保留一处更鲜明的重点色，其余颜色柔和陪衬。不同照片应产生不同色组，避免固定米黄、灰棕、莫兰迪和刻意做旧。
+
+保留真实布纹、纤维、毛边、针脚、补丁、交叉缝线与轻微不规则拼接，使手工痕迹自然可见，但整体仍保持高级编辑设计的克制与精度。复古感来自材质和手作，而不是脏色、泛黄或廉价旧化。
+
+文字不是简单放一句英文，而应成为情绪与构图的一部分。从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句，避免仅仅写地点或物体名称。文字可用细线刺绣、手缝线迹或轻微手写形式，顺着主体走势、贴近布片边缘、藏入负空间、与缝线发生延续或停顿，让图形与文字共同形成阅读节奏。文字应少而有意味，像一句没有说完的话，而不是说明标签。
+
+整体呈现治愈、温暖、安静、有人情味、有生命力、有留白、有故事感的视觉气质，像高级生活杂志、独立绘本与当代纺织艺术结合的作品。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应先理解原图真正想表达什么，再决定如何取舍、留白、拼接与排版，避免儿童手工课感、机械临摹、平均构图、无意义装饰和模板感。
+
+第四层｜东方刺绣寓意重构
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“东方刺绣寓意重构”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+请先理解原图真正的核心精神、情绪关系与潜在寓意，再提取其中最具识别性的主体、轮廓、姿态与叙事关系，以一个最能代表整张照片的核心意象作为中国刺绣式重构的视觉主导；若原图包含多人或多主体关系，必须把这组关系作为同一核心意象整体保留，不得擅自删减主体数量。不要把照片完整绣一遍，也不要把所有景物逐项转换成刺绣；应大胆删减次要信息，用一个姿态、一段轮廓、一种关系、一个动作或一个具有象征性的局部承载整张照片的内核，让人看到本层画面时，不只是认出“是什么”，还能够感受到原图“在表达什么”。
+
+刺绣语言融合中国传统织绣的丝线层次、针法变化、虚实关系与东方留白，可使用平针、长短针、盘线、缠线、打籽、压线等不同针迹，根据主体形态改变针向、密度和层次。局部可以精细，局部可以只留下几针、一道线或未完成的轮廓，让“绣与不绣”共同构成画面。真实呈现丝线光泽、针脚方向、叠线与轻微手工误差，但避免满版传统纹样、工艺品展示感和数字假刺绣。
+
+构图强调取舍、留白、气韵与生命感。不固定居中，不平均填满，根据主体的重心、动作、视线、走势和情绪自由安排位置、尺度、裁切与疏密。可以偏心、悬置、局部放大、越界或只出现一部分，让少量绣面与大片空白形成张力；一根游离的丝线、一个未完成的边缘或一小片颜色也可以承担情绪。留白应像空气、距离、停顿和余韵，而不是空出来等待填充的位置。
+
+背景必须干净、清亮、有空气感，不默认使用米黄、灰米、旧亚麻或脏浅色。 根据上传原图的色彩气质，自适应选择洁净白、冷白、柔和象牙白、极浅彩色或具有明确综合色相的清透丝绢底色，也可以在原图适合时使用更大胆但纯净的有色底。背景允许看到极轻微的丝绢、绫罗或织物纹理，但不得泛黄、蒙灰、发脏、做旧或出现污渍。刺绣的手工感来自丝线与针法，而不是靠脏旧背景制造。
+
+配色同样不设固定色卡。从原图中寻找最有神采、最有生命力、最能代表其精神的颜色关系，再转化成中国刺绣特有的灵动丝线色阶。不是平均吸取照片颜色，而是保留真正有意义的主色，并允许同一颜色在冷暖、深浅、明暗与纯度之间细微游移，通过近似色穿插、少量互补色点醒、高纯度小面积亮色和不同针向产生丝线闪烁。颜色可以清丽、鲜活、浓郁、柔美或素雅，由每张原图决定；丰富但不杂乱，明艳而不俗艳，柔和但不灰，传统但不死板。
+
+文字只作为轻巧的编辑性点睛，从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句。可使用细线刺绣、纤细题签或极简小字，让文字顺着丝线走势、嵌入负空间、贴近主体边缘，甚至像一根线一样成为构图的一部分；少而有意味，不做说明标签，不抢夺刺绣主体。
+
+整体追求一图一核、一核一意象：先理解原图，再选择最值得被留下的东西；其他元素宁可舍弃，也不要为了丰富而堆砌。最终呈现中国刺绣特有的灵动色彩、丝线光泽、东方留白、含蓄寓意与当代编辑设计感，清亮、有神、有情绪、有生命力。避免整图复刻、元素堆积、脏米色背景、泛黄旧布、固定国风配色、满版刺绣、文创商品感和模板感。",prompt_035.webp,https://x.com/zhidawang219555/status/2091812131796840654,"四等分演化, 蜡粉笔手绘, 拼布贴画, 东方刺绣",2026-09-16 07:31
+36,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜民俗几何拓印版画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“民俗几何拓印版画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从上传的原图中提取最具识别性的主体、轮廓、姿态与叙事关系。先理解画面的核心含义、文化属性或情感关系，再将其重构为融合民俗文化图录、古老拓印版画与现代平面设计气质的图形构成。不要逐一翻译照片里的所有元素，也不要添加通用传统纹样；只保留一个核心视觉母题，以及极少量真正承担叙事作用的辅助形体。通过剪影、负形、局部放大、形状融合和象征性转化，使图形既能对应原物，又能表达其背后的含义。
+
+构图建立在严谨的几何框架与比例系统之上。根据主体自身结构推导圆形、方形、三角形、弧线、轴线或重复比例，作为本层画面的“几何母体”；再通过共同切线、共用轴线、嵌套、镜像、比例递进或边缘裁切关系，使主形体、辅助图形、文字与负空间相互对齐。版式可以自由分布、偏离中心、越出边界或采用非对称结构，但每个元素都必须服从同一套结构逻辑，形成明确的视觉重心、主次层级、节奏与留白。远看时应能立即读出秩序，近看时则能发现传统印刷痕迹与细微细节。避免随机散落元素和装饰性堆积。
+
+从原图中提取最具辨识度、最鲜活、最能体现主体精神的颜色，重新组织为干净、克制的纸本印刷色盘。使用明亮浅色的纸张底色制造呼吸空间，以一个深色建立视觉骨架，再从原图提取1–2个主题色组织主体与少量强调部分。通过色块面积比例、叠印关系和明度对比建立层次。颜色应干净、鲜明、有精神，避免浑浊的人为做旧、刻板固定的民俗配色或杂乱的多色组合。
+
+材质融合木刻拓印、干刷丝网印刷与复古图录印刷。断墨、磨损、纸面透底和油墨浓淡不均主要出现在图形内部；几何边界、重要轮廓和整体版式仍须保持清晰、准确，形成“粗粝材质 × 严谨几何秩序”的对比。
+
+文字只作为辅助构图信息使用。从照片的主题、含义或文化属性中提炼少量标题与微型注释，让文字沿几何轴线、负空间或图形边界灵活排列，并与主形体形成对齐、嵌套或穿插关系，但不能争夺视觉中心。文字偏好使用日文。
+
+整体视觉应优先体现含义表达、克制图形、严谨几何、粗粝拓印痕迹、清晰留白，以及传统文化感与现代设计秩序的共存。出现的每个图形元素都必须拥有明确来源、含义和结构功能；删除所有不能帮助理解主题的内容。避免素材拼贴、随意加入传统符号、平均分布式版面、写实插画和模板化设计。
+
+第三层｜治愈系限色木刻版画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“治愈系限色木刻版画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为一枚悬浮在纸面上的限色木刻版画印记。不要直接复制整张照片，也不要简单套用滤镜，而是主动删减复杂背景与细碎信息，只保留决定识别度的轮廓、比例、方向、明暗分区、关键结构与核心空间关系，以木刻版画、油毡版画和手工套印的语言重新概括主体，使其一眼可辨，同时具有朴拙、笨拙、手工感强烈的艺术气质。
+
+图形笔触要带有木刻版画特有的笨拙感与手作痕迹：线条不必光滑精确，允许出现刀刻般的轻微迟疑、粗细不均、边缘发毛、转折生硬、局部断裂、缺口、错位和不规则留白；色块边缘可呈现干刷、漏印、缺墨和粗颗粒纹理。整体不是精致矢量插画，而是像用手工刻刀和油墨一刀一刀刻印出来，带着朴素、直接、略微稚拙却非常耐看的版画气质。
+
+构图以单一视觉锚点、大面积留白和不完整边缘为核心，根据主体自身的视觉重心、动作方向和结构走势决定位置与尺度，可居中、偏置、轻微裁切或沿某一方向延展。主体周围保留充分的温暖纸张留白，边缘通过缺墨、断裂纹理、纸张透底和自然磨损感逐渐消失，避免完整矩形边框，让画面像一段被轻轻压印在纸面上的记忆。
+
+配色从上传的原图中提取最具辨识度和生命力的颜色，但整体转化为小清新、柔和、治愈、明亮的限色逻辑。采用奶油白、象牙白、浅粉、雾绿、浅蓝、嫩黄、淡橙、薄荷绿、柔和珊瑚色、浅赭色等干净而轻盈的综合色系，保持低至中等饱和度、高明度与柔和对比。保留原图最动人的色彩记忆点，但避免灰暗、沉闷、脏旧、厚重和过度复古的配色。所有颜色应像哑光实体油墨层层套印，柔和清透，却仍有版画的颗粒与温度。
+
+文字同样作为版画构图的一部分介入，而不是固定说明文字。从照片的主体身份、动作、情绪、状态、地点或隐喻中提炼一个1–3词的主标题，并搭配一组极短关键词或微型说明。主标题可沿主体轮廓、留白边界、视觉轴线或版画边缘排列，与图形形成承托、穿插、错位或呼应关系；辅助小字保持细小、克制，采用打字机体、等宽衬线体或旧档案式排版，像旅行笔记或私人收藏版画中的注释。不要固定使用年份，让文字根据照片本身自然生长。
+
+整体强调木刻版画的朴拙手感、清新柔和的限色、纸张留白、不完整边缘与克制排版，呈现温暖、安静、治愈、轻盈、怀旧而不灰暗的高级版画气质。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持上传的原图与版画重构之间清晰而巧妙的视觉呼应，避免普通滤镜、完整背景复刻、光滑矢量描边、卡通插画、旅游模板感和廉价复古感。
+
+第四层｜东方金色压印浮雕
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“东方金色压印浮雕”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为中国印压浮雕 / 纸雕凹凸质感的极简艺术海报。整体像压印在厚重乳白色纸张上，以浅浮雕、细腻阴影、极简线刻和克制层次重新概括主体，不机械复刻细节，而是保留最核心的结构特征与空间关系，使人一眼能够识别与原图为同一对象。根据主体类型，可将其转化为俯瞰、正视、微俯视或轴线延展的浅浮雕构图，并适度保留与主体相关的环境轮廓，使画面具有清晰主次、纵深秩序与博物馆展陈般的宁静感。
+
+整体以大面积乳白、暖白或浅纸色留白为基底，主体及相关元素统一以同色系浅浮雕呈现，通过压印高低差、边缘投影和细微明暗建立层次；可仅在主体最关键的局部结构或视觉焦点处加入少量哑金色细节与柔和暖白光感，用来强化核心识别点，避免颜色杂乱、过度装饰和堆砌场景。
+
+文字需转化为画面结构的一部分，而不是普通标题说明。从照片的主体身份、地点属性、主题气质、动作状态或象征意义中提炼简短文字，可使用标题 + 关键词 + 少量编号、地点或微型注释 / 哲理金句。文字采用克制的金色或深灰色衬线 / 高级编辑字体，可置于中央轴线、主体下方、留白边缘或与浮雕结构对齐，使其与压印主体共同形成秩序感与展览海报气质，而非后期贴上的信息层。
+
+整体风格追求高级、宁静、极简、克制、东方美学、博物馆海报感与纸张雕塑感。无论原图是建筑、人物、动物、植物、器物、交通工具或自然景观，本层画面都应保持原始影像与压印浮雕重构之间清晰而优雅的视觉呼应。避免文字乱码、低清晰度、主体畸形、颜色杂乱、构图拥挤、廉价三维感和模板感。",prompt_036.webp,https://x.com/zhidawang219555/status/2091811515880087681,"四等分演化, 东方民俗拓印, 木刻版画, 金色浮雕",2026-09-16 07:37
+37,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜观察式钢笔淡彩手稿
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“观察式钢笔淡彩手稿”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为观察式钢笔淡彩手稿。不要完整描摹照片，只保留最值得记录的视觉线索，以最少信息维持主体身份、比例、方向和场景含义，让人一眼认出原物，同时保留观察、删减与停笔的痕迹。
+
+构图强调极简页面中的音乐性节奏：把主体最重要的轮廓或动作视为一个视觉动机，通过重复、变奏、停顿、重音和突然留白组织画面。主体不必完整，也不必居中，可偏置、裁切、悬置或向某一方向自然延伸；一两处较有力量的自由线条承担视觉重音，其余线条迅速减弱，让大片空白像音乐中的休止。避免平均分布和完整填充，使画面呈现一种克制秩序中的即兴、未完成中的完整感。
+
+线条使用纤细、松动、不均匀的钢笔手绘线稿，允许断续轮廓、寻找线、重复修正、突然加重、轻微偏差和未完成边缘。局部可以出现更自由、更果断的长线或快速笔触，与安静细线形成节奏反差，但关键比例、方向和姿态必须准确。淡彩只用于少数必要位置，从原图提取2–4种最具辨识度的颜色进行轻薄、透明的局部点染，允许越线、水痕、颗粒和不均匀覆盖，环境颜色迅速消失。
+
+背景纸色不固定，根据原图综合色温、光线与情绪智能匹配一个极度浅、干净、几乎接近白色的综合色底，可以微暖、微冷或带极轻色相，但始终服务于原图，不形成明显彩色背景。
+
+文字自由根据照片本身生成，不预设固定标题、编号、地点、年份或固定语种。可从主体、动作、环境、情绪、声音、时间感、记忆或偶然细节中提炼少量真正有意义的字、词、短句或符号。文字也遵循画面的节奏，可像一个轻微重音、停顿或回声一样进入留白，沿轮廓、视线、运动方向或未完成边缘自然排列；宁可少、偏、轻、巧，也不要形成菜单式信息区。
+
+整体像一本被精心编辑过的私人观察手册：页面极简、留白大胆、构图敏锐，线条自由却不散乱，局部即兴而整体高度克制。 让画面具有“一个视觉动机被观察、重复、变奏，然后在最恰当的位置停下”的艺术感。避免完整水彩风景、平均构图、填满背景、过度精描、装饰性笔触、粗黑轮廓、矢量线、卡通、三维渲染、菜单式排版和商业海报模板感。
+
+第三层｜立体折纸纸雕拼贴
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“立体折纸纸雕拼贴”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为精致的立体折纸与纸雕拼贴作品。不要机械复刻照片细节，而是通过折叠、切面、层叠、嵌套和纸片拼接重新概括主体，使其保留一眼可辨的身份特征，同时具有清晰的几何结构与真实手工造物感。
+
+构图根据主体自身的视觉重心、轮廓走势、体量比例与动作方向重新组织，而不是固定居中。利用主次层级、尺度对比、轴线关系、三角稳定、对角张力、前后遮挡和正负形控制画面节奏；主体可适度偏心、局部裁切或向某一方向延展，通过大面积留白形成呼吸感，使纸艺造型既有雕塑般的体量，又保持现代编辑设计的克制与平衡。辅助纸片和几何元素只用于承托主体，不形成第二视觉中心。
+
+配色从上传的原图中提取最具辨识度和生命力的颜色，转化为协调而鲜明的纸张色组，通过同色深浅、邻近色与少量对比色区分折面和空间层次。背景采用米白、浅灰、柔和粉彩或与原图协调的浅色，大面积留白，仅保留少量纸张纹理与抽象几何细节。使用柔和漫射光表现纸纤维、折痕、切边、厚度与自然阴影，整体干净、真实、精致，避免塑料三维、光滑电脑渲染和廉价卡纸感。
+
+文字同样转化为纸艺结构与构图的一部分。从照片的主体身份、主题、动作、情绪或象征意义中提炼一个简短英文词或标题，并搭配极少量编号、地点、状态词或微型注释。主文字可由折叠纸片组成，根据主体结构选择拱形环绕、沿轴线延伸、贴合轮廓、上下承托、穿插叠压或悬置留白等关系，使文字既可阅读，又成为画面空间结构的一部分；辅助小字保持极简，以克制的高级编辑排版平衡纸艺的手工温度。
+
+整体强调纸张材质、几何精度、空间层次、构图秩序与手工温度，呈现当代纸艺雕塑与高级编辑设计结合的视觉气质。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持原始影像与纸艺重构之间明确而巧妙的视觉呼应，避免卡通折纸、儿童手工感、平均对称、复杂堆积、电商展示感和模板感
+
+第四层｜微缩纸艺景观
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“微缩纸艺景观”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为精致的微缩三维纸艺场景。不要机械复刻照片，而是将主体及最能强化其身份与环境气质的少量元素，转化为由纸张、卡纸、软陶、木片等材料手工制作的微型模型，自然组织在一条狭长、轻盈的悬浮景观基座上。主体保持一眼可辨，其余元素只作为叙事陪衬，仅可保留或微缩化原图中真实存在的植物、道路、水面、灯具、交通工具、人物、飞鸟、云朵或其他具有代表性的生活细节；不得新增原图没有的人物、关键物件或叙事事件，避免无意义堆砌。
+
+构图以一个核心主体 + 一条横向微缩景观带 + 大面积留白为基础，根据主体的体量、方向与空间关系调整高低、前后、疏密和左右重心，使场景像一件被精心陈列的微型艺术装置。通过尺度变化、层叠遮挡、小型前景与背景元素建立纵深，主体承担主要视觉重量，辅助模型保持更小尺度和更低视觉权重，整体居中但不过度对称，保持轻盈、精致和安静的视觉节奏。
+
+整体采用柔和、通透、略微去饱和的高级配色：以浅粉蓝、雾蓝、天空蓝和空气感冷调蓝建立主要氛围，以象牙白、奶油白、浅米色、柔和灰绿、鼠尾草绿和建筑中性色保持平衡，仅使用少量灰调玫瑰粉或低饱和腮红粉作为细节点缀。颜色柔和但干净，避免灰脏、过度泛黄或糖果色，让不同纸层通过轻微色差自然形成空间关系。
+
+材质强调真实手工触感，可见纸纤维、折边、切口、层叠厚度、轻微毛边和细小制作误差；使用柔和自然漫射光与细腻阴影表现微缩模型的真实体积和层次，具有微距摄影般的近距离质感。背景保持柔和白色或极浅色纸面，大面积干净留白，使本层画面像一张被精心拍摄的高级手工旅行明信片。
+
+文字同样融入微缩纸艺语言。从照片的地点、主体身份、主题或情绪中提炼一个简短英文标题，不限定必须是城市名称。标题采用小型、精致、略带手写感的字形，优先放置在景观带下方的留白区域，也可根据主体关系轻微弯曲、沿基座排列或与微缩场景形成空间呼应；保持极少、优雅、克制，不加入大段说明，让文字像作品签名而不是商业标题。
+
+整体呈现微缩立体场景、手工纸艺、奇趣三维插画、高级旅行明信片的高级视觉气质：轻盈、温柔、精致、可触摸、有生活感，同时保持清晰的设计秩序与大量呼吸空间。无论原图是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持原始影像与微缩手工世界之间清晰而巧妙的视觉对应，避免塑料三维、玩具感、儿童手工感、复杂堆积、过度可爱和电商展示感。",prompt_037.webp,https://x.com/zhidawang219555/status/2091810861941969183,"四等分演化, 钢笔淡彩, 立体折纸, 微缩纸艺",2026-09-16 07:37
+38,zhidawang219555,DAAI,"请将我上传的照片制作成一张 3:4竖版四拼海报。画面从上到下严格四等分为四个横向区域，每一层高度精确占整体高度的25%，比例严格为 1:1:1:1，不允许偏差。各区域无缝相连，无边框、无间隙。顺序为：
+
+原图 → 透明结构蓝图 → 分层水彩结构研究图 → 达·芬奇式等距研究手稿
+
+四层都使用极扁横向构图，主体横向居中，保持相同的空间结构、轮廓位置、透视方向和主要比例关系。整体逻辑是同一场景从真实照片逐渐转化为被观察、被拆解、被研究的结构图像，适合建筑、器物、交通工具、机械物件及结构感强的场景。风格层去除琐碎背景，只保留关键结构信息。
+
+第一层｜原始摄影
+保留原图主体、透视、比例、材质、自然光影与真实环境，仅做克制调色。允许背景负空间略作扩展，但不得破坏原始构图重心。
+
+第二层｜透明结构蓝图
+将同一场景转译为透明技术蓝图。背景以深蓝或浅蓝纸面为主，主体通过白色、浅青色或银灰色线条绘制，呈现轮廓、结构分界、连接点与主要构造。可加入少量辅助虚线、结构标记和层次线，但避免出现密集文字说明。视觉应整洁、理性、透明、可读。
+
+第三层｜分层水彩结构研究图
+将场景表现为带有分析性质的水彩结构研究图。保留主体构造关系，用清晰线稿与淡雅水彩薄染区分不同层级或结构面。颜色控制为极淡灰蓝、浅褐、米色、灰绿等学术手稿色系。强调观察、分层、拆解与研究感，背景为留白纸面，不要繁复装饰。
+
+第四层｜达·芬奇式等距研究手稿
+将同一场景转译为文艺复兴风格的研究手稿。背景为微黄旧纸，主体采用褐色或深灰色细密手绘线条，以等距或近等距方式呈现结构关系。允许出现少量简洁的辅助草图感线条、剖析感细节和观察笔触，但不加入明显现代排版。整体应有古典研究图的智慧感、手稿感和克制留白。
+
+四层必须保持同一主体的结构连续性，让人看出从现实到蓝图、研究图、古典手稿的逐步演化。禁止卡通、赛博朋克、重度机械科幻、复杂文字说明、Logo、水印、标题。",prompt_038.webp,https://x.com/zhidawang219555/status/2091765454876610627,"四等分演化, 透明蓝图, 水彩结构, 达芬奇手稿",2026-09-16 07:37
+39,zhidawang219555,DAAI,"请将我上传的照片制作成一张 3:4 竖版双层拼图海报。画面从上到下严格分为两个横向区域，每个区域的高度必须精确占整体画面高度的50%，上下两层比例严格为 1:1，不允许出现比例偏差。两个区域之间无缝衔接，不设分隔线、不留间隙。由于每层为约3:1的极扁横幅比例，主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸、贴边或构图拥挤。上下两层在主体位置、透视关系、空间方向和视觉重心上保持一致，形成同一画面的克制转译。
+
+上半部分：
+保留原始照片的主体结构、人物或建筑的真实比例、姿态、互动逻辑、空间透视、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，使画面更干净、更统一、更具艺术出版物气质。不要改变主体数量、主体关系、视角逻辑或构图结构。可在不破坏画面原有秩序的前提下，适度自然扩展天空、地面、墙面、水面、远景或环境边界，使主体更适合横向舒展于超宽幅区域中。整体接近高级建筑摄影、艺术旅行摄影、展览型摄影页面，避免商业海报式修图、过强HDR和戏剧化光效。
+
+下半部分：主体为 {主体}，仅保留最核心、最具识别性的轮廓与结构特征，其余一切细节全部删减与抽象化，使其呈现为高度概括的符号化形态，采用 水墨 + 淡彩水彩 + 极简设计草图 的融合语言，但进一步弱化表现：线条更少、更轻、更断续，仅用必要的几笔勾勒形体，不追求完整描绘，允许大量留白与“未完成感”。画面背景为接近纯净的 米白宣纸质感，纸纹极轻微，仅作为底色存在，几乎不干扰视觉。背景保持大面积空白，使主体处于近乎孤立的静态空间中，强化极简与禅意。主体置于画面中心或略偏中心，但整体占比缩小至约 30%–40%，进一步增强空旷感。内部结构大幅简化，仅保留最关键的形状关系，其余细节全部省略或用单一墨色暗示。仅允许极少量 {辅助元素} 出现，且必须被压缩为抽象墨点或极简色块，不形成完整形态，甚至可以“若隐若现”。色彩进一步收敛，仅保留 墨黑、浅灰、极淡赭色或极弱水色，整体趋近单色系统，彩色仅作为极轻微的气息存在，不作为视觉重点。光影几乎完全消失，仅依靠墨色浓淡与留白关系建立层次，整体更接近“草图残稿”或“未完成的古代画稿”。构图极度克制：大量留白占据画面70%以上，所有元素远离边缘，避免任何装饰性布局，画面呈现近乎静止的呼吸感。气质：极简东方草图 × 未完成水墨残稿 × 概念性视觉符号，强调“少到几乎只剩意象”。
+
+整体要求上下两层形成明显对照。严格避免文字、标题、Logo、水印、卡通感、廉价商业海报感、复杂背景、装饰过多和模板感。",prompt_039.webp,https://x.com/zhidawang219555/status/2090372152751239260,"上下双拼, 水墨极简, 淡彩水彩, 禅意草图",2026-09-16 07:37
+40,zhidawang219555,DAAI,"请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%，四层比例严格为 1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图 → 风格1 → 风格2 → 风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在主体站位、场景结构、透视方向和视觉重心上保持连贯呼应，呈现同一画面被逐层转译的整体感。
+
+风格层（第二至第四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留 1个最核心的主体符号 及少量必要结构，其余次要装饰、背景细节、纹理堆砌和陪衬元素一律省略，画面留白占比不低于60%。第二至第四层都不要做成普通插画或常规滤镜效果，而应从原始照片中提取主体最具识别性的 轮廓、比例、空间关系、方向关系与结构节奏，用更高级、克制、材料化、展陈化的方式进行转译。
+
+第一层｜原始照片层
+
+第一层保留原始照片的主体结构、人物或建筑的真实比例关系、互动逻辑、姿态、视线方向、空间透视、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使整体更干净、更安静、更具艺术刊物质感。不要改变人物数量、建筑结构、主体关系、视角逻辑或构图秩序。
+
+在不改变原图核心关系的前提下，可自然扩展天空、墙面、地面、水面、平台、远景或环境边界，使主体更适合横向舒展于超宽幅区域中。整体效果接近 建筑摄影、展览型摄影、设计年鉴照片页、安静的旅行艺术摄影，避免商业广告式修图、过强戏剧光效、重HDR、浓烈滤镜和廉价视觉包装。
+
+第二层｜半透明描图纸分层风格
+
+第二层将原图转化为一种 多层半透明描图纸叠加 的极简空间图像。提取照片中最具识别性的主体轮廓、前后层次和空间结构，将人物、建筑、树木、台阶、地面、山体、桌椅或其他环境元素，拆解为 2至5层半透明的柔和形状，仿佛每一层都绘制在单独的描图纸上，再轻轻叠放在一起。
+
+每一层不追求写实细节，不表现真实材质纹路，只表现 层与层的前后关系、边界关系与透叠关系。主体以柔和的大色面与极细边线呈现，边线可以很淡，但必须保持克制与精确。允许少量结构辅助线、裁切边、对位标记或淡淡的定位点，但这些元素必须极少，只起到增强“设计稿 / 叠层样张 / 空间研究图”的作用。
+
+背景以 米白、暖白、浅灰白、浅奶油色 为主，具有轻微纸张气质但不能过于明显。色彩从原图提取并重新归纳，只保留 2至4种主色，整体降低饱和度，并通过透明度差异形成层次，而不是靠复杂明暗塑造体积。允许局部保留一两个识别性较强的颜色，例如红色屋顶、蓝色水面、深色人物轮廓、橙色道具等，但都需克制。
+
+整体效果像 建筑方案叠层图、艺术展海报中的半透明介质实验图、设计博物馆的空间研究页。避免普通扁平插画感、卡通线稿感、复杂拼贴感和装饰性图案堆砌。
+
+第三层｜磨砂玻璃蚀刻风格
+
+第三层在第二层的基础上继续简化，将图像转化为一种 磨砂玻璃 / 玻璃蚀刻 / 玻璃丝印 的极简表现。主体依旧来源于原照片，但不再强调描图纸的层层叠放，而是强调 雾化、半透、边界发白、轮廓柔化、微妙虚实变化 的玻璃感。
+
+人物、建筑或场景结构可被概括为较少的几何面与柔和边缘轮廓，像是被蚀刻在一块高品质磨砂玻璃上，透过朦胧的玻璃隐约可见主体结构。轮廓不应硬朗锋利，而应带有轻微柔化的边缘过渡。允许局部保留一两处清晰的重点边界，用以增强识别度。
+
+背景依然采用浅色留白，主色可进一步压缩到 2至3种。可在画面中加入极少量线性切分、水平基线、垂直边界或一两道大面积留白区，以强化高端空间装置和现代材料系统的感觉。画面中的色彩更浅、更静，避免浓重墨感与强烈对比。
+
+整体气质参考 现代艺术馆导视系统、建筑模型展示板、磨砂玻璃品牌视觉、极简展陈装置海报。看起来应当安静、干净、冷静、克制，而不是梦幻滤镜。避免水晶质感、镜面反射、高科技UI感、霓虹光效、赛博风格和过强3D渲染感。
+
+第四层｜等高线地形抽象风格
+
+第四层继续做极端减法，将原图中的主体和场景转化为 等高线 / 地形图 / 流线轮廓图 式的极简抽象表达。这里不是把画面做成地图，而是将原图最有识别度的主体形态，转译为一组连续、克制、疏朗的 轮廓流线 或 层级等高线。例如人物的身体轮廓、建筑的层层屋檐、山体起伏、地面路径、台阶节奏，都可以转化为同心式、层级式或延展式线条结构。
+
+这些线条必须来源于原图的真实结构关系，而不是随意装饰。线条疏密要有节奏感：主体附近略密，外围逐渐变疏，形成一种从“具象主体”逐渐向“抽象空间波纹”扩散的感觉。必要时可以只保留一个主体区域的线性核心，不必把所有环境都画出来。整体仍需保证一眼能感受到原物的主要形态特征。
+
+背景为大面积米白或浅暖灰留白。线条颜色从原图中提取后做低饱和归纳，可使用 单色或双色系统，例如浅灰＋赭红、浅蓝灰＋米白、暖灰＋深褐等。允许局部出现一枚很小的色点、短线或定位符号，作为视觉节奏点，但面积必须极小。
+
+整体效果应像 地形研究图、抽象空间图谱、建筑展陈视觉、现代艺术图录中的轮廓研究页。这种层不强调材质、不强调写实、不强调装饰，而强调“结构被抽象为一种节奏”。避免复杂地图符号、信息图表感、技术说明书感和密集的数据可视化风格。
+
+四层统一规则
+
+四层必须始终围绕同一个主体和同一套空间关系展开，保持纵向浏览时的清晰连续性。第二至第四层不能随意改变主体数量、主体朝向、主体位置关系或主要环境结构。三层风格之间要形成明确递进关系：
+
+第二层强调：层叠与空间分层
+第三层强调：材料感与半透明边界
+第四层强调：轮廓节奏与结构抽象
+
+第二至第四层都必须使用大面积浅色背景与充足留白，主体面积不宜过大，整体画面重心稳定、安静、克制。构图可参考建筑海报、艺术展览主视觉、高级出版物页面和独立设计视觉系统。整体气质必须是：现代、高级、理性、艺术化、轻材料感、空间感强。
+
+色彩均需从原图中提取归纳，每层严格控制在少量主色范围内，不可随意加入与原图无关的强饱和颜色。四个区域高度比例必须严格保持 1:1:1:1（各占25%），不可出现拼接错位、比例偏差或层与层风格过于接近的问题。
+
+整体严格避免：朋克 / 赛博朋克 / 蒸汽朋克、复杂纹样、普通扁平插画、卡通、3D渲染感、廉价滤镜感、商业宣传海报感、复杂背景堆砌、过度写实叠加、元素过多、模板感，以及任何文字、标题、Logo、水印。",prompt_040.webp,https://x.com/zhidawang219555/status/2090365395509379453,"四等分演化, 描图纸分层, 磨砂玻璃, 等高线抽象",2026-09-16 07:37
+41,zhidawang219555,DAAI,"请将我上传的照片制作成一张竖版四层拼图艺术海报，整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为 1:1:1:1，不得出现任何比例偏差。区域之间无缝连接，不设置边框、不留间隙、不加入分隔线。
+
+四层顺序严格为：
+
+原始照片 → 建筑构成抽象 → 丝网套色印刷 → 盲压浮雕纸艺
+
+由于每层均为约3:1的极扁横向构图，应优先保留主体的横向关系、姿态走势、轮廓节奏以及场景中最具有辨识度的结构。主体整体居中或略微偏离中心形成视觉张力，左右保留大量开放空间，避免元素贴边、纵向拉伸或填满画面。
+
+第二至第四层不要简单套用艺术滤镜，而是逐层提炼原始照片中的主体轮廓、空间关系、比例结构以及最具有识别度的1—3个视觉特征，并将其重新组织为极简视觉语言。删除无关人物、复杂环境、纹理、五官细节及装饰元素，使观看者即使面对高度抽象化后的画面，仍然能够通过轮廓、姿态与位置关系迅速识别原始主体。
+
+第一层｜原始摄影
+
+保留上传照片中的人物、主体、互动关系、姿态、视线方向以及核心环境结构。
+
+保持真实摄影质感，只进行轻微的高级杂志摄影调色，使整体色彩更加统一、克制、自然。不要改变人物身份、动作或主体结构。
+
+可以根据3:1超宽横向区域自然向左右扩展天空、墙面、地面、建筑或环境留白，使主体完整舒展地位于画面中，并强化横向空间感。
+
+整体效果接近高端建筑杂志、艺术旅行摄影、独立视觉刊物中的摄影页面。
+
+避免过度HDR、电影滤镜、强烈暗角、梦幻光效以及商业广告式修图。
+
+第二层｜建筑构成抽象
+
+提取原始照片中主体最具辨识度的外轮廓、方向关系、比例与空间结构，将真实场景重新理解成一张极简建筑构成图。
+
+人物、建筑、山体、车辆、树木或其他主体不再进行写实描绘，而是转译为少量的大型几何结构：
+
+矩形、圆弧、梯形、长条面、弧面、切角色块以及极细的建筑构造线。
+
+例如人物身体可以简化为一个纵向色面，头部简化为圆形或半圆，建筑简化为水平矩形，山体转化为连续斜面，车辆转化为低矮几何体。
+
+所有元素必须来源于原照片的真实结构，不随意添加装饰性几何图案。
+
+色彩直接从第一层照片中提取并重新归纳，只保留 2—4种主色，降低饱和度，使其呈现柔和的灰阶综合色调。
+
+背景以米白、象牙白、浅灰白或非常浅的暖灰为主，占画面约65%—80%。
+
+允许加入极少量极细的水平基准线、垂直构造线、比例辅助线或一个大型空心圆弧，用于加强建筑制图与空间设计感，但这些线条不得抢夺主体。
+
+整体视觉参考：
+
+现代建筑事务所概念图、瑞士现代主义视觉系统、建筑双年展主视觉、设计博物馆展览图录。
+
+重点不是“画得像”，而是：
+
+用最少的形状重新解释照片中的空间关系。
+
+避免复杂几何纹样、装饰性图形堆积、渐变、立体透视渲染、真实阴影、卡通化以及普通矢量插画感。
+
+第三层｜丝网套色印刷
+
+继续保留第二层已经提炼出的主体轮廓与空间关系，但进一步删除建筑辅助线和次要几何形状，将画面压缩成类似艺术家限量丝网版画的极简视觉。
+
+主体主要由 2—3块大面积纯色平面构成。
+
+不要描绘真实材质，不要描绘细节，不要绘制复杂五官。
+
+人物、建筑或场景之间通过色块之间的遮挡、错位与负空间形成关系。
+
+允许出现非常轻微的套色偏移：
+
+例如两个颜色边缘存在1—3毫米视觉错位，使局部形成自然的第三种叠印色，但不得制造故障、赛博或朋克效果。
+
+纸张使用温暖米白色艺术纸背景。
+
+色彩仍然来自原始照片，但比第二层更加大胆地归纳，例如：
+
+原照片中的天空 → 一个低饱和蓝灰色块
+衣服 → 一个赭红或橄榄绿色块
+地面 → 一个极浅暖灰色面
+
+画面中最多保留 3种主色 + 米白背景。
+
+可以允许非常轻微的丝网墨层颗粒、边缘油墨不均以及纸张吸墨感，使画面拥有真实艺术印刷品的触觉，但肌理必须极少、极轻。
+
+主体仍需横向舒展，大面积留白。
+整体呈现：
+限量艺术版画、独立艺术出版社封面、设计博物馆纪念印刷品、现代艺术机构视觉物料。
+
+避免波普艺术、漫画、复古广告、朋克海报、粗暴网点、文字排版以及高饱和撞色。
+
+第四层｜盲压浮雕纸艺
+
+将第三层再次进行极端减法。
+
+几乎完全取消颜色，只保留原照片中最具代表性的 一个核心主体轮廓或一组关键关系。
+
+主体通过纸张表面的浅浮雕、压凹、压凸以及极微弱的阴影变化呈现。
+
+例如：
+
+人物可以只保留一个连续轮廓与身体姿态；
+
+建筑只保留屋顶与墙体最重要的几何关系；
+
+山体只保留一道连续起伏；
+
+多人合照只保留人物之间高低、距离以及肩部轮廓关系。
+
+整体使用象牙白、暖米白、骨白或浅灰白的高级艺术纸。
+
+画面几乎为单色。
+
+允许从原照片中提取 一个极小面积的强调色，例如一个不足画面5%的圆点、细长色条或局部几何面，但不是必须。
+
+浮雕高度非常浅，只通过侧向柔光形成克制的明暗变化。
+
+禁止做成立体雕塑、3D建模或厚重纸雕。
+
+主体周围保留约70%以上负空间，使轮廓像一件安静陈列在美术馆墙面上的纸本作品。
+
+整体视觉接近：
+
+高级品牌邀请函、建筑奖项年鉴封面、艺术机构纸本出版物、盲压工艺样册、极简设计收藏册。
+
+观看者应先感受到安静的大面积留白，再通过纸面细微起伏发现原照片中的主体结构。
+
+避免复杂纹理、浮夸金属光泽、奢侈品广告感、3D渲染、卡通、写实绘画以及装饰图案。
+
+四层统一规则
+
+第二至第四层必须始终来源于第一层照片中的真实主体，不允许因为风格化而改变人物数量、人物位置、身体朝向、主要互动关系或核心场景结构。
+
+三层风格必须呈现明显递进：
+
+第二层强调“结构”
+第三层强调“色彩与负空间”
+第四层强调“轮廓与材质”
+
+整体形成从真实世界逐渐抽象、逐渐简化、逐渐安静的视觉过程。
+
+所有风格层均保持大面积米白或浅色背景，主体面积适度缩小，避免铺满画面。
+
+色彩从原始照片中提取并重新归纳，不随意加入与照片毫无关联的高饱和颜色。
+
+整体气质必须：
+
+高级、现代、安静、理性、艺术化、具有策展感和设计收藏感。
+
+整体视觉可参考建筑事务所视觉档案、设计博物馆出版物、国际艺术双年展视觉系统以及独立艺术出版社，而不是普通商业宣传海报。
+
+严格避免：
+朋克、赛博朋克、蒸汽朋克、故障艺术、霓虹灯、卡通、动漫、3D渲染、复杂插画、过度写实、廉价滤镜、模板化海报、复杂背景、密集装饰、文字、标题、Logo、水印。
+最终必须确保四个区域高度完全一致，均严格占整体高度25%，无缝拼接，四层人物或主体位置相互对应，在纵向浏览时形成明显的视觉连续性。",prompt_041.webp,https://x.com/zhidawang219555/status/2090323273993331125,"四等分演化, 建筑构成, 丝网套色, 盲压浮雕",2026-09-16 07:37
+42,zhidawang219555,DAAI,"请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
+
+第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。
+
+第二层为青花瓷绘风格：借鉴青花瓷绘画技法，以钴蓝色线条与晕染在米白底上表现人物与场景，呈现瓷器纹样的疏朗雅致感。色彩以钴蓝与米白为主的单色系。避免蓝色浓淡层次过多显杂，避免图案化装饰堆砌。
+
+第三层为敦煌壁画风格：借鉴敦煌壁画矿物重彩质感，表现古朴斑驳的美感，需简化线条与色块。背景为土黄或赭石底色，带斑驳壁画肌理感。色彩以赭石、石青、朱砂、土黄为主。避免裂纹肌理过多堆砌，避免复杂纹样装饰。
+
+第四层为刺绣锦缎风格：以刺绣针脚肌理表现人物与场景轮廓，呈现丝缎光泽与针线纹理感，图案需极简概括。背景为米白或浅灰缎面底色。色彩以2至3种柔和色搭配金线点缀。避免针脚过密显繁琐，避免金线过多显浮夸。
+
+每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。",prompt_042.webp,https://x.com/zhidawang219555/status/2090310144190218272,"四等分演化, 青花瓷绘, 敦煌壁画, 刺绣锦缎",2026-09-16 07:37
+43,zhidawang219555,DAAI,"请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
+
+第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。
+
+第二层为木刻版画风格：以高对比黑白木刻刀痕表现场景肌理与人物剪影，辅以一至两处限定色点缀。背景为米白或浅灰纸底，刀痕线条粗犷有力但不杂乱。色彩以黑、米白为主，搭配一处点缀色。避免刀痕过密，避免灰阶层次过多导致画面发灰。
+
+第三层为撕纸拼贴风格：以撕边纸张色块拼贴表现人物与环境，层叠边缘保留自然撕痕肌理。背景为米白牛皮纸底色。主体元素由数张撕边色纸叠放构成，层次不超过三层。色彩控制在2至4种自然色系以内。避免纸片过多导致画面凌乱，避免裁剪边缘过于精细。
+
+第四层为蓝晒氰版风格：采用氰版摄影（蓝晒）风格，以单一普鲁士蓝与白表现人物与环境剪影，营造老工艺质感。背景为米白或浅蓝白底，可有轻微显影颗粒感。色彩为普鲁士蓝与白的单色系。避免加入其他杂色，避免颗粒感过重显脏。
+
+每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。",prompt_043.webp,https://x.com/zhidawang219555/status/2090274693601480772,"四等分演化, 木刻版画, 撕纸拼贴, 蓝晒氰版",2026-09-16 07:37
+44,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有生活方式杂志、独立出版物和艺术摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分先理解原图真正的**视觉核心与寓意**：判断画面最重要的不是“有什么”，而是“什么最值得被记住”——可能是一个主体、一种动作、一组关系、一处反差、一个情绪瞬间或某种象征意味。再从中提取最具识别性的**主体、轮廓、姿态、空间关系与叙事线索**，重构为“真实主体 + 黑线涂鸦小人”的趣味编辑海报。不要机械截取原图最大物体，而要保留最能代表照片精神和故事性的视觉锚点，使下半部分既能一眼对应原图，又像对原图进行了一次聪明的二次解读。
+
+真实主体保持材质与身份特征，可适度优化角度、比例、光线和色彩，使核心特征更鲜明；原图中与寓意无关的信息可以舍弃，但支撑主题的关键关系必须保留。围绕主体加入少量极简黑线涂鸦小人，小人的动作、位置和互动方式完全根据原图的形态、语境与潜在寓意自然生成，让他们像在回应、放大或反转照片原本的故事，而不是随意做动作。
+
+配色从上方照片中提取最有辨识度和精气神的颜色，可适度提纯、提亮和重新组织。背景以米白、浅色或原图中最舒适的浅色为主，保持大量留白；真实主体承担主要色彩，小人与文字以黑色或深灰细线形成对比，整体干净、轻快、克制。
+
+文字同样从原图的**核心寓意、情绪和视觉关系**中自然生长，不直接说明物体名称，也不套固定文案。将照片最值得被记住的那层意思转化成极短、轻松、聪明、略带幽默或双关的手写文字，让它像小人留下的注释、念头或一句画外音。文字可沿主体轮廓、人物动作或留白节奏自由排布，与小人和主体共同完成叙事，而不是后期贴上的标题。
+
+整体保持**真实主体、核心寓意、微型叙事、稚拙线条和大量留白**之间的平衡。无论原图是人物、动物、植物、食物、建筑、器物、交通工具或自然场景，都应先抓住“这张照片真正讲的是什么”，再决定如何重构，避免只抓物体不抓关系、只做可爱互动没有主题、卡通贴纸感、复杂装饰和模板感。
+
+💣language：english",prompt_044.webp,https://x.com/xiaoxiaodong01/status/2090834371423183135,"上下双拼, 趣味小人, 极简插画, 生活情绪",2026-09-16 07:37
+45,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分先理解原图真正的核心精神、情绪关系与潜在寓意，再提取其中最具识别性的主体、轮廓、姿态与叙事关系，只选择一个最能代表整张照片的核心意象进行中国刺绣式重构。不要把照片完整绣一遍，也不要把所有景物逐项转换成刺绣；应大胆删减次要信息，用一个姿态、一段轮廓、一种关系、一个动作或一个具有象征性的局部承载整张照片的内核，让人看到下半部分时，不只是认出“是什么”，还能够感受到原图“在表达什么”。
+
+刺绣语言融合中国传统织绣的丝线层次、针法变化、虚实关系与东方留白，可使用平针、长短针、盘线、缠线、打籽、压线等不同针迹，根据主体形态改变针向、密度和层次。局部可以精细，局部可以只留下几针、一道线或未完成的轮廓，让“绣与不绣”共同构成画面。真实呈现丝线光泽、针脚方向、叠线与轻微手工误差，但避免满版传统纹样、工艺品展示感和数字假刺绣。
+
+构图强调取舍、留白、气韵与生命感。不固定居中，不平均填满，根据主体的重心、动作、视线、走势和情绪自由安排位置、尺度、裁切与疏密。可以偏心、悬置、局部放大、越界或只出现一部分，让少量绣面与大片空白形成张力；一根游离的丝线、一个未完成的边缘或一小片颜色也可以承担情绪。留白应像空气、距离、停顿和余韵，而不是空出来等待填充的位置。
+
+背景必须干净、清亮、有空气感，不默认使用米黄、灰米、旧亚麻或脏浅色。 根据上方照片的色彩气质，自适应选择洁净白、冷白、柔和象牙白、极浅彩色或具有明确综合色相的清透丝绢底色，也可以在原图适合时使用更大胆但纯净的有色底。背景允许看到极轻微的丝绢、绫罗或织物纹理，但不得泛黄、蒙灰、发脏、做旧或出现污渍。刺绣的手工感来自丝线与针法，而不是靠脏旧背景制造。
+
+配色同样不设固定色卡。从原图中寻找最有神采、最有生命力、最能代表其精神的颜色关系，再转化成中国刺绣特有的灵动丝线色阶。不是平均吸取照片颜色，而是保留真正有意义的主色，并允许同一颜色在冷暖、深浅、明暗与纯度之间细微游移，通过近似色穿插、少量互补色点醒、高纯度小面积亮色和不同针向产生丝线闪烁。颜色可以清丽、鲜活、浓郁、柔美或素雅，由每张原图决定；丰富但不杂乱，明艳而不俗艳，柔和但不灰，传统但不死板。
+
+文字只作为轻巧的编辑性点睛，从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句。可使用细线刺绣、纤细题签或极简小字，让文字顺着丝线走势、嵌入负空间、贴近主体边缘，甚至像一根线一样成为构图的一部分；少而有意味，不做说明标签，不抢夺刺绣主体。
+
+整体追求一图一核、一核一意象：先理解原图，再选择最值得被留下的东西；其他元素宁可舍弃，也不要为了丰富而堆砌。最终呈现中国刺绣特有的灵动色彩、丝线光泽、东方留白、含蓄寓意与当代编辑设计感，清亮、有神、有情绪、有生命力。避免整图复刻、元素堆积、脏米色背景、泛黄旧布、固定国风配色、满版刺绣、文创商品感和模板感。",prompt_045.webp,https://x.com/xiaoxiaodong01/status/2090817611953270966,"上下双拼, 手工刺绣, 线缝布艺, 肌理重构",2026-09-16 07:37
+46,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，进一步理解照片中的情绪、潜台词或隐喻，再重构为温暖复古的手工拼布贴画。不要机械复制原图，而是使用格纹棉布、亚麻、水洗粗麻、补丁布和缝线，将最重要的形态与关系概括成简洁布片，使人一眼能认出原物，同时感受到照片背后的安静、陪伴、距离、停留、成长、归属、偶遇或时间感等内在情绪。
+
+构图强调留白的艺术与视觉呼吸，不把元素平均铺满。根据主体的重心、动作方向和叙事关系，自由安排布片的大小、疏密、层叠、裁切与越界，让主要形态与大面积空白形成有张力的关系；部分枝叶、轮廓、人物动作、器物边缘或景物可以自然伸出拼布区域，让画面像正在生长、经过或延续，而不是被边框封死。留白不是空缺，而是承担距离、情绪、时间和想象的空间。
+
+配色不设固定色卡，从上方照片中提取最有生命力、最能代表其精神气质的颜色，自适应转化为治愈系、人文主义的柔和布艺配色。保持原图自身的冷暖关系和色彩身份，适度柔化、提亮和协调，使整体温润、清爽、亲切、有生活感；主体可保留一处更鲜明的重点色，其余颜色柔和陪衬。不同照片应产生不同色组，避免固定米黄、灰棕、莫兰迪和刻意做旧。
+
+保留真实布纹、纤维、毛边、针脚、补丁、交叉缝线与轻微不规则拼接，使手工痕迹自然可见，但整体仍保持高级编辑设计的克制与精度。复古感来自材质和手作，而不是脏色、泛黄或廉价旧化。
+
+文字不是简单放一句英文，而应成为情绪与构图的一部分。从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句，避免仅仅写地点或物体名称。文字可用细线刺绣、手缝线迹或轻微手写形式，顺着主体走势、贴近布片边缘、藏入负空间、与缝线发生延续或停顿，让图形与文字共同形成阅读节奏。文字应少而有意味，像一句没有说完的话，而不是说明标签。
+
+整体呈现治愈、温暖、安静、有人情味、有生命力、有留白、有故事感的视觉气质，像高级生活杂志、独立绘本与当代纺织艺术结合的作品。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应先理解原图真正想表达什么，再决定如何取舍、留白、拼接与排版，避免儿童手工课感、机械临摹、平均构图、无意义装饰和模板感。",prompt_046.webp,https://x.com/xiaoxiaodong01/status/2090807474467291568,"上下双拼, 布艺情绪, 拼布艺术, 贴布绣",2026-09-16 07:37
+47,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级旅行设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有旅行摄影、独立出版物和艺术明信片质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为一枚精致的流金珐琅旅行冰箱贴 / 金属徽章。不要机械复刻全部细节，而是提炼最有记忆点的外轮廓、结构与局部特征，以简洁几何分区和珐琅色块重新塑造，让人一眼能够认出与上方照片是同一主体，同时具有真实纪念徽章的设计感。
+
+主体采用真实珐琅填色 + 金属分隔线 + 清晰白色金属外描边，边缘具有适度厚度、圆润倒角和细腻金属反光；内部可加入少量流金般的金属线条或局部金属细节，用于强调结构与层次。珐琅表面光洁、饱满但不过度塑料化，保留轻微高光、材质起伏与真实工艺感。徽章下方产生柔和而短促的立体投影，使其像真正放置在纸面上的实体冰箱贴，而不是扁平插画或数字贴纸。
+
+配色从上方照片中提取最具辨识度、最有生命力的颜色，转化为干净、鲜明、协调的珐琅色组，通过主色、邻近色与少量对比色区分不同结构区域。背景保持米白、浅灰、柔和粉彩或从原图延伸出的纯净浅色，大面积留白，让金属与珐琅成为唯一视觉焦点。
+
+构图根据主体自身的轮廓走势、视觉重心和动作方向重新设计，徽章可适度偏心、倾斜或局部延展，但整体保持稳定、精致和有收藏感。避免复杂场景，把原照片压缩成一个具有明确轮廓和完整视觉识别度的纪念物。
+
+文字作为徽章造型的一部分巧妙融入，而不是单独贴在背景上。从照片的地点、主体名称、主题或旅行情绪中提炼极短英文标题，可沿徽章边缘弧形排列、嵌入金属框架、穿插于主体负形或作为珐琅铭牌存在；文字同样具有金属或珐琅实体质感，与主体共享同一套结构语言，保持少量、精致、清晰。
+
+整体呈现真实摄影 × 流金珐琅 × 白色金属描边 × 立体徽章 × 高级旅行纪念品的视觉气质，清爽、明亮、精致、有收藏感。无论主体是建筑、人物、动物、植物、器物、交通工具、食物或自然景观，都应保持高度可识别和良好迁移性。避免卡通贴纸、塑料3D、廉价金边、厚重阴影、复杂装饰、电商商品图和模板感。
+✈️",prompt_047.webp,https://x.com/xiaoxiaodong01/status/2090799598336168140,"上下双拼, 鎏金珐琅, 金属徽章, 旅行冰箱贴",2026-09-16 07:37
+48,xiaoxiaodong01,小小东,"Please turn each photo I upload into a separate premium-designed poster, with no multi-image collage; output each photo as an independent poster. Use an overall 3:4 vertical composition, strictly divided into two equal-height sections, with the upper and lower halves each occupying exactly 50% of the canvas. The upper half should preserve the original photograph, maintaining the subject’s structure, realistic texture, natural lighting and shadows, and original color atmosphere, with only subtle high-end photographic color grading to give it the quality of an art publication or exhibition photograph. To adapt the image to the required aspect ratio, you may naturally extend the sky, ground, or environmental background, but you must not stretch, distort, or alter the main subject. The lower half should extract the most recognizable subject, silhouette, posture, and narrative relationship from the photograph; first understand its core meaning, cultural attributes, or emotional relationship, then reconstruct it into a graphic composition combining the character of a folk-culture catalog, antique rubbing prints, and modern graphic design. Do not translate every element in the photograph one by one, and do not add generic traditional patterns; retain only one core visual motif and a very small number of auxiliary forms that truly carry narrative significance. Use silhouette, negative space, partial enlargement, shape merging, and symbolic transformation so that the graphic not only corresponds to the original object but also expresses the meaning behind it. Build the composition on a rigorous geometric framework and proportional system: derive circles, squares, triangles, arcs, axes, or repeated proportions from the structure of the subject itself as the “geometric matrix,” then align all main forms, secondary graphics, typography, and negative space through shared tangencies, common axes, nesting, mirroring, proportional progression, or edge cropping relationships. The layout may be freely distributed, off-center, extend beyond boundaries, or be asymmetrical, but every element must obey the same structural logic, creating a clear visual center of gravity, hierarchy, rhythm, and negative space; from a distance the order should be immediately legible, while closer viewing should reveal traditional print traces and subtle details. Avoid random scattered elements and decorative accumulation. Extract the most distinctive, lively, and spiritually expressive colors from the upper photograph and reorganize them into a clean, restrained paper-printing palette. Use a bright, light paper-colored background to create breathing room, one dark color to establish the visual skeleton, and one or two theme colors derived from the original photograph to organize the main subject and limited accents. Build depth through area ratios, overprinting, and tonal contrast. Colors should feel clean, vivid, and spirited; avoid muddy artificial aging, fixed stereotypical folk palettes, or chaotic multicolor combinations. Use a hybrid material texture combining woodblock rubbing, dry-brush screen printing, and vintage catalog printing. Broken ink, abrasion marks, exposed paper, and uneven ink density should mainly appear inside the graphic forms, while geometric boundaries, important contours, and the overall layout should remain crisp and precise, creating a contrast between “rough material texture × rigorous geometric order.” Typography should function only as supporting compositional information. Extract a small amount of title text and micro-annotations from the photograph’s theme, meaning, or cultural attributes, and allow them to follow geometric axes, negative space, or graphic boundaries in flexible arrangements, aligning, nesting, or interweaving with the main forms without competing for the visual center. The overall visual character should prioritize meaning, restrained graphics, rigorous geometry, rough rubbing textures, clear negative space, and the coexistence of traditional cultural sensibility with modern design order. Every graphic element that appears must have a source, a meaning, and a structural function; remove anything that does not strengthen understanding of the theme, and avoid collage-like material assembly, arbitrary insertion of traditional symbols, evenly distributed layouts, realistic illustration, and template-like design. 
+
+💣Text preference: Japanese.",prompt_048.webp,https://x.com/xiaoxiaodong01/status/2090753061857931599,"上下双拼, 民俗拓印, 几何秩序, 英文提示词",2026-09-16 07:37
+49,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，先理解其核心寓意、文化属性或情绪关系，再重构为具有民俗图录、古物拓片与现代平面设计气质的图形画面。不要把照片中的元素逐一翻译，也不要添加泛泛的传统纹样；只保留**一个核心视觉母题与极少量真正有叙事意义的辅助形态**，通过剪影、负形、局部放大、形态合并与符号化转译，使图形既能对应原物，又能表达其背后的意义。
+
+构图建立在严谨的**几何骨架与比例系统**之上，根据主体自身的结构提炼圆、方、三角、弧线、轴线或重复比例作为“几何母体”，再让所有主体、辅助图形、文字和留白与其发生对齐、切线、共轴、嵌套、镜像、比例递进或边界裁切关系。版面可以自由分布、偏心、越界或不对称，但必须共享同一套结构逻辑，形成清晰的视觉重心、层级、节奏与负空间；远看秩序明确，近看才发现传统印痕与细节变化，避免随机散点和装饰性堆砌。
+
+配色从上方照片中提取最具辨识度、生命力与精神气质的颜色，重新归纳为清爽克制的纸面印刷色组。以明亮浅色纸底形成呼吸感，用一个深色建立视觉骨架，再以1–2个源自原图的主题色组织主体和少量强调，通过面积比例、叠印与明度关系建立层次，颜色应干净、有精神，避免灰脏做旧、固定民俗配色和杂乱多色。
+
+材质采用**木刻拓印、干刷丝网印与旧式图录印刷**的混合质感，断墨、擦痕、露底和不均匀墨量主要存在于图形内部，几何边界、重要轮廓和整体版式仍保持清晰准确，形成“粗粝物质感 × 严谨几何秩序”的对比。
+
+文字仅作为构图中的辅助信息，从照片的主题、寓意或文化属性中提炼少量标题与微型注释，可顺应几何轴线、负形或图形边界自由排布，与主体形成对齐、嵌套或穿插关系，但不抢夺视觉中心。
+
+整体呈现**寓意先行、图形克制、几何严谨、拓印粗粝、留白清晰、传统文化感与现代设计秩序并存**的视觉气质。每一个出现的图形都必须有来源、有寓意、有结构作用；删除不能增强主题理解的装饰元素，避免素材拼贴、传统符号乱入、平均排版、写实插画和模板感",prompt_049.webp,https://x.com/xiaoxiaodong01/status/2090606881987600812,"上下双拼, 拓印粗粝, 做旧印刷, 几何剪影",2026-09-16 07:37
+50,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为由真实自然材料拼合而成的编辑插画。使用清晰可辨的叶片、花瓣、枝条、果实、种子、草茎、树皮或枯叶，直接利用它们原本的形状、纹理、色差和不规则边缘组合主体，不要把植物切割成过于精准的几何形，也不要用插画轮廓包住植物；让观看者既能认出原来的主体，也能清楚看见它是由真实自然元素巧妙拼合而成。
+
+构图以一个简洁的矩形色域或纸面区域建立秩序，但不要刻意画出完整边框。主体与矩形保持自然的内外关系，大部分落在色域之中，少量最具方向感的部分自然伸出边界，使画面产生轻松的越界感；像植物恰好从版面中生长出来，而不是为了“突破边框”刻意摆造型。保持大面积留白、明确重心和不完全对称，让自然材料的偶然性与编辑设计的秩序并存。
+
+黑色线条只作为**极少量辅助语言**出现，不为主体整体描边。可用于眼睛、嘴巴、极简表情、细小动作暗示、局部连接、短线、手写痕迹或版式中的轻微视觉节奏；线条纤细、松弛、略带手绘感，让植物本身承担主体的形体与轮廓。
+
+配色从上方照片中提取最有生命力和辨识度的色彩气质，再通过天然植物自身的颜色重新转译。保留叶片、花瓣、果实和枯枝真实的综合色差异，不过度统一染色；背景使用与原图协调的浅色或柔和综合色，使天然材质成为画面的视觉中心，整体清新、克制、有生命力而不杂乱。
+
+文字保持极少，并作为编辑设计中的轻量元素。从照片的情绪、动作、关系或隐喻中提炼一个简短英文标题和少量微型注释，可贴近矩形色域边缘、悬置于留白中，或与一根枝条、叶片方向形成巧妙对齐。不要抢主体，也不要做成常规海报标题。
+
+整体呈现**真实自然材料 × 轻微黑色手绘痕迹 × 几何色域 × 自然越界**的视觉关系，保持手工、聪明、松弛、诗意和高级编辑感。避免完整黑色描边、植物被切成规则色块、儿童树叶贴画、刻意越界、卡通拼贴和模板化构图。",prompt_050.webp,https://x.com/xiaoxiaodong01/status/2090464374188310979,"上下双拼, 植物重构, 自然材料, 标本拼贴",2026-09-16 07:37
+51,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为松弛、稚拙的蜡粉笔手绘图像。以米白色粗纤维手工纸作为底层，在画面中设置一块横向延展的低饱和纸张色域，颜色从上方照片的综合色彩与情绪中自然提炼并重新调和，不固定色相。主体以浅色哑光蜡粉笔概括描绘，去除繁杂细节，只保留最核心的比例、走势和识别特征，线条随性、不规整、略带断裂与粗糙摩擦感，让人一眼能够联想到上方原物，又具有独立的手绘表达。
+
+构图强调**横向色域、主体重心与上下留白之间的比例关系**。主体可根据原图姿态自然偏置、裁切或跨越色块边界，不必机械居中；利用尺度、方向、正负形和留白建立安静的视觉节奏。色块只承担主体与空间关系，不增加多余装饰，保留双层纸张、轻微做旧、Risograph颗粒与真实纤维质感，避免复杂阴影、写实塑造和数字光滑感。
+
+文字从照片的**情绪、动作、状态或隐喻**中提炼一句简短英文短句，以柔软、潦草、略带不完美的手写方式融入画面。文字可沿色块边缘、主体走势或留白区域自然排列，也可与轮廓发生轻微穿插、错位或跨界，使文字像手绘作品的一部分，而不是后期添加的标题。
+
+整体呈现**安静、松弛、温柔、复古、文艺而克制**的纸上编辑视觉，兼具手工温度与现代构图感。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都保持真实摄影与极简手绘之间清晰而巧妙的视觉呼应，避免卡通感、廉价手账感、复杂装饰、固定配色和模板感。",prompt_051.webp,https://x.com/xiaoxiaodong01/status/2090452158827422135,"上下双拼, 蜡粉笔, 松弛感, 稚拙手绘",2026-09-16 07:37
+52,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为 **Naïve folk-inspired narrative illustration / 稚拙民艺感质感型扁平叙事插画**。不要完整描摹照片，而是主动删减细节，以剪影、原始化形体、少量色块和图符化元素重新讲述原画面，只保留最能维持主体身份与故事关系的视觉线索，让人一眼认出原物，同时具有朴拙、幽默和生活感。
+
+主体造型以**简化剪影与大块 primitive forms** 为核心，人物、动物、建筑、植物、器物或交通工具都可适度压缩比例、概括结构和夸张特征，不追求严格透视与解剖。空间采用 flattened perspective，以高低、遮挡、大小和色块关系建立叙事；辅助物件像视觉符号一样有节奏地分布，复杂背景主动删除，让一个核心动作、关系或场景承担主要故事。
+
+画面使用**蜡笔、油画棒、粗铅笔与干性材料般的颗粒肌理**。黑色或深色区域不要均匀填满，而应保留擦拭、摩擦、叠涂、断裂和纸张透底的痕迹；轮廓略带手工误差和笨拙感，边缘不必绝对整齐。整体保持平面，不使用写实光影、金属材质、复杂体积或光滑数字矢量。
+
+配色从上方照片中挑选**最鲜活、最有记忆点、最能代表主体精气神的颜色重新组织**，形成简洁而明快的 limited color palette。整体提高颜色的清洁度与生命力，以暖白纸面、深色剪影为稳定基底，再从原图自然提炼蓝、红、黄、绿、粉、橙等少量 spot-color accents，用于服饰、植物、食物、建筑局部或叙事焦点。颜色鲜明但不过度饱和，通过大面积深浅对比与小面积跳色形成节奏，避免灰脏、暗沉、莫兰迪化、荧光色和廉价糖果感。
+
+构图重视**叙事中心、视觉重心、正负形、大小节奏和留白关系**。主体不必居中，可以偏置、局部裁切或与辅助元素形成松散的三角关系；保留足够空白，使粗粝的剪影与彩色小元素具有呼吸感。画面远看结构清楚，近看能看到手工颗粒和略带天真的造型趣味，而不是把所有元素平均铺满。
+
+文字少量介入，不预设固定标题、地点、编号或语种，根据照片的主体、动作、生活状态、情绪或文化语境自由提炼少量有意义的文字。**使用轻巧、朴素、略带手工印刷偏差与不规则字距的民艺编辑字体**，可搭配少量手写字，让文字像画面中的招牌、菜单、便笺或出版物注释一样自然存在。文字可沿主体、桌面、墙面、留白或场景结构错落排布，与图形共同参与叙事，但不要形成规整商业标题栏。
+
+整体呈现**稚拙剪影、平面空间、蜡笔颗粒、限制性色彩、民艺符号与编辑叙事**共同构成的视觉气质：亲切、幽默、朴素、聪明、有生活感，同时保持成熟的构图与设计意识。避免儿童卡通、可爱贴纸、写实插画、光滑矢量、复杂透视、精细五官、过度细节、3D渲染、电商插画感和模板化效果。
+——————
+
+我们改成左右布局，sidebyside 不要上下布局
+比例7:6",prompt_052.webp,https://x.com/xiaoxiaodong01/status/2093627864973295787,"左右双拼, 粗铅笔, 民俗剪影, 天真质感",2026-09-16 07:37
+53,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、结构、姿态与叙事关系**，将其转译成一张真实可触摸的 **Physical String-based Systems Map / Tangible Node-link Visualization**。不要直接描绘原物，而是把主体拆解为少量具有意义的节点与关系：关键轮廓、结构转折、动作方向、空间位置或环境线索成为图钉式 Nodes，彼此之间使用真实线绳作为 Edges / Links，使原照片的视觉关系重新以实体网络显形，并仍能隐约辨认出原主体的身份与结构。
+
+构图以一个明确的**核心节点或核心关系**作为视觉枢纽，其余节点围绕主体结构自然展开。线绳不是随机缠绕，而应根据原图的方向、比例、远近、连接与叙事逻辑建立关系；部分节点形成放射、聚合、三角、多边形与跨区域连接，使大量简单关系自然产生 **emergent geometry**。整体既复杂又有秩序，中心关系较密，外围逐渐疏松，保留充足负空间，避免把整个版面铺满。
+
+材质必须具有真实实体装置感：使用细小图钉、针脚、棉线或细绳、纸质标签、手写痕迹和真实纸板表面，保留轻微线绳松紧差异、节点高度、交叉遮挡、针脚阴影与手工误差。整体像一件经过艺术指导的研究墙、系统设计实验或信息艺术装置，而不是电脑绘制的网络图，也不要出现赛博UI、数字发光线或廉价侦探板效果。
+
+线绳以**鲜明但克制的朱红、珊瑚红或暖红色**作为主要关系色，在大量自然白、暖白、浅灰或与上方照片综合色温协调的极浅背景中形成视觉张力；图钉、纸签与少量标记可从上方照片提取局部特征色进行低面积呼应。整体颜色干净、现代、有生命力，避免暗褐、脏旧、血红恐怖感和过度复古做旧。
+
+文字作为系统中的**Hand-lettered Annotation** 自由介入，不预设固定标题、地点、年份或菜单式信息。根据照片中的主体、动作、位置、情绪、关系或隐喻，自由生成少量关键词、短句、箭头、圈注或微型说明，并直接写在节点附近、线绳交汇处或留白区域。字体使用**细小、松弛、略带研究笔记感与书写偏差的手写注释字体**，让文字像观察过程中自然留下的思考痕迹，同时保持高级编辑设计的克制与可读性。
+
+整体呈现**实体节点、红色线绳、关系映射、涌现几何、手写注释与大量留白**共同构成的高级实验视觉。无论主体是人物、动物、植物、建筑、器物、交通工具、自然景观或复杂场景，都应把“它是什么”进一步转译为“它的各部分如何发生关系”，形成具有研究感、艺术感、系统性与手工温度的实体信息可视化。避免随机红线、无意义节点、满版混乱、恐怖犯罪板、数字网络UI、卡通图钉、模板化思维导图和普通流程图。",prompt_053.webp,https://x.com/xiaoxiaodong01/status/2093543076367389130,"上下双拼, 线绳网络, 信息图, 实体装置",2026-09-16 07:37
+54,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、结构、姿态与叙事关系**，先理解原画面真正值得保留的情绪、动作、关系或视觉隐喻，再将其重新组织成一枚具有原创概念的**伪3D圆角图标视觉**。不要把照片简单缩进图标，而是以最少但最关键的元素重建原图的“灵魂”，做到第一眼认出主体，第二眼读懂关系，第三眼感受到原画面的情绪。
+
+图标外轮廓必须始终保持为**标准1:1正方形圆角矩形**，四边等长、圆角统一、正面平视、比例稳定，像一枚完整规范的高端 App Icon。禁止拉长、压扁、倾斜、透视变形、梯形化或让主体改变图标外轮廓。圆角方形只是一个固定的视觉舞台，所有创意、空间和叙事都发生在这个边界内部。
+
+图标内部采用**正面平视的伪3D / 2.5D空间语言**。主体为绝对视觉核心，周围仅保留能够强化叙事的少量环境关系，通过真实的前后遮挡、体积厚度、高低层次、柔和切面、局部浮雕和空间距离形成丰富立体感。多个元素可以拥有不同深度，但应像同一个连续空间自然生长出来，而不是一层层剪纸叠加。避免等距沙盘、俯视模型、纸片堆叠和复杂真实透视。
+
+构图优先寻找原图最有力量的**核心视觉关系**，可通过比例夸张、局部放大、前后穿插、形态呼应、空间压缩或象征性转换强化隐喻，但所有变化都必须服务于一个明确主题。画面保持清晰视觉重心、鲜明主体轮廓和良好负空间，使图标缩小后仍具有强辨识度和独特记忆点，而不是普通“物体居中”的模板图标。
+
+配色**完全从上方原始照片中推导，不预设固定颜色菜单**。先识别照片中最能代表主体身份与情绪的主色、最有生命力的亮色以及承担空间平衡的辅助色，再在保持原有色相记忆的基础上进行重新调制：适度**提高明度、提升纯净度、去除灰脏杂色、整理冷暖关系、拉开主次层级，并强化最有精神的颜色**。最终颜色可以比原照片更鲜活、更通透、更有生命力，但仍应让人自然感受到它来源于原图，而不是套用另一套配色模板。避免灰暗、发旧、平均取色、无重点多彩、荧光化和廉价糖果感。
+
+质感采用**细腻、哑光、柔和的现代伪3D雕塑感**，介于高端编辑插画、微型艺术模型和品牌3D视觉之间。形体有真实体积和柔和层次，但不过分光滑、反光或CG化；避免剪纸感、塑料玩具感、玻璃果冻感、金属高光和游戏UI质感。
+
+下半部分外围保持大面积干净留白，只展示这一枚完整的圆角方形图标。文字如需介入，仅使用极少量精致的编辑性文字置于图标之外，与整体版式建立安静、克制的关系，不增加周边装饰或视觉噪音。
+
+整体追求**固定圆角方形舞台 + 原图灵魂提炼 + 正面伪3D层次 + 原图色彩再艺术指导 + 强识别度与原创隐喻**。最终应像一枚真正可以进入品牌视觉提案或图标创意评审的作品，而不是照片缩略图、剪纸插画、等距模型或模板化App Icon。",prompt_054.webp,https://x.com/xiaoxiaodong01/status/2093359609277042724,"上下双拼, 图标转绘, 极简矢量, 设计系统",2026-09-16 07:37
+55,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片主体最具识别度的**轮廓、结构、姿态与叙事关系**，重构为一组 **3D miniature architectural landscape** 风格的极简艺术画面：以 **isometric view / cut cube composition / perspective of an underwater continental shelf** 的方式呈现，主体像一个被剖开的微缩立体场景，具有正确的等距视图与清晰空间层级。整体以**微缩灯塔景观**为核心语义，可根据原图主体特征灵活转译，但必须保留一眼可辨的识别性与原始叙事关系。
+
+下半部分不是写实插画，而是将主体压缩为**简洁几何形状、扁平色块、细线条与留白**的抽象化表达；在极简基础上保留适度丰富的结构细节，使画面兼具建筑图解感与艺术海报感。主体应像一件置于白色纹理纸上的微型立体模型，带有 **hand-drawn architectural illustration** 气质：线条精细、层次清楚、细节克制而准确，避免厚重真实渲染。
+
+画面中加入明确的**脚手架逻辑**，参考你提供的图像：脚手架不是随意装饰，而应作为包裹、支撑、搭建或介入主体结构的理性系统，与主体共同形成空间秩序。脚手架可由细密的水平、垂直构件与局部连接节点组成，围绕主体外轮廓、关键转折或立体切面展开，呈现一种“正在被建构、修复、测绘或展示”的感觉；视图必须准确，透视关系清晰，不要画成漂浮拼贴。
+
+构图保持**主体居中、画面平衡、秩序克制**，并通过少量水平线、纵向构图线、环形元素或剖面边界增强空间感。背景使用**白色纹理纸或极浅米白纸面**，干净、安静、无阴影或仅有极弱的结构层次，不要厚重投影。保留大面积留白，让主体像悬浮于展览图录或建筑研究海报的版面中。
+
+配色从上方照片中提取灵感，但需重新处理为**更明艳、清透、治愈且有生命力**的高级色系，而不是直接照搬原始色值。保留原图的色相线索后，适度提亮、提纯、去灰，使颜色更鲜活、更轻盈；可形成清澈蓝、湖水青、嫩绿、明黄、珊瑚橙、桃粉、淡紫等柔和而明快的综合色关系，通过冷暖对比与明度节奏建立精致层次。避免灰脏、暗沉、发旧、莫兰迪化、廉价糖果色和塑料感。
+
+文字可少量介入，加入简洁的英文标题、编号或年份，并与主体、脚手架或留白形成自然的排版关系。文字应精致、现代、克制，像国际设计工作室、建筑海报、艺术展览海报和高端品牌视觉系统中的编辑性标注，不喧宾夺主。
+
+整体风格呈现**高级、现代、雅致、克制、艺术化**的视觉效果，融合微缩立体景观、建筑剖面图、等距视图、脚手架系统与极简海报版式。避免过度滤镜、廉价塑料质感、卡通感、强电脑生成感、模板化效果、错误视图和无逻辑的装饰性结构。",prompt_055.webp,https://x.com/xiaoxiaodong01/status/2093347851330027909,"上下双拼, 脚手架, 等距视角, 微缩景观",2026-09-16 07:37
+56,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于主题联想与选择性记忆的艺术重构，上下自然呼应。
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，进一步理解画面真正值得被记住的情绪、动作、环境线索与视觉隐喻，将其重构成一组彼此关联的**视觉记忆片段**。不要完整重画原图，也不要随机罗列物件；围绕一个核心主题，自主提炼约3–6个最有意义的形象，可以是主体本身、局部特征、动作、环境元素，也可以是由原图自然联想到的象征性形状，让这些片段共同讲述同一个主题。
+造型采用轻盈、稚拙而高级的**剪纸、水粉、粉蜡、Risograph与丝网印刷式平面语言**。形体大胆概括，轮廓略有手工误差，以简单色块、剪影、几何形和少量手绘痕迹表达，不追求写实细节。允许真实物体与诗意隐喻并置，例如把声音变成波纹、距离变成一条线、情绪变成云或光斑，但所有联想必须来自原照片的主题，而不是无意义装饰。
+背景根据原图综合色温、光线与情绪，智能生成一个**极度浅、干净、几乎接近白色的综合色底**，可微偏暖、偏冷、偏粉、偏蓝或偏绿。大面积留白是主要视觉语言，让不同片段像散落在纸面上的观察、念头与记忆，彼此之间保持呼吸和距离。
+构图采用**有控制的即兴排版**：不使用规则宫格，也不固定中心或左右结构。根据每个片段的视觉重量、形状方向和叙事关系，自由决定大小、位置、旋转、间距与留白；通过大小反差、斜向呼应、高低错落、虚实疏密和正负形建立隐藏的视觉路径。画面可以不完全对称、略显随性，但整体重心必须稳定，让观看顺序自然地在几个片段之间流动，形成“看似随手，实则经过艺术指导”的版式。
+配色采用**柔和、通透、略微去饱和的治愈系高级色盘**，从原图综合色温与最有生命力的特征色中灵活调整。可使用浅粉蓝、雾蓝、天空蓝、奶油白、象牙白、浅米色、柔和灰绿、奶杏色、blush pink、soft peach、dusty rose 等轻盈色彩，并保留少量更清晰的原图特征色作为视觉跳点。整体明亮、干净、有空气感，避免脏灰、高饱和撞色和厚重复古滤镜。
+文字不预设标题、编号、地点、年份或固定语种。根据照片的主题、动作、情绪、声音、记忆或隐喻，自由生成极少量真正与画面有关的字、词、短句或随笔式片段。文字可以像手写观察笔记，也可以混合极细的编辑字体；可散落在片段之间、贴近某个图形、顺着视觉方向书写、藏在大面积留白中，甚至成为连接两个图形的叙事线索。文字内容与排版都应随主题变化，不做菜单式信息，也不为了装饰而添加伪文字。
+整体像一本被偶然翻开的**私人视觉日记、独立艺术刊物与诗意观察手册**：轻盈、治愈、聪明、松弛、略带稚拙和幽默，同时具有成熟的构图判断与编辑设计感。最终不是“原照片的插画版”，而是把原照片最核心的美感和隐喻重新组织成一页值得反复观看的视觉记忆。",prompt_056.webp,https://x.com/xiaoxiaodong01/status/2093240983215640932,"上下双拼, 水粉拆分, 治愈配色, 轻盈稚拙",2026-09-16 07:37
+57,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为极简抽象重构！
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态、空间关系与情绪隐喻，重构为具有禅意、哲思与极简抽象气质的画面。不要重现场景全貌，也不要描摹原图细节，而是只保留原图最本质的核心图形逻辑：一个最关键的形、一个最值得记住的关系、一个最有意味的视觉命题。让人既能感受到原物的来源，又能读出更深的安静、孤独、时间感、观看感或存在感。
+
+下半部分整体应建立在大量留白与极简构成之上，画面元素尽量少，通常只保留 1–3 个核心形体。主体不一定写实出现，可以被转化为更抽象、更象征性的黑色主图形，如轮廓、剪影、块面、波纹、山形、圆形、眼状、路径、断裂边界、消散结构或某种难以言明但高度凝练的意象。它们应来自对原图潜台词和寓意的理解，而不是随意装饰。
+
+视觉语言参考你提供的这种黑色主导的极简抽象图像系统：黑色作为画面主体，以网点、栅格、条纹、波线、颗粒、错位、重复、消散、稀释或局部畸变形成形体；图形边界可以清晰，也可以在局部逐渐松散、模糊、断裂，让“显现”与“消失”同时存在。背景色不固定，但必须是极浅、安静、接近纸面的底色，可根据原图的综合色温灵活变化为米白、灰白、沙白、雾灰、浅赭、淡粉灰、极浅蓝灰等，使黑色主体更有精神性与呼吸感。
+
+构图应比普通抽象插画更专业，重视留白比例、视觉重心、孤立关系、尺度反差、正负形、疏密节奏与观看路径。主体可悬置、偏心、压低、上提或缩小，让空白本身成为意义的一部分。可以加入极少量辅助形，如远处的一道线、一片模糊地形、一枚圆、一点影子、一个小人或一组轻微重复符号，但都必须服务于核心命题，不形成第二叙事中心。
+
+整体气质不是装饰性的“东方风”，而是更接近沉静、留白、哲学、寓言、内观、即兴而克制的视觉思考。允许画面带一点童真、诙谐和机智，但这种趣味应当非常轻，不破坏整体的空灵与高级感。
+
+文字不预设固定标题、编号、地点或语种，也不做菜单式信息。可根据照片的主题、动作、情绪或隐喻，自由生成极少量真正有意义的字、词或短句，轻轻放入留白之中。文字应极少、极轻、极克制，像一句旁白、一个概念注记或一段思考的碎片，与图形共同形成哲思感，而不是解释画面。
+
+整体气质应像一本独立出版的视觉哲学手册或诗性艺术海报：黑色为主、背景极浅、图形极少、留白极大、寓意极深、安静而有回声。 避免写实重构、场景堆积、彩色主导、复杂叙事、卡通感、装饰性东方符号泛滥、电商插画感和模板化海报感。",prompt_057.webp,https://x.com/xiaoxiaodong01/status/2092191356177576004,"上下双拼, 禅意极简, 抽象重构, 中式意境",2026-09-16 07:40
+58,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于核心意象与潜台词的手绘叙事重构
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分不再追求重现场景全貌，而是提取照片中最具识别性的主体、轮廓、姿态、空间关系与情绪隐喻，在理解原图潜台词、气氛和寓意之后，重构为一幅带有手绘叙事感的寓言式画面。不要完整描摹照片，也不要机械复制细节，而是只保留最本质、最值得记住的核心图形逻辑，把复杂现实转化为更纯粹、更有象征意味的图像关系，使人一眼认出原物，同时感受到它背后隐藏的情绪、记忆与意味。
+
+下半部分的风格参考你提供的那种温暖纸面上的手绘插画气质：画面带有童真、隐喻、轻微诙谐与即兴感，像一本旅行寓言绘本或私人神话地图。可以对原图进行适度想象与重组，把真实场景中的主体、环境和细节转译为更有叙事性的象征元素；允许把原图的情绪、关系或精神内核，通过夸张比例、拟人意味、隐喻景物、重复符号或天真而聪明的构图方式重新表达，但始终围绕同一个核心主题，不变成拼贴式元素堆积。
+
+构图应建立在大面积淡色背景与清晰主次关系之上，保留充足留白，让空白承担空气、距离、安静和想象空间。主体可集中于中下部或某个更有叙事张力的位置，周围只保留少量支撑性的景物、路径、植物、建筑、器物或象征符号，通过高低错落、远近层次、曲线引导、块面节奏与正负形关系形成更专业、更有美感的版式秩序。画面可以像“从现实中长出一小段幻想”，既有故事感，也有克制的平面设计意识。
+
+整体画风采用手绘感明确的平面插画语言：可表现为不透明水粉、粉彩、彩铅、蜡笔、丙烯或带轻微纸纹的绘本式上色，保留柔和块面、略带笨拙的轮廓、轻微手工误差与自然材料感。线条不必太多，但应有适度手绘痕迹；形体简化、比例可爱、细节概括，既温柔又有趣，避免光滑矢量、3D塑料感、写实精描和过于工整的商业插画感。
+
+配色延续当前逻辑：整体采用柔和、通透、略微去饱和的高级色系，并以淡色背景和大面积留白为基础。以浅粉蓝、雾蓝、天空蓝、空气感冷调蓝营造主氛围，再以象牙白、奶油白、浅米色、柔和灰绿、建筑中性色保持平衡；可加入少量 blush pink、soft peach、dusty rose 或 muted blush 作为局部点睛，使画面更有 ins 治愈感、呼吸感与精致层次。避免脏灰、过强反差、高饱和撞色和廉价复古感。
+
+文字不预设固定标题、编号、地点或语种，也不做菜单式信息。应根据照片的主体、情绪、动作、记忆或隐喻，自由生成极少量真正有意义的字、词、短句或片段，并通过高级编辑排版自然融入留白区域。文字应小、轻、克制、精致，像独立出版物中的诗性注记或聪明旁白，与画面形成若有若无的呼应，而不是直白解释画面。
+
+整体气质应像一本独立出版的艺术旅行绘本或寓言式视觉手册：淡色、留白、温暖、童真、聪明、安静、诙谐、带隐喻与即兴感，同时具有清晰的核心主题和高级版式秩序。 避免完整写实风景、信息堆积、主体过满、背景过实、模板化海报感、电商插画感、卡通套路、过度装饰和无意义的可爱化处理。",prompt_058.webp,https://x.com/xiaoxiaodong01/status/2092183407778509243,"上下双拼, 童真绘本, 寓言插画, 手绘叙事",2026-09-16 07:40
+59,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于潜台词与寓意的艺术化重构；
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态、叙事关系与情绪隐喻**，不仅重现“看见了什么”，更要理解原图“在暗示什么、象征什么、让人联想到什么”，再将其重构为一种**几何极简、诗意浪漫、但结构严谨**的图形化场景。不要完整描摹原场景，也不要照搬现实细节，而是只保留最能成立原图精神的核心主题与视觉逻辑，把复杂信息转译成少量清晰而有意味的形体、路径、地貌、建筑感、空间层次或象征性对象，让人一眼感到与原图同源，同时感受到被提升后的寓言感与诗意。
+
+构图应建立在**几何秩序与理性结构**之上，具有类似达·芬奇式的严谨感：重视比例、轴线、透视、主次秩序、块面关系、路径引导与空间平衡。主体可被转化为简化的山体、建筑体、器物体、人物体、道路、平台、穹顶、拱形、圆盘、树状体或其他象征性几何形体，通过少量关键元素搭建一个安静而浪漫的“观念景观”。下半部分应有大量淡色留白与呼吸空间，复杂背景主动删减，只留下支撑主题与寓意的必要场域，让空白、距离和秩序本身参与叙事。
+
+视觉语言采用**几何化平面图形 + 柔和手工质感**：形体清晰概括，边缘克制，细节简化，允许轻微纸感、粉感或版画感，但避免贴纸感、3D感、写实感和过度装饰。画面整体既有现代图形设计的简洁，也有浪漫叙事插画的诗性，像一幅被理性结构约束过的梦境地图、记忆风景或寓意图解。
+
+配色延续当前逻辑：整体采用**柔和、通透、略微去饱和的高级色系**，并以极浅、干净、接近白色的淡色背景作为大面积呼吸场。以**浅粉蓝、雾蓝、天空蓝、空气感冷调蓝**营造主氛围，再以**象牙白、奶油白、浅米色、柔和灰绿、建筑中性色**保持平衡；可加入少量 **blush pink、soft peach、dusty rose 或 muted blush** 作为局部点睛，使画面更具治愈感、诗意与精致层次。避免脏灰、过强反差、高饱和撞色和廉价复古感。
+
+文字不预设固定标题、编号、地点或语种，也不做菜单式信息。应根据照片的主题、情绪、寓意、记忆或文化语境，自由生成极少量真正有意义的字、词、短句或片段，并通过高级编辑排版自然进入留白区域。文字应小、轻、克制、精致，可沿轴线、边缘、路径或主体周围排布，像独立出版物中的注记、题签或观察性短语，与几何构图形成安静而聪明的关系。
+
+整体气质应像一本独立出版的艺术旅行刊物或视觉寓言手册：**极简、诗意、浪漫、理性、克制、带有几何秩序与观念美感。** 避免完整写实风景、信息堆积、复杂装饰、主体过满、背景过实、模板化海报感、电商插画感、卡通感和廉价拼贴感。",prompt_059.webp,https://x.com/xiaoxiaodong01/status/2092176222445035612,"上下双拼, 几何抽象, 观念景观, 达芬奇严谨感",2026-09-16 07:40
+60,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为对原图核心意象的几何化重构，上下形成现实与记忆之间的呼应。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，进一步判断原图真正成立的核心主题、视觉隐喻或审美关系，只保留这一层最值得被记住的信息重新创作。不要完整复刻场景，不追求写实描摹，也不要把所有物体逐一转换成插画；主动删除无关环境与细碎信息，只留下一个核心主体及极少数真正参与叙事的关系。
+
+样式逻辑采用**几何构成 + 智能马赛克重组**。将主体与空间压缩为清晰的几何块面、矩形单元、细线框架与层叠网格，用模块化、建筑化、像素化但经过设计整理的方式重构画面。不是随机像素化，而是根据主体结构智能归纳：大形体保持明确轮廓，小细节被转译成有秩序的色块、格点、切片、台阶状边缘与局部拼接关系，使画面既有马赛克般的理性分解感，又仍然一眼可辨原始主题。可适度加入局部轴线、对齐线、边界框、留白分区和少量装饰性几何细节，形成高级编辑设计与建筑图解感。
+
+下半部分以**极度浅色背景和大面积留白**作为主要空间。背景色不固定，根据原图综合色温与情绪智能匹配为接近白色的极浅综合色，可微暖、微冷或带极轻微色相，但必须轻、净、安静。空白本身承担空气、距离和呼吸感，让几何主体更突出。
+
+构图强调**视觉重心、比例关系、负空间、模块节奏、对齐秩序与不完全对称**。主体可偏置、悬置、落在低重心区域，或由多个几何层级向中心聚合；若原图最动人的地方是一种关系——例如人与建筑的尺度、物与环境的并置、局部结构之间的呼应——应优先保留这种关系，并用几何分块和马赛克结构加以强化，而不是平均铺满画面。
+
+配色保持你当前喜欢的逻辑：从原图提炼综合色温和最具有生命力的颜色，再转译成一种**温暖、明快、略带稚拙感的艺术家色盘**。整体以奶油黄、杏色、粉橘、珊瑚粉、旧玫瑰等温暖色块，与天空蓝、浅青绿、薄荷绿、灰绿等清凉色形成松弛的冷暖碰撞；允许极少量砖红、橙红、深绿、土褐或黑色作为视觉锚点。颜色不必完全服从真实物体，可根据画面节奏进行局部换色、错色和跳色，但必须保持整体和谐。色块应平涂、干净、克制，避免脏灰、统一滤镜感和高饱和数字色。
+
+文字不预设固定标题、地点、编号或语种，根据原图的主题、动作、环境、情绪或隐喻自由生成极少量真正有意义的文字。文字可作为版式系统的一部分，置于留白区、底部中心、边角或几何分区之间，使用细瘦、克制、疏朗的排版方式，与几何结构形成呼应；整体保持小、轻、安静，不机械套模板。
+
+整体气质应像**建筑图解、艺术地图、现代拼贴海报与高级编辑设计**之间的结合：安静、理性、精致、现代，同时保留记忆化提炼与色彩温度。避免完整场景复刻、随机像素化、贴纸逻辑、繁复纹理、光滑3D、卡通模板感和为了丰富而加入无意义元素。",prompt_060.webp,https://x.com/xiaoxiaodong01/status/2092160522711978218,"上下双拼, 几何拼贴, 智能马赛克, 建筑图解",2026-09-16 07:40
+61,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为对原图核心意象的绘画式提炼，上下形成现实与记忆之间的呼应。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，进一步判断原图真正成立的核心主题、视觉隐喻或审美关系，只保留这一层最值得被记住的信息重新创作。不要完整复刻场景，不追求背景还原，也不要把所有物体逐一转换成插画；主动删除无关环境与细碎信息，只留下一个核心主体及极少数真正参与叙事的关系，使画面像一段被重新整理过的视觉记忆。
+
+下半部分以**极度浅色背景和大面积留白**作为主要空间。背景色不固定，根据原图综合色温与情绪智能匹配为接近白色的极浅综合色，可微暖、微冷或带极轻微色相，但必须轻、净、安静。空白本身承担空气、距离、时间和情绪，让主体拥有充分呼吸感。
+
+构图强调**视觉重心、尺度关系、负空间、方向张力与不完全对称**。主体可偏置、局部裁切、悬置或落在低重心区域，通过大小反差和大片留白建立美感。若原图真正动人的是人与空间、物与环境、两个对象之间的距离或某种偶然关系，应优先保留这种关系，而不是单独描绘物体本身。
+
+绘画语言采用松弛、稚拙而具有艺术感的**不透明水粉、丙烯、粉蜡笔与干性油画质感**，以概括色块、手绘轮廓、局部刮擦、覆盖和不完全填满的笔触塑造主体。形体允许略带笨拙和轻微比例夸张，但主体身份与关键姿态必须准确。画面保留真实绘画中的停顿、修改、露底与偶然痕迹，避免精修得过于光滑。
+
+配色从原图提炼综合色温和最具有生命力的颜色，再转译成一种**温暖、明快、略带稚拙感的艺术家色盘**。整体以奶油黄、杏色、粉橘、珊瑚粉、旧玫瑰等温暖色块，与天空蓝、浅青绿、薄荷绿、灰绿等清凉色形成松弛的冷暖碰撞；允许极少量砖红、橙红、深绿、土褐或黑色作为视觉锚点。颜色不必完全服从真实物体，可根据画面节奏进行局部换色、错色和跳色，但必须保持整体和谐。色块应具有粉质、不透明、略微褪色却依然鲜活的感觉，避免莫兰迪式全面降灰、统一粉彩滤镜、脏褐色和高饱和数字色。
+
+文字不预设固定标题、地点、编号或语种，根据原图的主题、动作、环境、情绪、声音、记忆或隐喻自由生成极少量真正有意义的字、词、短句或片段。文字可以像绘画的一部分自然进入留白、靠近主体、沿空间方向展开，甚至保留少量手写、错位或不完全规整的感觉；整体仍保持克制，不为了“像海报”而机械添加信息。
+
+整体追求**极浅背景、巨大留白、少量主体、鲜活而温暖的色彩关系、稚拙手绘感与明确的视觉隐喻**。画面应安静但不寡淡，治愈但不甜腻，艺术但不故作高级，像一本被艺术家亲手画过的独立出版物。避免完整场景复刻、背景填满、物件罗列、统一粉彩滤镜、精致商业插画、光滑矢量、卡通模板和为了丰富而加入无意义元素。
+🥴😵‍",prompt_061.webp,https://x.com/xiaoxiaodong01/status/2091730850723586307,"上下双拼, 暖色色盘, 稚拙手绘, 视觉记忆",2026-09-16 07:40
+62,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于主体叙事的绘画式重构
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为一幅更具艺术感与版式感的绘画式画面。不要完整描摹照片，也不要再使用贴纸拼贴逻辑，而是只保留最值得被记住的视觉线索，将复杂场景压缩为清晰的主体关系、几组关键块面与安静留白，使人一眼认出原物，同时感受到记忆化、概括化与重新组织后的叙事美感。
+
+整体画风参考温柔、明亮、治愈的粉彩绘画质感：像厚涂水粉、丙烯、粉蜡或带有油画刀痕迹的手工绘画，色块柔软，笔触清楚但不粗重，边缘干净中带少许松动，具有轻微颜料堆积、覆盖与手工触感。避免贴纸感、光滑矢量感、3D塑料感和过度写实。
+
+构图应比普通插画更专业，重视视觉重心、主体落点、留白比例、前后层次、块面节奏、方向引导与版式秩序。主体可适度偏心、放大、裁切或集中于中下部形成明确叙事核心，背景与次要元素主动删减，只保留少量最能支撑氛围的景物、空间线索或环境关系，让画面既有呼吸感，又有明确的主次与阅读路径。
+
+色彩延续你当前喜欢的逻辑：整体采用柔和、通透、略微去饱和的高级色系，可从原图中提炼综合色温进行调整，但整体保持轻盈统一。以浅粉蓝、雾蓝、天空蓝、空气感冷调蓝营造主氛围，再以象牙白、奶油白、浅米色、柔和灰绿、建筑中性色保持平衡；可加入少量 blush pink、soft peach、dusty rose 或 muted blush 作为局部点睛，使画面更有 ins 治愈感、呼吸感与精致层次。避免脏灰、过强反差、高饱和撞色和廉价复古感。
+
+文字不预设固定标题、编号、地点或语种，也不采用菜单式信息。应根据照片的主体、动作、环境、情绪、记忆或文化语境，自由生成极少量真正有意义的字、词、短句或片段，并通过更专业的排版自然融入画面。文字可进入留白、贴近主体、沿视觉轴线排列，或作为边角注记参与构图；整体保持小、轻、克制、精致，像独立出版物中的编辑性文字，而不是商业标题。
+
+整体气质应像一本独立出版的视觉手册或艺术旅行刊物：温柔、明亮、治愈、现代、安静、松弛，同时具有明确的主体叙事与高级排版秩序。 避免贴纸逻辑、完整写实风景、细碎堆积、粗重轮廓、模板化海报感、电商插画感、卡通感和过度装饰。
+😍☺️",prompt_062.webp,https://x.com/xiaoxiaodong01/status/2091726763701555207,"上下双拼, 治愈粉彩, 油画质感, 绘画叙事",2026-09-16 07:40
+63,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于选择性记忆的平面重构，上下自然呼应。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，以“选择性记忆”而非描述性写实的方式重构。不要完整描摹照片，只保留最值得记住的视觉线索，将复杂场景压缩成3–6个大的形体块面，以哑光水粉、剪纸拼贴、Risograph与丝网印刷式平涂重新组织，使主体仍能一眼识别，同时具有鲜明的现代平面构成与手工质感。
+
+下半部分采用主视觉 + 六枚记忆贴纸的构图逻辑。主视觉承担主要叙事与视觉重心；另外从原照片中挑选六个具有记忆价值的局部——可以是主体特征、动作、局部结构、植物、器物、交通方式、食物、纹样、材质、光影或某个偶然细节——分别提炼为六枚独立 sticker。贴纸使用厚实的浅色切边，以不同尺度自然平铺、错落分布，可形成松散的两排、边缘聚集或围绕主视觉的非对称关系，保持足够留白，不做整齐商品目录式排列。六枚贴纸之间应有明显主次与大小变化，像从同一段记忆中剪下来的碎片，而不是六个同等重要的图标。
+
+构图重视视觉重心、块面比例、尺度反差、正负形、前后遮挡与留白节奏。主视觉应明显大于贴纸碎片，贴纸可局部越界、轻微旋转、相互错开或与主体形成呼应，但不能抢夺主焦点。复杂环境主动删减，让大面积安静底色成为呼吸场，使整体既有平面秩序，又带轻松自然的收藏册感。
+
+材质使用不透明水粉、剪纸、Risograph或丝网印刷式色块，保留轻微粉质边缘、纸张颗粒、手工切边与套印偏差。贴纸与主视觉使用同一种材质语言，避免水彩晕染、复杂笔触、密集线稿、写实纹理、光滑矢量和3D塑料质感。
+
+配色以柔和、通透、略微去饱和的高级色系为基础，可从原图中提炼综合色温进行调整，但整体保持轻盈统一。以**浅粉蓝、雾蓝、天空蓝、空气感冷调蓝**营造主氛围，再以**象牙白、奶油白、浅米色、柔和灰绿、建筑中性色**保持平衡；仅允许少量 dusty rose 或 muted blush 作为微小点缀，用于花、服饰、小标识、遮阳篷或局部装饰，使画面既有呼吸感又不失精致层次。
+
+文字不预设固定标题、编号、地点或语种。根据照片的主体、动作、环境、情绪、声音、记忆或文化语境，自由生成极少量真正有意义的文字，并让其自然进入留白、贴纸间隙或主视觉边缘，与图形形成编辑排版关系。文字应小、轻、克制，不做菜单式信息栏，也不把每枚贴纸逐一标注。
+
+整体像一本独立出版的视觉旅行手册、私人记忆册与高级贴纸艺术页：安静、现代、敏锐、松弛，既有专业平面秩序，又保留剪贴、收藏和手工材料的温度。避免贴纸商品目录感、六宫格、等尺寸排列、完整写实风景、密集细节、商业明信片模板、卡通、动漫和电商素材感。",prompt_063.webp,https://x.com/xiaoxiaodong01/status/2091539410533691899,"上下双拼, 旧物感, 记忆贴纸, Risograph",2026-09-16 07:40
+64,xiaoxiaodong01,小小东,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为观察式手绘重构；上下自然衔接，避免生硬的50:50硬切割。
+
+上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+
+下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为观察式钢笔淡彩手稿。不要完整描摹照片，只保留最值得记录的视觉线索，以最少信息维持主体身份、比例、方向和场景含义，让人一眼认出原物，同时保留观察、删减与停笔的痕迹。
+
+构图强调极简页面中的音乐性节奏：把主体最重要的轮廓或动作视为一个视觉动机，通过重复、变奏、停顿、重音和突然留白组织画面。主体不必完整，也不必居中，可偏置、裁切、悬置或向某一方向自然延伸；一两处较有力量的自由线条承担视觉重音，其余线条迅速减弱，让大片空白像音乐中的休止。避免平均分布和完整填充，使画面呈现一种克制秩序中的即兴、未完成中的完整感。
+
+线条使用纤细、松动、不均匀的钢笔手绘线稿，允许断续轮廓、寻找线、重复修正、突然加重、轻微偏差和未完成边缘。局部可以出现更自由、更果断的长线或快速笔触，与安静细线形成节奏反差，但关键比例、方向和姿态必须准确。淡彩只用于少数必要位置，从原图提取2–4种最具辨识度的颜色进行轻薄、透明的局部点染，允许越线、水痕、颗粒和不均匀覆盖，环境颜色迅速消失。
+
+背景纸色不固定，根据原图综合色温、光线与情绪智能匹配一个极度浅、干净、几乎接近白色的综合色底，可以微暖、微冷或带极轻色相，但始终服务于原图，不形成明显彩色背景。
+
+文字自由根据照片本身生成，不预设固定标题、编号、地点、年份或固定语种。可从主体、动作、环境、情绪、声音、时间感、记忆或偶然细节中提炼少量真正有意义的字、词、短句或符号。文字也遵循画面的节奏，可像一个轻微重音、停顿或回声一样进入留白，沿轮廓、视线、运动方向或未完成边缘自然排列；宁可少、偏、轻、巧，也不要形成菜单式信息区。
+
+整体像一本被精心编辑过的私人观察手册：页面极简、留白大胆、构图敏锐，线条自由却不散乱，局部即兴而整体高度克制。 让画面具有“一个视觉动机被观察、重复、变奏，然后在最恰当的位置停下”的艺术感。避免完整水彩风景、平均构图、填满背景、过度精描、装饰性笔触、粗黑轮廓、矢量线、卡通、3D渲染、菜单式排版和商业海报模板感。",prompt_064.webp,https://x.com/xiaoxiaodong01/status/2091521812878459186,"上下双拼, 观察式手绘, 钢笔淡彩, 音乐性节奏",2026-09-16 07:40
+65,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜人文几何抽象
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“人文几何抽象”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+整张画面采用干净的象牙色背景，从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，按照“解构—筛选—提炼—重构”的逻辑转化为极简抽象视觉。重点保留最独特的体量比例、轴线、曲线、穿插、层叠、遮挡、负空间与非对称关系，用少量几何形体重新组织；不完整复刻细节，但必须一眼感受到与上传原图的对应。构图强调视觉重心、尺度差、主次层级、正负形和留白节奏，避免图标化、平均排列和零碎堆积。
+
+配色全部从上传的原图中提取并精简为1个主色、1个深色结构色、1个浅/中性色，最多加入少量关键强调色。优先保留原图中最有辨识度、最有精气神的颜色，通过面积比例、深浅关系和局部对比建立层次，保持干净、克制而有生命力，避免整体灰化与平均用色。
+
+文字建立完整的高级编辑式微排版系统：从照片的光影、空间、动作、材质或情绪中提炼一个2–5词的诗意英文主标题，同时搭配2–4组极小辅助文字，可由短句、状态词、地点或对象信息、编号、章节标记、序列号、尺度式数字、方向词、材质词、档案式标签或微型说明自由组合，不使用年份。主标题负责情绪，小字负责秩序与细节，使文字像艺术书、建筑期刊或展览图录中的编辑注释，而不是普通标题。
+
+文字必须与抽象图形共同构图，可沿几何轴线、边缘、轮廓或负空间排列，也可纵排、旋转、分栏、拉开字距、贴边、压角、跨越色块、嵌入形体之间或与主体形成穿插和对齐；允许一组文字极小、一组稍大，通过字号反差、字距、方向和位置建立阅读路径。整体使用克制的衬线字体与细瘦编辑字体组合，让抽象形体负责视觉记忆，文字负责结构、节奏与高级感。
+
+整体呈现原始影像 × 抽象记忆 × 编辑排版的视觉气质，现代、安静、克制、精致、艺术化且具有收藏感，避免复杂拼贴、廉价装饰、商业模板感和无意义抽象。
+
+第三层｜图形文字一体化 Logo 重构
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“图形文字一体化 Logo 重构”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为一个简洁、专业、具有品牌识别性的定制字标 / 标志（Logo） 图形。不要把主体图形单独放在文字旁边，而是将其最关键的轮廓、结构或特征巧妙融入字母本身或整体标志结构中，使图形与文字成为一个统一、完整、可识别的视觉符号。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应提炼其最核心的视觉特征，并转化为简洁、几何化、图形化的标志语言，在极少信息中保持一眼可辨的身份感。
+
+文字从照片的主体名称、主题属性、地点线索、动作状态或象征意义中提炼为一个简短英文主文本；如原图本身具有明确专名，可直接转化为主标识名称；如没有明确名称，则提炼一个高度概括、易识别、适合作为品牌字标的英文词或短语。可搭配极少量辅助小字，如类别、地区、状态词或简短标语，但必须高度克制，只作为识别层级的补充。文字与图形需共同构成标志，而不是“图标 + 标题”的常规拼贴。
+
+整体风格保持极简、现代、几何、醒目、优雅、留白充足、构图平衡。背景采用浅色纯色或极浅中性色，保持清洁简约；标志以黑白或极少量色彩呈现，颜色可从上传的原图中提取最具精神气质的一种进行少量转译，但整体仍以克制、专业、品牌化为优先。标志在整张画面中保持舒适的中等视觉尺寸，不过大也不过小，具有成熟品牌标识、文化视觉系统或高级设计工作室作品的完成度。
+
+整体强调图形与文字一体化、主体识别度、几何秩序、精致字距、专业布局与高级留白，呈现现代标志设计与艺术海报结合的视觉气质。避免旅游海报感、简单图标加文字、卡通化、装饰堆砌、电商感、廉价图形和模板感。
+
+第四层｜品牌包装系统 Mockup
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“品牌包装系统 Mockup”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，将其转化为一套完整的品牌包装与物料视觉系统。不要简单复制照片，而是把主体特征提炼成可重复使用的核心图形、插画符号、纹样、色块或识别元素，再分别应用到不同尺寸和用途的包装载体中，使所有物料一眼属于同一个视觉家族。
+
+根据原图主题自动选择最合适的 5–8 种载体，例如纸袋、包装盒、套盒、标签、吊牌、票券、卡片、贴纸、封套、杯具包装、钥匙挂件、包装纸或其他相关物料，不强行使用固定品类。以 1–2 个主包装作为视觉重心，其余物料按大小、横竖比例和功能形成模块化组合；使用清晰网格、边缘对齐、尺度反差、间距节奏和大面积留白组织画面，像专业品牌设计工作室的包装视觉识别提案板，而不是商品陈列或杂乱样机展示拼贴。
+
+配色保持柔和、通透、略微去饱和的高级色系，以浅粉蓝、雾蓝、天空蓝、空气感冷调蓝为主，搭配象牙白、奶油白、浅米色、柔和灰绿和建筑中性色，仅用少量灰调玫瑰粉或低饱和腮红粉作为视觉跳点。不同包装可以改变颜色面积和组合方式，但必须保持同一套色彩系统，形成丰富而统一的系列感。
+
+材质强调真实而精致的纸张与包装工艺，可表现哑光纸、细纹纸、厚卡、半透明纸、压纹、模切、折叠、贴纸、局部印刷与轻微层叠关系；光线柔和自然，只用于表现纸张厚度、折痕和材质差异，避免塑料感、强反光、夸张三维和廉价商品渲染。
+
+文字也作为整个包装系统的一部分统一设计。从原图的主体名称、主题、情绪、功能或象征意义中提炼一个简短英文主标题，并延展出极少量副标题、短句、编号、品类名称或微型说明。文字可以根据不同载体自然变化：竖排于吊牌、沿包装边缘延伸、环绕圆形标签、跨越盒面、隐藏在图形之间或成为包装封口结构的一部分，使字体、图形和材质共同形成完整品牌语言，而不是每件物料重复贴上同一个标题。
+
+整体呈现为一张高级品牌包装系统 / 视觉识别提案板：丰富但不拥挤，活泼但有秩序，既展示完整系列，也能看到图形、文字、材质与不同载体之间的设计逻辑。无论原图是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应从原图本身建立独特的包装语言，避免固定产品组合、重复模板、电商展示感和普通品牌样机展示套版。",prompt_065.webp,https://x.com/zhidawang219555/status/2093255701447786922,"四等分演化, 几何抽象, Logo重构, 品牌包装系统",2026-09-16 07:40
+66,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜复古水彩手绘编辑插画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“复古水彩手绘编辑插画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为轻盈、稚拙、复古的手绘编辑插画。不要机械复刻细节，以概括造型、适度夸张比例、符号化特征和幽默视觉隐喻重新表达，同时保持原物一眼可辨。融合现代主义编辑插画、包豪斯平面构成、儿童绘本、稚拙艺术与时尚速写气质，形体简练，轮廓略带迟疑与手工误差，局部特征可适度放大，让画面兼具故事感、时尚感与俏皮感。
+
+配色从上传的原图中提取，采用高明度、低至中等饱和度的柔和有限色盘，以近似色统一氛围，小面积互补色制造视觉跳点。使用水彩、水粉、彩铅、粉蜡笔与干刷混合质感，保留纸张颗粒、透底、笔触断裂、边缘毛糙、轻微脏色与旧印刷套色偏差。背景大面积留白，仅以松散淡彩、局部斜线或简单几何元素承托主体，避免复杂场景堆积、写实光影、光滑矢量、三维渲染和过度精修。
+
+文字从照片的地点、人物、场景或主题中提炼少量英文关键词、标题、编号或适配金句，并延续整张画面的手绘编辑语言。主标题采用略带稚拙与复古感的手写艺术字，辅助文字使用克制温和的无衬线或衬线字体，可轻微错位、倾斜、拉伸、叠色或产生旧印刷套色偏移，让文字像插画的一部分自然生长在画面中，而不是后期贴上的排版元素。
+
+整体使用米白或浅色背景与大量留白，主体特征、色彩、姿态与视觉符号在整张画面中保持统一呼应。整体气质轻松、俏皮、复古、温柔、聪明、时髦、幽默、浪漫、松弛，略带笨拙与古怪自信，像一页被精心保存的旧时尚绘本与现代艺术杂志。
+
+第三层｜黑白越界手绘编辑插画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“黑白越界手绘编辑插画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为极简黑白手绘编辑插画。以一个横向或纵向的纯黑矩形色域作为主要视觉场，让主体大部分存在于矩形内部，同时选择最具识别度的头部、顶部轮廓、枝叶、屋顶、肢体、器物边缘或其他关键结构自然突破矩形边界，形成明确的“越界”关系。主体不是贴在黑色矩形上，而像从黑色空间中探出、穿过或生长出来，使矩形既是背景，也是构图的一部分。
+
+主体仅保留最必要的外轮廓、姿态和关键结构，以黑色手绘线 + 白色负形 + 少量灰色块面表现。线条像墨笔、针管笔或复印线稿，粗细略有变化，边缘带轻微抖动、断裂、重复描线和手工误差，不追求光滑矢量精度；内部细节极少，只用几笔表情、结构线、折线或局部阴影建立辨识度。无论人物、动物、植物、建筑、器物或风景，都优先找到一个最有性格的局部作为越界焦点。
+
+构图强调黑色矩形的几何秩序与主体自由轮廓之间的冲突。矩形承担稳定、沉重的视觉基座，主体以不对称位置、局部裁切和越界制造活力；大面积白色纸面留白包围黑色区域，使黑、白、灰形成强烈而克制的面积关系。辅助结构可以转化为极少量直线、斜面、平台、边缘或几何切片，但不得形成第二主体。
+
+文字建立轻巧的黑白编辑式微排版系统，从照片的动作、情绪、状态或隐喻中提炼一个简短英文标题，并搭配1–3组极小注释、编号、状态词或短句。文字可贴近黑色矩形边缘、藏在负形中、顺着越界方向排列，或与主体轮廓形成对齐和错位；使用黑色手写字、细瘦无衬线或克制衬线字体，保持小尺度，让文字像插画师留下的签注和编辑标记，而不是商业标题。
+
+整体呈现纯白纸面 × 黑色几何色域 × 稚拙手绘线条 × 主体越界 × 极少灰阶的视觉气质，幽默、克制、聪明、略带古怪和艺术出版感。避免彩色卡通、复杂场景、光滑矢量描边、写实明暗、三维质感、纯黑剪影、规整图标化和模板式居中构图。
+
+第四层｜荆棘式观念线条
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“荆棘式观念线条”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为一幅极简、克制、带有公共议题气质的观念线条插画。不机械描边，不复制背景、光影和复杂细节，而是提炼原图中的方向、连接、矛盾、压力与转机，将其压缩成一组连续的黑色手绘线条。线条如被拉紧的细铁丝、路径、束缚或伤口，从画面边缘进入，在下方盘绕、交错、回折与收紧，再沿内在力量逐渐向上或向外抬升，并在运动中自然显露出与原主体有关的象征轮廓；保持一眼可感知原物，但不必完整封闭或直接解释。
+
+画面以冷白、米白或低饱和浅色为底，大面积留白，主体偏下、偏侧或靠近边缘，不居中、不铺满。线条粗细略有变化，保留墨线的摩擦、迟疑、断裂与压力感；尖刺、结点、倒钩或短横仅出现在受力、交叉和方向改变的位置。整体安静而紧张，简洁却不轻松，意义在线条的缠绕、限制、穿越、收紧与释放之间逐渐显现。
+
+文字只作极少量使用，可加入简短英文主题词、编号、地点或适配金句，但必须像线条系统中的一个微小痕迹，以纤细、克制、略带手工感的排版融入空白或线条转折处，不成为视觉中心，也不直接解释画面。整体参考现代主义观念海报、社会议题视觉、艺术出版物和实验编辑设计，避免复杂场景、写实光影、三维质感、多色填充、卡通感、商业广告感、装饰性曲线和无意义的视觉丰富。",prompt_066.webp,https://x.com/zhidawang219555/status/2092989290691326305,"四等分演化, 复古水彩, 黑白越界, 荆棘观念线条",2026-09-16 07:40
+67,zhidawang219555,DAAI,"请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
+
+整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
+
+四层全部以同一张上传照片为唯一依据，呈现同一主体、同一瞬间和同一空间关系。严格保持主体身份、数量、关键结构、比例、姿态、动作方向、视线、观察视角、透视、遮挡、左右位置、前后关系与核心叙事一致。四层不是四张互不相关的新构图，而是同一画面的连续风格转译。由于每层均为约3:1的极扁横幅，主体应横向组织，并保留适量左右呼吸空间；允许对背景进行自然横向延展或轻微裁切，但不得纵向拉伸主体、裁掉关键部位、改变人物关系，或另造与原图无关的场景。
+
+四层的视觉重心、主体占比和轮廓落点尽量上下对齐，形成从真实摄影逐步过渡到目标风格的连贯演化。每层都必须完整填满自身25%的区域。不要添加层号、分隔线、边框、拼贴缝隙、水印或Logo。除非某层风格说明明确要求少量编辑文字、票据标记或手写注释，否则不要额外生成文字；即使需要文字，也必须少量、克制、不遮挡主体，并尽量避免乱码。
+
+第一层｜原始摄影
+
+直接保留上传照片的真实摄影状态，作为后三层风格转译的视觉基准。保持原始人物或主体的身份、数量、面部特征、发型、服装、结构、比例、姿态、动作、视线、互动关系、观察视角、透视、遮挡、环境方向、自然光影与核心色彩，不进行插画化、材质化、几何化或三维重建。
+
+为了适配约3:1的极扁横幅，只允许对背景左右两侧进行符合原场景逻辑的自然延展，或进行不损伤主体的轻微裁切；不得改变主体比例，不得拉伸人物或建筑，不得裁掉头部、手脚、关键物件或重要叙事关系。画面保持自然、真实、清晰，避免过度磨皮、夸张调色、虚构景物和与原图无关的装饰。
+
+第二层｜复古手绘编辑插画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“复古手绘编辑插画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为轻盈、稚拙、复古的手绘编辑插画。不要机械描摹细节，以概括造型、略微夸张比例、符号化特征和幽默视觉隐喻重新表达，并保持一眼可以识别原物。风格融合现代主义编辑插画、包豪斯构成、儿童绘本与时尚速写气质，形体简练，线条纤细而略带手工误差，轻松、聪明、俏皮而克制。
+
+配色从上传的原图提取，采用高明度、低至中等饱和度的有限色盘，大面积米白或浅色留白，以少量互补色作视觉跳点。使用水彩、水粉、彩铅、粉蜡笔与干刷混合质感，保留纸张颗粒、边缘毛糙、透白、套印错位和不完美笔触，避免光滑矢量、写实光影、三维渲染和塑料质感。
+
+整体构图平衡、轻盈、有呼吸感，可加入少量手绘线条、几何符号或抽象元素。文字可少量使用复古手写标题、编号或年份，使其自然融入插画。整体参考旧时尚绘本、旅行插画、艺术出版物和高级编辑设计，呈现温柔、复古、松弛、时髦、幽默、略带笨拙与古怪自信的气质，避免卡通感、廉价感、电商感和模板感。
+
+第三层｜自然材料拼贴编辑插画
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“自然材料拼贴编辑插画”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为由真实自然材料拼合而成的编辑插画。使用清晰可辨的叶片、花瓣、枝条、果实、种子、草茎、树皮或枯叶，直接利用它们原本的形状、纹理、色差和不规则边缘组合主体，不要把植物切割成过于精准的几何形，也不要用插画轮廓包住植物；让观看者既能认出原来的主体，也能清楚看见它是由真实自然元素巧妙拼合而成。
+
+构图以一个简洁的矩形色域或纸面区域建立秩序，但不要刻意画出完整边框。主体与矩形保持自然的内外关系，大部分落在色域之中，少量最具方向感的部分自然伸出边界，使画面产生轻松的越界感；像植物恰好从版面中生长出来，而不是为了“突破边框”刻意摆造型。保持大面积留白、明确重心和不完全对称，让自然材料的偶然性与编辑设计的秩序并存。
+
+黑色线条只作为极少量辅助语言出现，不为主体整体描边。可用于眼睛、嘴巴、极简表情、细小动作暗示、局部连接、短线、手写痕迹或版式中的轻微视觉节奏；线条纤细、松弛、略带手绘感，让植物本身承担主体的形体与轮廓。
+
+配色从上传的原图中提取最有生命力和辨识度的色彩气质，再通过天然植物自身的颜色重新转译。保留叶片、花瓣、果实和枯枝真实的综合色差异，不过度统一染色；背景使用与原图协调的浅色或柔和综合色，使天然材质成为画面的视觉中心，整体清新、克制、有生命力而不杂乱。
+
+文字保持极少，并作为编辑设计中的轻量元素。从照片的情绪、动作、关系或隐喻中提炼一个简短英文标题和少量微型注释，可贴近矩形色域边缘、悬置于留白中，或与一根枝条、叶片方向形成巧妙对齐。不要抢主体，也不要做成常规海报标题。
+
+整体呈现真实自然材料 × 轻微黑色手绘痕迹 × 几何色域 × 自然越界的视觉关系，保持手工、聪明、松弛、诗意和高级编辑感。避免完整黑色描边、植物被切成规则色块、儿童树叶贴画、刻意越界、卡通拼贴和模板化构图。
+
+第四层｜肥皂泡沫平面重构
+
+在本层约3:1的扁横幅区域中，将第一层的真实主体转译为“肥皂泡沫平面重构”风格。保持与第一层一致的主体身份、数量、关键结构、姿态、左右位置、视角、空间关系与核心叙事，再完整执行以下视觉要求：
+
+从照片中提取最具识别性的主体、轮廓、姿态与叙事关系，重构为平面上的真实肥皂泡沫图形。不是三维雕塑，也不是立体泡沫模型，而是让主体由白色皂沫、细密气泡、泡膜和湿润痕迹直接在平整表面上形成。只保留最关键的外轮廓、比例、动作和结构转折，以真实泡沫的聚集、疏散、断裂和残留重新描述主体，让人一眼识别与原图是同一对象。
+
+构图采用正面、平视、无透视畸变的平面摄影逻辑，镜头正对承载平面，保持水平垂直关系准确，不使用广角、倾斜透视、夸张近大远小或边缘变形。主体根据自身视觉重心、轮廓走势和动作方向自然布局，可居中或轻微偏置，周围只保留少量散落气泡、水痕和皂沫残迹，使画面具有真实发生过的痕迹感，同时保持大量安静空间。
+
+背景采用深色、低反射但略带湿润质感的平整表面，颜色不固定。优先从上传的原图中判断最适合作为深色背景的核心色相，并进行加深、提纯和高级化转译；如果原图没有合适的深色，则根据主体色温、情绪和整体气质主动选择最协调的深色。背景应深而干净、浓而不脏，与白色泡沫形成清晰而克制的明暗对比，同时与上传的原图保持隐性的色彩联系。
+
+泡沫保持真实白色、乳白和半透明层次，由大小不一的细密气泡、透明泡膜、湿润边缘、局部破泡和轻微皂液残留组成。避免奶油、棉花、云朵、塑料或电脑渲染材质感。可保留极细微的水珠、反射、接缝或表面纹理，但不得破坏平面构图的纯净感。
+
+文字作为构图的一部分巧妙介入，从照片的主体身份、动作、情绪或隐喻中提炼一个极短英文标题，并搭配少量状态词或微型注释。文字可沿主体轮廓、画面轴线、泡沫边缘或背景结构排列，也可局部被泡沫遮挡、穿过或留出负形，使文字像原本就存在于这块平面上的编辑性标记，而不是后期贴上的标题。
+
+整体呈现真实物象 × 白色平面泡沫 × 深色情绪底色 × 极简秩序 × 高级编辑摄影的视觉气质。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应从原图最有辨识度的形态出发完成真实、克制、巧妙的泡沫重构。避免三维体块、镜头畸变、透视夸张、浅色无对比背景、卡通泡泡、浴室广告感和模板感。",prompt_067.webp,https://x.com/zhidawang219555/status/2092775223997390926,"四等分演化, 复古手绘, 自然材料拼贴, 肥皂泡沫重构",2026-09-16 07:40
+68,hann7712,橘子多,"请将我上传的照片制作成一张 3:4 竖版「上方原始摄影 / 下方线稿转译」对照海报。
+
+**【主体保持真实】**
+
+照片中的人物始终保持完整的照片级写实效果。脸部特征、肤色、发型、发色、神态、动作、服装、饰品以及身体比例全部沿用原图，不重新绘制，不换衣，不改变动作，不增减人物，也不要出现肢体缺失。
+
+画面继续使用原照片的取景方式、裁切范围、镜头角度、人物尺寸与所在位置，不镜像，不重新居中，不随意缩放，也不要为人物创造新的动作。人物始终停留在原本的位置，作为画面的真实视觉主体。人物正在拿着或使用的重要物件可以继续保留照片质感。
+
+**【环境转成手绘世界】**
+
+下半部分中，人物周围的环境全部脱离摄影质感，转换到柔和的暖白纸张背景上。
+
+建筑、树木、山体、墙面、门窗、窗帘、家具、书籍、植物、灯具、地毯、相框以及其他背景物件，都根据原照片的位置与比例进行简化，用松散、概括的单色线条重新画出。
+
+不需要复制所有真实细节，只保留能识别场景的主要轮廓、大小关系和空间位置。去除背景原有的颜色、真实阴影、摄影纹理和材质表现。
+
+**【单色线条规则】**
+
+整个下半部分的环境只允许使用 **一种饱和单色墨线**。
+
+优先从原照片中提取一个明显的非中性色，再将它调整为清晰、明亮的中等饱和色。若原图整体偏灰、偏白或没有明显主色，则自动选择与画面协调的强调色，例如钴蓝、砖红、珊瑚红、森林绿、深青、紫色、酒红、赭橙等。
+
+一张图只能有一种线稿颜色，不允许混用第二种颜色。
+
+线条质感不要像精细钢笔画，也不要像铅笔素描，更接近 **中粗号记号笔与圆珠笔之间的随手画感**：线条可以轻微抖动，粗细和压力略有变化，转折不必完全精准，连接处可以稍微错位，线尾允许轻微越界，整体有一次画成的自然感。
+
+轮廓不要太工整，要保留一点笨拙、不完美和随性。
+
+物体尽量用简单图形概括：
+
+书本用简单矩形表示；
+
+植物用几组松散叶片表示；
+
+灯具用简单圆顶和支杆表示；
+
+窗户只保留基本框架；
+
+布料只画少量稀疏褶皱。
+
+不追求画满，保留大量暖白留白，让画面轻松、透气、有一点未完成的手稿感。
+
+**【地面与空间处理】**
+
+地面、道路、桌面、墙脚、台面等只保留最基本的外轮廓以及少量结构缝线。
+
+不使用灰色底，不画真实投影，不大面积填色，不制造立体明暗。所有环境元素始终使用同一种墨色，让照片级真实人物自然叠加在单色手绘环境之上。
+
+**【整体视觉方向】**
+
+最终效果应呈现明显的 **「真实主体 × 粗粝单色手绘环境」** 反差。
+
+整体气质偏向：
+
+**编辑拼贴、独立杂志生活插画、素朴环境涂鸦、干净暖白纸张、极简、有趣、松弛。**
+
+下半部分不是精致插画，而是经过概括的、带有人手痕迹的单色背景手稿。
+
+**【禁止出现】**
+
+不要把真实人物画成插画或卡通；
+
+不改变人物身份、脸、服装和姿势；
+
+不额外增加人物；
+
+不出现缺手缺脚或肢体错误；
+
+不凭空增加原图不存在的重要物件；
+
+不使用多色线稿；
+
+不保留写实摄影背景；
+
+不做渐变、水彩、3D、动漫、漫画或精致矢量插画；
+
+不添加文字、Logo、水印、界面元素或任何 UI。",prompt_068.webp,https://x.com/hann7712/status/2100105969724535243,"上下双拼, 真实人像, 单色线稿, 手绘环境",2026-09-16 16:44
+69,zhidawang219555,DAAI,"创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，构成“真实原图 × 东方刺绣寓意重构”的双拼画面。
+
+上半部分：
+直接展示用户上传的原图，并将其作为唯一主体参考来源。
+上半部分重点保留原图中的人物、宠物、动物等核心主体，保留最具识别性的脸型、五官、发型、毛色、体型特征、动作、姿态、服装、配饰、神态和整体情绪。
+如果原图中包含建筑、室内环境、风景、物件等内容，它们不作为主要主体，而只作为背景关系或氛围提示被弱化保留。
+上半部分整体保持真实照片质感、自然光和原始情绪氛围，使其明确成为下半部分刺绣转译的源头。
+
+下半部分：
+请先理解上半部分原图真正的核心精神、情绪关系与潜在寓意，再提取其中最具识别性的主体、轮廓、姿态与叙事关系，只选择一个最能代表整张照片的核心意象进行中国刺绣式重构。
+不要把照片完整绣一遍，也不要把所有景物逐项转换成刺绣；应大胆删减次要信息，用一个姿态、一段轮廓、一种关系、一个动作或一个具有象征性的局部承载整张照片的内核，让人看到画面时，不只是认出“是什么”，还能够感受到原图“在表达什么”。
+下半部分主体优先围绕人物、宠物或动物本身展开，而不是围绕建筑或背景风格展开。
+
+刺绣语言融合中国传统织绣的丝线层次、针法变化、虚实关系与东方留白，可使用平针、长短针、盘线、缠线、打籽、压线等不同针迹，根据主体形态改变针向、密度和层次。
+局部可以精细，局部可以只留下几针、一道线或未完成的轮廓，让“绣与不绣”共同构成画面。
+真实呈现丝线光泽、针脚方向、叠线与轻微手工误差，但避免满版传统纹样、工艺品展示感和数字假刺绣。
+
+构图强调取舍、留白、气韵与生命感。
+不固定居中，不平均填满，根据主体的重心、动作、视线、走势和情绪自由安排位置、尺度、裁切与疏密。
+可以偏心、悬置、局部放大、越界或只出现一部分，让少量绣面与大片空白形成张力；一根游离的丝线、一个未完成的边缘或一小片颜色也可以承担情绪。
+留白应像空气、距离、停顿和余韵，而不是空出来等待填充的位置。
+
+背景必须干净、清亮、有空气感，不默认使用米黄、灰米、旧亚麻或脏浅色。
+根据上传原图的色彩气质，自适应选择洁净白、冷白、柔和象牙白、极浅彩色或具有明确综合色相的清透丝绢底色，也可以在原图适合时使用更大胆但纯净的有色底。
+背景允许看到极轻微的丝绢、绫罗或织物纹理，但不得泛黄、蒙灰、发脏、做旧或出现污渍。
+刺绣的手工感来自丝线与针法，而不是靠脏旧背景制造。
+
+配色同样不设固定色卡。
+从原图中寻找最有神采、最有生命力、最能代表其精神的颜色关系，再转化成中国刺绣特有的灵动丝线色阶。
+不是平均吸取照片颜色，而是保留真正有意义的主色，并允许同一颜色在冷暖、深浅、明暗与纯度之间细微游移，通过近似色穿插、少量互补色点醒、高纯度小面积亮色和不同针向产生丝线闪烁。
+颜色可以清丽、鲜活、浓郁、柔美或素雅，由每张原图决定；丰富但不杂乱，明艳而不俗艳，柔和但不灰，传统但不死板。
+
+文字只作为轻巧的编辑性点睛。
+从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句。
+可使用细线刺绣、纤细题签或极简小字，让文字顺着丝线走势、嵌入负空间、贴近主体边缘，甚至像一根线一样成为构图的一部分；少而有意味，不做说明标签，不抢夺刺绣主体。
+
+整体追求一图一核、一核一意象：先理解原图，再选择最值得被留下的东西；其他元素宁可舍弃，也不要为了丰富而堆砌。
+最终呈现中国刺绣特有的灵动色彩、丝线光泽、东方留白、含蓄寓意与当代编辑设计感，清亮、有神、有情绪、有生命力。
+避免整图复刻、元素堆积、脏米色背景、泛黄旧布、固定国风配色、满版刺绣、文创商品感和模板感。",prompt_069.webp,https://x.com/zhidawang219555/status/2100047073957810677,"上下双拼, 东方刺绣, 丝线光泽, 意象重构, 人物宠物",2026-09-16 17:31
+70,king1818888,Kimberly,"Create a sophisticated contemporary East Asian art poster based on the uploaded photograph.
+
+FORMAT
+Use a vertical 3:4 canvas, divided horizontally into exactly two equal sections:
+Top 50% / Bottom 50%.
+
+TOP — ORIGINAL PHOTOGRAPH
+Preserve the uploaded photograph as faithfully as possible.
+
+Keep the original subject identity, composition, structural shapes, perspective, landscape or architecture, natural textures, lighting, atmosphere, and color relationships.
+
+Only apply subtle high-end color grading, tonal balancing, and visual cleanup, like editorial photography from an art magazine or exhibition catalogue.
+
+You may slightly extend the sky, ground, water, or surroundings to fit the composition.
+
+Do NOT stretch, distort, reshape, relocate, or redesign the main subject.
+
+BOTTOM — MINIMALIST INK-WASH REINTERPRETATION
+Reinterpret the same scene as a minimalist contemporary East Asian ink-wash artwork.
+
+Do NOT simply reproduce the photograph in watercolor.
+
+Extract only its most memorable silhouette, structure, perspective, spatial relationships, rhythm, atmosphere, and emotional tone.
+
+The bottom artwork should clearly correspond to the photograph above while feeling like an independent artwork.
+
+Use warm ivory / off-white xuan paper with subtle natural fibers.
+
+Build the image with Chinese ink wash, wet-on-wet diffusion, dry brush, broken edges, layered ink, bleeding, fading, and expressive negative space.
+
+Use mainly black, charcoal, gray, pale ink, and subtle blue-gray.
+
+Small amounts of restrained color may be extracted from the photograph: misty blue, muted jade, mineral green, warm gold, pale yellow, or cinnabar red.
+
+Ink and negative space must remain dominant.
+
+SUBJECT SCALE & NEGATIVE SPACE — VERY IMPORTANT
+
+The entire ink-wash scene in the bottom half must remain SMALL.
+
+Treat the reconstructed landscape as one compact visual object placed on a large sheet of paper.
+
+The painted subject should occupy only about 30–40% of the bottom section.
+
+At least 60% should remain visually open, quiet, and mostly unpainted.
+
+DO NOT enlarge the artwork to fill the panel.
+DO NOT stretch the landscape edge to edge.
+DO NOT create a full-frame watercolor painting.
+
+Think of it as a small ink landscape, a visual seal, a fragment of memory, or a museum artwork quietly placed on an exhibition page.
+
+The composition may be off-center, suspended, slightly cropped, or asymmetrically balanced.
+
+Negative space is an essential part of the composition.
+
+When uncertain, REMOVE information rather than adding more.
+
+Keep the core recognizable elements concentrated. Toward the edges, let the ink loosen, break apart, bleed, fade, and dissolve into the paper.
+
+Prioritize:
+essence over detail,
+atmosphere over realism,
+memory over documentation.
+
+TYPOGRAPHY
+Typography is optional. Do not automatically add titles, dates, locations, or numbers.
+
+If used, keep it extremely minimal, quiet, spacious, and secondary to the artwork.
+
+OVERALL AESTHETIC
+Contemporary East Asian minimalism.
+Poetic ink-wash reinterpretation.
+Large negative space.
+Small-scale landscape composition.
+Natural xuan-paper texture.
+Museum catalogue / exhibition poster aesthetics.
+Restrained, atmospheric, elegant, contemplative.
+
+REALITY ABOVE.
+MEMORY BELOW.
+
+The photograph records what was seen.
+The ink painting preserves what was felt.
+
+AVOID:
+full-frame watercolor, oversized subjects, excessive detail, photorealistic copying, decorative clutter, muddy colors, heavy brown filters, excessive typography, generic postcard layouts, or changing the identity of the original photograph.",prompt_070.webp,https://x.com/king1818888/status/2100094064255459609,"上下双拼, 水墨意象, 当代水墨, 极简留白, 宣纸肌理",2026-09-16 17:33
+71,Naiknelofar788,simeon-sanai,"Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
+
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.
+
+Do not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.
+
+TOP HALF — THE REAL SHOT
+
+Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.
+
+Keep recognizable features such as:
+
+* façade
+* windows and arches
+* towers or domes
+* doors and structural details
+* roofline
+* surrounding landscape or street elements
+
+Add only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Rebuild the same structure as an experimental printed architectural collage using:
+
+torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.
+
+The structure must remain immediately recognizable.
+
+* Torn-edge photographic fragments preserve the most important architectural details.
+* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.
+* Use thin technical construction lines to subtly trace the structure’s geometry.
+* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.
+* Keep the main silhouette strong and readable.
+* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.
+* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.
+* Never fully desaturate the structure.
+
+The structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.
+
+Leave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.
+
+TYPOGRAPHY
+
+Add one clean, readable fixed-width architectural title based on the structure:
+
+[STRUCTURE NAME]
+
+Below it include:
+
+[CITY, COUNTRY]
+REC. STUDY 01
+
+Add one short observational caption related to the architecture, such as:
+
+“A monumental study in geometry, time, and place.”
+
+Typography should feel like an old architectural archive mixed with an underground experimental design journal.
+
+A few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.
+
+MOOD
+
+Early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.
+
+The structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.
+
+Sophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.
+
+AVOID
+
+Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
+
+Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.",prompt_071.webp,https://x.com/Naiknelofar788/status/2100067049288634730,"上下双拼, 建筑拼贴, 半调网点, ASCII代码, 实验印刷",2026-09-16 17:33

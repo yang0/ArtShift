@@ -1,0 +1,19 @@
+# Local-only collection tooling, fetched data, source images, and historical outputs
+local/
+
+# Runtime files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.DS_Store
+Thumbs.db
+*.log
+
+# README assets must be WebP only
+docs/assets/source/
+docs/assets/*.png
+docs/assets/*.jpg
+docs/assets/*.jpeg

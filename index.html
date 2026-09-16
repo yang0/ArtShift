@@ -1,0 +1,728 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ArtShift · 照片风格迁移</title>
+  <style>
+    :root {
+      --bg-main: #0c0e17;
+      --bg-card: #141824;
+      --bg-panel: #181d2e;
+      --border-color: #262f44;
+      --border-focus: #6366f1;
+      --primary: #6366f1;
+      --primary-hover: #4f46e5;
+      --accent: #10b981;
+      --text-main: #f3f4f6;
+      --text-muted: #9ca3af;
+      --text-dim: #6b7280;
+      --font-stack: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft YaHei", sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg-main);
+      color: var(--text-main);
+      font-family: var(--font-stack);
+      line-height: 1.5;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    body.modal-open { overflow: hidden; }
+
+    /* 顶部导航 Header */
+    header {
+      background: linear-gradient(135deg, #151928 0%, #0c0e17 100%);
+      border-bottom: 1px solid var(--border-color);
+      padding: 24px max(24px, calc((100vw - 1560px) / 2));
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(12px);
+    }
+    .header-content {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+    }
+    .logo-group h1 {
+      font-size: clamp(22px, 2.6vw, 32px);
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      background: linear-gradient(120deg, #ffffff 40%, #a5b4fc 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 4px;
+    }
+    .logo-group p {
+      color: var(--text-muted);
+      font-size: 13.5px;
+    }
+
+    /* 主体内容 */
+    main {
+      width: min(1560px, calc(100% - 40px));
+      margin: 24px auto 80px;
+      flex: 1;
+    }
+
+    /* 过滤与搜索控制器 */
+    .controls {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin-bottom: 24px;
+      background: var(--bg-panel);
+      padding: 16px 20px;
+      border-radius: 14px;
+      border: 1px solid var(--border-color);
+    }
+    .search-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+    .search-box {
+      flex: 1;
+      min-width: 280px;
+      position: relative;
+    }
+    .search-box input {
+      width: 100%;
+      background: #0d101a;
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      padding: 10px 14px 10px 40px;
+      color: #fff;
+      font: inherit;
+      font-size: 14px;
+      transition: border-color 0.2s;
+    }
+    .search-box input:focus {
+      outline: none;
+      border-color: var(--border-focus);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+    }
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
+      pointer-events: none;
+    }
+    .stats-badge {
+      padding: 8px 16px;
+      background: #0d101a;
+      border: 1px solid var(--border-color);
+      border-radius: 999px;
+      font-size: 13px;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+    /* 网格展示卡片 */
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 22px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: #435070;
+      box-shadow: 0 14px 32px rgba(0, 0, 0, 0.45);
+    }
+
+    /* 卡片图片主体：点击放大 */
+    .card-img-wrap {
+      position: relative;
+      width: 100%;
+      background: #080a11;
+      cursor: zoom-in;
+      overflow: hidden;
+      aspect-ratio: 1 / 1;
+      display: block;
+    }
+    .card-img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      object-position: center;
+      display: block;
+      transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1);
+    }
+    .card-img-wrap:hover .card-img {
+      transform: none;
+    }
+    .hover-hint {
+      position: absolute;
+      inset: 0;
+      background: rgba(10, 12, 20, 0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      gap: 6px;
+    }
+    .card-img-wrap:hover .hover-hint {
+      opacity: 1;
+    }
+
+    /* 卡片下方：放编号和复制按钮 */
+    .card-footer-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 14px;
+      background: #111522;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      gap: 10px;
+    }
+    .card-id-badge {
+      display: inline-flex;
+      align-items: center;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 13.5px;
+      font-weight: 700;
+      color: #cbd5e1;
+      background: rgba(255, 255, 255, 0.06);
+      padding: 4px 10px;
+      border-radius: 6px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      letter-spacing: 0.5px;
+    }
+    .card-copy-btn {
+      flex: 1;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      background: #1e263c;
+      border: 1px solid #333f5d;
+      color: #f3f4f6;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .card-copy-btn:hover {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+    }
+    .card-copy-btn.copied {
+      background: var(--accent) !important;
+      border-color: var(--accent) !important;
+      color: #fff;
+    }
+
+    /* 空状态 */
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 60px 20px;
+      background: var(--bg-panel);
+      border-radius: 14px;
+      border: 1px dashed var(--border-color);
+      color: var(--text-muted);
+    }
+    .empty-state h3 {
+      font-size: 17px;
+      margin-bottom: 6px;
+      color: var(--text-main);
+    }
+
+    /* 全屏大图灯箱 Lightbox: 包含作者信息和完整提示词 */
+    .viewer {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      display: none;
+      place-items: center;
+      padding: 24px;
+      background: rgba(4, 6, 12, 0.94);
+      backdrop-filter: blur(14px);
+    }
+    .viewer.open { display: grid; }
+    .viewer-panel {
+      position: relative;
+      width: min(1380px, 95vw);
+      max-height: 92vh;
+      display: flex;
+      flex-direction: row;
+      background: var(--bg-card);
+      border: 1px solid #333e58;
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: 0 28px 90px rgba(0, 0, 0, 0.85);
+    }
+    .viewer-left {
+      flex: 1.4;
+      min-width: 0;
+      background: #07090f;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .viewer-left img {
+      max-width: 100%;
+      max-height: 86vh;
+      object-fit: contain;
+      border-radius: 8px;
+    }
+    .viewer-right {
+      flex: 1;
+      min-width: 340px;
+      max-width: 480px;
+      background: #121624;
+      border-left: 1px solid #273148;
+      display: flex;
+      flex-direction: column;
+      padding: 24px;
+      gap: 18px;
+      overflow-y: auto;
+    }
+    .viewer-header-info {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      padding-bottom: 16px;
+    }
+    .author-block {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: #fff;
+    }
+    .author-avatar {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #4f46e5, #06b6d4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 16px;
+      color: #fff;
+    }
+    .author-text-name {
+      font-weight: 600;
+      font-size: 15px;
+    }
+    .author-text-handle {
+      font-size: 13px;
+      color: var(--text-dim);
+    }
+    .origin-btn {
+      padding: 6px 12px;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.08);
+      color: #cbd5e1;
+      text-decoration: none;
+      font-size: 12.5px;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: background 0.15s;
+    }
+    .origin-btn:hover {
+      background: rgba(255, 255, 255, 0.15);
+      color: #fff;
+    }
+
+    .viewer-section-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .viewer-prompt-box {
+      background: #090c15;
+      border: 1px solid #232c40;
+      border-radius: 10px;
+      padding: 16px;
+      font-size: 14px;
+      color: #e2e8f0;
+      line-height: 1.6;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      white-space: pre-wrap;
+      word-break: break-word;
+      max-height: 280px;
+      overflow-y: auto;
+    }
+    .viewer-big-copy-btn {
+      margin-top: auto;
+      width: 100%;
+      padding: 12px;
+      border-radius: 10px;
+      background: var(--primary);
+      border: 1px solid var(--primary);
+      color: #fff;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: all 0.15s;
+    }
+    .viewer-big-copy-btn:hover {
+      background: var(--primary-hover);
+    }
+    .viewer-big-copy-btn.copied {
+      background: var(--accent) !important;
+      border-color: var(--accent) !important;
+    }
+
+    .close-btn {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      color: #fff;
+      font-size: 22px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 10;
+      transition: background 0.15s;
+    }
+    .close-btn:hover {
+      background: rgba(239, 68, 68, 0.8);
+    }
+
+    /* 快捷 Toast 提示 */
+    .toast {
+      position: fixed;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: #10b981;
+      color: #fff;
+      padding: 10px 24px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+      box-shadow: 0 10px 30px rgba(16, 185, 129, 0.35);
+      transition: transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+      z-index: 2000;
+      pointer-events: none;
+    }
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+    }
+
+    @media (max-width: 860px) {
+      .viewer-panel { flex-direction: column; max-height: 94vh; }
+      .viewer-left img { max-height: 45vh; }
+      .viewer-right { max-width: 100%; min-width: 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-content">
+      <div class="logo-group">
+          <h1>ArtShift · 照片风格迁移</h1>
+          <p>输入编号，为你的照片找到一种新表达</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="controls">
+      <div class="search-row">
+        <div class="search-box">
+          <svg class="search-icon" width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <input id="searchInput" type="search" placeholder="搜索编号或风格提示词，例如 #001">
+        </div>
+        <div id="statsBadge" class="stats-badge">加载中...</div>
+      </div>
+    </div>
+
+    <section id="galleryGrid" class="gallery-grid">
+      <!-- 动态卡片列表渲染区域 -->
+    </section>
+  </main>
+
+  <!-- 全屏大图灯箱模态框：点击图片放大查看作者和提示词 -->
+  <div id="viewerModal" class="viewer" role="dialog" aria-modal="true">
+    <div class="viewer-panel">
+      <button id="closeViewer" class="close-btn" title="关闭 (Esc)">×</button>
+      
+      <!-- 左侧高清大图 -->
+      <div class="viewer-left">
+        <img id="viewerImage" src="" alt="大图放大查看">
+      </div>
+
+      <!-- 右侧作者与提示词详情面板 -->
+      <div class="viewer-right">
+        <div class="viewer-header-info">
+          <a id="viewerAuthorLink" href="#" target="_blank" rel="noopener" class="author-block">
+            <div id="viewerAvatar" class="author-avatar">A</div>
+            <div>
+              <div id="viewerAuthorName" class="author-text-name">作者名称</div>
+              <div id="viewerAuthorHandle" class="author-text-handle">@handle</div>
+            </div>
+          </a>
+          <a id="viewerTweetLink" href="#" target="_blank" rel="noopener" class="origin-btn" title="查看 X 原始推文">
+            <svg width="13" height="13" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            原推 ↗
+          </a>
+        </div>
+
+        <div class="viewer-section-title">
+          <span>编号：<strong id="viewerItemNo" style="color: #cbd5e1;">#001</strong></span>
+          <span id="viewerDate" style="color: var(--text-dim); font-size: 12px;">2026-09-16</span>
+        </div>
+
+        <div>
+          <div class="viewer-section-title" style="margin-bottom: 8px;">
+            <span>提示词 (Prompt)：</span>
+          </div>
+          <div id="viewerPrompt" class="viewer-prompt-box"></div>
+        </div>
+        <button id="viewerCopyBtn" class="viewer-big-copy-btn">
+          <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
+          一键复制完整提示词
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast 消息提示 -->
+  <div id="toast" class="toast">提示词已复制到剪贴板！</div>
+
+  <!-- 静态数据源：纯静态无跨域限制 -->
+  <script src="gallery-data.js"></script>
+
+  <script>
+    const dataStore = window.ARTSHIFT_DATA || { prompts: [], tags: [], authors: [] };
+    let searchQuery = '';
+
+    const grid = document.getElementById('galleryGrid');
+    const searchInput = document.getElementById('searchInput');
+    const statsBadge = document.getElementById('statsBadge');
+    const toast = document.getElementById('toast');
+
+    // Lightbox 元素
+    const viewerModal = document.getElementById('viewerModal');
+    const viewerImage = document.getElementById('viewerImage');
+    const viewerAuthorLink = document.getElementById('viewerAuthorLink');
+    const viewerAvatar = document.getElementById('viewerAvatar');
+    const viewerAuthorName = document.getElementById('viewerAuthorName');
+    const viewerAuthorHandle = document.getElementById('viewerAuthorHandle');
+    const viewerTweetLink = document.getElementById('viewerTweetLink');
+    const viewerItemNo = document.getElementById('viewerItemNo');
+    const viewerDate = document.getElementById('viewerDate');
+    const viewerPrompt = document.getElementById('viewerPrompt');
+    const viewerCopyBtn = document.getElementById('viewerCopyBtn');
+    const closeViewer = document.getElementById('closeViewer');
+
+    let activeModalPrompt = '';
+
+    function padNumber(n) {
+      return String(n).padStart(3, '0');
+    }
+
+    function showToast(text) {
+      toast.textContent = text || '提示词已成功复制到剪贴板！';
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    }
+
+    // 复制剪贴板双保险：优先 Clipboard API，回退至 execCommand
+    function copyToClipboard(text, btnElement) {
+      const doFeedback = () => {
+        showToast();
+        if (btnElement) {
+          const originalHtml = btnElement.innerHTML;
+          btnElement.classList.add('copied');
+          btnElement.innerHTML = `<svg width="14" height="14" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg> 已复制`;
+          setTimeout(() => {
+            btnElement.classList.remove('copied');
+            btnElement.innerHTML = originalHtml;
+          }, 1800);
+        }
+      };
+
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(text).then(doFeedback).catch(() => fallbackCopy(text, doFeedback));
+      } else {
+        fallbackCopy(text, doFeedback);
+      }
+    }
+
+    function fallbackCopy(text, onSuccess) {
+      const textArea = document.createElement('textarea');
+      textArea.value = text;
+      textArea.style.position = 'fixed';
+      textArea.style.left = '-999999px';
+      textArea.style.top = '-999999px';
+      document.body.appendChild(textArea);
+      textArea.focus();
+      textArea.select();
+      try {
+        const ok = document.execCommand('copy');
+        if (ok) {
+          onSuccess();
+        } else {
+          prompt('请手动按 Ctrl+C 复制提示词：', text);
+        }
+      } catch (err) {
+        prompt('请手动按 Ctrl+C 复制提示词：', text);
+      }
+      document.body.removeChild(textArea);
+    }
+
+    function render() {
+      const list = dataStore.prompts || [];
+      const term = searchQuery.trim().toLowerCase();
+
+      const filtered = list.filter(item => {
+        const searchTarget = `${item.prompt} ${item.author} ${item.author_name} ${(item.tags || []).join(' ')} #${padNumber(item.id)}`.toLowerCase();
+        const matchSearch = !term || searchTarget.includes(term);
+        return matchSearch;
+      });
+
+      statsBadge.textContent = `已整理 ${list.length} 种风格 · 显示 ${filtered.length} 种`;
+
+      if (!filtered.length) {
+        grid.innerHTML = `
+          <div class="empty-state">
+            <h3>没有找到匹配的提示词与作品</h3>
+            <p>可尝试清除搜索条件，或运行脚本录入新推文！</p>
+          </div>
+        `;
+        return;
+      }
+
+      // 卡片布局：图片主体（点击放大查看作者和提示词）
+      // 图片下方放：编号和复制按钮（点击复制提示词）
+      grid.innerHTML = filtered.map(item => {
+        const noFormatted = `#${padNumber(item.id)}`;
+        const encodedPrompt = encodeURIComponent(item.prompt);
+
+        return `
+          <article class="card" data-id="${item.id}">
+            <!-- 图片主体：点击放大 -->
+            <div class="card-img-wrap" onclick="openLightbox(${item.id})" title="点击放大查看作者和提示词">
+              <img class="card-img" loading="lazy" src="${item.image_path}" alt="作品 ${noFormatted}">
+              <div class="hover-hint">
+                <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v6m3-3H7"></path></svg>
+                点击放大查看详情
+              </div>
+            </div>
+
+            <!-- 图片下方：放编号和复制按钮 -->
+            <div class="card-footer-bar">
+              <span class="card-id-badge">${noFormatted}</span>
+              <button class="card-copy-btn" onclick="copyCardPrompt(this, '${encodedPrompt}')" title="点击复制提示词">
+                <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
+                复制提示词
+              </button>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    function copyCardPrompt(btn, encodedText) {
+      const text = decodeURIComponent(encodedText);
+      copyToClipboard(text, btn);
+    }
+
+    // Lightbox 大图模态框：查看作者和提示词
+    function openLightbox(id) {
+      const item = (dataStore.prompts || []).find(p => p.id === id);
+      if (!item) return;
+
+      activeModalPrompt = item.prompt;
+      viewerImage.src = item.image_path;
+      viewerItemNo.textContent = `#${padNumber(item.id)}`;
+      viewerDate.textContent = item.created_at || '';
+
+      // 作者信息
+      const firstLetter = (item.author_name || item.author || 'A').charAt(0).toUpperCase();
+      viewerAvatar.textContent = firstLetter;
+      viewerAuthorName.textContent = item.author_name || item.author;
+      viewerAuthorHandle.textContent = `@${item.author}`;
+      viewerAuthorLink.href = item.author_url || `https://x.com/${item.author}`;
+
+      // 推文原址
+      if (item.source_url) {
+        viewerTweetLink.href = item.source_url;
+        viewerTweetLink.style.display = 'inline-flex';
+      } else {
+        viewerTweetLink.style.display = 'none';
+      }
+
+      // 提示词
+      viewerPrompt.textContent = item.prompt;
+
+      viewerModal.classList.add('open');
+      document.body.classList.add('modal-open');
+    }
+
+    function closeLightbox() {
+      viewerModal.classList.remove('open');
+      document.body.classList.remove('modal-open');
+      viewerImage.src = '';
+    }
+
+    viewerCopyBtn.addEventListener('click', () => {
+      if (activeModalPrompt) {
+        copyToClipboard(activeModalPrompt, viewerCopyBtn);
+      }
+    });
+
+    closeViewer.addEventListener('click', closeLightbox);
+    viewerModal.addEventListener('click', (e) => {
+      if (e.target === viewerModal) closeLightbox();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && viewerModal.classList.contains('open')) closeLightbox();
+    });
+
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value;
+      render();
+    });
+
+    render();
+  </script>
+</body>
+</html>
