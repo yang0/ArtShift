@@ -1,7 +1,7 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-16 17:33:23",
+  "updated_at": "2026-09-16 21:16:34",
   "total_count": 72,
   "tags": [
     "3D厚涂",
@@ -22,7 +22,6 @@ window.ARTSHIFT_DATA = {
     "人文浮雕",
     "人物宠物",
     "人物换脸",
-    "人物速写",
     "信息图",
     "做旧印刷",
     "几何剪影",
@@ -66,6 +65,7 @@ window.ARTSHIFT_DATA = {
     "当代水墨",
     "形象改造",
     "彩色刺绣",
+    "彩色剪纸",
     "微缩景观",
     "微缩纸艺",
     "意象重构",
@@ -73,16 +73,15 @@ window.ARTSHIFT_DATA = {
     "扁平矢量",
     "手工刺绣",
     "手工印章",
+    "手工拼贴",
     "手绘叙事",
     "手绘插画",
-    "手绘涂鸦",
     "手绘环境",
     "手绘贴纸",
     "抽象重构",
     "拓印粗粝",
     "拼布艺术",
     "拼布贴画",
-    "排线素描",
     "描图纸分层",
     "撕纸拼贴",
     "敦煌壁画",
@@ -124,7 +123,6 @@ window.ARTSHIFT_DATA = {
     "淡彩水彩",
     "深蓝白底",
     "滑稽圆钝",
-    "炭笔素描",
     "生活情绪",
     "田野记录",
     "留白美学",
@@ -137,6 +135,7 @@ window.ARTSHIFT_DATA = {
     "稚拙主义",
     "稚拙手绘",
     "穿透破框",
+    "立体卡纸",
     "立体微景观",
     "立体折纸",
     "立体模型",
@@ -172,6 +171,7 @@ window.ARTSHIFT_DATA = {
     "记忆贴纸",
     "设计系统",
     "贴布绣",
+    "贴纸风",
     "越界构图",
     "趣味小人",
     "轻盈稚拙",
@@ -189,7 +189,6 @@ window.ARTSHIFT_DATA = {
     "黑白墨线",
     "黑白插画",
     "黑白粗蜡笔",
-    "黑白素描",
     "黑白越界",
     "黑白高亮"
   ],
@@ -1526,6 +1525,25 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴 - 主贴正文 PROMPT 提取",
       "created_at": "2026-09-16 17:33"
+    },
+    {
+      "id": 72,
+      "author": "ai_suxiaole",
+      "author_name": "苏乐",
+      "author_url": "https://x.com/ai_suxiaole",
+      "prompt": "Use the uploaded image as the sole content source and transform its main subject into a refined full-body handcrafted paper-cut fashion character. Preserve the subject’s identity cues, age category, gender presentation, skin tone, facial expression, hairstyle or head covering, pose, body orientation, clothing categories, garment layers, colors, patterns, accessories, footwear, and important carried objects. Preserve culturally specific clothing accurately: if the source includes a hijab, headscarf, traditional textile, batik, embroidery, jewelry, or modest layered garments, retain their recognizable wrapping, coverage, construction, motifs, and color relationships. Do not add a hijab, cultural garment, accessory, or pattern that is absent from the source.\n\nGently stylize the person into an elegant storybook fashion doll with a slightly enlarged head, softly rounded face, slender simplified body, graceful posture, and clean readable silhouette. Keep the person recognizable without copying photographic anatomy exactly. Render the face with large warm almond-shaped eyes, fine dark lashes, softly arched eyebrows, a tiny simplified nose, subtle rosy cheeks, and a small natural smile that matches the source expression. Keep facial features balanced and mature enough for the subject’s age; avoid infant-like proportions, extreme chibi anatomy, exaggerated eyes, or a generic identical doll face.\n\nConstruct the entire character as layered cut paper and lightly embossed cardstock. Use softly textured matte paper, delicate paper grain, precisely cut edges, overlapping garment layers, subtle folded-paper planes, shallow relief, and restrained edge shadows. Clothing should appear assembled from separate paper pieces, with broad clean shapes and a few carefully placed fold lines. Reproduce important fabric patterns as simplified, crisp printed or cut-paper motifs that follow the garment’s drape and panel structure. Preserve asymmetric hems, belts, brooches, scarves, sleeves, pleats, and layered panels when they are visually important. Keep hands anatomically simple but complete, with natural fingers and no fused or duplicated limbs.\n\nPlace the finished character upright and centered against a plain warm beige, cream, or light oatmeal paper background. Surround the complete silhouette with a narrow warm-white die-cut paper border, like a premium collectible sticker or mounted paper doll. Add a soft diffuse shadow falling slightly to the lower right so the figure appears gently raised above the background. Maintain generous negative space, a calm vertical composition, soft warm studio lighting, low contrast, muted natural colors, and a polished handmade editorial finish. The entire figure should be visible from head to footwear unless the source is already cropped; never invent body parts outside the source framing.\n\nThe final image should feel delicate, warm, sophisticated, tactile, and collectible: a contemporary paper-cut storybook portrait combining modest fashion illustration, subtle anime-inspired facial simplification, layered cardstock craftsmanship, and faithful clothing design. Avoid photorealism, 3D plastic dolls, glossy surfaces, clay, fabric embroidery, yarn, watercolor bleeding, rough sketch lines, heavy outlines, harsh cel shading, neon colors, busy scenery, extra people, invented accessories, altered clothing coverage, malformed hands, duplicated limbs, text, logos, signatures, frames, and watermarks. Output one finished vertical paper-cut character illustration only.",
+      "image": "prompt_072.webp",
+      "image_path": "data/curated/images/prompt_072.webp",
+      "source_tweet_id": "2100196205011820590",
+      "source_url": "https://x.com/ai_suxiaole/status/2100196205011820590",
+      "tags": [
+        "彩色剪纸",
+        "立体卡纸",
+        "贴纸风",
+        "手工拼贴"
+      ],
+      "notes": "彩色剪纸贴纸风格：手作立体拼贴角色 - 作者回复区 Note Tweet 提取",
+      "created_at": "2026-09-16 21:16"
     }
   ]
 };
