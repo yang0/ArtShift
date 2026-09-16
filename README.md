@@ -10,13 +10,13 @@
 
 ### 1. 把仓库链接交给 Codex
 
-复制本仓库链接并对 Codex 说：
+复制下面这句话并对 Codex 说：
 
 ```text
-读取并使用这个仓库里的 SKILL.md，帮我做照片风格迁移。
+[https://github.com/yang0/ArtShift](https://github.com/yang0/ArtShift)
 ```
 
-它会读取项目里的风格迁移 Skill；不需要安装环境，也不需要自己研究提示词。
+安装完成后，它会读取项目里的风格迁移 Skill；不需要自己研究提示词。
 
 ### 2. 选一个你喜欢的方向
 
