@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-17 16:55:33",
-  "total_count": 78,
+  "updated_at": "2026-09-17 16:56:44",
+  "total_count": 79,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -106,6 +106,7 @@ window.ARTSHIFT_DATA = {
     "智能马赛克",
     "暖色色盘",
     "木刻版画",
+    "杂志肖像",
     "松弛感",
     "极简丝网",
     "极简几何",
@@ -130,6 +131,7 @@ window.ARTSHIFT_DATA = {
     "治愈粉彩",
     "治愈系",
     "治愈配色",
+    "泼墨肌理",
     "流金珐琅",
     "浮雕纸雕",
     "海报重构",
@@ -178,6 +180,7 @@ window.ARTSHIFT_DATA = {
     "脚手架",
     "自然材料",
     "自然材料拼贴",
+    "艺术海报",
     "英文提示词",
     "荆棘观念线条",
     "莫兰迪色",
@@ -190,6 +193,7 @@ window.ARTSHIFT_DATA = {
     "视觉记忆",
     "记忆贴纸",
     "设计系统",
+    "质感插画",
     "贴布绣",
     "贴纸风",
     "越界构图",
@@ -209,11 +213,13 @@ window.ARTSHIFT_DATA = {
     "音乐性节奏",
     "黑白墨线",
     "黑白插画",
+    "黑白水墨",
     "黑白粗蜡笔",
     "黑白越界",
     "黑白高亮"
   ],
   "authors": [
+    "AiWithTariq",
     "Alina_with_Ai",
     "Goodmanprotocol",
     "Hamburgerai",
@@ -1690,6 +1696,26 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框 - 主贴正文提取",
       "created_at": "2026-09-17 16:55"
+    },
+    {
+      "id": 79,
+      "author": "AiWithTariq",
+      "author_name": "Mr. Tariq",
+      "author_url": "https://x.com/AiWithTariq",
+      "prompt": "Use the uploaded image as the main composition and style reference. Recreate the artwork almost exactly, keeping the same overall pose, side-profile angle, moody expression, rough painterly texture, abstract ink treatment, distressed overlays, and minimal beige background.\n\nCreate a high-contrast black-and-white editorial portrait illustration of a stylish man shown in left-facing side profile, wearing round dark sunglasses and a dark jacket, with his head slightly lowered in a thoughtful pose. Keep one hand raised near his mouth/chin in the same position as the reference.\n\nImportant change:\nEverything else should remain primarily monochrome black, charcoal, gray, and off-white/beige.\n\nPreserve the same grunge fine-art aesthetic:\n\n* rough ink wash textures\n* distressed brush strokes\n* splattered paint effects\n* abstract smudges\n* layered handwritten scribbles and sketch marks around the figure\n* fragmented editorial collage feeling\n* subtle textural blocks and faded typographic elements integrated into the background\n\nKeep the figure vertically centered with a clean off-white / warm beige background, lots of negative space, and the lower body dissolving into abstract painterly textures. Maintain the same premium fashion-poster / gallery-art vibe.\n\nStyle: ultra-detailed monochrome mixed-media portrait, contemporary editorial wall art, expressive ink illustration, dramatic contrast, textured fine-art poster, premium minimalist composition.",
+      "image": "prompt_079.webp",
+      "image_path": "data/curated/images/prompt_079.webp",
+      "source_tweet_id": "2100427348789363114",
+      "source_url": "https://x.com/AiWithTariq/status/2100427348789363114",
+      "tags": [
+        "黑白水墨",
+        "质感插画",
+        "杂志肖像",
+        "泼墨肌理",
+        "艺术海报"
+      ],
+      "notes": "黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报 - 作者回复区提取",
+      "created_at": "2026-09-17 16:56"
     }
   ]
 };
