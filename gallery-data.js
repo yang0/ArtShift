@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-17 16:48:45",
-  "total_count": 77,
+  "updated_at": "2026-09-17 16:55:33",
+  "total_count": 78,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -58,6 +58,7 @@ window.ARTSHIFT_DATA = {
     "复古水彩",
     "大光圈虚化",
     "天真质感",
+    "夸张肖像",
     "实体装置",
     "实验印刷",
     "宣纸肌理",
@@ -65,6 +66,7 @@ window.ARTSHIFT_DATA = {
     "封面海报",
     "工艺手作",
     "左右双拼",
+    "巴黎蒙马特",
     "布艺情绪",
     "平面插画",
     "建筑图解",
@@ -86,6 +88,7 @@ window.ARTSHIFT_DATA = {
     "手绘叙事",
     "手绘插画",
     "手绘环境",
+    "手绘线描",
     "手绘贴纸",
     "抽象重构",
     "拓印粗粝",
@@ -140,6 +143,7 @@ window.ARTSHIFT_DATA = {
     "留白美学",
     "盲压浮雕",
     "真人双生",
+    "真人同框",
     "真实人像",
     "磁场颗粒版画",
     "磨砂玻璃",
@@ -180,6 +184,7 @@ window.ARTSHIFT_DATA = {
     "蓝晒氰版",
     "蜡粉笔",
     "蜡粉笔手绘",
+    "街头漫画",
     "观察式手绘",
     "观念景观",
     "视觉记忆",
@@ -214,6 +219,7 @@ window.ARTSHIFT_DATA = {
     "Hamburgerai",
     "HaniaAi12",
     "Naiknelofar788",
+    "Shinebynous",
     "ai_suxiaole",
     "aronhouyu",
     "derek_wall90176",
@@ -1664,6 +1670,26 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙 - 作者回复区提取",
       "created_at": "2026-09-17 16:48"
+    },
+    {
+      "id": 78,
+      "author": "Shinebynous",
+      "author_name": "Shine by Nous ✨",
+      "author_url": "https://x.com/Shinebynous",
+      "prompt": "Use the uploaded portrait photo as the primary identity reference. Preserve the person’s recognizable facial identity as accurately as possible, including their face shape, apparent age, receding hairline or hairstyle, eyebrows, eye shape, nose, mouth, jawline, salt and pepper beard pattern, skin tone, expression, and overall individual character.\n\nCreate a cinematic, photorealistic 4:3 portrait scene in a quiet, charming corner of Montmartre, Paris. Show the same person from the uploaded photograph sitting or standing outside a classic Parisian café on a peaceful tourist street. The setting should feel authentically Montmartre, with a cobblestone street, old cream-colored buildings, café chairs, a red café awning, soft daylight, an artistic street atmosphere, and the Sacré-Cœur softly visible in the background.\n\nThe person should be clearly visible within the frame and photographed realistically, wearing a simple dark shirt or jacket. He holds a large white drawing pad beside him, facing the camera.\n\nThe paper features an exaggerated French street caricature of the same person, drawn in the classic old-school style of a Montmartre tourist artist. The caricature should appear hand-drawn using black ink or pen lines on white paper. It should be dramatically exaggerated and humorous while remaining clearly recognizable as the same person.\n\nPush the facial features theatrically: an oversized or unusually shaped nose, an exaggerated jawline, enlarged ears, expressive eyebrows, distorted facial proportions, a broad mischievous smile, a strongly emphasized beard shape, and a playful, over-the-top expression. Keep the caricature charming, funny, and artistic rather than grotesque.\n\nImportant: clearly show both versions within a single image:\n\nThe real, photorealistic person\nThe caricature drawing of the same person on the paper\n\nUse realistic lighting, a clean composition, high detail, natural skin texture, believable hands holding the paper, a calm background, and a playful vintage Parisian tourist-souvenir atmosphere.\n\nAspect ratio: 4:3.",
+      "image": "prompt_078.webp",
+      "image_path": "data/curated/images/prompt_078.webp",
+      "source_tweet_id": "2099887409257177093",
+      "source_url": "https://x.com/Shinebynous/status/2099887409257177093",
+      "tags": [
+        "街头漫画",
+        "夸张肖像",
+        "巴黎蒙马特",
+        "手绘线描",
+        "真人同框"
+      ],
+      "notes": "巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框 - 主贴正文提取",
+      "created_at": "2026-09-17 16:55"
     }
   ]
 };
