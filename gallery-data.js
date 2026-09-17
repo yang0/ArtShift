@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-17 16:56:44",
-  "total_count": 79,
+  "updated_at": "2026-09-17 16:57:14",
+  "total_count": 80,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -36,6 +36,7 @@ window.ARTSHIFT_DATA = {
     "几何秩序",
     "几何窗口",
     "刺绣锦缎",
+    "动漫插画",
     "半调网点",
     "单点彩色",
     "单色线稿",
@@ -57,6 +58,7 @@ window.ARTSHIFT_DATA = {
     "复古杂志",
     "复古水彩",
     "大光圈虚化",
+    "天台街拍",
     "天真质感",
     "夸张肖像",
     "实体装置",
@@ -175,6 +177,7 @@ window.ARTSHIFT_DATA = {
     "绘本风",
     "绘画叙事",
     "编辑设计",
+    "美漫风",
     "肌理重构",
     "肥皂泡沫重构",
     "脚手架",
@@ -196,6 +199,7 @@ window.ARTSHIFT_DATA = {
     "质感插画",
     "贴布绣",
     "贴纸风",
+    "赛璐璐",
     "越界构图",
     "趣味小人",
     "轻盈稚拙",
@@ -225,6 +229,7 @@ window.ARTSHIFT_DATA = {
     "Hamburgerai",
     "HaniaAi12",
     "Naiknelofar788",
+    "OrhanGhazi65942",
     "Shinebynous",
     "ai_suxiaole",
     "aronhouyu",
@@ -1716,6 +1721,26 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报 - 作者回复区提取",
       "created_at": "2026-09-17 16:56"
+    },
+    {
+      "id": 80,
+      "author": "OrhanGhazi65942",
+      "author_name": "ORHAN",
+      "author_url": "https://x.com/OrhanGhazi65942",
+      "prompt": "Use the uploaded image as the primary visual reference. Recreate the same overall composition, camera angle, framing, pose, environment, clothing, lighting, color palette, and stylized illustrated aesthetic.\n\nCreate a high-detail cinematic comic-book/anime-inspired fashion illustration of a confident, stylish adult man sitting casually on a rooftop ledge. He has tousled dark-brown hair with subtle highlights, light natural stubble, tinted rectangular sunglasses, and a calm, confident expression while looking slightly upward and away from the camera.\n\nHe wears an oversized deep burgundy/maroon T-shirt, loose black trousers, a long silver pendant necklace, bracelets, and a luxury-looking metal wristwatch. His footwear is burgundy-and-white high-top sneakers with a black swoosh-style side detail. One leg is raised and bent with his arm resting naturally over the knee, while his other hand rests casually on the rooftop ledge.\n\nThe setting is a sunny urban rooftop terrace with warm beige concrete walls and terracotta flower pots filled with vibrant orange flowers on both sides. A distant modern city skyline is subtly visible behind him. Above the scene is a bright saturated blue sky with large fluffy white clouds.\n\nUse bold clean linework, rich cel-shaded shadows, subtle painterly texture, dramatic but natural proportions, highly detailed clothing folds, realistic facial structure, expressive hands, crisp edges, vibrant colors, and a premium modern graphic-novel aesthetic. The image should feel like a luxury fashion editorial transformed into a cinematic comic illustration.\n\nComposition: low-angle perspective, subject dominating the center of the frame, slightly wide lens feel, vertical fashion-poster composition, strong depth and foreground/background separation.\n\nAspect ratio: 9:16.\n\nNegative prompt: blurry face, distorted hands, extra fingers, malformed shoes, duplicate limbs, bad anatomy, plastic skin, excessive cartoon exaggeration, photorealistic rendering, 3D CGI, text, logos, watermark, random objects, oversaturated skin, messy background.",
+      "image": "prompt_080.webp",
+      "image_path": "data/curated/images/prompt_080.webp",
+      "source_tweet_id": "2100437542915231869",
+      "source_url": "https://x.com/OrhanGhazi65942/status/2100437542915231869",
+      "tags": [
+        "动漫插画",
+        "时尚海报",
+        "美漫风",
+        "天台街拍",
+        "赛璐璐"
+      ],
+      "notes": "现代电影感动漫插画：天台潮流穿搭低仰角时尚大片 - 赛璐璐光影与美漫质感",
+      "created_at": "2026-09-17 16:57"
     }
   ]
 };
