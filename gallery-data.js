@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-17 09:03:37",
-  "total_count": 74,
+  "updated_at": "2026-09-17 10:05:58",
+  "total_count": 75,
   "tags": [
     "3D厚涂",
     "70年代动画",
@@ -201,6 +201,7 @@ window.ARTSHIFT_DATA = {
   ],
   "authors": [
     "Alina_with_Ai",
+    "Goodmanprotocol",
     "Hamburgerai",
     "Naiknelofar788",
     "ai_suxiaole",
@@ -1592,6 +1593,26 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "上下双拼：真实摄影 × 东方印压纸雕浮雕 - 作者回复区提取",
       "created_at": "2026-09-17 09:03"
+    },
+    {
+      "id": 75,
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "prompt": "Create one premium 3:4 vertical artwork for [COUNTRY / LOCATION / SUBJECT].\n\nGenerate the complete artwork from the text “[COUNTRY / LOCATION / SUBJECT]” alone. The subject name is the only input needed.\n\nDivide the composition into exactly two equal 50% sections.\n\nTOP 50% — PHOTOREALISTIC SCENE\n\nCreate a highly realistic, cinematic scene representing [COUNTRY / LOCATION / SUBJECT].\n\nAutomatically decide the most recognizable subject, environment, architecture, landscape, objects, colors, lighting, shadows, season, atmosphere, composition, and distinctive details that best express the given subject.\n\nMake this upper section feel naturally captured, with realistic textures, authentic lighting, believable depth, and subtle premium editorial color grading.\n\nBOTTOM 50% — PLAYFUL FLAT ILLUSTRATION\n\nTake the key visual elements established in the upper section and reinterpret them as a playful Korean-inspired flat editorial illustration.\n\nPreserve the recognizable subject, main shapes, poses, relationships, and visual story, but simplify everything into rounded geometric forms, solid color areas, and rough hand-drawn black outlines.\n\nUse slightly shaky, imperfect, uneven outlines and charmingly awkward proportions. Keep the result expressive and immediately recognizable without becoming realistic.\n\nCOMPOSITION & COLORS\n\nMaintain one clear visual focal point and arrange supporting elements through scale variation, overlap, cropping, asymmetry, and playful positioning.\n\nAutomatically select 3–5 vivid colors from the visual identity of [COUNTRY / LOCATION / SUBJECT]. Use bright blues, reds, yellows, greens, whites, or other suitable colors.\n\nKeep the lower section clean and graphic, using large solid-color areas and controlled negative space.\n\nAvoid gradients, realistic shadows, muddy colors, glossy surfaces, complex textures, and 3D effects.\n\nTYPOGRAPHY\n\nCreate a short English title inspired by the subject, its location, mood, action, or story.\n\nAdd a few small English words, numbers, place names, or playful editorial notes.\n\nUse an expressive handwritten or slightly irregular style for the main title and clean, restrained typography for the smaller details.\n\nIntegrate the lettering directly into the artwork by placing it along shapes, edges, color blocks, or negative spaces. Allow slight rotation, overlap, cropping, or playful misalignment.\n\nFINAL ART DIRECTION\n\nCreate a seamless visual combination of:\n\nrealistic cinematic scene × playful flat illustration × Korean editorial design × vivid colors × imperfect hand-drawn graphics × expressive typography.\n\nThe artwork should feel bright, innocent, friendly, playful, contemporary, and highly designed—like a sophisticated children's picture book combined with an independent design magazine.\n\nSTRICT 3:4 VERTICAL | EXACT 50/50 SPLIT | HIGH RESOLUTION | PREMIUM EDITORIAL DESIGN | CLEAN GRAPHIC FINISH.\n\nThe entire composition must be invented autonomously from [COUNTRY / LOCATION / SUBJECT]. Do not request any additional visual material.",
+      "image": "prompt_075.webp",
+      "image_path": "data/curated/images/prompt_075.webp",
+      "source_tweet_id": "2100232177052991760",
+      "source_url": "https://x.com/Goodmanprotocol/status/2100232177052991760",
+      "tags": [
+        "上下双拼",
+        "韩式插画",
+        "编辑设计",
+        "平面插画",
+        "海报重构"
+      ],
+      "notes": "上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版) - 主贴正文提取",
+      "created_at": "2026-09-17 10:05"
     }
   ]
 };
