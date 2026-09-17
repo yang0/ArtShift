@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-17 22:48:33",
-  "total_count": 81,
+  "updated_at": "2026-09-17 22:52:55",
+  "total_count": 82,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -115,6 +115,7 @@ window.ARTSHIFT_DATA = {
     "极简几何",
     "极简插画",
     "极简景观",
+    "极简杂志风",
     "极简留白",
     "极简矢量",
     "柔和插画",
@@ -145,6 +146,7 @@ window.ARTSHIFT_DATA = {
     "滑稽圆钝",
     "焦外双生",
     "生活情绪",
+    "生活方式",
     "田野记录",
     "留白美学",
     "盲压浮雕",
@@ -187,6 +189,7 @@ window.ARTSHIFT_DATA = {
     "脚手架",
     "自然材料",
     "自然材料拼贴",
+    "色块拼贴",
     "艺术海报",
     "英文提示词",
     "荆棘观念线条",
@@ -227,6 +230,7 @@ window.ARTSHIFT_DATA = {
     "黑白高亮"
   ],
   "authors": [
+    "AdrianPunk115",
     "AiWithTariq",
     "Alina_with_Ai",
     "Goodmanprotocol",
@@ -1765,6 +1769,26 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226) - 关联开源技能库原稿提取",
       "created_at": "2026-09-17 22:48"
+    },
+    {
+      "id": 82,
+      "author": "AdrianPunk115",
+      "author_name": "Adrian Punk",
+      "author_url": "https://x.com/AdrianPunk115",
+      "prompt": "Transform the uploaded photo into a minimalist hand-drawn editorial illustration.\n\nUse the uploaded image as the main reference. Preserve the most recognizable elements of the original photo, including the subject, appearance, hairstyle, pose, gesture, clothing, accessories, important objects, spatial relationships, and overall composition.\n\nSimplify the image into a clean contemporary editorial illustration.\n\nStyle:\nbold slightly irregular black ink outlines, organic hand-drawn linework, simplified graphic shapes, flat color blocking, minimal shading, subtle watercolor and gouache texture, soft paper grain, slightly uneven pigment, gentle print texture, and small handmade imperfections.\n\nKeep the subject recognizable, but simplify facial features and unnecessary details. Preserve distinctive visual characteristics, clothing silhouettes, patterns, accessories, and important objects.\n\nBackground:\nremove unnecessary photographic background details and replace them with a warm off-white, ivory, or natural paper-colored background.\n\nAdd ONE large abstract organic color shape behind or beside the subject, like a loose painted blob or soft paper cutout.\n\nThe accent color is NOT fixed.\n\nAutomatically choose ONE visually suitable accent color according to the uploaded photo, considering the subject, clothing, environment, mood, season, and overall color balance.\n\nDo not systematically favor blue or any other specific hue. The accent color may come from any suitable warm, cool, muted, earthy, bright, or pastel color family.\n\nKeep the abstract shape simple, asymmetrical, organically curved, partially cropped by the frame, and visually supportive rather than dominant.\n\nComposition:\ngenerous negative space, clean editorial layout, strong visual hierarchy, relaxed balance, and a clear focal point.\n\nIf an environmental element is essential to understanding the pose or scene, keep it in a highly simplified illustrated form. Otherwise, remove it.\n\nPreserve the original image orientation and approximate framing.\n\nAvoid photorealism, 3D rendering, anime style, glossy digital painting, polished vector graphics, excessive detail, complicated backgrounds, gradients, and heavy shadows.\n\nDo not add text, captions, logos, borders, decorative icons, or unrelated objects.\n\nFinal look:\nminimal, warm, stylish, slightly retro, expressive, casual, human, and effortlessly hand-drawn — like a modern lifestyle magazine illustration printed on textured paper.",
+      "image": "prompt_082.webp",
+      "image_path": "data/curated/images/prompt_082.webp",
+      "source_tweet_id": "2100587074885742645",
+      "source_url": "https://x.com/AdrianPunk115/status/2100587074885742645",
+      "tags": [
+        "手绘插画",
+        "极简杂志风",
+        "色块拼贴",
+        "生活方式",
+        "复古插画"
+      ],
+      "notes": "极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底 - 作者回复区提取",
+      "created_at": "2026-09-17 22:52"
     }
   ]
 };
