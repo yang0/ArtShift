@@ -1,15 +1,17 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-17 11:25:55",
-  "total_count": 76,
+  "updated_at": "2026-09-17 16:48:45",
+  "total_count": 77,
   "tags": [
     "3D厚涂",
+    "3D粘土卡通",
     "70年代动画",
     "85mm人像",
     "ASCII代码",
     "Logo重构",
     "Midjourney",
+    "Q版人偶",
     "Risograph",
     "上下双拼",
     "东方刺绣",
@@ -72,6 +74,7 @@ window.ARTSHIFT_DATA = {
     "形象改造",
     "彩色刺绣",
     "彩色剪纸",
+    "影棚互动",
     "微缩景观",
     "微缩纸艺",
     "意象重构",
@@ -89,6 +92,7 @@ window.ARTSHIFT_DATA = {
     "拼布艺术",
     "拼布贴画",
     "描图纸分层",
+    "摇头娃娃",
     "撕纸拼贴",
     "敦煌壁画",
     "旅行冰箱贴",
@@ -135,6 +139,7 @@ window.ARTSHIFT_DATA = {
     "田野记录",
     "留白美学",
     "盲压浮雕",
+    "真人双生",
     "真实人像",
     "磁场颗粒版画",
     "磨砂玻璃",
@@ -207,6 +212,7 @@ window.ARTSHIFT_DATA = {
     "Alina_with_Ai",
     "Goodmanprotocol",
     "Hamburgerai",
+    "HaniaAi12",
     "Naiknelofar788",
     "ai_suxiaole",
     "aronhouyu",
@@ -1638,6 +1644,26 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍) - 主贴正文提取",
       "created_at": "2026-09-17 11:25"
+    },
+    {
+      "id": 77,
+      "author": "HaniaAi12",
+      "author_name": "Hania Ai",
+      "author_url": "https://x.com/HaniaAi12",
+      "prompt": "Create a high-resolution, ultra-realistic studio composition in a 4:5 vertical aspect ratio, featuring a real woman standing beside a stylized 3D caricature (bobblehead-style) version of the same person.\n\nUse the provided reference image as the ONLY source of identity and hairstyle. Strictly preserve the subject’s recognizable facial structure, facial proportions, skin tone, natural features, and hairstyle from the reference image. Do not change the person’s identity or make the face generic. The real subject and the caricature must clearly look like the same person.\n\nCOMPOSITION & FRAMING:\nFull-body vertical shot with a clean, centered composition. The real woman stands on the RIGHT side, while the 3D caricature stands on the LEFT at approximately 50–60% of the real subject’s height. Both subjects should face each other and appear to be playfully sulking and lightly arguing.\n\nREAL SUBJECT — PHOTOGRAPHIC:\nUltra-realistic photographic rendering with natural skin texture and soft feminine details. The woman stands with her arms crossed, head slightly tilted away, lips slightly pouting, and looking down toward the caricature with a mildly annoyed but cute sulking expression. Her body posture is stylish, feminine, and slightly angled.\n\nCLOTHING — REAL SUBJECT:\nSoft pink cardigan, white fitted cami top, light blue denim mini skirt, clean white sneakers, and a small quilted pink handbag.\n\n3D CARICATURE — STYLIZED VERSION:\nCreate a polished, high-quality 3D animated caricature of the same woman, inspired by modern family-friendly animated movie aesthetics. Give her a large expressive head and a much smaller body while preserving the same recognizable facial features, hairstyle, skin tone, and overall appearance.\n\nThe caricature stands on the LEFT, looking upward toward the real woman with a pouty, stubborn, slightly annoyed expression. One hand rests on the waist while the other hand points upward as if arguing or talking back. Make the pose expressive, cute, playful, and humorous rather than aggressive.\n\nCARICATURE CLOTHING:\nSoft pink cardigan, white fitted cami top, light blue denim mini skirt, white sneakers, and a small pink quilted handbag matching the real subject.\n\nLIGHTING & BACKGROUND:\nSoft, diffused professional studio lighting with smooth highlights and gentle natural shadows. Use a clean light-gray seamless gradient studio background. Realistic contact shadows beneath both subjects.\n\nOUTPUT STYLE:\nUltra-clean, cinematic, polished, high-detail render. Blend the photorealistic woman and stylized 3D caricature naturally into the same studio environment. The overall mood should be cute, playful, expressive, and slightly dramatic, like a funny “sulking argument” between the woman and her miniature cartoon version.\n\nMaintain accurate anatomy, realistic proportions for the real woman, detailed facial features, natural hands and fingers, clean clothing details, and high-quality textures.\n\nNo text, no watermark, no logo, no extra people, no duplicate subjects, no distorted face, no deformed hands.",
+      "image": "prompt_077.webp",
+      "image_path": "data/curated/images/prompt_077.webp",
+      "source_tweet_id": "2100403540757725645",
+      "source_url": "https://x.com/HaniaAi12/status/2100403540757725645",
+      "tags": [
+        "3D粘土卡通",
+        "摇头娃娃",
+        "真人双生",
+        "Q版人偶",
+        "影棚互动"
+      ],
+      "notes": "真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙 - 作者回复区提取",
+      "created_at": "2026-09-17 16:48"
     }
   ]
 };
