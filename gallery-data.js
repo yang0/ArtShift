@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-18 20:45:49",
-  "total_count": 84,
+  "updated_at": "2026-09-18 22:52:01",
+  "total_count": 85,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -101,6 +101,7 @@ window.ARTSHIFT_DATA = {
     "拓印粗粝",
     "拼布艺术",
     "拼布贴画",
+    "排版设计",
     "描图纸分层",
     "摇头娃娃",
     "撕纸拼贴",
@@ -109,6 +110,8 @@ window.ARTSHIFT_DATA = {
     "旅行微缩",
     "旅行日记",
     "旅行海报",
+    "旅行画册",
+    "日系手账",
     "旧物感",
     "时尚海报",
     "智能马赛克",
@@ -225,6 +228,7 @@ window.ARTSHIFT_DATA = {
     "鎏金珐琅",
     "针毡玩偶",
     "钢笔淡彩",
+    "钢笔速写",
     "青花瓷绘",
     "韩式插画",
     "韩式稚拙",
@@ -233,6 +237,7 @@ window.ARTSHIFT_DATA = {
     "黑白插画",
     "黑白水墨",
     "黑白粗蜡笔",
+    "黑白素描",
     "黑白越界",
     "黑白高亮"
   ],
@@ -250,6 +255,7 @@ window.ARTSHIFT_DATA = {
     "aronhouyu",
     "derek_wall90176",
     "hann7712",
+    "itxsarmadd",
     "king1818888",
     "xiaoxiaodong01",
     "zhidawang219555"
@@ -1836,6 +1842,27 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感 - 作者回复区提取",
       "created_at": "2026-09-18 20:45"
+    },
+    {
+      "id": 85,
+      "author": "itxsarmadd",
+      "author_name": "Sarmad Tahir",
+      "author_url": "https://x.com/itxsarmadd",
+      "prompt": "A premium nostalgic editorial photo-and-sketch artbook page featuring a young East Asian woman at an airport terminal, arranged in a clean vertical 3:4 composition. The upper section shows an ultra-realistic candid photograph of the woman standing beside a large airport window, wearing a fitted white sleeveless top with a black puffer jacket casually slipping off her shoulders. She has long dark-brown hair falling naturally over one shoulder and holds a dark green Korean passport gently with both hands near her waist. Her pose is relaxed and natural, with her head turned to the side as she gazes thoughtfully toward the airport runway.\n\nBehind her, realistic airport architecture, glass windows, the runway, painted ground lines, and a boarding gate create an authentic travel atmosphere. Soft natural daylight enters through the window, with subtle film grain, realistic skin texture, authentic colors, shallow depth of field, and an intimate candid photography feeling.\n\nThe lower section transforms the exact same woman, clothing, pose, airport environment, and composition into a detailed loose black-and-white hand-drawn ink illustration on warm cream-colored textured paper. Use expressive imperfect lines, delicate cross-hatching, subtle sketch shading, realistic anatomy, and a handmade Japanese-inspired visual diary aesthetic.\n\nAdd elegant minimalist editorial typography in the surrounding cream negative space: a small “No. 24.” title, subtle Japanese handwritten-style text, a short poetic caption reading “Sometimes, I just stand in the light and let time be quiet.”, and tiny documentary-style notes such as time, date, location, and weather. Include understated words like “note.”, “observed.”, and “thought.” around the layout.\n\nWarm off-white paper texture, slightly imperfect ink printing, sophisticated contemporary photography journal design, nostalgic analog mood, generous negative space, cohesive transition between realistic photograph and sketch illustration, emotionally warm, highly detailed, premium artbook aesthetic, no watermark, no logos, vertical 3:4 aspect ratio.",
+      "image": "prompt_085.webp",
+      "image_path": "data/curated/images/prompt_085.webp",
+      "source_tweet_id": "2100874791532290319",
+      "source_url": "https://x.com/itxsarmadd/status/2100874791532290319",
+      "tags": [
+        "上下双拼",
+        "黑白素描",
+        "钢笔速写",
+        "日系手账",
+        "旅行画册",
+        "排版设计"
+      ],
+      "notes": "上下双拼：纪实摄影 × 日系手绘素描画册 - 主贴正文提取",
+      "created_at": "2026-09-18 22:52"
     }
   ]
 };
