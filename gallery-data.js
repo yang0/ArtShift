@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-17 22:52:55",
-  "total_count": 82,
+  "updated_at": "2026-09-18 20:03:32",
+  "total_count": 83,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -55,12 +55,14 @@ window.ARTSHIFT_DATA = {
     "复古手作",
     "复古手绘",
     "复古插画",
+    "复古日记",
     "复古杂志",
     "复古水彩",
     "大光圈虚化",
     "天台街拍",
     "天真质感",
     "夸张肖像",
+    "孔版印刷",
     "实体装置",
     "实验印刷",
     "宣纸肌理",
@@ -104,6 +106,7 @@ window.ARTSHIFT_DATA = {
     "旅行冰箱贴",
     "旅行微缩",
     "旅行日记",
+    "旅行海报",
     "旧物感",
     "时尚海报",
     "智能马赛克",
@@ -1789,6 +1792,26 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底 - 作者回复区提取",
       "created_at": "2026-09-17 22:52"
+    },
+    {
+      "id": 83,
+      "author": "ai_suxiaole",
+      "author_name": "苏乐",
+      "author_url": "https://x.com/ai_suxiaole",
+      "prompt": "Use the single uploaded photograph as the sole content source. Transform it into one finished vintage travel-diary art poster. Output only the transformed poster—do not include the original photograph, a before-and-after comparison, split layout, collage, mockup, or explanatory text. Preserve the source aspect ratio unless the user explicitly requests another format.\n\nFaithfully preserve the photograph’s principal subject, identity cues, age category, facial structure, hairstyle, expression, gaze direction, pose, clothing, accessories, handheld objects, interaction, viewpoint, and essential scene narrative. Preserve important environmental elements that establish the place or story, such as water, boats, streets, buildings, snow, trees, railings, vehicles, or distant figures. Simplify incidental clutter without changing the meaning of the moment. Do not add, remove, duplicate, or replace important people or objects.\n\nRedraw the image as a refined mid-century editorial illustration printed with a limited-color risograph and vintage screen-print process. Use warm ivory, lightly aged, fibrous uncoated paper as the base. Build the artwork primarily with deep Prussian blue or faded navy ink, dusty coral or muted salmon ink, and no more than one optional subdued accent color sampled from the source. Let the exposed paper provide highlights and skin illumination. Avoid full-color photographic rendering and smooth digital gradients.\n\nTranslate faces, hair, clothing, and scenery into expressive navy contour lines, etched hatching, broken dry-brush marks, coarse halftone dots, stippling, flat ink blocks, and selectively preserved paper-white areas. Keep the subject recognizable while slightly simplifying anatomy into an elegant hand-drawn editorial character. Render eyes, nose, lips, jawline, hair movement, and distinctive clothing details with economical but accurate linework. Preserve complex textures—such as knitted scarves, striped shirts, snow, waves, and reflections—through rhythmic hatching, grainy ink patterns, and distressed color fields rather than photorealistic detail.\n\nUse authentic analog print imperfections throughout: uneven ink density, worn edges, subtle speckling, paper grain showing through solid areas, distressed halftones, occasional broken contours, slight blue-and-coral registration offsets, and small areas where the ink appears rubbed or faded. Keep these imperfections controlled and intentional. The result must resemble a carefully designed archival risograph or screen-printed poster, not a generic digital filter, watercolor painting, comic panel, vector graphic, or pencil sketch.\n\nAdapt the source composition into a balanced editorial poster. Keep the principal subject dominant and recognizable, usually occupying the center or right side when the original layout allows it. Preserve the essential background as simplified layered silhouettes and textured shapes. Create clean negative space for typography without covering the face, hands, or important story elements. Small symbolic accents—such as a sun disc, birds, snowflakes, waves, or short horizontal rules—may be added only when they match the source setting. Do not introduce unrelated decorative objects.\n\nAdd a restrained diary-style typography system using the following optional fields: “[TITLE]”, “[SUBTITLE]”, “[DATE]”, and “[CAPTION]”. Reproduce any user-supplied field exactly, including spelling, capitalization, punctuation, language, and spacing. Place the title in the largest natural area of negative space using expressive hand-lettered brush script or an elegant editorial serif, depending on the mood. Set the subtitle, date, issue number, and caption in very small letter-spaced serif or typewriter-style text near the outer margins. Keep all supporting copy secondary to the illustration. Use deep navy ink for typography, with coral only for tiny accents.\n\nIf the user leaves a text field blank or omits all text, automatically create concise copy appropriate to the uploaded image: generate a two-to-five-word poetic English title, one short atmospheric sentence of no more than twelve words, and use the current date only if a date is desired by the layout. Do not invent specific locations, names, historical facts, or events that cannot be determined from the photograph. Use no more than one large title, one brief caption, one date or issue line, and two tiny decorative rules. Ensure every visible character is correctly spelled and fully legible; if reliable typography cannot be produced, omit the uncertain supporting text rather than rendering gibberish.\n\nMaintain a spacious, nostalgic, literary mood with strong visual hierarchy, understated emotion, muted ink colors, tactile paper texture, and the appearance of a collectible independent magazine cover or personal travel journal print. Avoid photorealism, glossy paper, neon colors, excessive colors, smooth airbrushing, clean vector outlines, modern advertising gradients, heavy 3D effects, generic anime styling, malformed faces or hands, changed clothing, invented landmarks, dense text blocks, random letters, logos, signatures, watermarks, borders, and frames. Output only the completed vintage risograph diary poster.",
+      "image": "prompt_083.webp",
+      "image_path": "data/curated/images/prompt_083.webp",
+      "source_tweet_id": "2100910238539141498",
+      "source_url": "https://x.com/ai_suxiaole/status/2100910238539141498",
+      "tags": [
+        "复古日记",
+        "孔版印刷",
+        "丝网版画",
+        "旅行海报",
+        "Risograph"
+      ],
+      "notes": "复古旅行日记海报：孔版印刷与丝网版画质感 - 作者回复区提取",
+      "created_at": "2026-09-18 20:03"
     }
   ]
 };
