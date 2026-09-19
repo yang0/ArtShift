@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-19 09:21:02",
-  "total_count": 86,
+  "updated_at": "2026-09-20 06:31:46",
+  "total_count": 87,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -11,6 +11,7 @@ window.ARTSHIFT_DATA = {
     "ASCII代码",
     "ArtBrut",
     "Logo重构",
+    "LowPoly",
     "Midjourney",
     "Q版人偶",
     "Risograph",
@@ -28,6 +29,7 @@ window.ARTSHIFT_DATA = {
     "人文浮雕",
     "人物宠物",
     "人物换脸",
+    "低多边形",
     "信息图",
     "做旧印刷",
     "光学重拍",
@@ -238,6 +240,7 @@ window.ARTSHIFT_DATA = {
     "韩式插画",
     "韩式稚拙",
     "音乐性节奏",
+    "风景摄影",
     "黑白墨线",
     "黑白插画",
     "黑白水墨",
@@ -257,6 +260,7 @@ window.ARTSHIFT_DATA = {
     "OrhanGhazi65942",
     "Shinebynous",
     "ai_suxiaole",
+    "aiwithlumi",
     "aronhouyu",
     "derek_wall90176",
     "hann7712",
@@ -1889,6 +1893,27 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut) - 作者回复区提取",
       "created_at": "2026-09-19 09:21"
+    },
+    {
+      "id": 87,
+      "author": "aiwithlumi",
+      "author_name": "lumiAI",
+      "author_url": "https://x.com/aiwithlumi",
+      "prompt": "Create a split vintage travel poster: the top shows a realistic autumn lakeside scene with a rustic log cabin, five grazing cows, golden-orange trees, fallen leaves, and sunlight sparkling across deep blue water; the bottom recreates the same scene in a sharp low-poly geometric style with faceted cabin, cows, trees, and jagged golden reflections. Use a cream divider with dark blue serif text “RAISE & ROAR”, “MOUNTAINS / LAKE / LIFE”, “NO.07”, and “03/25”.",
+      "image": "prompt_087.webp",
+      "image_path": "data/curated/images/prompt_087.webp",
+      "source_tweet_id": "2101265866226602262",
+      "source_url": "https://x.com/aiwithlumi/status/2101265866226602262",
+      "tags": [
+        "上下双拼",
+        "风景摄影",
+        "低多边形",
+        "LowPoly",
+        "几何拼贴",
+        "旅行海报"
+      ],
+      "notes": "上下双拼：风景摄影 × 低多边形几何面艺术海报 - 主贴正文提取",
+      "created_at": "2026-09-20 06:31"
     }
   ]
 };
