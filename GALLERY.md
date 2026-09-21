@@ -1,137 +1,21 @@
-# 🎨 ArtShift 风格迁移视觉画廊 (Gallery)
+# 🎨 ArtShift 风格迁移视觉画廊 (Visual Gallery)
 
-> 🖼️ **ArtShift 风格迁移视觉画廊** | 收录共 **88** 款经过实测的高清 AI 风格迁移提示词与效果参考。
->
-> 💡 **使用方法**：
-> 1. **在 Codex / AI 中使用**：浏览下方视觉效果，选定心仪编号（如 `#088`），将您的照片与指令发送给 Codex（如：`用画廊 #088 对这张照片做风格迁移`）。
-> 2. **手动复制提示词**：点击任意风格下方的「📋 点击展开查看完整提示词」，直接复制对应 Prompt 填入 Midjourney / Flux / ChatGPT / SD 等绘画工具。
+> 🖼️ **纯视觉画廊** | 收录全部 **88** 款风格高清大图。点击图片可查看原图，点击图片下方可展开复制提示词（Prompt）。
+
+**快速跳转**：[#001 - #020](#001) · [#021 - #040](#021) · [#041 - #060](#041) · [#061 - #080](#061) · [#081 - #088](#081)
 
 ---
 
-<a id="快速导航"></a>
-
-## 快速导航
-
-**区间快速跳转**：[#001 - #020](#视觉风格展示-001---020) · [#021 - #040](#视觉风格展示-021---040) · [#041 - #060](#视觉风格展示-041---060) · [#061 - #080](#视觉风格展示-061---080) · [#081 - #088](#视觉风格展示-081---088)
-
-**热门风格标签**：`上下双拼 (43)` `四等分演化 (17)` `双拼海报 (12)` `木刻版画 (3)` `韩式插画 (3)` `几何抽象 (3)` `立体折纸 (2)` `复古插画 (2)` `复古水彩 (2)` `手绘插画 (2)` `童话版画 (2)` `时尚海报 (2)` `丝网印刷 (2)` `极简插画 (2)` `微缩景观 (2)`
-
----
-
-## 快速检索目录
-
-| 编号 | 效果预览 | 风格名称 / 视觉主题 | 核心标签 | 作者 |
-| :---: | :---: | :--- | :--- | :--- |
-| [**#001**](#style-001) | <a href="#style-001"><img src="data/curated/images/prompt_001.webp" width="80" alt="#001"></a> | [**立体彩色刺绣补丁手作风**](#style-001) | `彩色刺绣` `工艺手作` | [@ai_suxiaole](https://x.com/ai_suxiaole) |
-| [**#002**](#style-002) | <a href="#style-002"><img src="data/curated/images/prompt_002.webp" width="80" alt="#002"></a> | [**立体折纸纸雕双拼海报风格**](#style-002) | `立体折纸` `纸雕拼贴` `形象改造` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#003**](#style-003) | <a href="#style-003"><img src="data/curated/images/prompt_003.webp" width="80" alt="#003"></a> | [**立体厚涂油画微景观双拼风格**](#style-003) | `厚涂油画` `立体微景观` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#004**](#style-004) | <a href="#style-004"><img src="data/curated/images/prompt_004.webp" width="80" alt="#004"></a> | [**七十年代动画感黑白墨线画双拼风格**](#style-004) | `黑白墨线` `70年代动画` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#005**](#style-005) | <a href="#style-005"><img src="data/curated/images/prompt_005.webp" width="80" alt="#005"></a> | [**扁平笔触手绘插画双拼风格**](#style-005) | `扁平手绘` `复古插画` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#006**](#style-006) | <a href="#style-006"><img src="data/curated/images/prompt_006.webp" width="80" alt="#006"></a> | [**复古水彩手绘编辑插画双拼风格**](#style-006) | `复古水彩` `手绘插画` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#007**](#style-007) | <a href="#style-007"><img src="data/curated/images/prompt_007.webp" width="80" alt="#007"></a> | [**童话版画绘本风双拼海报**](#style-007) | `童话版画` `绘本风` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#008**](#style-008) | <a href="#style-008"><img src="data/curated/images/prompt_008.webp" width="80" alt="#008"></a> | [**粗黑蜡笔高级童书编辑感双拼插画**](#style-008) | `粗黑蜡笔` `童书插画` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#009**](#style-009) | <a href="#style-009"><img src="data/curated/images/prompt_009.webp" width="80" alt="#009"></a> | [**治愈系温柔小画册双拼风格**](#style-009) | `治愈系` `柔和插画` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#010**](#style-010) | <a href="#style-010"><img src="data/curated/images/prompt_010.webp" width="80" alt="#010"></a> | [**旅行田野笔记手工印章双拼风格**](#style-010) | `田野记录` `手工印章` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#011**](#style-011) | <a href="#style-011"><img src="data/curated/images/prompt_011.webp" width="80" alt="#011"></a> | [**手工感小木版画双拼风格**](#style-011) | `木刻版画` `复古手作` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#012**](#style-012) | <a href="#style-012"><img src="data/curated/images/prompt_012.webp" width="80" alt="#012"></a> | [**黑白主调高亮点缀时尚海报双拼**](#style-012) | `黑白高亮` `时尚海报` `双拼海报` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#013**](#style-013) | <a href="#style-013"><img src="data/curated/images/prompt_013.webp" width="80" alt="#013"></a> | [**复古中古杂志封面插画大作**](#style-013) | `复古杂志` `Midjourney` `封面海报` | [@ai_suxiaole](https://x.com/ai_suxiaole) |
-| [**#014**](#style-014) | <a href="#style-014"><img src="data/curated/images/prompt_014.webp" width="80" alt="#014"></a> | [**童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报**](#style-014) | `童趣蜡笔` `城市记忆` `上下双拼` | [@Hamburgerai](https://x.com/Hamburgerai) |
-| [**#015**](#style-015) | <a href="#style-015"><img src="data/curated/images/prompt_015.webp" width="80" alt="#015"></a> | [**VOL.173 留白与微缩文本景观**](#style-015) | `留白美学` `极简景观` `上下双拼` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#016**](#style-016) | <a href="#style-016"><img src="data/curated/images/prompt_016.webp" width="80" alt="#016"></a> | [**横向动势丝网印刷 3:4 竖版上下对比转绘海报**](#style-016) | `横向动势` `丝网印刷` `上下双拼` | [@Hamburgerai](https://x.com/Hamburgerai) |
-| [**#017**](#style-017) | <a href="#style-017"><img src="data/curated/images/prompt_017.webp" width="80" alt="#017"></a> | [**手绘深蓝白底模切贴纸风格**](#style-017) | `手绘贴纸` `深蓝白底` `极简插画` | [@ai_suxiaole](https://x.com/ai_suxiaole) |
-| [**#018**](#style-018) | <a href="#style-018"><img src="data/curated/images/prompt_018.webp" width="80" alt="#018"></a> | [**VOL.105 诗意色块与印刷肌理纸本拼贴**](#style-018) | `纸本拼贴` `丝网印刷` `上下双拼` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#019**](#style-019) | <a href="#style-019"><img src="data/curated/images/prompt_019.webp" width="80" alt="#019"></a> | [**滑稽圆钝毛毡旅行角色 3:4 竖版对比海报**](#style-019) | `毛毡手作` `滑稽圆钝` `旅行微缩` | [@Hamburgerai](https://x.com/Hamburgerai) |
-| [**#020**](#style-020) | <a href="#style-020"><img src="data/curated/images/prompt_020.webp" width="80" alt="#020"></a> | [**摄影 + 稚拙主义编辑插画海报**](#style-020) | `稚拙主义` `韩式插画` `双拼海报` | [@hann7712](https://x.com/hann7712) |
-| [**#021**](#style-021) | <a href="#style-021"><img src="data/curated/images/prompt_021.webp" width="80" alt="#021"></a> | [**旅行日记双拼海报人物定制**](#style-021) | `旅行日记` `双拼海报` `人物换脸` | [@Alina_with_Ai](https://x.com/Alina_with_Ai) |
-| [**#022**](#style-022) | <a href="#style-022"><img src="data/curated/images/prompt_022.webp" width="80" alt="#022"></a> | [**复古刺绣图鉴风海报**](#style-022) | `复古刺绣` `图鉴海报` `上下双拼` | [@hann7712](https://x.com/hann7712) |
-| [**#023**](#style-023) | <a href="#style-023"><img src="data/curated/images/prompt_023.webp" width="80" alt="#023"></a> | [**VOL.028 立体模型微缩景观双拼海报**](#style-023) | `立体模型` `微缩景观` `上下双拼` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#024**](#style-024) | <a href="#style-024"><img src="data/curated/images/prompt_024.webp" width="80" alt="#024"></a> | [**VOL.027 中国印压浮雕纸雕微金艺术海报**](#style-024) | `浮雕纸雕` `印压微金` `上下双拼` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#025**](#style-025) | <a href="#style-025"><img src="data/curated/images/prompt_025.webp" width="80" alt="#025"></a> | [**VOL.026 极简抽象几何与微浮雕人文海报**](#style-025) | `极简几何` `人文浮雕` `上下双拼` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#026**](#style-026) | <a href="#style-026"><img src="data/curated/images/prompt_026.webp" width="80" alt="#026"></a> | [**VOL.025 格式塔正负形莫兰迪色丝网版画**](#style-026) | `格式塔正负形` `莫兰迪色` `丝网版画` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#027**](#style-027) | <a href="#style-027"><img src="data/curated/images/prompt_027.webp" width="80" alt="#027"></a> | [**VOL.024 真实物象穿越几何情绪窗口海报**](#style-027) | `几何窗口` `穿透破框` `上下双拼` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#028**](#style-028) | <a href="#style-028"><img src="data/curated/images/prompt_028.webp" width="80" alt="#028"></a> | [**VOL.022 纯白纸面黑色几何手绘越界单点彩色插画**](#style-028) | `越界构图` `黑白插画` `单点彩色` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#029**](#style-029) | <a href="#style-029"><img src="data/curated/images/prompt_029.webp" width="80" alt="#029"></a> | [**四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅**](#style-029) | `四等分演化` `记忆贴纸` `水彩票根` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#030**](#style-030) | <a href="#style-030"><img src="data/curated/images/prompt_030.webp" width="80" alt="#030"></a> | [**四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木**](#style-030) | `四等分演化` `韩式稚拙` `童话版画` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#031**](#style-031) | <a href="#style-031"><img src="data/curated/images/prompt_031.webp" width="80" alt="#031"></a> | [**四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂**](#style-031) | `四等分演化` `涂鸦小人` `几何窗口` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#032**](#style-032) | <a href="#style-032"><img src="data/curated/images/prompt_032.webp" width="80" alt="#032"></a> | [**四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场**](#style-032) | `四等分演化` `黑白粗蜡笔` `几何秩序` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#033**](#style-033) | <a href="#style-033"><img src="data/curated/images/prompt_033.webp" width="80" alt="#033"></a> | [**四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网**](#style-033) | `四等分演化` `复古扁平` `喷墨干刷` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#034**](#style-034) | <a href="#style-034"><img src="data/curated/images/prompt_034.webp" width="80" alt="#034"></a> | [**四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷**](#style-034) | `四等分演化` `扁平矢量` `几何浅浮雕` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#035**](#style-035) | <a href="#style-035"><img src="data/curated/images/prompt_035.webp" width="80" alt="#035"></a> | [**四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣**](#style-035) | `四等分演化` `蜡粉笔手绘` `拼布贴画` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#036**](#style-036) | <a href="#style-036"><img src="data/curated/images/prompt_036.webp" width="80" alt="#036"></a> | [**四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕**](#style-036) | `四等分演化` `东方民俗拓印` `木刻版画` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#037**](#style-037) | <a href="#style-037"><img src="data/curated/images/prompt_037.webp" width="80" alt="#037"></a> | [**四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观**](#style-037) | `四等分演化` `钢笔淡彩` `立体折纸` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#038**](#style-038) | <a href="#style-038"><img src="data/curated/images/prompt_038.webp" width="80" alt="#038"></a> | [**四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿**](#style-038) | `四等分演化` `透明蓝图` `水彩结构` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#039**](#style-039) | <a href="#style-039"><img src="data/curated/images/prompt_039.webp" width="80" alt="#039"></a> | [**上下双拼：摄影/极简东方水墨草图残稿**](#style-039) | `上下双拼` `水墨极简` `淡彩水彩` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#040**](#style-040) | <a href="#style-040"><img src="data/curated/images/prompt_040.webp" width="80" alt="#040"></a> | [**四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象**](#style-040) | `四等分演化` `描图纸分层` `磨砂玻璃` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#041**](#style-041) | <a href="#style-041"><img src="data/curated/images/prompt_041.webp" width="80" alt="#041"></a> | [**四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺**](#style-041) | `四等分演化` `建筑构成` `丝网套色` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#042**](#style-042) | <a href="#style-042"><img src="data/curated/images/prompt_042.webp" width="80" alt="#042"></a> | [**四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎**](#style-042) | `四等分演化` `青花瓷绘` `敦煌壁画` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#043**](#style-043) | <a href="#style-043"><img src="data/curated/images/prompt_043.webp" width="80" alt="#043"></a> | [**四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版**](#style-043) | `四等分演化` `木刻版画` `撕纸拼贴` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#044**](#style-044) | <a href="#style-044"><img src="data/curated/images/prompt_044.webp" width="80" alt="#044"></a> | [**VOL.040 趣味小人极简生活插画**](#style-044) | `上下双拼` `趣味小人` `极简插画` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#045**](#style-045) | <a href="#style-045"><img src="data/curated/images/prompt_045.webp" width="80" alt="#045"></a> | [**VOL.039 刺绣内核线缝布艺**](#style-045) | `上下双拼` `手工刺绣` `线缝布艺` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#046**](#style-046) | <a href="#style-046"><img src="data/curated/images/prompt_046.webp" width="80" alt="#046"></a> | [**VOL.038 柔软布艺情绪贴布绣**](#style-046) | `上下双拼` `布艺情绪` `拼布艺术` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#047**](#style-047) | <a href="#style-047"><img src="data/curated/images/prompt_047.webp" width="80" alt="#047"></a> | [**VOL.037 鎏金珐琅金属徽章冰箱贴**](#style-047) | `上下双拼` `鎏金珐琅` `金属徽章` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#048**](#style-048) | <a href="#style-048"><img src="data/curated/images/prompt_048.webp" width="80" alt="#048"></a> | [**几何美学补充：民俗拓印与现代几何秩序 (英文完整版)**](#style-048) | `上下双拼` `民俗拓印` `几何秩序` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#049**](#style-049) | <a href="#style-049"><img src="data/curated/images/prompt_049.webp" width="80" alt="#049"></a> | [**VOL.031 拓印粗粝做旧印刷**](#style-049) | `上下双拼` `拓印粗粝` `做旧印刷` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#050**](#style-050) | <a href="#style-050"><img src="data/curated/images/prompt_050.webp" width="80" alt="#050"></a> | [**VOL.030 植物重构自然材料拼合**](#style-050) | `上下双拼` `植物重构` `自然材料` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#051**](#style-051) | <a href="#style-051"><img src="data/curated/images/prompt_051.webp" width="80" alt="#051"></a> | [**VOL.029 蜡粉笔松弛感手绘**](#style-051) | `上下双拼` `蜡粉笔` `松弛感` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#052**](#style-052) | <a href="#style-052"><img src="data/curated/images/prompt_052.webp" width="80" alt="#052"></a> | [**VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)**](#style-052) | `左右双拼` `粗铅笔` `民俗剪影` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#053**](#style-053) | <a href="#style-053"><img src="data/curated/images/prompt_053.webp" width="80" alt="#053"></a> | [**VOL.087 实体线绳网络信息图 (Physical String-based)**](#style-053) | `上下双拼` `线绳网络` `信息图` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#054**](#style-054) | <a href="#style-054"><img src="data/curated/images/prompt_054.webp" width="80" alt="#054"></a> | [**VOL.074 现代极简图标转绘 (Icon Design)**](#style-054) | `上下双拼` `图标转绘` `极简矢量` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#055**](#style-055) | <a href="#style-055"><img src="data/curated/images/prompt_055.webp" width="80" alt="#055"></a> | [**VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)**](#style-055) | `上下双拼` `脚手架` `等距视角` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#056**](#style-056) | <a href="#style-056"><img src="data/curated/images/prompt_056.webp" width="80" alt="#056"></a> | [**VOL.061 水粉拆分治愈配色**](#style-056) | `上下双拼` `水粉拆分` `治愈配色` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#057**](#style-057) | <a href="#style-057"><img src="data/curated/images/prompt_057.webp" width="80" alt="#057"></a> | [**VOL.060 禅意极简抽象重构**](#style-057) | `上下双拼` `禅意极简` `抽象重构` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#058**](#style-058) | <a href="#style-058"><img src="data/curated/images/prompt_058.webp" width="80" alt="#058"></a> | [**VOL.059 绘本童真手绘叙事**](#style-058) | `上下双拼` `童真绘本` `寓言插画` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#059**](#style-059) | <a href="#style-059"><img src="data/curated/images/prompt_059.webp" width="80" alt="#059"></a> | [**VOL.058 几何抽象观念景观**](#style-059) | `上下双拼` `几何抽象` `观念景观` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#060**](#style-060) | <a href="#style-060"><img src="data/curated/images/prompt_060.webp" width="80" alt="#060"></a> | [**VOL.057 几何拼贴智能马赛克重组**](#style-060) | `上下双拼` `几何拼贴` `智能马赛克` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#061**](#style-061) | <a href="#style-061"><img src="data/curated/images/prompt_061.webp" width="80" alt="#061"></a> | [**VOL.056 暖色色盘稚拙手绘视觉记忆**](#style-061) | `上下双拼` `暖色色盘` `稚拙手绘` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#062**](#style-062) | <a href="#style-062"><img src="data/curated/images/prompt_062.webp" width="80" alt="#062"></a> | [**VOL.055 治愈粉彩浅浅油画质感**](#style-062) | `上下双拼` `治愈粉彩` `油画质感` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#063**](#style-063) | <a href="#style-063"><img src="data/curated/images/prompt_063.webp" width="80" alt="#063"></a> | [**VOL.054 旧物感六枚记忆贴纸**](#style-063) | `上下双拼` `旧物感` `记忆贴纸` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#064**](#style-064) | <a href="#style-064"><img src="data/curated/images/prompt_064.webp" width="80" alt="#064"></a> | [**VOL.053 观察式钢笔淡彩手稿**](#style-064) | `上下双拼` `观察式手绘` `钢笔淡彩` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#065**](#style-065) | <a href="#style-065"><img src="data/curated/images/prompt_065.webp" width="80" alt="#065"></a> | [**四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup**](#style-065) | `四等分演化` `几何抽象` `Logo重构` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#066**](#style-066) | <a href="#style-066"><img src="data/curated/images/prompt_066.webp" width="80" alt="#066"></a> | [**四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条**](#style-066) | `四等分演化` `复古水彩` `黑白越界` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#067**](#style-067) | <a href="#style-067"><img src="data/curated/images/prompt_067.webp" width="80" alt="#067"></a> | [**四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构**](#style-067) | `四等分演化` `复古手绘` `自然材料拼贴` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#068**](#style-068) | <a href="#style-068"><img src="data/curated/images/prompt_068.webp" width="80" alt="#068"></a> | [**上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报**](#style-068) | `上下双拼` `真实人像` `单色线稿` | [@hann7712](https://x.com/hann7712) |
-| [**#069**](#style-069) | <a href="#style-069"><img src="data/curated/images/prompt_069.webp" width="80" alt="#069"></a> | [**上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）**](#style-069) | `上下双拼` `东方刺绣` `丝线光泽` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#070**](#style-070) | <a href="#style-070"><img src="data/curated/images/prompt_070.webp" width="80" alt="#070"></a> | [**上下双拼：摄影真实呈现 × 极简水墨意象重构**](#style-070) | `上下双拼` `水墨意象` `当代水墨` | [@king1818888](https://x.com/king1818888) |
-| [**#071**](#style-071) | <a href="#style-071"><img src="data/curated/images/prompt_071.webp" width="80" alt="#071"></a> | [**上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴**](#style-071) | `上下双拼` `建筑拼贴` `半调网点` | [@Naiknelofar788](https://x.com/Naiknelofar788) |
-| [**#072**](#style-072) | <a href="#style-072"><img src="data/curated/images/prompt_072.webp" width="80" alt="#072"></a> | [**彩色剪纸贴纸风格：手作立体拼贴角色**](#style-072) | `彩色剪纸` `立体卡纸` `贴纸风` | [@ai_suxiaole](https://x.com/ai_suxiaole) |
-| [**#073**](#style-073) | <a href="#style-073"><img src="data/curated/images/prompt_073.webp" width="80" alt="#073"></a> | [**上下双拼：真实摄影 × 韩式平面编辑插画海报**](#style-073) | `上下双拼` `韩式插画` `编辑设计` | [@aronhouyu](https://x.com/aronhouyu) |
-| [**#074**](#style-074) | <a href="#style-074"><img src="data/curated/images/prompt_074.webp" width="80" alt="#074"></a> | [**上下双拼：真实摄影 × 东方印压纸雕浮雕**](#style-074) | `上下双拼` `东方纸雕` `压印浮雕` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#075**](#style-075) | <a href="#style-075"><img src="data/curated/images/prompt_075.webp" width="80" alt="#075"></a> | [**上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)**](#style-075) | `上下双拼` `韩式插画` `编辑设计` | [@Goodmanprotocol](https://x.com/Goodmanprotocol) |
-| [**#076**](#style-076) | <a href="#style-076"><img src="data/curated/images/prompt_076.webp" width="80" alt="#076"></a> | [**上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)**](#style-076) | `上下双拼` `焦外双生` `85mm人像` | [@derek_wall90176](https://x.com/derek_wall90176) |
-| [**#077**](#style-077) | <a href="#style-077"><img src="data/curated/images/prompt_077.webp" width="80" alt="#077"></a> | [**真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙**](#style-077) | `3D粘土卡通` `摇头娃娃` `真人双生` | [@HaniaAi12](https://x.com/HaniaAi12) |
-| [**#078**](#style-078) | <a href="#style-078"><img src="data/curated/images/prompt_078.webp" width="80" alt="#078"></a> | [**巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框**](#style-078) | `街头漫画` `夸张肖像` `巴黎蒙马特` | [@Shinebynous](https://x.com/Shinebynous) |
-| [**#079**](#style-079) | <a href="#style-079"><img src="data/curated/images/prompt_079.webp" width="80" alt="#079"></a> | [**黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报**](#style-079) | `黑白水墨` `质感插画` `杂志肖像` | [@AiWithTariq](https://x.com/AiWithTariq) |
-| [**#080**](#style-080) | <a href="#style-080"><img src="data/curated/images/prompt_080.webp" width="80" alt="#080"></a> | [**现代电影感动漫插画：天台潮流穿搭低仰角时尚大片**](#style-080) | `动漫插画` `时尚海报` `美漫风` | [@OrhanGhazi65942](https://x.com/OrhanGhazi65942) |
-| [**#081**](#style-081) | <a href="#style-081"><img src="data/curated/images/prompt_081.webp" width="80" alt="#081"></a> | [**上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)**](#style-081) | `上下双拼` `糖霜曲奇` `浅浮雕` | [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) |
-| [**#082**](#style-082) | <a href="#style-082"><img src="data/curated/images/prompt_082.webp" width="80" alt="#082"></a> | [**极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底**](#style-082) | `手绘插画` `极简杂志风` `色块拼贴` | [@AdrianPunk115](https://x.com/AdrianPunk115) |
-| [**#083**](#style-083) | <a href="#style-083"><img src="data/curated/images/prompt_083.webp" width="80" alt="#083"></a> | [**复古旅行日记海报：孔版印刷与丝网版画质感**](#style-083) | `复古日记` `孔版印刷` `丝网版画` | [@ai_suxiaole](https://x.com/ai_suxiaole) |
-| [**#084**](#style-084) | <a href="#style-084"><img src="data/curated/images/prompt_084.webp" width="80" alt="#084"></a> | [**手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感**](#style-084) | `手工羊毛毡` `针毡玩偶` `贴布绣` | [@ai_suxiaole](https://x.com/ai_suxiaole) |
-| [**#085**](#style-085) | <a href="#style-085"><img src="data/curated/images/prompt_085.webp" width="80" alt="#085"></a> | [**上下双拼：纪实摄影 × 日系手绘素描画册**](#style-085) | `上下双拼` `黑白素描` `钢笔速写` | [@itxsarmadd](https://x.com/itxsarmadd) |
-| [**#086**](#style-086) | <a href="#style-086"><img src="data/curated/images/prompt_086.webp" width="80" alt="#086"></a> | [**上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)**](#style-086) | `上下双拼` `原生艺术` `ArtBrut` | [@zhidawang219555](https://x.com/zhidawang219555) |
-| [**#087**](#style-087) | <a href="#style-087"><img src="data/curated/images/prompt_087.webp" width="80" alt="#087"></a> | [**上下双拼：风景摄影 × 低多边形几何面艺术海报**](#style-087) | `上下双拼` `风景摄影` `低多边形` | [@aiwithlumi](https://x.com/aiwithlumi) |
-| [**#088**](#style-088) | <a href="#style-088"><img src="data/curated/images/prompt_088.webp" width="80" alt="#088"></a> | [**上下双拼：纪实原图 × 现代硬边几何抽象色块插画**](#style-088) | `上下双拼` `硬边几何` `几何抽象` | [@Sairah_0](https://x.com/Sairah_0) |
-
----
-
-<a id="视觉风格展示-001---020"></a>
-
-## 视觉风格展示 (#001 - #020)
-
-### #001 · 立体彩色刺绣补丁手作风
-
-<a id="style-001"></a>
+## #001 · 立体彩色刺绣补丁手作风
 <a id="001"></a>
+<a id="style-001"></a>
 
-![#001 立体彩色刺绣补丁手作风](data/curated/images/prompt_001.webp)
-
-- **风格编号**：`#001`
-- **风格名称**：立体彩色刺绣补丁手作风
-- **作者来源**：[@ai_suxiaole](https://x.com/ai_suxiaole) (苏乐) · [查看 X (Twitter) 原贴](https://x.com/ai_suxiaole/status/2099824477173690831)
-- **风格标签**：`彩色刺绣` `工艺手作`
-- **收录备注**：原作者评论区置顶提取提示词
+[![#001 立体彩色刺绣补丁手作风](data/curated/images/prompt_001.webp)](data/curated/images/prompt_001.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `彩色刺绣` `工艺手作` · @ai_suxiaole</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2099824477173690831)
 
 ```text
 Use the single uploaded image as the sole source. Create one finished vertical before-and-after comparison image composed of two equal-sized panels stacked vertically. The upper panel must be an exact, pixel-faithful copy of the uploaded image: do not redraw, retouch, crop, resize disproportionately, recolor, sharpen, blur, remove, add, or cover anything. Generate only the lower panel. Make the final canvas the same width as the source and exactly twice its height, with the original image occupying the upper 50% and the generated artwork occupying the lower 50%. Join them at the exact midpoint with no gap, border, divider, frame, label, or overlap. If a fixed output canvas is required, fit both panels into identical bounds without cropping or changing their relative proportions.
@@ -149,25 +33,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #002 · 立体折纸纸雕双拼海报风格
-
-<a id="style-002"></a>
+## #002 · 立体折纸纸雕双拼海报风格
 <a id="002"></a>
+<a id="style-002"></a>
 
-![#002 立体折纸纸雕双拼海报风格](data/curated/images/prompt_002.webp)
-
-- **风格编号**：`#002`
-- **风格名称**：立体折纸纸雕双拼海报风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2099831605603041739)
-- **风格标签**：`立体折纸` `纸雕拼贴` `形象改造`
-- **收录备注**：立体折纸纸雕双拼海报风格 - 原作者评论区置顶提取
+[![#002 立体折纸纸雕双拼海报风格](data/curated/images/prompt_002.webp)](data/curated/images/prompt_002.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `立体折纸` `纸雕拼贴` `形象改造` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099831605603041739)
 
 ```text
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成完整而明确的上下转译关系。
@@ -200,25 +77,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #003 · 立体厚涂油画微景观双拼风格
-
-<a id="style-003"></a>
+## #003 · 立体厚涂油画微景观双拼风格
 <a id="003"></a>
+<a id="style-003"></a>
 
-![#003 立体厚涂油画微景观双拼风格](data/curated/images/prompt_003.webp)
-
-- **风格编号**：`#003`
-- **风格名称**：立体厚涂油画微景观双拼风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2099703434882744418)
-- **风格标签**：`厚涂油画` `立体微景观` `双拼海报`
-- **收录备注**：立体厚涂油画微景观双拼风格 - 原作者评论区置顶提取
+[![#003 立体厚涂油画微景观双拼风格](data/curated/images/prompt_003.webp)](data/curated/images/prompt_003.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `厚涂油画` `立体微景观` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099703434882744418)
 
 ```text
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成“原始照片 × 风格转译”的清晰双拼结构。
@@ -252,25 +122,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #004 · 七十年代动画感黑白墨线画双拼风格
-
-<a id="style-004"></a>
+## #004 · 七十年代动画感黑白墨线画双拼风格
 <a id="004"></a>
+<a id="style-004"></a>
 
-![#004 七十年代动画感黑白墨线画双拼风格](data/curated/images/prompt_004.webp)
-
-- **风格编号**：`#004`
-- **风格名称**：七十年代动画感黑白墨线画双拼风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2099662710321693002)
-- **风格标签**：`黑白墨线` `70年代动画` `双拼海报`
-- **收录备注**：七十年代动画感黑白墨线画双拼风格 - 原作者评论区置顶提取
+[![#004 七十年代动画感黑白墨线画双拼风格](data/curated/images/prompt_004.webp)](data/curated/images/prompt_004.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `黑白墨线` `70年代动画` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099662710321693002)
 
 ```text
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成清晰而完整的上下视觉对照关系。
@@ -297,25 +160,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #005 · 扁平笔触手绘插画双拼风格
-
-<a id="style-005"></a>
+## #005 · 扁平笔触手绘插画双拼风格
 <a id="005"></a>
+<a id="style-005"></a>
 
-![#005 扁平笔触手绘插画双拼风格](data/curated/images/prompt_005.webp)
-
-- **风格编号**：`#005`
-- **风格名称**：扁平笔触手绘插画双拼风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2099469619010617739)
-- **风格标签**：`扁平手绘` `复古插画` `双拼海报`
-- **收录备注**：扁平笔触手绘插画双拼风格 - 原作者评论区置顶提取
+[![#005 扁平笔触手绘插画双拼风格](data/curated/images/prompt_005.webp)](data/curated/images/prompt_005.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `扁平手绘` `复古插画` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099469619010617739)
 
 ```text
 创作一张竖版“上下双拼”风格海报。画布严格分为上下两个区域，上半部分为用户上传的原始照片，下半部分为根据同一主体转化出的扁平笔触手绘插画。整体干净、现代、手作感明确，并带有轻微复古色调。
@@ -346,25 +202,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #006 · 复古水彩手绘编辑插画双拼风格
-
-<a id="style-006"></a>
+## #006 · 复古水彩手绘编辑插画双拼风格
 <a id="006"></a>
+<a id="style-006"></a>
 
-![#006 复古水彩手绘编辑插画双拼风格](data/curated/images/prompt_006.webp)
-
-- **风格编号**：`#006`
-- **风格名称**：复古水彩手绘编辑插画双拼风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2099295085250916707)
-- **风格标签**：`复古水彩` `手绘插画` `双拼海报`
-- **收录备注**：复古水彩手绘编辑插画双拼风格 - 原作者评论区置顶提取
+[![#006 复古水彩手绘编辑插画双拼风格](data/curated/images/prompt_006.webp)](data/curated/images/prompt_006.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `复古水彩` `手绘插画` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099295085250916707)
 
 ```text
 创作一张竖版“上下双拼”风格海报，画布严格划分为上下两个区域，上方为真实摄影原图，下方为同一主体的复古水彩手绘编辑插画转译。整体气质轻松、俏皮、温柔、时髦、复古且带少量幽默感。
@@ -386,25 +235,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #007 · 童话版画绘本风双拼海报
-
-<a id="style-007"></a>
+## #007 · 童话版画绘本风双拼海报
 <a id="007"></a>
+<a id="style-007"></a>
 
-![#007 童话版画绘本风双拼海报](data/curated/images/prompt_007.webp)
-
-- **风格编号**：`#007`
-- **风格名称**：童话版画绘本风双拼海报
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2099122402362024421)
-- **风格标签**：`童话版画` `绘本风` `双拼海报`
-- **收录备注**：童话版画绘本风双拼海报 - 原作者评论区置顶提取
+[![#007 童话版画绘本风双拼海报](data/curated/images/prompt_007.webp)](data/curated/images/prompt_007.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `童话版画` `绘本风` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099122402362024421)
 
 ```text
 创作一张竖版“上下双拼”风格海报，整体像一本被拆开的绘本页：上方是真实照片，下方是同一主体的童话版画式图像转译。构图简洁、清楚、带叙事性，具有绘本和艺术出版物气质。
@@ -426,25 +268,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #008 · 粗黑蜡笔高级童书编辑感双拼插画
-
-<a id="style-008"></a>
+## #008 · 粗黑蜡笔高级童书编辑感双拼插画
 <a id="008"></a>
+<a id="style-008"></a>
 
-![#008 粗黑蜡笔高级童书编辑感双拼插画](data/curated/images/prompt_008.webp)
-
-- **风格编号**：`#008`
-- **风格名称**：粗黑蜡笔高级童书编辑感双拼插画
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2099031654975361099)
-- **风格标签**：`粗黑蜡笔` `童书插画` `双拼海报`
-- **收录备注**：粗黑蜡笔高级童书编辑感双拼插画 - 原作者评论区置顶提取
+[![#008 粗黑蜡笔高级童书编辑感双拼插画](data/curated/images/prompt_008.webp)](data/curated/images/prompt_008.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `粗黑蜡笔` `童书插画` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099031654975361099)
 
 ```text
 创作一张竖版“上下双拼”风格海报，画布严格分为上下两个区域，整体保持留白充分、安静、有高级童书编辑感。
@@ -470,25 +305,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #009 · 治愈系温柔小画册双拼风格
-
-<a id="style-009"></a>
+## #009 · 治愈系温柔小画册双拼风格
 <a id="009"></a>
+<a id="style-009"></a>
 
-![#009 治愈系温柔小画册双拼风格](data/curated/images/prompt_009.webp)
-
-- **风格编号**：`#009`
-- **风格名称**：治愈系温柔小画册双拼风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2098953170047369586)
-- **风格标签**：`治愈系` `柔和插画` `双拼海报`
-- **收录备注**：治愈系温柔小画册双拼风格 - 原作者评论区置顶提取
+[![#009 治愈系温柔小画册双拼风格](data/curated/images/prompt_009.webp)](data/curated/images/prompt_009.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `治愈系` `柔和插画` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098953170047369586)
 
 ```text
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
@@ -508,25 +336,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #010 · 旅行田野笔记手工印章双拼风格
-
-<a id="style-010"></a>
+## #010 · 旅行田野笔记手工印章双拼风格
 <a id="010"></a>
+<a id="style-010"></a>
 
-![#010 旅行田野笔记手工印章双拼风格](data/curated/images/prompt_010.webp)
-
-- **风格编号**：`#010`
-- **风格名称**：旅行田野笔记手工印章双拼风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2098759028755063191)
-- **风格标签**：`田野记录` `手工印章` `双拼海报`
-- **收录备注**：旅行田野笔记手工印章双拼风格 - 原作者评论区置顶提取
+[![#010 旅行田野笔记手工印章双拼风格](data/curated/images/prompt_010.webp)](data/curated/images/prompt_010.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `田野记录` `手工印章` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098759028755063191)
 
 ```text
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
@@ -548,25 +369,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #011 · 手工感小木版画双拼风格
-
-<a id="style-011"></a>
+## #011 · 手工感小木版画双拼风格
 <a id="011"></a>
+<a id="style-011"></a>
 
-![#011 手工感小木版画双拼风格](data/curated/images/prompt_011.webp)
-
-- **风格编号**：`#011`
-- **风格名称**：手工感小木版画双拼风格
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2098662532978544661)
-- **风格标签**：`木刻版画` `复古手作` `双拼海报`
-- **收录备注**：手工感小木版画双拼风格 - 原作者评论区置顶提取
+[![#011 手工感小木版画双拼风格](data/curated/images/prompt_011.webp)](data/curated/images/prompt_011.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `木刻版画` `复古手作` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098662532978544661)
 
 ```text
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
@@ -590,25 +404,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #012 · 黑白主调高亮点缀时尚海报双拼
-
-<a id="style-012"></a>
+## #012 · 黑白主调高亮点缀时尚海报双拼
 <a id="012"></a>
+<a id="style-012"></a>
 
-![#012 黑白主调高亮点缀时尚海报双拼](data/curated/images/prompt_012.webp)
-
-- **风格编号**：`#012`
-- **风格名称**：黑白主调高亮点缀时尚海报双拼
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2098343054159835367)
-- **风格标签**：`黑白高亮` `时尚海报` `双拼海报`
-- **收录备注**：黑白主调高亮点缀时尚海报双拼 - 原作者评论区置顶提取
+[![#012 黑白主调高亮点缀时尚海报双拼](data/curated/images/prompt_012.webp)](data/curated/images/prompt_012.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `黑白高亮` `时尚海报` `双拼海报` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098343054159835367)
 
 ```text
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
@@ -630,25 +437,18 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #013 · 复古中古杂志封面插画大作
-
-<a id="style-013"></a>
+## #013 · 复古中古杂志封面插画大作
 <a id="013"></a>
+<a id="style-013"></a>
 
-![#013 复古中古杂志封面插画大作](data/curated/images/prompt_013.webp)
-
-- **风格编号**：`#013`
-- **风格名称**：复古中古杂志封面插画大作
-- **作者来源**：[@ai_suxiaole](https://x.com/ai_suxiaole) (苏乐) · [查看 X (Twitter) 原贴](https://x.com/ai_suxiaole/status/2098745656412344344)
-- **风格标签**：`复古杂志` `Midjourney` `封面海报`
-- **收录备注**：复古中古杂志封面插画大作 - 原作者评论区置顶提取 (长达1.2万字)
+[![#013 复古中古杂志封面插画大作](data/curated/images/prompt_013.webp)](data/curated/images/prompt_013.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `复古杂志` `Midjourney` `封面海报` · @ai_suxiaole</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2098745656412344344)
 
 ```text
 Transform the uploaded photograph into a vintage mid-century editorial magazine cover illustration printed with a limited-color letterpress and halftone process. Treat the uploaded photograph as the sole source of visual content. Output only the finished transformed magazine artwork. Do not create a before-and-after comparison, split screen, contact sheet, collage, or presentation mockup.
@@ -710,25 +510,18 @@ Return exactly one finished transformed magazine-cover illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #014 · 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报
-
-<a id="style-014"></a>
+## #014 · 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报
 <a id="014"></a>
+<a id="style-014"></a>
 
-![#014 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报](data/curated/images/prompt_014.webp)
-
-- **风格编号**：`#014`
-- **风格名称**：童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报
-- **作者来源**：[@Hamburgerai](https://x.com/Hamburgerai) (蛋黄堡) · [查看 X (Twitter) 原贴](https://x.com/Hamburgerai/status/2099501924278235384)
-- **风格标签**：`童趣蜡笔` `城市记忆` `上下双拼`
-- **收录备注**：童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报 - 原推主贴提炼
+[![#014 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报](data/curated/images/prompt_014.webp)](data/curated/images/prompt_014.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `童趣蜡笔` `城市记忆` `上下双拼` · @Hamburgerai</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Hamburgerai](https://x.com/Hamburgerai/status/2099501924278235384)
 
 ```text
 制作一张完整、独立的3:4竖版上下对比旅行转绘海报。上半部分高保真保留输入的意大利旅行街拍，保持人物、服装、动作、建筑、街道、光线、色彩、透视和主体位置，不做插画化。下半部分把同一人物与同一街道重新绘制成“童趣蜡笔城市记忆”。
@@ -746,25 +539,18 @@ Return exactly one finished transformed magazine-cover illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #015 · VOL.173 留白与微缩文本景观
-
-<a id="style-015"></a>
+## #015 · VOL.173 留白与微缩文本景观
 <a id="015"></a>
+<a id="style-015"></a>
 
-![#015 VOL.173 留白与微缩文本景观](data/curated/images/prompt_015.webp)
-
-- **风格编号**：`#015`
-- **风格名称**：VOL.173 留白与微缩文本景观
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2099385632305090994)
-- **风格标签**：`留白美学` `极简景观` `上下双拼`
-- **收录备注**：VOL.173 留白与微缩文本景观 - 来自作者公开仓库 zh-CN.md
+[![#015 VOL.173 留白与微缩文本景观](data/curated/images/prompt_015.webp)](data/curated/images/prompt_015.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `留白美学` `极简景观` `上下双拼` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2099385632305090994)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
@@ -780,25 +566,18 @@ Return exactly one finished transformed magazine-cover illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #016 · 横向动势丝网印刷 3:4 竖版上下对比转绘海报
-
-<a id="style-016"></a>
+## #016 · 横向动势丝网印刷 3:4 竖版上下对比转绘海报
 <a id="016"></a>
+<a id="style-016"></a>
 
-![#016 横向动势丝网印刷 3:4 竖版上下对比转绘海报](data/curated/images/prompt_016.webp)
-
-- **风格编号**：`#016`
-- **风格名称**：横向动势丝网印刷 3:4 竖版上下对比转绘海报
-- **作者来源**：[@Hamburgerai](https://x.com/Hamburgerai) (蛋黄堡) · [查看 X (Twitter) 原贴](https://x.com/Hamburgerai/status/2099459657484087595)
-- **风格标签**：`横向动势` `丝网印刷` `上下双拼`
-- **收录备注**：横向动势丝网印刷 3:4 竖版上下对比转绘海报 - 原推主贴提炼
+[![#016 横向动势丝网印刷 3:4 竖版上下对比转绘海报](data/curated/images/prompt_016.webp)](data/curated/images/prompt_016.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `横向动势` `丝网印刷` `上下双拼` · @Hamburgerai</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Hamburgerai](https://x.com/Hamburgerai/status/2099459657484087595)
 
 ```text
 制作一张独立的3:4竖版上下对比转绘海报。上半完整保留输入的泰国旅行街拍真实照片，不裁掉主体、不改成插画、不改变原色。下半从同一张照片中提炼街道、建筑、摊位、树木、车辆和人物，将其重绘为米白纸张上的黑色与朱红双色高对比丝网印刷。使用粗颗粒油墨、干刷边缘、轻微套印错位、宽粗横线、水平拖影和速度条纹表现横向动势。保留人物或车辆的数量、姿态、服装、动作方向和关键轮廓；下半可以改变裁切、尺度和信息密度，但必须保持场景可识别。中间使用细白分隔线。不要添加文字、logo、水印、原图角标、AI角标或多图拼贴。
@@ -806,25 +585,18 @@ Return exactly one finished transformed magazine-cover illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #017 · 手绘深蓝白底模切贴纸风格
-
-<a id="style-017"></a>
+## #017 · 手绘深蓝白底模切贴纸风格
 <a id="017"></a>
+<a id="style-017"></a>
 
-![#017 手绘深蓝白底模切贴纸风格](data/curated/images/prompt_017.webp)
-
-- **风格编号**：`#017`
-- **风格名称**：手绘深蓝白底模切贴纸风格
-- **作者来源**：[@ai_suxiaole](https://x.com/ai_suxiaole) (苏乐) · [查看 X (Twitter) 原贴](https://x.com/ai_suxiaole/status/2098367415768019289)
-- **风格标签**：`手绘贴纸` `深蓝白底` `极简插画`
-- **收录备注**：手绘深蓝白底模切贴纸风格 - 原作者评论区置顶提取
+[![#017 手绘深蓝白底模切贴纸风格](data/curated/images/prompt_017.webp)](data/curated/images/prompt_017.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `手绘贴纸` `深蓝白底` `极简插画` · @ai_suxiaole</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2098367415768019289)
 
 ```text
 Transform the attached image into a minimal navy-and-white hand-drawn die-cut sticker illustration.
@@ -848,25 +620,18 @@ Return exactly one finished square sticker illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #018 · VOL.105 诗意色块与印刷肌理纸本拼贴
-
-<a id="style-018"></a>
+## #018 · VOL.105 诗意色块与印刷肌理纸本拼贴
 <a id="018"></a>
+<a id="style-018"></a>
 
-![#018 VOL.105 诗意色块与印刷肌理纸本拼贴](data/curated/images/prompt_018.webp)
-
-- **风格编号**：`#018`
-- **风格名称**：VOL.105 诗意色块与印刷肌理纸本拼贴
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2098110986809200982)
-- **风格标签**：`纸本拼贴` `丝网印刷` `上下双拼`
-- **收录备注**：VOL.105 诗意色块与印刷肌理纸本拼贴 - 来自作者公开仓库 zh-CN.md
+[![#018 VOL.105 诗意色块与印刷肌理纸本拼贴](data/curated/images/prompt_018.webp)](data/curated/images/prompt_018.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `纸本拼贴` `丝网印刷` `上下双拼` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2098110986809200982)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -890,25 +655,18 @@ Return exactly one finished square sticker illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #019 · 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报
-
-<a id="style-019"></a>
+## #019 · 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报
 <a id="019"></a>
+<a id="style-019"></a>
 
-![#019 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报](data/curated/images/prompt_019.webp)
-
-- **风格编号**：`#019`
-- **风格名称**：滑稽圆钝毛毡旅行角色 3:4 竖版对比海报
-- **作者来源**：[@Hamburgerai](https://x.com/Hamburgerai) (蛋黄堡) · [查看 X (Twitter) 原贴](https://x.com/Hamburgerai/status/2098065358926327899)
-- **风格标签**：`毛毡手作` `滑稽圆钝` `旅行微缩`
-- **收录备注**：滑稽圆钝毛毡旅行角色 3:4 竖版对比海报 - 原推主贴提炼
+[![#019 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报](data/curated/images/prompt_019.webp)](data/curated/images/prompt_019.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `毛毡手作` `滑稽圆钝` `旅行微缩` · @Hamburgerai</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Hamburgerai](https://x.com/Hamburgerai/status/2098065358926327899)
 
 ```text
 请将上传的旅行照片制作成一张3:4竖版“滑稽圆钝毛毡旅行角色”对比海报。
@@ -940,25 +698,18 @@ Return exactly one finished square sticker illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #020 · 摄影 + 稚拙主义编辑插画海报
-
-<a id="style-020"></a>
+## #020 · 摄影 + 稚拙主义编辑插画海报
 <a id="020"></a>
+<a id="style-020"></a>
 
-![#020 摄影 + 稚拙主义编辑插画海报](data/curated/images/prompt_020.webp)
-
-- **风格编号**：`#020`
-- **风格名称**：摄影 + 稚拙主义编辑插画海报
-- **作者来源**：[@hann7712](https://x.com/hann7712) (橘子多) · [查看 X (Twitter) 原贴](https://x.com/hann7712/status/2098063748795924953)
-- **风格标签**：`稚拙主义` `韩式插画` `双拼海报`
-- **收录备注**：摄影 + 稚拙主义编辑插画海报 - 原推主贴提炼
+[![#020 摄影 + 稚拙主义编辑插画海报](data/curated/images/prompt_020.webp)](data/curated/images/prompt_020.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `稚拙主义` `韩式插画` `双拼海报` · @hann7712</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @hann7712](https://x.com/hann7712/status/2098063748795924953)
 
 ```text
 为上传照片生成一张3:4竖版高端插画海报，非拼贴
@@ -976,29 +727,18 @@ Return exactly one finished square sticker illustration.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-<a id="视觉风格展示-021---040"></a>
-
-## 视觉风格展示 (#021 - #040)
-
-### #021 · 旅行日记双拼海报人物定制
-
-<a id="style-021"></a>
+## #021 · 旅行日记双拼海报人物定制
 <a id="021"></a>
+<a id="style-021"></a>
 
-![#021 旅行日记双拼海报人物定制](data/curated/images/prompt_021.webp)
-
-- **风格编号**：`#021`
-- **风格名称**：旅行日记双拼海报人物定制
-- **作者来源**：[@Alina_with_Ai](https://x.com/Alina_with_Ai) (Alina Ai) · [查看 X (Twitter) 原贴](https://x.com/Alina_with_Ai/status/2097628670143954978)
-- **风格标签**：`旅行日记` `双拼海报` `人物换脸`
-- **收录备注**：旅行日记双拼海报人物定制 - 原推主贴提炼
+[![#021 旅行日记双拼海报人物定制](data/curated/images/prompt_021.webp)](data/curated/images/prompt_021.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `旅行日记` `双拼海报` `人物换脸` · @Alina_with_Ai</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Alina_with_Ai](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 ```text
 Create a realistic two-panel editorial travel diary poster using the first image as the exact composition/reference and the second uploaded image as the facial reference.
@@ -1066,25 +806,18 @@ Most important: My face should be the only facial identity used. Do not copy the
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #022 · 复古刺绣图鉴风海报
-
-<a id="style-022"></a>
+## #022 · 复古刺绣图鉴风海报
 <a id="022"></a>
+<a id="style-022"></a>
 
-![#022 复古刺绣图鉴风海报](data/curated/images/prompt_022.webp)
-
-- **风格编号**：`#022`
-- **风格名称**：复古刺绣图鉴风海报
-- **作者来源**：[@hann7712](https://x.com/hann7712) (橘子多) · [查看 X (Twitter) 原贴](https://x.com/hann7712/status/2097639117828075975)
-- **风格标签**：`复古刺绣` `图鉴海报` `上下双拼`
-- **收录备注**：复古刺绣图鉴风海报 - 原作者评论区置顶提取
+[![#022 复古刺绣图鉴风海报](data/curated/images/prompt_022.webp)](data/curated/images/prompt_022.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `复古刺绣` `图鉴海报` `上下双拼` · @hann7712</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @hann7712](https://x.com/hann7712/status/2097639117828075975)
 
 ```text
 请创作一张 3:4 竖版「摄影 × 刺绣图鉴」艺术海报。
@@ -1199,25 +932,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #023 · VOL.028 立体模型微缩景观双拼海报
-
-<a id="style-023"></a>
+## #023 · VOL.028 立体模型微缩景观双拼海报
 <a id="023"></a>
+<a id="style-023"></a>
 
-![#023 VOL.028 立体模型微缩景观双拼海报](data/curated/images/prompt_023.webp)
-
-- **风格编号**：`#023`
-- **风格名称**：VOL.028 立体模型微缩景观双拼海报
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090447110168822128)
-- **风格标签**：`立体模型` `微缩景观` `上下双拼`
-- **收录备注**：VOL.028 立体模型微缩景观双拼海报 - 原推主贴提炼
+[![#023 VOL.028 立体模型微缩景观双拼海报](data/curated/images/prompt_023.webp)](data/curated/images/prompt_023.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `立体模型` `微缩景观` `上下双拼` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090447110168822128)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -1237,25 +963,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #024 · VOL.027 中国印压浮雕纸雕微金艺术海报
-
-<a id="style-024"></a>
+## #024 · VOL.027 中国印压浮雕纸雕微金艺术海报
 <a id="024"></a>
+<a id="style-024"></a>
 
-![#024 VOL.027 中国印压浮雕纸雕微金艺术海报](data/curated/images/prompt_024.webp)
-
-- **风格编号**：`#024`
-- **风格名称**：VOL.027 中国印压浮雕纸雕微金艺术海报
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090444626285261046)
-- **风格标签**：`浮雕纸雕` `印压微金` `上下双拼`
-- **收录备注**：VOL.027 中国印压浮雕纸雕微金艺术海报 - 原推主贴提炼
+[![#024 VOL.027 中国印压浮雕纸雕微金艺术海报](data/curated/images/prompt_024.webp)](data/curated/images/prompt_024.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `浮雕纸雕` `印压微金` `上下双拼` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090444626285261046)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -1273,25 +992,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #025 · VOL.026 极简抽象几何与微浮雕人文海报
-
-<a id="style-025"></a>
+## #025 · VOL.026 极简抽象几何与微浮雕人文海报
 <a id="025"></a>
+<a id="style-025"></a>
 
-![#025 VOL.026 极简抽象几何与微浮雕人文海报](data/curated/images/prompt_025.webp)
-
-- **风格编号**：`#025`
-- **风格名称**：VOL.026 极简抽象几何与微浮雕人文海报
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090433161096581434)
-- **风格标签**：`极简几何` `人文浮雕` `上下双拼`
-- **收录备注**：VOL.026 极简抽象几何与微浮雕人文海报 - 原推主贴提炼
+[![#025 VOL.026 极简抽象几何与微浮雕人文海报](data/curated/images/prompt_025.webp)](data/curated/images/prompt_025.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `极简几何` `人文浮雕` `上下双拼` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090433161096581434)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -1311,25 +1023,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #026 · VOL.025 格式塔正负形莫兰迪色丝网版画
-
-<a id="style-026"></a>
+## #026 · VOL.025 格式塔正负形莫兰迪色丝网版画
 <a id="026"></a>
+<a id="style-026"></a>
 
-![#026 VOL.025 格式塔正负形莫兰迪色丝网版画](data/curated/images/prompt_026.webp)
-
-- **风格编号**：`#026`
-- **风格名称**：VOL.025 格式塔正负形莫兰迪色丝网版画
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090423630320779424)
-- **风格标签**：`格式塔正负形` `莫兰迪色` `丝网版画`
-- **收录备注**：VOL.025 格式塔正负形莫兰迪色丝网版画 - 原推主贴提炼
+[![#026 VOL.025 格式塔正负形莫兰迪色丝网版画](data/curated/images/prompt_026.webp)](data/curated/images/prompt_026.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `格式塔正负形` `莫兰迪色` `丝网版画` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090423630320779424)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -1353,25 +1058,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #027 · VOL.024 真实物象穿越几何情绪窗口海报
-
-<a id="style-027"></a>
+## #027 · VOL.024 真实物象穿越几何情绪窗口海报
 <a id="027"></a>
+<a id="style-027"></a>
 
-![#027 VOL.024 真实物象穿越几何情绪窗口海报](data/curated/images/prompt_027.webp)
-
-- **风格编号**：`#027`
-- **风格名称**：VOL.024 真实物象穿越几何情绪窗口海报
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090415726813393008)
-- **风格标签**：`几何窗口` `穿透破框` `上下双拼`
-- **收录备注**：VOL.024 真实物象穿越几何情绪窗口海报 - 原推主贴提炼
+[![#027 VOL.024 真实物象穿越几何情绪窗口海报](data/curated/images/prompt_027.webp)](data/curated/images/prompt_027.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `几何窗口` `穿透破框` `上下双拼` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090415726813393008)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
@@ -1391,25 +1089,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #028 · VOL.022 纯白纸面黑色几何手绘越界单点彩色插画
-
-<a id="style-028"></a>
+## #028 · VOL.022 纯白纸面黑色几何手绘越界单点彩色插画
 <a id="028"></a>
+<a id="style-028"></a>
 
-![#028 VOL.022 纯白纸面黑色几何手绘越界单点彩色插画](data/curated/images/prompt_028.webp)
-
-- **风格编号**：`#028`
-- **风格名称**：VOL.022 纯白纸面黑色几何手绘越界单点彩色插画
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090277026066546845)
-- **风格标签**：`越界构图` `黑白插画` `单点彩色`
-- **收录备注**：VOL.022 纯白纸面黑色几何手绘越界单点彩色插画 - 原推主贴提炼
+[![#028 VOL.022 纯白纸面黑色几何手绘越界单点彩色插画](data/curated/images/prompt_028.webp)](data/curated/images/prompt_028.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `越界构图` `黑白插画` `单点彩色` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090277026066546845)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -1431,25 +1122,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #029 · 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅
-
-<a id="style-029"></a>
+## #029 · 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅
 <a id="029"></a>
+<a id="style-029"></a>
 
-![#029 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅](data/curated/images/prompt_029.webp)
-
-- **风格编号**：`#029`
-- **风格名称**：四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2092165086165246217)
-- **风格标签**：`四等分演化` `记忆贴纸` `水彩票根` `流金珐琅`
-- **收录备注**：四等分连贯演化：摄影/记忆贴纸/水彩票根/流金珐琅 - 原作者评论区置顶提取
+[![#029 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅](data/curated/images/prompt_029.webp)](data/curated/images/prompt_029.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `记忆贴纸` `水彩票根` `流金珐琅` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092165086165246217)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -1519,25 +1203,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #030 · 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木
-
-<a id="style-030"></a>
+## #030 · 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木
 <a id="030"></a>
+<a id="style-030"></a>
 
-![#030 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木](data/curated/images/prompt_030.webp)
-
-- **风格编号**：`#030`
-- **风格名称**：四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2092062124730384570)
-- **风格标签**：`四等分演化` `韩式稚拙` `童话版画` `乐高积木`
-- **收录备注**：四等分连贯演化：摄影/韩式插画/童话版画/乐高积木 - 原作者评论区置顶提取
+[![#030 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木](data/curated/images/prompt_030.webp)](data/curated/images/prompt_030.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `韩式稚拙` `童话版画` `乐高积木` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092062124730384570)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -1599,25 +1276,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #031 · 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂
-
-<a id="style-031"></a>
+## #031 · 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂
 <a id="031"></a>
+<a id="style-031"></a>
 
-![#031 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂](data/curated/images/prompt_031.webp)
-
-- **风格编号**：`#031`
-- **风格名称**：四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2092058937734713639)
-- **风格标签**：`四等分演化` `涂鸦小人` `几何窗口` `3D厚涂`
-- **收录备注**：四等分连贯演化：摄影/涂鸦叙事/几何窗口/3D厚涂 - 原作者评论区置顶提取
+[![#031 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂](data/curated/images/prompt_031.webp)](data/curated/images/prompt_031.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `涂鸦小人` `几何窗口` `3D厚涂` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092058937734713639)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -1681,25 +1351,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #032 · 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场
-
-<a id="style-032"></a>
+## #032 · 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场
 <a id="032"></a>
+<a id="style-032"></a>
 
-![#032 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场](data/curated/images/prompt_032.webp)
-
-- **风格编号**：`#032`
-- **风格名称**：四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2092058284333392032)
-- **风格标签**：`四等分演化` `黑白粗蜡笔` `几何秩序` `磁场颗粒版画`
-- **收录备注**：四等分连贯演化：摄影/粗蜡笔剪影/几何线性/动态磁场 - 原作者评论区置顶提取
+[![#032 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场](data/curated/images/prompt_032.webp)](data/curated/images/prompt_032.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `黑白粗蜡笔` `几何秩序` `磁场颗粒版画` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092058284333392032)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -1763,25 +1426,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #033 · 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网
-
-<a id="style-033"></a>
+## #033 · 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网
 <a id="033"></a>
+<a id="style-033"></a>
 
-![#033 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网](data/curated/images/prompt_033.webp)
-
-- **风格编号**：`#033`
-- **风格名称**：四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2091896977974030695)
-- **风格标签**：`四等分演化` `复古扁平` `喷墨干刷` `极简丝网`
-- **收录备注**：四等分连贯演化：摄影/复古现代主义/喷墨干刷/极简丝网 - 原作者评论区置顶提取
+[![#033 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网](data/curated/images/prompt_033.webp)](data/curated/images/prompt_033.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `复古扁平` `喷墨干刷` `极简丝网` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091896977974030695)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -1847,25 +1503,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #034 · 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷
-
-<a id="style-034"></a>
+## #034 · 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷
 <a id="034"></a>
+<a id="style-034"></a>
 
-![#034 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷](data/curated/images/prompt_034.webp)
-
-- **风格编号**：`#034`
-- **风格名称**：四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2091824283068813811)
-- **风格标签**：`四等分演化` `扁平矢量` `几何浅浮雕` `纪念碑谷3D`
-- **收录备注**：四等分连贯演化：摄影/扁平矢量/几何浅浮雕/纪念碑谷 - 原作者评论区置顶提取
+[![#034 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷](data/curated/images/prompt_034.webp)](data/curated/images/prompt_034.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `扁平矢量` `几何浅浮雕` `纪念碑谷3D` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091824283068813811)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -1929,25 +1578,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #035 · 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣
-
-<a id="style-035"></a>
+## #035 · 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣
 <a id="035"></a>
+<a id="style-035"></a>
 
-![#035 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣](data/curated/images/prompt_035.webp)
-
-- **风格编号**：`#035`
-- **风格名称**：四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2091812131796840654)
-- **风格标签**：`四等分演化` `蜡粉笔手绘` `拼布贴画` `东方刺绣`
-- **收录备注**：四等分连贯演化：摄影/蜡粉笔手绘/拼布贴画/东方刺绣 - 原作者评论区置顶提取
+[![#035 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣](data/curated/images/prompt_035.webp)](data/curated/images/prompt_035.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `蜡粉笔手绘` `拼布贴画` `东方刺绣` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091812131796840654)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -2013,25 +1655,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #036 · 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕
-
-<a id="style-036"></a>
+## #036 · 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕
 <a id="036"></a>
+<a id="style-036"></a>
 
-![#036 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕](data/curated/images/prompt_036.webp)
-
-- **风格编号**：`#036`
-- **风格名称**：四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2091811515880087681)
-- **风格标签**：`四等分演化` `东方民俗拓印` `木刻版画` `金色浮雕`
-- **收录备注**：四等分连贯演化：摄影/东方民俗拓印/木刻版画/金色浮雕 - 原作者评论区提取
+[![#036 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕](data/curated/images/prompt_036.webp)](data/curated/images/prompt_036.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `东方民俗拓印` `木刻版画` `金色浮雕` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091811515880087681)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -2095,25 +1730,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #037 · 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观
-
-<a id="style-037"></a>
+## #037 · 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观
 <a id="037"></a>
+<a id="style-037"></a>
 
-![#037 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观](data/curated/images/prompt_037.webp)
-
-- **风格编号**：`#037`
-- **风格名称**：四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2091810861941969183)
-- **风格标签**：`四等分演化` `钢笔淡彩` `立体折纸` `微缩纸艺`
-- **收录备注**：四等分连贯演化：摄影/观察式钢笔淡彩/立体折纸/微缩纸艺景观 - 原作者评论区提取
+[![#037 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观](data/curated/images/prompt_037.webp)](data/curated/images/prompt_037.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `钢笔淡彩` `立体折纸` `微缩纸艺` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091810861941969183)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -2179,25 +1807,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #038 · 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿
-
-<a id="style-038"></a>
+## #038 · 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿
 <a id="038"></a>
+<a id="style-038"></a>
 
-![#038 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿](data/curated/images/prompt_038.webp)
-
-- **风格编号**：`#038`
-- **风格名称**：四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2091765454876610627)
-- **风格标签**：`四等分演化` `透明蓝图` `水彩结构` `达芬奇手稿`
-- **收录备注**：四等分连贯演化：摄影/透明蓝图/水彩结构研究/达芬奇手稿 - 主贴正文提取
+[![#038 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿](data/curated/images/prompt_038.webp)](data/curated/images/prompt_038.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `透明蓝图` `水彩结构` `达芬奇手稿` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091765454876610627)
 
 ```text
 请将我上传的照片制作成一张 3:4竖版四拼海报。画面从上到下严格四等分为四个横向区域，每一层高度精确占整体高度的25%，比例严格为 1:1:1:1，不允许偏差。各区域无缝相连，无边框、无间隙。顺序为：
@@ -2223,25 +1844,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #039 · 上下双拼：摄影/极简东方水墨草图残稿
-
-<a id="style-039"></a>
+## #039 · 上下双拼：摄影/极简东方水墨草图残稿
 <a id="039"></a>
+<a id="style-039"></a>
 
-![#039 上下双拼：摄影/极简东方水墨草图残稿](data/curated/images/prompt_039.webp)
-
-- **风格编号**：`#039`
-- **风格名称**：上下双拼：摄影/极简东方水墨草图残稿
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2090372152751239260)
-- **风格标签**：`上下双拼` `水墨极简` `淡彩水彩` `禅意草图`
-- **收录备注**：上下双拼：摄影/极简东方水墨草图残稿 - 原作者评论区提取
+[![#039 上下双拼：摄影/极简东方水墨草图残稿](data/curated/images/prompt_039.webp)](data/curated/images/prompt_039.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `水墨极简` `淡彩水彩` `禅意草图` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090372152751239260)
 
 ```text
 请将我上传的照片制作成一张 3:4 竖版双层拼图海报。画面从上到下严格分为两个横向区域，每个区域的高度必须精确占整体画面高度的50%，上下两层比例严格为 1:1，不允许出现比例偏差。两个区域之间无缝衔接，不设分隔线、不留间隙。由于每层为约3:1的极扁横幅比例，主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸、贴边或构图拥挤。上下两层在主体位置、透视关系、空间方向和视觉重心上保持一致，形成同一画面的克制转译。
@@ -2256,25 +1870,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #040 · 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象
-
-<a id="style-040"></a>
+## #040 · 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象
 <a id="040"></a>
+<a id="style-040"></a>
 
-![#040 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象](data/curated/images/prompt_040.webp)
-
-- **风格编号**：`#040`
-- **风格名称**：四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2090365395509379453)
-- **风格标签**：`四等分演化` `描图纸分层` `磨砂玻璃` `等高线抽象`
-- **收录备注**：四等分连贯演化：摄影/描图纸分层/磨砂玻璃蚀刻/等高线抽象 - 原作者评论区提取
+[![#040 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象](data/curated/images/prompt_040.webp)](data/curated/images/prompt_040.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `描图纸分层` `磨砂玻璃` `等高线抽象` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090365395509379453)
 
 ```text
 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%，四层比例严格为 1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图 → 风格1 → 风格2 → 风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在主体站位、场景结构、透视方向和视觉重心上保持连贯呼应，呈现同一画面被逐层转译的整体感。
@@ -2334,29 +1941,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-<a id="视觉风格展示-041---060"></a>
-
-## 视觉风格展示 (#041 - #060)
-
-### #041 · 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺
-
-<a id="style-041"></a>
+## #041 · 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺
 <a id="041"></a>
+<a id="style-041"></a>
 
-![#041 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺](data/curated/images/prompt_041.webp)
-
-- **风格编号**：`#041`
-- **风格名称**：四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2090323273993331125)
-- **风格标签**：`四等分演化` `建筑构成` `丝网套色` `盲压浮雕`
-- **收录备注**：四等分连贯演化：摄影/建筑构成抽象/丝网套色印刷/盲压浮雕纸艺 - 原作者评论区提取
+[![#041 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺](data/curated/images/prompt_041.webp)](data/curated/images/prompt_041.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `建筑构成` `丝网套色` `盲压浮雕` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090323273993331125)
 
 ```text
 请将我上传的照片制作成一张竖版四层拼图艺术海报，整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为 1:1:1:1，不得出现任何比例偏差。区域之间无缝连接，不设置边框、不留间隙、不加入分隔线。
@@ -2508,25 +2104,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #042 · 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎
-
-<a id="style-042"></a>
+## #042 · 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎
 <a id="042"></a>
+<a id="style-042"></a>
 
-![#042 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎](data/curated/images/prompt_042.webp)
-
-- **风格编号**：`#042`
-- **风格名称**：四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2090310144190218272)
-- **风格标签**：`四等分演化` `青花瓷绘` `敦煌壁画` `刺绣锦缎`
-- **收录备注**：四等分连贯演化：摄影/青花瓷绘/敦煌壁画/刺绣锦缎 - 主贴正文提取
+[![#042 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎](data/curated/images/prompt_042.webp)](data/curated/images/prompt_042.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `青花瓷绘` `敦煌壁画` `刺绣锦缎` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
 
 ```text
 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
@@ -2544,25 +2133,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #043 · 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版
-
-<a id="style-043"></a>
+## #043 · 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版
 <a id="043"></a>
+<a id="style-043"></a>
 
-![#043 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版](data/curated/images/prompt_043.webp)
-
-- **风格编号**：`#043`
-- **风格名称**：四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2090274693601480772)
-- **风格标签**：`四等分演化` `木刻版画` `撕纸拼贴` `蓝晒氰版`
-- **收录备注**：四等分连贯演化：摄影/木刻版画/撕纸拼贴/蓝晒氰版 - 主贴正文提取
+[![#043 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版](data/curated/images/prompt_043.webp)](data/curated/images/prompt_043.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `木刻版画` `撕纸拼贴` `蓝晒氰版` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090274693601480772)
 
 ```text
 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
@@ -2580,25 +2162,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #044 · VOL.040 趣味小人极简生活插画
-
-<a id="style-044"></a>
+## #044 · VOL.040 趣味小人极简生活插画
 <a id="044"></a>
+<a id="style-044"></a>
 
-![#044 VOL.040 趣味小人极简生活插画](data/curated/images/prompt_044.webp)
-
-- **风格编号**：`#044`
-- **风格名称**：VOL.040 趣味小人极简生活插画
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090834371423183135)
-- **风格标签**：`上下双拼` `趣味小人` `极简插画` `生活情绪`
-- **收录备注**：VOL.040 趣味小人极简生活插画 - 主贴正文代码块提炼
+[![#044 VOL.040 趣味小人极简生活插画](data/curated/images/prompt_044.webp)](data/curated/images/prompt_044.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `趣味小人` `极简插画` `生活情绪` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090834371423183135)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2620,25 +2195,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #045 · VOL.039 刺绣内核线缝布艺
-
-<a id="style-045"></a>
+## #045 · VOL.039 刺绣内核线缝布艺
 <a id="045"></a>
+<a id="style-045"></a>
 
-![#045 VOL.039 刺绣内核线缝布艺](data/curated/images/prompt_045.webp)
-
-- **风格编号**：`#045`
-- **风格名称**：VOL.039 刺绣内核线缝布艺
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090817611953270966)
-- **风格标签**：`上下双拼` `手工刺绣` `线缝布艺` `肌理重构`
-- **收录备注**：VOL.039 刺绣内核线缝布艺 - 主贴正文代码块提炼
+[![#045 VOL.039 刺绣内核线缝布艺](data/curated/images/prompt_045.webp)](data/curated/images/prompt_045.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `手工刺绣` `线缝布艺` `肌理重构` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090817611953270966)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2662,25 +2230,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #046 · VOL.038 柔软布艺情绪贴布绣
-
-<a id="style-046"></a>
+## #046 · VOL.038 柔软布艺情绪贴布绣
 <a id="046"></a>
+<a id="style-046"></a>
 
-![#046 VOL.038 柔软布艺情绪贴布绣](data/curated/images/prompt_046.webp)
-
-- **风格编号**：`#046`
-- **风格名称**：VOL.038 柔软布艺情绪贴布绣
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090807474467291568)
-- **风格标签**：`上下双拼` `布艺情绪` `拼布艺术` `贴布绣`
-- **收录备注**：VOL.038 柔软布艺情绪贴布绣 - 主贴正文代码块提炼去噪
+[![#046 VOL.038 柔软布艺情绪贴布绣](data/curated/images/prompt_046.webp)](data/curated/images/prompt_046.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `布艺情绪` `拼布艺术` `贴布绣` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090807474467291568)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2702,25 +2263,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #047 · VOL.037 鎏金珐琅金属徽章冰箱贴
-
-<a id="style-047"></a>
+## #047 · VOL.037 鎏金珐琅金属徽章冰箱贴
 <a id="047"></a>
+<a id="style-047"></a>
 
-![#047 VOL.037 鎏金珐琅金属徽章冰箱贴](data/curated/images/prompt_047.webp)
-
-- **风格编号**：`#047`
-- **风格名称**：VOL.037 鎏金珐琅金属徽章冰箱贴
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090799598336168140)
-- **风格标签**：`上下双拼` `鎏金珐琅` `金属徽章` `旅行冰箱贴`
-- **收录备注**：VOL.037 鎏金珐琅金属徽章冰箱贴 - 主贴正文代码块提炼
+[![#047 VOL.037 鎏金珐琅金属徽章冰箱贴](data/curated/images/prompt_047.webp)](data/curated/images/prompt_047.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `鎏金珐琅` `金属徽章` `旅行冰箱贴` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090799598336168140)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级旅行设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2743,25 +2297,18 @@ Soft Vintage Color Palette
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #048 · 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)
-
-<a id="style-048"></a>
+## #048 · 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)
 <a id="048"></a>
+<a id="style-048"></a>
 
-![#048 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)](data/curated/images/prompt_048.webp)
-
-- **风格编号**：`#048`
-- **风格名称**：几何美学补充：民俗拓印与现代几何秩序 (英文完整版)
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090753061857931599)
-- **风格标签**：`上下双拼` `民俗拓印` `几何秩序` `英文提示词`
-- **收录备注**：几何美学补充：民俗拓印与现代几何秩序 (英文完整版) - 主贴代码块提取
+[![#048 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)](data/curated/images/prompt_048.webp)](data/curated/images/prompt_048.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `民俗拓印` `几何秩序` `英文提示词` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090753061857931599)
 
 ```text
 Please turn each photo I upload into a separate premium-designed poster, with no multi-image collage; output each photo as an independent poster. Use an overall 3:4 vertical composition, strictly divided into two equal-height sections, with the upper and lower halves each occupying exactly 50% of the canvas. The upper half should preserve the original photograph, maintaining the subject’s structure, realistic texture, natural lighting and shadows, and original color atmosphere, with only subtle high-end photographic color grading to give it the quality of an art publication or exhibition photograph. To adapt the image to the required aspect ratio, you may naturally extend the sky, ground, or environmental background, but you must not stretch, distort, or alter the main subject. The lower half should extract the most recognizable subject, silhouette, posture, and narrative relationship from the photograph; first understand its core meaning, cultural attributes, or emotional relationship, then reconstruct it into a graphic composition combining the character of a folk-culture catalog, antique rubbing prints, and modern graphic design. Do not translate every element in the photograph one by one, and do not add generic traditional patterns; retain only one core visual motif and a very small number of auxiliary forms that truly carry narrative significance. Use silhouette, negative space, partial enlargement, shape merging, and symbolic transformation so that the graphic not only corresponds to the original object but also expresses the meaning behind it. Build the composition on a rigorous geometric framework and proportional system: derive circles, squares, triangles, arcs, axes, or repeated proportions from the structure of the subject itself as the “geometric matrix,” then align all main forms, secondary graphics, typography, and negative space through shared tangencies, common axes, nesting, mirroring, proportional progression, or edge cropping relationships. The layout may be freely distributed, off-center, extend beyond boundaries, or be asymmetrical, but every element must obey the same structural logic, creating a clear visual center of gravity, hierarchy, rhythm, and negative space; from a distance the order should be immediately legible, while closer viewing should reveal traditional print traces and subtle details. Avoid random scattered elements and decorative accumulation. Extract the most distinctive, lively, and spiritually expressive colors from the upper photograph and reorganize them into a clean, restrained paper-printing palette. Use a bright, light paper-colored background to create breathing room, one dark color to establish the visual skeleton, and one or two theme colors derived from the original photograph to organize the main subject and limited accents. Build depth through area ratios, overprinting, and tonal contrast. Colors should feel clean, vivid, and spirited; avoid muddy artificial aging, fixed stereotypical folk palettes, or chaotic multicolor combinations. Use a hybrid material texture combining woodblock rubbing, dry-brush screen printing, and vintage catalog printing. Broken ink, abrasion marks, exposed paper, and uneven ink density should mainly appear inside the graphic forms, while geometric boundaries, important contours, and the overall layout should remain crisp and precise, creating a contrast between “rough material texture × rigorous geometric order.” Typography should function only as supporting compositional information. Extract a small amount of title text and micro-annotations from the photograph’s theme, meaning, or cultural attributes, and allow them to follow geometric axes, negative space, or graphic boundaries in flexible arrangements, aligning, nesting, or interweaving with the main forms without competing for the visual center. The overall visual character should prioritize meaning, restrained graphics, rigorous geometry, rough rubbing textures, clear negative space, and the coexistence of traditional cultural sensibility with modern design order. Every graphic element that appears must have a source, a meaning, and a structural function; remove anything that does not strengthen understanding of the theme, and avoid collage-like material assembly, arbitrary insertion of traditional symbols, evenly distributed layouts, realistic illustration, and template-like design. 
@@ -2771,25 +2318,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #049 · VOL.031 拓印粗粝做旧印刷
-
-<a id="style-049"></a>
+## #049 · VOL.031 拓印粗粝做旧印刷
 <a id="049"></a>
+<a id="style-049"></a>
 
-![#049 VOL.031 拓印粗粝做旧印刷](data/curated/images/prompt_049.webp)
-
-- **风格编号**：`#049`
-- **风格名称**：VOL.031 拓印粗粝做旧印刷
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090606881987600812)
-- **风格标签**：`上下双拼` `拓印粗粝` `做旧印刷` `几何剪影`
-- **收录备注**：VOL.031 拓印粗粝做旧印刷 - 主贴正文代码块提炼
+[![#049 VOL.031 拓印粗粝做旧印刷](data/curated/images/prompt_049.webp)](data/curated/images/prompt_049.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `拓印粗粝` `做旧印刷` `几何剪影` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090606881987600812)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2811,25 +2351,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #050 · VOL.030 植物重构自然材料拼合
-
-<a id="style-050"></a>
+## #050 · VOL.030 植物重构自然材料拼合
 <a id="050"></a>
+<a id="style-050"></a>
 
-![#050 VOL.030 植物重构自然材料拼合](data/curated/images/prompt_050.webp)
-
-- **风格编号**：`#050`
-- **风格名称**：VOL.030 植物重构自然材料拼合
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090464374188310979)
-- **风格标签**：`上下双拼` `植物重构` `自然材料` `标本拼贴`
-- **收录备注**：VOL.030 植物重构自然材料拼合 - 主贴正文代码块提炼
+[![#050 VOL.030 植物重构自然材料拼合](data/curated/images/prompt_050.webp)](data/curated/images/prompt_050.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `植物重构` `自然材料` `标本拼贴` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090464374188310979)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2851,25 +2384,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #051 · VOL.029 蜡粉笔松弛感手绘
-
-<a id="style-051"></a>
+## #051 · VOL.029 蜡粉笔松弛感手绘
 <a id="051"></a>
+<a id="style-051"></a>
 
-![#051 VOL.029 蜡粉笔松弛感手绘](data/curated/images/prompt_051.webp)
-
-- **风格编号**：`#051`
-- **风格名称**：VOL.029 蜡粉笔松弛感手绘
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2090452158827422135)
-- **风格标签**：`上下双拼` `蜡粉笔` `松弛感` `稚拙手绘`
-- **收录备注**：VOL.029 蜡粉笔松弛感手绘 - 主贴正文代码块提炼
+[![#051 VOL.029 蜡粉笔松弛感手绘](data/curated/images/prompt_051.webp)](data/curated/images/prompt_051.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `蜡粉笔` `松弛感` `稚拙手绘` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090452158827422135)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2887,25 +2413,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #052 · VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)
-
-<a id="style-052"></a>
+## #052 · VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)
 <a id="052"></a>
+<a id="style-052"></a>
 
-![#052 VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)](data/curated/images/prompt_052.webp)
-
-- **风格编号**：`#052`
-- **风格名称**：VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2093627864973295787)
-- **风格标签**：`左右双拼` `粗铅笔` `民俗剪影` `天真质感`
-- **收录备注**：VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体) - 主贴代码块提炼
+[![#052 VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)](data/curated/images/prompt_052.webp)](data/curated/images/prompt_052.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `左右双拼` `粗铅笔` `民俗剪影` `天真质感` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093627864973295787)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2933,25 +2452,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #053 · VOL.087 实体线绳网络信息图 (Physical String-based)
-
-<a id="style-053"></a>
+## #053 · VOL.087 实体线绳网络信息图 (Physical String-based)
 <a id="053"></a>
+<a id="style-053"></a>
 
-![#053 VOL.087 实体线绳网络信息图 (Physical String-based)](data/curated/images/prompt_053.webp)
-
-- **风格编号**：`#053`
-- **风格名称**：VOL.087 实体线绳网络信息图 (Physical String-based)
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2093543076367389130)
-- **风格标签**：`上下双拼` `线绳网络` `信息图` `实体装置`
-- **收录备注**：VOL.087 实体线绳网络信息图 (Physical String-based) - 主贴代码块提炼
+[![#053 VOL.087 实体线绳网络信息图 (Physical String-based)](data/curated/images/prompt_053.webp)](data/curated/images/prompt_053.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `线绳网络` `信息图` `实体装置` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093543076367389130)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -2973,25 +2485,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #054 · VOL.074 现代极简图标转绘 (Icon Design)
-
-<a id="style-054"></a>
+## #054 · VOL.074 现代极简图标转绘 (Icon Design)
 <a id="054"></a>
+<a id="style-054"></a>
 
-![#054 VOL.074 现代极简图标转绘 (Icon Design)](data/curated/images/prompt_054.webp)
-
-- **风格编号**：`#054`
-- **风格名称**：VOL.074 现代极简图标转绘 (Icon Design)
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2093359609277042724)
-- **风格标签**：`上下双拼` `图标转绘` `极简矢量` `设计系统`
-- **收录备注**：VOL.074 现代极简图标转绘 (Icon Design) - 主贴代码块提炼
+[![#054 VOL.074 现代极简图标转绘 (Icon Design)](data/curated/images/prompt_054.webp)](data/curated/images/prompt_054.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `图标转绘` `极简矢量` `设计系统` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093359609277042724)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -3017,25 +2522,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #055 · VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)
-
-<a id="style-055"></a>
+## #055 · VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)
 <a id="055"></a>
+<a id="style-055"></a>
 
-![#055 VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)](data/curated/images/prompt_055.webp)
-
-- **风格编号**：`#055`
-- **风格名称**：VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2093347851330027909)
-- **风格标签**：`上下双拼` `脚手架` `等距视角` `微缩景观`
-- **收录备注**：VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold) - 主贴代码块提炼
+[![#055 VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)](data/curated/images/prompt_055.webp)](data/curated/images/prompt_055.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `脚手架` `等距视角` `微缩景观` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093347851330027909)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -3059,25 +2557,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #056 · VOL.061 水粉拆分治愈配色
-
-<a id="style-056"></a>
+## #056 · VOL.061 水粉拆分治愈配色
 <a id="056"></a>
+<a id="style-056"></a>
 
-![#056 VOL.061 水粉拆分治愈配色](data/curated/images/prompt_056.webp)
-
-- **风格编号**：`#056`
-- **风格名称**：VOL.061 水粉拆分治愈配色
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2093240983215640932)
-- **风格标签**：`上下双拼` `水粉拆分` `治愈配色` `轻盈稚拙`
-- **收录备注**：VOL.061 水粉拆分治愈配色 - GitHub 官方开源 zh-CN.md 提取
+[![#056 VOL.061 水粉拆分治愈配色](data/curated/images/prompt_056.webp)](data/curated/images/prompt_056.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `水粉拆分` `治愈配色` `轻盈稚拙` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093240983215640932)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于主题联想与选择性记忆的艺术重构，上下自然呼应。
@@ -3093,25 +2584,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #057 · VOL.060 禅意极简抽象重构
-
-<a id="style-057"></a>
+## #057 · VOL.060 禅意极简抽象重构
 <a id="057"></a>
+<a id="style-057"></a>
 
-![#057 VOL.060 禅意极简抽象重构](data/curated/images/prompt_057.webp)
-
-- **风格编号**：`#057`
-- **风格名称**：VOL.060 禅意极简抽象重构
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2092191356177576004)
-- **风格标签**：`上下双拼` `禅意极简` `抽象重构` `中式意境`
-- **收录备注**：VOL.060 禅意极简抽象重构 - GitHub 官方开源 zh-CN.md 提取
+[![#057 VOL.060 禅意极简抽象重构](data/curated/images/prompt_057.webp)](data/curated/images/prompt_057.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `禅意极简` `抽象重构` `中式意境` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092191356177576004)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为极简抽象重构！
@@ -3135,25 +2619,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #058 · VOL.059 绘本童真手绘叙事
-
-<a id="style-058"></a>
+## #058 · VOL.059 绘本童真手绘叙事
 <a id="058"></a>
+<a id="style-058"></a>
 
-![#058 VOL.059 绘本童真手绘叙事](data/curated/images/prompt_058.webp)
-
-- **风格编号**：`#058`
-- **风格名称**：VOL.059 绘本童真手绘叙事
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2092183407778509243)
-- **风格标签**：`上下双拼` `童真绘本` `寓言插画` `手绘叙事`
-- **收录备注**：VOL.059 绘本童真手绘叙事 - 主贴正文代码块提炼
+[![#058 VOL.059 绘本童真手绘叙事](data/curated/images/prompt_058.webp)](data/curated/images/prompt_058.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `童真绘本` `寓言插画` `手绘叙事` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092183407778509243)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于核心意象与潜台词的手绘叙事重构
@@ -3177,25 +2654,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #059 · VOL.058 几何抽象观念景观
-
-<a id="style-059"></a>
+## #059 · VOL.058 几何抽象观念景观
 <a id="059"></a>
+<a id="style-059"></a>
 
-![#059 VOL.058 几何抽象观念景观](data/curated/images/prompt_059.webp)
-
-- **风格编号**：`#059`
-- **风格名称**：VOL.058 几何抽象观念景观
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2092176222445035612)
-- **风格标签**：`上下双拼` `几何抽象` `观念景观` `达芬奇严谨感`
-- **收录备注**：VOL.058 几何抽象观念景观 - 主贴正文代码块提炼去噪
+[![#059 VOL.058 几何抽象观念景观](data/curated/images/prompt_059.webp)](data/curated/images/prompt_059.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `几何抽象` `观念景观` `达芬奇严谨感` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092176222445035612)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于潜台词与寓意的艺术化重构；
@@ -3217,25 +2687,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #060 · VOL.057 几何拼贴智能马赛克重组
-
-<a id="style-060"></a>
+## #060 · VOL.057 几何拼贴智能马赛克重组
 <a id="060"></a>
+<a id="style-060"></a>
 
-![#060 VOL.057 几何拼贴智能马赛克重组](data/curated/images/prompt_060.webp)
-
-- **风格编号**：`#060`
-- **风格名称**：VOL.057 几何拼贴智能马赛克重组
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2092160522711978218)
-- **风格标签**：`上下双拼` `几何拼贴` `智能马赛克` `建筑图解`
-- **收录备注**：VOL.057 几何拼贴智能马赛克重组 - 主贴正文代码块提炼
+[![#060 VOL.057 几何拼贴智能马赛克重组](data/curated/images/prompt_060.webp)](data/curated/images/prompt_060.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `几何拼贴` `智能马赛克` `建筑图解` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092160522711978218)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为对原图核心意象的几何化重构，上下形成现实与记忆之间的呼应。
@@ -3259,29 +2722,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-<a id="视觉风格展示-061---080"></a>
-
-## 视觉风格展示 (#061 - #080)
-
-### #061 · VOL.056 暖色色盘稚拙手绘视觉记忆
-
-<a id="style-061"></a>
+## #061 · VOL.056 暖色色盘稚拙手绘视觉记忆
 <a id="061"></a>
+<a id="style-061"></a>
 
-![#061 VOL.056 暖色色盘稚拙手绘视觉记忆](data/curated/images/prompt_061.webp)
-
-- **风格编号**：`#061`
-- **风格名称**：VOL.056 暖色色盘稚拙手绘视觉记忆
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2091730850723586307)
-- **风格标签**：`上下双拼` `暖色色盘` `稚拙手绘` `视觉记忆`
-- **收录备注**：VOL.056 暖色色盘稚拙手绘视觉记忆 - 主贴正文代码块提炼去噪
+[![#061 VOL.056 暖色色盘稚拙手绘视觉记忆](data/curated/images/prompt_061.webp)](data/curated/images/prompt_061.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `暖色色盘` `稚拙手绘` `视觉记忆` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091730850723586307)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为对原图核心意象的绘画式提炼，上下形成现实与记忆之间的呼应。
@@ -3306,25 +2758,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #062 · VOL.055 治愈粉彩浅浅油画质感
-
-<a id="style-062"></a>
+## #062 · VOL.055 治愈粉彩浅浅油画质感
 <a id="062"></a>
+<a id="style-062"></a>
 
-![#062 VOL.055 治愈粉彩浅浅油画质感](data/curated/images/prompt_062.webp)
-
-- **风格编号**：`#062`
-- **风格名称**：VOL.055 治愈粉彩浅浅油画质感
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2091726763701555207)
-- **风格标签**：`上下双拼` `治愈粉彩` `油画质感` `绘画叙事`
-- **收录备注**：VOL.055 治愈粉彩浅浅油画质感 - 主贴正文代码块提炼去噪
+[![#062 VOL.055 治愈粉彩浅浅油画质感](data/curated/images/prompt_062.webp)](data/curated/images/prompt_062.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `治愈粉彩` `油画质感` `绘画叙事` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091726763701555207)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于主体叙事的绘画式重构
@@ -3347,25 +2792,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #063 · VOL.054 旧物感六枚记忆贴纸
-
-<a id="style-063"></a>
+## #063 · VOL.054 旧物感六枚记忆贴纸
 <a id="063"></a>
+<a id="style-063"></a>
 
-![#063 VOL.054 旧物感六枚记忆贴纸](data/curated/images/prompt_063.webp)
-
-- **风格编号**：`#063`
-- **风格名称**：VOL.054 旧物感六枚记忆贴纸
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2091539410533691899)
-- **风格标签**：`上下双拼` `旧物感` `记忆贴纸` `Risograph`
-- **收录备注**：VOL.054 旧物感六枚记忆贴纸 - 主贴正文代码块提炼去噪
+[![#063 VOL.054 旧物感六枚记忆贴纸](data/curated/images/prompt_063.webp)](data/curated/images/prompt_063.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `旧物感` `记忆贴纸` `Risograph` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091539410533691899)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于选择性记忆的平面重构，上下自然呼应。
@@ -3389,25 +2827,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #064 · VOL.053 观察式钢笔淡彩手稿
-
-<a id="style-064"></a>
+## #064 · VOL.053 观察式钢笔淡彩手稿
 <a id="064"></a>
+<a id="style-064"></a>
 
-![#064 VOL.053 观察式钢笔淡彩手稿](data/curated/images/prompt_064.webp)
-
-- **风格编号**：`#064`
-- **风格名称**：VOL.053 观察式钢笔淡彩手稿
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2091521812878459186)
-- **风格标签**：`上下双拼` `观察式手绘` `钢笔淡彩` `音乐性节奏`
-- **收录备注**：VOL.053 观察式钢笔淡彩手稿 - 主贴正文代码块提炼去噪
+[![#064 VOL.053 观察式钢笔淡彩手稿](data/curated/images/prompt_064.webp)](data/curated/images/prompt_064.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `观察式手绘` `钢笔淡彩` `音乐性节奏` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091521812878459186)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为观察式手绘重构；上下自然衔接，避免生硬的50:50硬切割。
@@ -3429,25 +2860,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #065 · 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup
-
-<a id="style-065"></a>
+## #065 · 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup
 <a id="065"></a>
+<a id="style-065"></a>
 
-![#065 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup](data/curated/images/prompt_065.webp)
-
-- **风格编号**：`#065`
-- **风格名称**：四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2093255701447786922)
-- **风格标签**：`四等分演化` `几何抽象` `Logo重构` `品牌包装系统`
-- **收录备注**：四等分连贯演化：摄影/人文几何抽象/Logo重构/品牌包装Mockup - 原作者评论区提取
+[![#065 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup](data/curated/images/prompt_065.webp)](data/curated/images/prompt_065.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `几何抽象` `Logo重构` `品牌包装系统` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2093255701447786922)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -3509,25 +2933,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #066 · 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条
-
-<a id="style-066"></a>
+## #066 · 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条
 <a id="066"></a>
+<a id="style-066"></a>
 
-![#066 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条](data/curated/images/prompt_066.webp)
-
-- **风格编号**：`#066`
-- **风格名称**：四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2092989290691326305)
-- **风格标签**：`四等分演化` `复古水彩` `黑白越界` `荆棘观念线条`
-- **收录备注**：四等分连贯演化：摄影/复古水彩/黑白越界/荆棘式观念线条 - 原作者评论区提取
+[![#066 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条](data/curated/images/prompt_066.webp)](data/curated/images/prompt_066.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `复古水彩` `黑白越界` `荆棘观念线条` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092989290691326305)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -3583,25 +3000,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #067 · 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构
-
-<a id="style-067"></a>
+## #067 · 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构
 <a id="067"></a>
+<a id="style-067"></a>
 
-![#067 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构](data/curated/images/prompt_067.webp)
-
-- **风格编号**：`#067`
-- **风格名称**：四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2092775223997390926)
-- **风格标签**：`四等分演化` `复古手绘` `自然材料拼贴` `肥皂泡沫重构`
-- **收录备注**：四等分连贯演化：摄影/复古手绘/自然材料拼贴/肥皂泡沫平面重构 - 原作者评论区提取
+[![#067 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构](data/curated/images/prompt_067.webp)](data/curated/images/prompt_067.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `复古手绘` `自然材料拼贴` `肥皂泡沫重构` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092775223997390926)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
@@ -3663,25 +3073,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #068 · 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报
-
-<a id="style-068"></a>
+## #068 · 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报
 <a id="068"></a>
+<a id="style-068"></a>
 
-![#068 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报](data/curated/images/prompt_068.webp)
-
-- **风格编号**：`#068`
-- **风格名称**：上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报
-- **作者来源**：[@hann7712](https://x.com/hann7712) (橘子多) · [查看 X (Twitter) 原贴](https://x.com/hann7712/status/2100105969724535243)
-- **风格标签**：`上下双拼` `真实人像` `单色线稿` `手绘环境`
-- **收录备注**：上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报 - 原作者评论区提取
+[![#068 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报](data/curated/images/prompt_068.webp)](data/curated/images/prompt_068.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `真实人像` `单色线稿` `手绘环境` · @hann7712</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @hann7712](https://x.com/hann7712/status/2100105969724535243)
 
 ```text
 请将我上传的照片制作成一张 3:4 竖版「上方原始摄影 / 下方线稿转译」对照海报。
@@ -3765,25 +3168,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #069 · 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）
-
-<a id="style-069"></a>
+## #069 · 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）
 <a id="069"></a>
+<a id="style-069"></a>
 
-![#069 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）](data/curated/images/prompt_069.webp)
-
-- **风格编号**：`#069`
-- **风格名称**：上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2100047073957810677)
-- **风格标签**：`上下双拼` `东方刺绣` `丝线光泽` `意象重构` `人物宠物`
-- **收录备注**：上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍） - 原作者评论区提取
+[![#069 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）](data/curated/images/prompt_069.webp)](data/curated/images/prompt_069.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `东方刺绣` `丝线光泽` `意象重构` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2100047073957810677)
 
 ```text
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，构成“真实原图 × 东方刺绣寓意重构”的双拼画面。
@@ -3829,25 +3225,18 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #070 · 上下双拼：摄影真实呈现 × 极简水墨意象重构
-
-<a id="style-070"></a>
+## #070 · 上下双拼：摄影真实呈现 × 极简水墨意象重构
 <a id="070"></a>
+<a id="style-070"></a>
 
-![#070 上下双拼：摄影真实呈现 × 极简水墨意象重构](data/curated/images/prompt_070.webp)
-
-- **风格编号**：`#070`
-- **风格名称**：上下双拼：摄影真实呈现 × 极简水墨意象重构
-- **作者来源**：[@king1818888](https://x.com/king1818888) (Kimberly) · [查看 X (Twitter) 原贴](https://x.com/king1818888/status/2100094064255459609)
-- **风格标签**：`上下双拼` `水墨意象` `当代水墨` `极简留白` `宣纸肌理`
-- **收录备注**：上下双拼：摄影真实呈现 × 极简水墨意象重构 - 原作者评论区 Thread #1 + #2 提取
+[![#070 上下双拼：摄影真实呈现 × 极简水墨意象重构](data/curated/images/prompt_070.webp)](data/curated/images/prompt_070.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `水墨意象` `当代水墨` `极简留白` · @king1818888</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @king1818888](https://x.com/king1818888/status/2100094064255459609)
 
 ```text
 Create a sophisticated contemporary East Asian art poster based on the uploaded photograph.
@@ -3941,25 +3330,18 @@ full-frame watercolor, oversized subjects, excessive detail, photorealistic copy
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #071 · 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴
-
-<a id="style-071"></a>
+## #071 · 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴
 <a id="071"></a>
+<a id="style-071"></a>
 
-![#071 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴](data/curated/images/prompt_071.webp)
-
-- **风格编号**：`#071`
-- **风格名称**：上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴
-- **作者来源**：[@Naiknelofar788](https://x.com/Naiknelofar788) (simeon-sanai) · [查看 X (Twitter) 原贴](https://x.com/Naiknelofar788/status/2100067049288634730)
-- **风格标签**：`上下双拼` `建筑拼贴` `半调网点` `ASCII代码` `实验印刷`
-- **收录备注**：上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴 - 主贴正文 PROMPT 提取
+[![#071 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴](data/curated/images/prompt_071.webp)](data/curated/images/prompt_071.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `建筑拼贴` `半调网点` `ASCII代码` · @Naiknelofar788</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Naiknelofar788](https://x.com/Naiknelofar788/status/2100067049288634730)
 
 ```text
 Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
@@ -4042,25 +3424,18 @@ Priority: Preserve the structure’s identity and architectural accuracy first. 
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #072 · 彩色剪纸贴纸风格：手作立体拼贴角色
-
-<a id="style-072"></a>
+## #072 · 彩色剪纸贴纸风格：手作立体拼贴角色
 <a id="072"></a>
+<a id="style-072"></a>
 
-![#072 彩色剪纸贴纸风格：手作立体拼贴角色](data/curated/images/prompt_072.webp)
-
-- **风格编号**：`#072`
-- **风格名称**：彩色剪纸贴纸风格：手作立体拼贴角色
-- **作者来源**：[@ai_suxiaole](https://x.com/ai_suxiaole) (苏乐) · [查看 X (Twitter) 原贴](https://x.com/ai_suxiaole/status/2100196205011820590)
-- **风格标签**：`彩色剪纸` `立体卡纸` `贴纸风` `手工拼贴`
-- **收录备注**：彩色剪纸贴纸风格：手作立体拼贴角色 - 作者回复区 Note Tweet 提取
+[![#072 彩色剪纸贴纸风格：手作立体拼贴角色](data/curated/images/prompt_072.webp)](data/curated/images/prompt_072.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `彩色剪纸` `立体卡纸` `贴纸风` `手工拼贴` · @ai_suxiaole</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2100196205011820590)
 
 ```text
 Use the uploaded image as the sole content source and transform its main subject into a refined full-body handcrafted paper-cut fashion character. Preserve the subject’s identity cues, age category, gender presentation, skin tone, facial expression, hairstyle or head covering, pose, body orientation, clothing categories, garment layers, colors, patterns, accessories, footwear, and important carried objects. Preserve culturally specific clothing accurately: if the source includes a hijab, headscarf, traditional textile, batik, embroidery, jewelry, or modest layered garments, retain their recognizable wrapping, coverage, construction, motifs, and color relationships. Do not add a hijab, cultural garment, accessory, or pattern that is absent from the source.
@@ -4076,25 +3451,18 @@ The final image should feel delicate, warm, sophisticated, tactile, and collecti
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #073 · 上下双拼：真实摄影 × 韩式平面编辑插画海报
-
-<a id="style-073"></a>
+## #073 · 上下双拼：真实摄影 × 韩式平面编辑插画海报
 <a id="073"></a>
+<a id="style-073"></a>
 
-![#073 上下双拼：真实摄影 × 韩式平面编辑插画海报](data/curated/images/prompt_073.webp)
-
-- **风格编号**：`#073`
-- **风格名称**：上下双拼：真实摄影 × 韩式平面编辑插画海报
-- **作者来源**：[@aronhouyu](https://x.com/aronhouyu) (Aron厚玉) · [查看 X (Twitter) 原贴](https://x.com/aronhouyu/status/2100206857411522575)
-- **风格标签**：`上下双拼` `韩式插画` `编辑设计` `平面插画` `海报重构`
-- **收录备注**：上下双拼：真实摄影 × 韩式平面编辑插画海报 - 作者回复区提取
+[![#073 上下双拼：真实摄影 × 韩式平面编辑插画海报](data/curated/images/prompt_073.webp)](data/curated/images/prompt_073.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `韩式插画` `编辑设计` `平面插画` · @aronhouyu</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @aronhouyu](https://x.com/aronhouyu/status/2100206857411522575)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高端设计海报，不要拼贴，每张单独输出。
@@ -4159,25 +3527,18 @@ The final image should feel delicate, warm, sophisticated, tactile, and collecti
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #074 · 上下双拼：真实摄影 × 东方印压纸雕浮雕
-
-<a id="style-074"></a>
+## #074 · 上下双拼：真实摄影 × 东方印压纸雕浮雕
 <a id="074"></a>
+<a id="style-074"></a>
 
-![#074 上下双拼：真实摄影 × 东方印压纸雕浮雕](data/curated/images/prompt_074.webp)
-
-- **风格编号**：`#074`
-- **风格名称**：上下双拼：真实摄影 × 东方印压纸雕浮雕
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2100384278320427032)
-- **风格标签**：`上下双拼` `东方纸雕` `压印浮雕` `纸张雕塑` `金色压印`
-- **收录备注**：上下双拼：真实摄影 × 东方印压纸雕浮雕 - 作者回复区提取
+[![#074 上下双拼：真实摄影 × 东方印压纸雕浮雕](data/curated/images/prompt_074.webp)](data/curated/images/prompt_074.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `东方纸雕` `压印浮雕` `纸张雕塑` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2100384278320427032)
 
 ```text
 创作一张竖版上下双拼视觉作品。
@@ -4263,25 +3624,18 @@ The final image should feel delicate, warm, sophisticated, tactile, and collecti
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #075 · 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)
-
-<a id="style-075"></a>
+## #075 · 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)
 <a id="075"></a>
+<a id="style-075"></a>
 
-![#075 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)](data/curated/images/prompt_075.webp)
-
-- **风格编号**：`#075`
-- **风格名称**：上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)
-- **作者来源**：[@Goodmanprotocol](https://x.com/Goodmanprotocol) (Saul Goodman) · [查看 X (Twitter) 原贴](https://x.com/Goodmanprotocol/status/2100232177052991760)
-- **风格标签**：`上下双拼` `韩式插画` `编辑设计` `平面插画` `海报重构`
-- **收录备注**：上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版) - 主贴正文提取
+[![#075 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)](data/curated/images/prompt_075.webp)](data/curated/images/prompt_075.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `韩式插画` `编辑设计` `平面插画` · @Goodmanprotocol</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Goodmanprotocol](https://x.com/Goodmanprotocol/status/2100232177052991760)
 
 ```text
 Create one premium 3:4 vertical artwork for [COUNTRY / LOCATION / SUBJECT].
@@ -4341,25 +3695,18 @@ The entire composition must be invented autonomously from [COUNTRY / LOCATION / 
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #076 · 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)
-
-<a id="style-076"></a>
+## #076 · 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)
 <a id="076"></a>
+<a id="style-076"></a>
 
-![#076 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)](data/curated/images/prompt_076.webp)
-
-- **风格编号**：`#076`
-- **风格名称**：上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)
-- **作者来源**：[@derek_wall90176](https://x.com/derek_wall90176) (Derek Wen｜德里克文) · [查看 X (Twitter) 原贴](https://x.com/derek_wall90176/status/2100419796575903898)
-- **风格标签**：`上下双拼` `焦外双生` `85mm人像` `大光圈虚化` `光学重拍`
-- **收录备注**：上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍) - 主贴正文提取
+[![#076 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)](data/curated/images/prompt_076.webp)](data/curated/images/prompt_076.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `焦外双生` `85mm人像` `大光圈虚化` · @derek_wall90176</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @derek_wall90176](https://x.com/derek_wall90176/status/2100419796575903898)
 
 ```text
 请基于我上传的照片，制作一张独立的3:4竖版“焦外抽离双生”视觉海报。
@@ -4455,25 +3802,18 @@ The entire composition must be invented autonomously from [COUNTRY / LOCATION / 
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #077 · 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙
-
-<a id="style-077"></a>
+## #077 · 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙
 <a id="077"></a>
+<a id="style-077"></a>
 
-![#077 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙](data/curated/images/prompt_077.webp)
-
-- **风格编号**：`#077`
-- **风格名称**：真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙
-- **作者来源**：[@HaniaAi12](https://x.com/HaniaAi12) (Hania Ai) · [查看 X (Twitter) 原贴](https://x.com/HaniaAi12/status/2100403540757725645)
-- **风格标签**：`3D粘土卡通` `摇头娃娃` `真人双生` `Q版人偶` `影棚互动`
-- **收录备注**：真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙 - 作者回复区提取
+[![#077 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙](data/curated/images/prompt_077.webp)](data/curated/images/prompt_077.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `3D粘土卡通` `摇头娃娃` `真人双生` `Q版人偶` · @HaniaAi12</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @HaniaAi12](https://x.com/HaniaAi12/status/2100403540757725645)
 
 ```text
 Create a high-resolution, ultra-realistic studio composition in a 4:5 vertical aspect ratio, featuring a real woman standing beside a stylized 3D caricature (bobblehead-style) version of the same person.
@@ -4510,25 +3850,18 @@ No text, no watermark, no logo, no extra people, no duplicate subjects, no disto
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #078 · 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框
-
-<a id="style-078"></a>
+## #078 · 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框
 <a id="078"></a>
+<a id="style-078"></a>
 
-![#078 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框](data/curated/images/prompt_078.webp)
-
-- **风格编号**：`#078`
-- **风格名称**：巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框
-- **作者来源**：[@Shinebynous](https://x.com/Shinebynous) (Shine by Nous ✨) · [查看 X (Twitter) 原贴](https://x.com/Shinebynous/status/2099887409257177093)
-- **风格标签**：`街头漫画` `夸张肖像` `巴黎蒙马特` `手绘线描` `真人同框`
-- **收录备注**：巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框 - 主贴正文提取
+[![#078 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框](data/curated/images/prompt_078.webp)](data/curated/images/prompt_078.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `街头漫画` `夸张肖像` `巴黎蒙马特` `手绘线描` · @Shinebynous</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Shinebynous](https://x.com/Shinebynous/status/2099887409257177093)
 
 ```text
 Use the uploaded portrait photo as the primary identity reference. Preserve the person’s recognizable facial identity as accurately as possible, including their face shape, apparent age, receding hairline or hairstyle, eyebrows, eye shape, nose, mouth, jawline, salt and pepper beard pattern, skin tone, expression, and overall individual character.
@@ -4553,25 +3886,18 @@ Aspect ratio: 4:3.
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #079 · 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报
-
-<a id="style-079"></a>
+## #079 · 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报
 <a id="079"></a>
+<a id="style-079"></a>
 
-![#079 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报](data/curated/images/prompt_079.webp)
-
-- **风格编号**：`#079`
-- **风格名称**：黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报
-- **作者来源**：[@AiWithTariq](https://x.com/AiWithTariq) (Mr. Tariq) · [查看 X (Twitter) 原贴](https://x.com/AiWithTariq/status/2100427348789363114)
-- **风格标签**：`黑白水墨` `质感插画` `杂志肖像` `泼墨肌理` `艺术海报`
-- **收录备注**：黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报 - 作者回复区提取
+[![#079 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报](data/curated/images/prompt_079.webp)](data/curated/images/prompt_079.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `黑白水墨` `质感插画` `杂志肖像` `泼墨肌理` · @AiWithTariq</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @AiWithTariq](https://x.com/AiWithTariq/status/2100427348789363114)
 
 ```text
 Use the uploaded image as the main composition and style reference. Recreate the artwork almost exactly, keeping the same overall pose, side-profile angle, moody expression, rough painterly texture, abstract ink treatment, distressed overlays, and minimal beige background.
@@ -4598,25 +3924,18 @@ Style: ultra-detailed monochrome mixed-media portrait, contemporary editorial wa
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #080 · 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片
-
-<a id="style-080"></a>
+## #080 · 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片
 <a id="080"></a>
+<a id="style-080"></a>
 
-![#080 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片](data/curated/images/prompt_080.webp)
-
-- **风格编号**：`#080`
-- **风格名称**：现代电影感动漫插画：天台潮流穿搭低仰角时尚大片
-- **作者来源**：[@OrhanGhazi65942](https://x.com/OrhanGhazi65942) (ORHAN) · [查看 X (Twitter) 原贴](https://x.com/OrhanGhazi65942/status/2100437542915231869)
-- **风格标签**：`动漫插画` `时尚海报` `美漫风` `天台街拍` `赛璐璐`
-- **收录备注**：现代电影感动漫插画：天台潮流穿搭低仰角时尚大片 - 赛璐璐光影与美漫质感
+[![#080 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片](data/curated/images/prompt_080.webp)](data/curated/images/prompt_080.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `动漫插画` `时尚海报` `美漫风` `天台街拍` · @OrhanGhazi65942</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @OrhanGhazi65942](https://x.com/OrhanGhazi65942/status/2100437542915231869)
 
 ```text
 Use the uploaded image as the primary visual reference. Recreate the same overall composition, camera angle, framing, pose, environment, clothing, lighting, color palette, and stylized illustrated aesthetic.
@@ -4638,29 +3957,18 @@ Negative prompt: blurry face, distorted hands, extra fingers, malformed shoes, d
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-<a id="视觉风格展示-081---088"></a>
-
-## 视觉风格展示 (#081 - #088)
-
-### #081 · 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)
-
-<a id="style-081"></a>
+## #081 · 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)
 <a id="081"></a>
+<a id="style-081"></a>
 
-![#081 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)](data/curated/images/prompt_081.webp)
-
-- **风格编号**：`#081`
-- **风格名称**：上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)
-- **作者来源**：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01) (小小东) · [查看 X (Twitter) 原贴](https://x.com/xiaoxiaodong01/status/2100555267608035471)
-- **风格标签**：`上下双拼` `糖霜曲奇` `浅浮雕` `微缩艺术` `翻糖质感`
-- **收录备注**：上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226) - 关联开源技能库原稿提取
+[![#081 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)](data/curated/images/prompt_081.webp)](data/curated/images/prompt_081.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `糖霜曲奇` `浅浮雕` `微缩艺术` · @xiaoxiaodong01</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2100555267608035471)
 
 ```text
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
@@ -4680,25 +3988,18 @@ Negative prompt: blurry face, distorted hands, extra fingers, malformed shoes, d
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #082 · 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底
-
-<a id="style-082"></a>
+## #082 · 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底
 <a id="082"></a>
+<a id="style-082"></a>
 
-![#082 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底](data/curated/images/prompt_082.webp)
-
-- **风格编号**：`#082`
-- **风格名称**：极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底
-- **作者来源**：[@AdrianPunk115](https://x.com/AdrianPunk115) (Adrian Punk) · [查看 X (Twitter) 原贴](https://x.com/AdrianPunk115/status/2100587074885742645)
-- **风格标签**：`手绘插画` `极简杂志风` `色块拼贴` `生活方式` `复古插画`
-- **收录备注**：极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底 - 作者回复区提取
+[![#082 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底](data/curated/images/prompt_082.webp)](data/curated/images/prompt_082.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `手绘插画` `极简杂志风` `色块拼贴` `生活方式` · @AdrianPunk115</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @AdrianPunk115](https://x.com/AdrianPunk115/status/2100587074885742645)
 
 ```text
 Transform the uploaded photo into a minimalist hand-drawn editorial illustration.
@@ -4742,25 +4043,18 @@ minimal, warm, stylish, slightly retro, expressive, casual, human, and effortles
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #083 · 复古旅行日记海报：孔版印刷与丝网版画质感
-
-<a id="style-083"></a>
+## #083 · 复古旅行日记海报：孔版印刷与丝网版画质感
 <a id="083"></a>
+<a id="style-083"></a>
 
-![#083 复古旅行日记海报：孔版印刷与丝网版画质感](data/curated/images/prompt_083.webp)
-
-- **风格编号**：`#083`
-- **风格名称**：复古旅行日记海报：孔版印刷与丝网版画质感
-- **作者来源**：[@ai_suxiaole](https://x.com/ai_suxiaole) (苏乐) · [查看 X (Twitter) 原贴](https://x.com/ai_suxiaole/status/2100910238539141498)
-- **风格标签**：`复古日记` `孔版印刷` `丝网版画` `旅行海报` `Risograph`
-- **收录备注**：复古旅行日记海报：孔版印刷与丝网版画质感 - 作者回复区提取
+[![#083 复古旅行日记海报：孔版印刷与丝网版画质感](data/curated/images/prompt_083.webp)](data/curated/images/prompt_083.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `复古日记` `孔版印刷` `丝网版画` `旅行海报` · @ai_suxiaole</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2100910238539141498)
 
 ```text
 Use the single uploaded photograph as the sole content source. Transform it into one finished vintage travel-diary art poster. Output only the transformed poster—do not include the original photograph, a before-and-after comparison, split layout, collage, mockup, or explanatory text. Preserve the source aspect ratio unless the user explicitly requests another format.
@@ -4784,25 +4078,18 @@ Maintain a spacious, nostalgic, literary mood with strong visual hierarchy, unde
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #084 · 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感
-
-<a id="style-084"></a>
+## #084 · 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感
 <a id="084"></a>
+<a id="style-084"></a>
 
-![#084 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感](data/curated/images/prompt_084.webp)
-
-- **风格编号**：`#084`
-- **风格名称**：手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感
-- **作者来源**：[@ai_suxiaole](https://x.com/ai_suxiaole) (苏乐) · [查看 X (Twitter) 原贴](https://x.com/ai_suxiaole/status/2100556460375920746)
-- **风格标签**：`手工羊毛毡` `针毡玩偶` `贴布绣` `手作贴纸` `毛绒微缩`
-- **收录备注**：手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感 - 作者回复区提取
+[![#084 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感](data/curated/images/prompt_084.webp)](data/curated/images/prompt_084.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `手工羊毛毡` `针毡玩偶` `贴布绣` `手作贴纸` · @ai_suxiaole</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2100556460375920746)
 
 ```text
 Use the single uploaded photograph as the sole content source. Output only one transformed image—do not include the original photograph, a before-and-after comparison, split layout, collage, divider, frame, caption, or explanatory text. Preserve the source image’s aspect ratio and framing.
@@ -4822,25 +4109,18 @@ Avoid text, captions, logos, signatures, watermarks, borders, additional scenery
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #085 · 上下双拼：纪实摄影 × 日系手绘素描画册
-
-<a id="style-085"></a>
+## #085 · 上下双拼：纪实摄影 × 日系手绘素描画册
 <a id="085"></a>
+<a id="style-085"></a>
 
-![#085 上下双拼：纪实摄影 × 日系手绘素描画册](data/curated/images/prompt_085.webp)
-
-- **风格编号**：`#085`
-- **风格名称**：上下双拼：纪实摄影 × 日系手绘素描画册
-- **作者来源**：[@itxsarmadd](https://x.com/itxsarmadd) (Sarmad Tahir) · [查看 X (Twitter) 原贴](https://x.com/itxsarmadd/status/2100874791532290319)
-- **风格标签**：`上下双拼` `黑白素描` `钢笔速写` `日系手账` `旅行画册` `排版设计`
-- **收录备注**：上下双拼：纪实摄影 × 日系手绘素描画册 - 主贴正文提取
+[![#085 上下双拼：纪实摄影 × 日系手绘素描画册](data/curated/images/prompt_085.webp)](data/curated/images/prompt_085.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `黑白素描` `钢笔速写` `日系手账` · @itxsarmadd</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @itxsarmadd](https://x.com/itxsarmadd/status/2100874791532290319)
 
 ```text
 A premium nostalgic editorial photo-and-sketch artbook page featuring a young East Asian woman at an airport terminal, arranged in a clean vertical 3:4 composition. The upper section shows an ultra-realistic candid photograph of the woman standing beside a large airport window, wearing a fitted white sleeveless top with a black puffer jacket casually slipping off her shoulders. She has long dark-brown hair falling naturally over one shoulder and holds a dark green Korean passport gently with both hands near her waist. Her pose is relaxed and natural, with her head turned to the side as she gazes thoughtfully toward the airport runway.
@@ -4856,25 +4136,18 @@ Warm off-white paper texture, slightly imperfect ink printing, sophisticated con
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #086 · 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)
-
-<a id="style-086"></a>
+## #086 · 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)
 <a id="086"></a>
+<a id="style-086"></a>
 
-![#086 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)](data/curated/images/prompt_086.webp)
-
-- **风格编号**：`#086`
-- **风格名称**：上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)
-- **作者来源**：[@zhidawang219555](https://x.com/zhidawang219555) (DAAI) · [查看 X (Twitter) 原贴](https://x.com/zhidawang219555/status/2101117661476491768)
-- **风格标签**：`上下双拼` `原生艺术` `ArtBrut` `抽象符号` `米罗风` `不规则色块`
-- **收录备注**：上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut) - 作者回复区提取
+[![#086 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)](data/curated/images/prompt_086.webp)](data/curated/images/prompt_086.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `原生艺术` `ArtBrut` `抽象符号` · @zhidawang219555</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2101117661476491768)
 
 ```text
 创作一张“上下双拼构图”的竖版插画作品，画布纵向排版，上下区域高度比例严格为 1:1，整体为同一张完整作品，不是两张独立图片拼贴。
@@ -4895,25 +4168,18 @@ Warm off-white paper texture, slightly imperfect ink printing, sophisticated con
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #087 · 上下双拼：风景摄影 × 低多边形几何面艺术海报
-
-<a id="style-087"></a>
+## #087 · 上下双拼：风景摄影 × 低多边形几何面艺术海报
 <a id="087"></a>
+<a id="style-087"></a>
 
-![#087 上下双拼：风景摄影 × 低多边形几何面艺术海报](data/curated/images/prompt_087.webp)
-
-- **风格编号**：`#087`
-- **风格名称**：上下双拼：风景摄影 × 低多边形几何面艺术海报
-- **作者来源**：[@aiwithlumi](https://x.com/aiwithlumi) (lumiAI) · [查看 X (Twitter) 原贴](https://x.com/aiwithlumi/status/2101265866226602262)
-- **风格标签**：`上下双拼` `风景摄影` `低多边形` `LowPoly` `几何拼贴` `旅行海报`
-- **收录备注**：上下双拼：风景摄影 × 低多边形几何面艺术海报 - 主贴正文提取
+[![#087 上下双拼：风景摄影 × 低多边形几何面艺术海报](data/curated/images/prompt_087.webp)](data/curated/images/prompt_087.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `风景摄影` `低多边形` `LowPoly` · @aiwithlumi</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @aiwithlumi](https://x.com/aiwithlumi/status/2101265866226602262)
 
 ```text
 Create a split vintage travel poster: the top shows a realistic autumn lakeside scene with a rustic log cabin, five grazing cows, golden-orange trees, fallen leaves, and sunlight sparkling across deep blue water; the bottom recreates the same scene in a sharp low-poly geometric style with faceted cabin, cows, trees, and jagged golden reflections. Use a cream divider with dark blue serif text “RAISE & ROAR”, “MOUNTAINS / LAKE / LIFE”, “NO.07”, and “03/25”.
@@ -4921,25 +4187,18 @@ Create a split vintage travel poster: the top shows a realistic autumn lakeside 
 
 </details>
 
-[⬆ 返回顶部](#快速导航)
-
 ---
 
-### #088 · 上下双拼：纪实原图 × 现代硬边几何抽象色块插画
-
-<a id="style-088"></a>
+## #088 · 上下双拼：纪实原图 × 现代硬边几何抽象色块插画
 <a id="088"></a>
+<a id="style-088"></a>
 
-![#088 上下双拼：纪实原图 × 现代硬边几何抽象色块插画](data/curated/images/prompt_088.webp)
-
-- **风格编号**：`#088`
-- **风格名称**：上下双拼：纪实原图 × 现代硬边几何抽象色块插画
-- **作者来源**：[@Sairah_0](https://x.com/Sairah_0) (Sairah) · [查看 X (Twitter) 原贴](https://x.com/Sairah_0/status/2101888385627598947)
-- **风格标签**：`上下双拼` `硬边几何` `几何抽象` `色块拼贴` `极简扁平` `艺术画册`
-- **收录备注**：上下双拼：纪实原图 × 现代硬边几何抽象色块插画 - 主贴正文提取
+[![#088 上下双拼：纪实原图 × 现代硬边几何抽象色块插画](data/curated/images/prompt_088.webp)](data/curated/images/prompt_088.webp)
 
 <details>
-<summary>📋 <b>点击展开查看完整提示词 (Prompt)</b></summary>
+<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `硬边几何` `几何抽象` `色块拼贴` · @Sairah_0</summary>
+
+> 🔗 **来源原贴**：[X (Twitter) @Sairah_0](https://x.com/Sairah_0/status/2101888385627598947)
 
 ```text
 Using the uploaded photo, create a vertical 3:4 “before-and-after” comparison poster. If multiple photos are uploaded, create one separate poster for each photo; do not mix different photos on the same page. The upper and lower sections should each occupy exactly half of the total height, with a seamless transition between them. Do not add borders, arrows, or “Before” / “After” labels.
@@ -4965,8 +4224,6 @@ Keep the overall work restrained, gentle, and distinctive. Avoid cartoon-like fa
 ```
 
 </details>
-
-[⬆ 返回顶部](#快速导航)
 
 ---
 
