@@ -1,7 +1,7 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-21 12:48:10",
+  "updated_at": "2026-09-22 06:32:44",
   "total_count": 88,
   "tags": [
     "3D厚涂",

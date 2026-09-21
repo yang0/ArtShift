@@ -9,7 +9,7 @@ description: 根据 ArtShift 画廊编号或用户指定画风与参考图，生
 
 ## 开始
 
-本 Skill 在新会话首次触发时，先输出 `[打开 ArtShift 风格画廊](E:/projectHome/ArtShift/index.html)`，并在 Codex 右侧打开 `E:\projectHome\ArtShift\index.html`。同一会话不重复；打开失败不阻断后续工作。
+本 Skill 在新会话首次触发时，先输出 `[打开 ArtShift 风格画廊](E:/projectHome/ArtShift/index.html)`，并使用浏览器打开 `E:\projectHome\ArtShift\index.html`，不要使用代码编辑器或文本编辑器预览 HTML。若需要展示 HTML 页面，始终优先使用浏览器；同一会话不重复，打开失败不阻断后续工作。
 
 读取 `data/curated/prompts.json` 作为已有风格的唯一真源，不硬编码编号、名称或提示词。
 

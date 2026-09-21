@@ -8,7 +8,7 @@ version: 1.0.0
 
 工作区：`E:\projectHome\ArtShift`
 
-先打开 `index.html`，或读取 `data/curated/prompts.json`。这里的编号对应已经整理好的公开风格库；抓取原始数据与抓取工具不属于本 Skill 的公开范围。
+先查阅 `GALLERY.md`，或读取 `data/curated/prompts.json`。这里的编号对应已经整理好的公开风格库；抓取原始数据与抓取工具不属于本 Skill 的公开范围。
 
 ## 使用方式
 
