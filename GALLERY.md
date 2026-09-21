@@ -1,23 +1,24 @@
 # 🎨 ArtShift 风格迁移视觉画廊 (Visual Gallery)
 
-> 🖼️ **纯视觉画廊** | 收录全部 **88** 款风格高清大图。点击图片可查看原图，点击图片下方可展开复制提示词（Prompt）。
+> 🖼️ **纯视觉画廊（一行多张大图）** | 收录全部 **88** 款风格高清效果图。点击图片可查看原始大图，点击图片下方按钮可一键展开复制完整提示词（Prompt）。
 
-**快速跳转**：[#001 - #020](#001) · [#021 - #040](#021) · [#041 - #060](#041) · [#061 - #080](#061) · [#081 - #088](#081)
+**快速跳转**：[#001 - #030](#001) · [#031 - #060](#031) · [#061 - #088](#061)
 
 ---
 
-## #001 · 立体彩色刺绣补丁手作风
-<a id="001"></a>
-<a id="style-001"></a>
-
-[![#001 立体彩色刺绣补丁手作风](data/curated/images/prompt_001.webp)](data/curated/images/prompt_001.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `彩色刺绣` `工艺手作` · @ai_suxiaole</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2099824477173690831)
-
-```text
+<table>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="001"></a><a id="style-001"></a>
+      <a href="data/curated/images/prompt_001.webp">
+        <img src="data/curated/images/prompt_001.webp" alt="#001 立体彩色刺绣补丁手作风" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#001 · 立体彩色刺绣补丁手作风</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>彩色刺绣</code> · <code>工艺手作</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/ai_suxiaole/status/2099824477173690831">来源原贴 @ai_suxiaole</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Use the single uploaded image as the sole source. Create one finished vertical before-and-after comparison image composed of two equal-sized panels stacked vertically. The upper panel must be an exact, pixel-faithful copy of the uploaded image: do not redraw, retouch, crop, resize disproportionately, recolor, sharpen, blur, remove, add, or cover anything. Generate only the lower panel. Make the final canvas the same width as the source and exactly twice its height, with the original image occupying the upper 50% and the generated artwork occupying the lower 50%. Join them at the exact midpoint with no gap, border, divider, frame, label, or overlap. If a fixed output canvas is required, fit both panels into identical bounds without cropping or changing their relative proportions.
 
 Transform the complete visual meaning of the source into a handcrafted dimensional yarn-embroidery patch artwork. Reconstruct every important subject and recognizable scene element using thick twisted yarn, braided cord, crochet loops, satin stitches, chain stitches, dense thread fills, and raised appliqué embroidery. Present the lower panel as a straight-on macro product photograph of real needlework mounted on tightly woven fabric. Every visible element—including people, skin, hair, clothing, objects, environmental shapes, decorative marks, and typography—must be physically formed from thread or yarn, never painted, printed, photographic, plastic, clay, paper, flat vector art, or digital brushwork. Show crisp individual fibers, tactile stitch direction, slight handmade irregularity, layered thread thickness, clean edges, gentle relief, and small natural contact shadows created by the raised embroidery.
@@ -29,24 +30,20 @@ Build a balanced editorial patch composition in the lower panel. Place the embro
 Add exactly three centered embroidered text lines below the artwork. Line 1 is “[TITLE]” in large uppercase bold block lettering made from thick raised yarn. Line 2 is “[EDITION]” in smaller uppercase compact lettering, defaulting to “PATCH NO. 01”. Line 3 is “[CAPTION]” in a smaller friendly hand-stitched script. If the user supplies any bracketed text, reproduce it exactly with correct spelling, capitalization, punctuation, and spacing. If a field is blank or omitted, automatically create suitable English copy from the image: generate a concise one- or two-word uppercase title, use “PATCH NO. 01” for the edition, and write one warm, memorable sentence of approximately three to eight words for the caption. Do not display brackets, placeholders, quotation marks, explanations, labels, or any additional text.
 
 The lower panel must feel like a premium handmade travel-memory patch photographed under soft, even studio lighting: tactile, cozy, playful, polished, symmetrical where appropriate, and faithful to the uploaded moment. Prioritize in this order: the upper panel remains completely unchanged; subject count and action remain correct; distinctive clothing, accessories, and objects remain recognizable; the lower scene reads clearly as raised yarn embroidery; all requested text is exact; the two panels remain equal in size. Output only the completed vertically stitched comparison image.
-```
-
-</details>
-
----
-
-## #002 · 立体折纸纸雕双拼海报风格
-<a id="002"></a>
-<a id="style-002"></a>
-
-[![#002 立体折纸纸雕双拼海报风格](data/curated/images/prompt_002.webp)](data/curated/images/prompt_002.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `立体折纸` `纸雕拼贴` `形象改造` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099831605603041739)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="002"></a><a id="style-002"></a>
+      <a href="data/curated/images/prompt_002.webp">
+        <img src="data/curated/images/prompt_002.webp" alt="#002 立体折纸纸雕双拼海报风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#002 · 立体折纸纸雕双拼海报风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>立体折纸</code> · <code>纸雕拼贴</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2099831605603041739">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成完整而明确的上下转译关系。
 
 上半部分：
@@ -73,24 +70,20 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 整体呈现原始影像 × 手工剪纸 × 高级编辑设计的视觉气质，干净、优雅、触感细腻、现代而有收藏感。
 下半部分必须保留一个核心主体、少量纸层、大面积留白和精密微排版，并与上半部分形成明确可辨认的对应关系。
 避免儿童手工感、复杂堆积、重复主体、电商展示感和模板感。
-```
-
-</details>
-
----
-
-## #003 · 立体厚涂油画微景观双拼风格
-<a id="003"></a>
-<a id="style-003"></a>
-
-[![#003 立体厚涂油画微景观双拼风格](data/curated/images/prompt_003.webp)](data/curated/images/prompt_003.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `厚涂油画` `立体微景观` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099703434882744418)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="003"></a><a id="style-003"></a>
+      <a href="data/curated/images/prompt_003.webp">
+        <img src="data/curated/images/prompt_003.webp" alt="#003 立体厚涂油画微景观双拼风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#003 · 立体厚涂油画微景观双拼风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>厚涂油画</code> · <code>立体微景观</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2099703434882744418">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成“原始照片 × 风格转译”的清晰双拼结构。
 
 上半部分：
@@ -118,24 +111,22 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 整体要求：
 下半部分必须让人一眼认出是上半部分同一主体的风格化重构。
 不要把场景建筑做成主角，不要生成无关第二主体，不要让上下两部分风格关系断裂，不要多余水印、Logo 或解释性大段文字。
-```
-
-</details>
-
----
-
-## #004 · 七十年代动画感黑白墨线画双拼风格
-<a id="004"></a>
-<a id="style-004"></a>
-
-[![#004 七十年代动画感黑白墨线画双拼风格](data/curated/images/prompt_004.webp)](data/curated/images/prompt_004.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `黑白墨线` `70年代动画` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099662710321693002)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="004"></a><a id="style-004"></a>
+      <a href="data/curated/images/prompt_004.webp">
+        <img src="data/curated/images/prompt_004.webp" alt="#004 七十年代动画感黑白墨线画双拼风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#004 · 七十年代动画感黑白墨线画双拼风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>黑白墨线</code> · <code>70年代动画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2099662710321693002">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，形成清晰而完整的上下视觉对照关系。
 
 上半部分：
@@ -156,24 +147,20 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 整体要求：
 上下两部分之间必须存在明确呼应关系，保证下半部分一眼就能识别出是上半部分主体的风格化转译。
 画面干净、克制、有设计感，不要生成多余文字、Logo、水印，不要出现无关主体，不要让建筑或背景元素抢夺视觉中心。
-```
-
-</details>
-
----
-
-## #005 · 扁平笔触手绘插画双拼风格
-<a id="005"></a>
-<a id="style-005"></a>
-
-[![#005 扁平笔触手绘插画双拼风格](data/curated/images/prompt_005.webp)](data/curated/images/prompt_005.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `扁平手绘` `复古插画` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099469619010617739)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="005"></a><a id="style-005"></a>
+      <a href="data/curated/images/prompt_005.webp">
+        <img src="data/curated/images/prompt_005.webp" alt="#005 扁平笔触手绘插画双拼风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#005 · 扁平笔触手绘插画双拼风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>扁平手绘</code> · <code>复古插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2099469619010617739">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版“上下双拼”风格海报。画布严格分为上下两个区域，上半部分为用户上传的原始照片，下半部分为根据同一主体转化出的扁平笔触手绘插画。整体干净、现代、手作感明确，并带有轻微复古色调。
 
 上半部分：
@@ -198,24 +185,20 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 禁止写实渲染、三维效果、阴影、反射、品牌标志、水印、边框，以及过度放大主体。
 
 整体最终效果应明确形成“上半部分真实照片 + 下半部分扁平笔触手绘主题插画”的双拼对照关系，下方插画必须清楚继承上方主体身份与气质，但以扁平手绘的方式重新表达。
-```
-
-</details>
-
----
-
-## #006 · 复古水彩手绘编辑插画双拼风格
-<a id="006"></a>
-<a id="style-006"></a>
-
-[![#006 复古水彩手绘编辑插画双拼风格](data/curated/images/prompt_006.webp)](data/curated/images/prompt_006.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `复古水彩` `手绘插画` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099295085250916707)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="006"></a><a id="style-006"></a>
+      <a href="data/curated/images/prompt_006.webp">
+        <img src="data/curated/images/prompt_006.webp" alt="#006 复古水彩手绘编辑插画双拼风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#006 · 复古水彩手绘编辑插画双拼风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>复古水彩</code> · <code>手绘插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2099295085250916707">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版“上下双拼”风格海报，画布严格划分为上下两个区域，上方为真实摄影原图，下方为同一主体的复古水彩手绘编辑插画转译。整体气质轻松、俏皮、温柔、时髦、复古且带少量幽默感。
 
 上半部分：
@@ -231,24 +214,22 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 整体使用米白或浅色背景与大量留白，主体特征、色彩、姿态与视觉符号在画面中保持统一呼应。整体气质轻松、俏皮、复古、温柔、聪明、时髦、幽默、浪漫、松弛，略带笨拙与古怪自信，像一页被精心保存的旧时尚绘本与现代艺术杂志。
 
 整体需清晰传达“上半部分为原始照片参考，下半部分为同一主体的复古水彩编辑插画转译”，二者之间既有身份一致性，也有明显风格落差。
-```
-
-</details>
-
----
-
-## #007 · 童话版画绘本风双拼海报
-<a id="007"></a>
-<a id="style-007"></a>
-
-[![#007 童话版画绘本风双拼海报](data/curated/images/prompt_007.webp)](data/curated/images/prompt_007.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `童话版画` `绘本风` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099122402362024421)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="007"></a><a id="style-007"></a>
+      <a href="data/curated/images/prompt_007.webp">
+        <img src="data/curated/images/prompt_007.webp" alt="#007 童话版画绘本风双拼海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#007 · 童话版画绘本风双拼海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>童话版画</code> · <code>绘本风</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2099122402362024421">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版“上下双拼”风格海报，整体像一本被拆开的绘本页：上方是真实照片，下方是同一主体的童话版画式图像转译。构图简洁、清楚、带叙事性，具有绘本和艺术出版物气质。
 
 上半部分：
@@ -264,24 +245,20 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 整体构图简洁、低细节、高识别，暗场包裹亮色信号，兼具可爱叙事与厚重版画感。若画面包含文字，可将文字处理为小标识、物体面板或边缘注释，数量精简，服从图形结构；字形圆钝，粗细略不均，密度低，带有自然手写感，使其像画面的一部分而不是后期贴上去的说明。
 
 整体呈现“上半部分真实原图 + 下半部分童话绘本、手工版画、编辑插画与艺术出版物气质结合”的视觉关系，形成非常明确的“同一主体前后转译”效果，视觉统一、鲜明、可迁移。
-```
-
-</details>
-
----
-
-## #008 · 粗黑蜡笔高级童书编辑感双拼插画
-<a id="008"></a>
-<a id="style-008"></a>
-
-[![#008 粗黑蜡笔高级童书编辑感双拼插画](data/curated/images/prompt_008.webp)](data/curated/images/prompt_008.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `粗黑蜡笔` `童书插画` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2099031654975361099)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="008"></a><a id="style-008"></a>
+      <a href="data/curated/images/prompt_008.webp">
+        <img src="data/curated/images/prompt_008.webp" alt="#008 粗黑蜡笔高级童书编辑感双拼插画" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#008 · 粗黑蜡笔高级童书编辑感双拼插画</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>粗黑蜡笔</code> · <code>童书插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2099031654975361099">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版“上下双拼”风格海报，画布严格分为上下两个区域，整体保持留白充分、安静、有高级童书编辑感。
 
 上半部分：
@@ -301,24 +278,20 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 文字需要与图形发生巧妙关系：可以贴着地面线排列、沿主体动作方向延伸、躲在大片留白中、与轮廓产生轻微遮挡、卡在两个主体之间的负形里，或用一条细线把编号与主体连接起来。保持“一个短标题 + 1–2 组极小辅助文字”即可，让文字成为构图节奏的一部分，而不是普通海报标题。
 
 整体呈现“上半部分真实原图 + 下半部分黑要粗、白要净、形要简、质要糙”的视觉特征，在童稚、温软、安静、幽默与孤独之间保持微妙平衡，像一本由高级设计工作室重新编辑的旧黑白童书。避免光滑数字描边、精密线稿、写实光影、厚涂、三维效果、彩色、大面积灰色渲染、卡通贴纸感和模板化商业插画。
-```
-
-</details>
-
----
-
-## #009 · 治愈系温柔小画册双拼风格
-<a id="009"></a>
-<a id="style-009"></a>
-
-[![#009 治愈系温柔小画册双拼风格](data/curated/images/prompt_009.webp)](data/curated/images/prompt_009.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `治愈系` `柔和插画` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098953170047369586)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="009"></a><a id="style-009"></a>
+      <a href="data/curated/images/prompt_009.webp">
+        <img src="data/curated/images/prompt_009.webp" alt="#009 治愈系温柔小画册双拼风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#009 · 治愈系温柔小画册双拼风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>治愈系</code> · <code>柔和插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2098953170047369586">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
 
 **上半部分：**
@@ -332,24 +305,22 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 文字从上半部分照片的**情绪、动作、状态或隐喻**中提炼一句简短英文短句，以柔软、潦草、略带不完美的手写方式融入画面。文字可沿色块边缘、主体走势或留白区域自然排列，也可与轮廓发生轻微穿插、错位或跨界，使文字像手绘作品的一部分，而不是后期添加的标题。
 
 整体呈现**安静、松弛、温柔、复古、文艺而克制**的纸上编辑视觉，兼具手工温度与现代构图感。保持上半部分原始影像与下半部分极简手绘之间清晰而巧妙的视觉呼应，避免卡通感、廉价手账感、复杂装饰、固定配色和模板感。
-```
-
-</details>
-
----
-
-## #010 · 旅行田野笔记手工印章双拼风格
-<a id="010"></a>
-<a id="style-010"></a>
-
-[![#010 旅行田野笔记手工印章双拼风格](data/curated/images/prompt_010.webp)](data/curated/images/prompt_010.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `田野记录` `手工印章` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098759028755063191)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="010"></a><a id="style-010"></a>
+      <a href="data/curated/images/prompt_010.webp">
+        <img src="data/curated/images/prompt_010.webp" alt="#010 旅行田野笔记手工印章双拼风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#010 · 旅行田野笔记手工印章双拼风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>田野记录</code> · <code>手工印章</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2098759028755063191">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
 
 **上半部分：**
@@ -365,24 +336,20 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 文字像旅行者或观察者留下的**田野注释**，从上半部分照片的地点、主体、状态或意象中提炼一个简短英文标题，并搭配 No. 编号、2–3 个关键词或极短说明。使用小型打字机字体或档案式微排版，可与章印的边缘、留白、基线或局部轮廓巧妙对齐，使文字成为记录系统的一部分，而不是商业标题。
 
 整体呈现**原始影像 × 手工橡皮章 × 旅行田野笔记**的视觉关系，安静、克制、质朴、精致而具有收藏感。上半部分原图提供现场依据，下半部分章印负责留下记忆中最值得辨认的部分，避免旅游纪念品感、邮票模板、圆形印章、贴纸拼贴、卡通风格、过多文字和装饰堆积。
-```
-
-</details>
-
----
-
-## #011 · 手工感小木版画双拼风格
-<a id="011"></a>
-<a id="style-011"></a>
-
-[![#011 手工感小木版画双拼风格](data/curated/images/prompt_011.webp)](data/curated/images/prompt_011.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `木刻版画` `复古手作` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098662532978544661)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="011"></a><a id="style-011"></a>
+      <a href="data/curated/images/prompt_011.webp">
+        <img src="data/curated/images/prompt_011.webp" alt="#011 手工感小木版画双拼风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#011 · 手工感小木版画双拼风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>木刻版画</code> · <code>复古手作</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2098662532978544661">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
 
 **上半部分：**
@@ -400,24 +367,20 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 文字同样作为版画构图的一部分介入，而不是固定说明文字。从上半部分照片的主体身份、动作、情绪、状态、地点或隐喻中提炼一个 1–3 词的主标题，并搭配一组极短关键词或微型说明。主标题可沿主体轮廓、留白边界、视觉轴线或版画边缘排列，与图形形成承托、穿插、错位或呼应关系；辅助小字保持细小、克制，采用打字机体、等宽衬线体或旧档案式排版，像旅行笔记或私人收藏版画中的注释。不要固定使用年份，让文字根据照片本身自然生长。
 
 整体强调木刻版画的朴拙手感、清新柔和的限色、纸张留白、不完整边缘与克制排版，呈现温暖、安静、治愈、轻盈、怀旧而不灰暗的高级版画气质。保持上半部分原图与下半部分版画重构之间清晰而巧妙的视觉呼应，避免普通滤镜、完整背景复刻、光滑矢量描边、卡通插画、旅游模板感和廉价复古感。
-```
-
-</details>
-
----
-
-## #012 · 黑白主调高亮点缀时尚海报双拼
-<a id="012"></a>
-<a id="style-012"></a>
-
-[![#012 黑白主调高亮点缀时尚海报双拼](data/curated/images/prompt_012.webp)](data/curated/images/prompt_012.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `黑白高亮` `时尚海报` `双拼海报` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2098343054159835367)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="012"></a><a id="style-012"></a>
+      <a href="data/curated/images/prompt_012.webp">
+        <img src="data/curated/images/prompt_012.webp" alt="#012 黑白主调高亮点缀时尚海报双拼" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#012 · 黑白主调高亮点缀时尚海报双拼</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>黑白高亮</code> · <code>时尚海报</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2098343054159835367">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图片。画面严格分为上下两部分，高度约 1:1。
 
 上半部分：
@@ -433,24 +396,22 @@ The lower panel must feel like a premium handmade travel-memory patch photograph
 文字建立轻巧的黑白编辑式微排版系统，从上半部分照片的动作、情绪、状态或隐喻中提炼一个简短英文标题，并搭配 1–3 组极小注释、编号、状态词或短句。文字可贴近黑色矩形边缘、藏在负形中、顺着越界方向排列，或与主体轮廓形成对齐和错位；使用黑色手写字、细瘦无衬线或克制衬线字体，保持小尺度，让文字像插画师留下的签注和编辑标记，而不是商业标题。
 
 整体呈现纯白纸面 × 黑色几何色域 × 流畅手绘线条 × 主体越界 × 单点彩色强调的视觉气质，克制、聪明、轻巧、幽默、现代且具有艺术出版感。避免彩色卡通、复杂场景、光滑矢量描边、写实明暗、三维质感、纯黑剪影、粗糙乱线和模板式居中构图。
-```
-
-</details>
-
----
-
-## #013 · 复古中古杂志封面插画大作
-<a id="013"></a>
-<a id="style-013"></a>
-
-[![#013 复古中古杂志封面插画大作](data/curated/images/prompt_013.webp)](data/curated/images/prompt_013.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `复古杂志` `Midjourney` `封面海报` · @ai_suxiaole</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2098745656412344344)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="013"></a><a id="style-013"></a>
+      <a href="data/curated/images/prompt_013.webp">
+        <img src="data/curated/images/prompt_013.webp" alt="#013 复古中古杂志封面插画大作" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#013 · 复古中古杂志封面插画大作</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>复古杂志</code> · <code>Midjourney</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/ai_suxiaole/status/2098745656412344344">来源原贴 @ai_suxiaole</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Transform the uploaded photograph into a vintage mid-century editorial magazine cover illustration printed with a limited-color letterpress and halftone process. Treat the uploaded photograph as the sole source of visual content. Output only the finished transformed magazine artwork. Do not create a before-and-after comparison, split screen, contact sheet, collage, or presentation mockup.
 
 First analyze the source image and identify the primary subjects, their relationship, pose, gesture, expression, gaze direction, body orientation, relative scale, clothing, accessories, essential props, environmental context, dominant colors, secondary colors, warm accents, and neutral areas. Preserve the exact number and type of primary subjects. Preserve their left-to-right order, interaction, pose, hand placement, facial direction, emotional relationship, clothing categories, and all story-defining objects. Do not add, remove, duplicate, merge, or replace primary subjects.
@@ -506,24 +467,20 @@ Avoid photorealism, smooth digital painting, polished vector art, modern comic r
 The final result must look like an authentic rediscovered vintage magazine cover or editorial print: bold, tactile, imperfect, limited in color, strongly composed, narratively faithful to the uploaded photograph, and visibly produced through an old mechanical printing process. Its color hierarchy must clearly originate from the dominant and secondary colors of the uploaded photograph.
 
 Return exactly one finished transformed magazine-cover illustration.
-```
-
-</details>
-
----
-
-## #014 · 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报
-<a id="014"></a>
-<a id="style-014"></a>
-
-[![#014 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报](data/curated/images/prompt_014.webp)](data/curated/images/prompt_014.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `童趣蜡笔` `城市记忆` `上下双拼` · @Hamburgerai</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Hamburgerai](https://x.com/Hamburgerai/status/2099501924278235384)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="014"></a><a id="style-014"></a>
+      <a href="data/curated/images/prompt_014.webp">
+        <img src="data/curated/images/prompt_014.webp" alt="#014 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#014 · 童趣蜡笔城市记忆 3:4 竖版上下对比旅行转绘海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>童趣蜡笔</code> · <code>城市记忆</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Hamburgerai/status/2099501924278235384">来源原贴 @Hamburgerai</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 制作一张完整、独立的3:4竖版上下对比旅行转绘海报。上半部分高保真保留输入的意大利旅行街拍，保持人物、服装、动作、建筑、街道、光线、色彩、透视和主体位置，不做插画化。下半部分把同一人物与同一街道重新绘制成“童趣蜡笔城市记忆”。
 
 只提炼原照片中真实可见且有识别意义的城市细节，例如窄巷透视、暖色墙面、窗户、路灯、石板路、节日灯饰、栏杆或游客手中的地图；根据每张照片自身内容选择，不套用固定山景、汽车或通用地标。
@@ -535,24 +492,20 @@ Return exactly one finished transformed magazine-cover illustration.
 上下约各占一半，中间仅使用一条干净的细白横线。下半不能等比例描摹完整照片，需要缩小提炼或重新组织人物和最有意义的城市细节，并保留米白纸张呼吸感。
 
 下半必须是真正重新绘制，不是照片滤镜。不要发明额外地标、车辆、人物或动物。不要添加标题、字幕、标签、logo、水印、原图角标、AI角标、乱码、九宫格或多图拼贴；避免精致矢量插画、3D渲染和写实下半。
-```
-
-</details>
-
----
-
-## #015 · VOL.173 留白与微缩文本景观
-<a id="015"></a>
-<a id="style-015"></a>
-
-[![#015 VOL.173 留白与微缩文本景观](data/curated/images/prompt_015.webp)](data/curated/images/prompt_015.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `留白美学` `极简景观` `上下双拼` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2099385632305090994)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="015"></a><a id="style-015"></a>
+      <a href="data/curated/images/prompt_015.webp">
+        <img src="data/curated/images/prompt_015.webp" alt="#015 VOL.173 留白与微缩文本景观" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#015 · VOL.173 留白与微缩文本景观</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>留白美学</code> · <code>极简景观</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2099385632305090994">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -562,43 +515,37 @@ Return exactly one finished transformed magazine-cover illustration.
 下半部分采用**小尺度视觉锚点 + 超大量留白**的构图逻辑。主体整体仅占下半部分约 10–20%，像一处孤立悬浮的纸上微景观，被安放在大片安静留白之中。可偏心、贴边、悬置或局部裁切，根据主体自身方向、比例和视觉重心自由安排位置，通过删减、重组、尺度变化和负空间关系，把原图重新导演成一张更成立、更高级的作品。留白必须是画面的一部分，与主体共同形成呼吸感、空间感、停顿感与东方极简的节奏。
 
 视觉语言采用**微缩景观化 + 意象提取**。主体不是宏大建筑，而像一小块被压缩后的纸本场景切片，可借鉴古籍纸张、文字、竖向纸片、层叠纸面、小人物或少量结构元素的关系，但只保留最必要的信息，不做复杂环境铺陈。
-```
-
-</details>
-
----
-
-## #016 · 横向动势丝网印刷 3:4 竖版上下对比转绘海报
-<a id="016"></a>
-<a id="style-016"></a>
-
-[![#016 横向动势丝网印刷 3:4 竖版上下对比转绘海报](data/curated/images/prompt_016.webp)](data/curated/images/prompt_016.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `横向动势` `丝网印刷` `上下双拼` · @Hamburgerai</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Hamburgerai](https://x.com/Hamburgerai/status/2099459657484087595)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="016"></a><a id="style-016"></a>
+      <a href="data/curated/images/prompt_016.webp">
+        <img src="data/curated/images/prompt_016.webp" alt="#016 横向动势丝网印刷 3:4 竖版上下对比转绘海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#016 · 横向动势丝网印刷 3:4 竖版上下对比转绘海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>横向动势</code> · <code>丝网印刷</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Hamburgerai/status/2099459657484087595">来源原贴 @Hamburgerai</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 制作一张独立的3:4竖版上下对比转绘海报。上半完整保留输入的泰国旅行街拍真实照片，不裁掉主体、不改成插画、不改变原色。下半从同一张照片中提炼街道、建筑、摊位、树木、车辆和人物，将其重绘为米白纸张上的黑色与朱红双色高对比丝网印刷。使用粗颗粒油墨、干刷边缘、轻微套印错位、宽粗横线、水平拖影和速度条纹表现横向动势。保留人物或车辆的数量、姿态、服装、动作方向和关键轮廓；下半可以改变裁切、尺度和信息密度，但必须保持场景可识别。中间使用细白分隔线。不要添加文字、logo、水印、原图角标、AI角标或多图拼贴。
-```
-
-</details>
-
----
-
-## #017 · 手绘深蓝白底模切贴纸风格
-<a id="017"></a>
-<a id="style-017"></a>
-
-[![#017 手绘深蓝白底模切贴纸风格](data/curated/images/prompt_017.webp)](data/curated/images/prompt_017.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `手绘贴纸` `深蓝白底` `极简插画` · @ai_suxiaole</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2098367415768019289)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="017"></a><a id="style-017"></a>
+      <a href="data/curated/images/prompt_017.webp">
+        <img src="data/curated/images/prompt_017.webp" alt="#017 手绘深蓝白底模切贴纸风格" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#017 · 手绘深蓝白底模切贴纸风格</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>手绘贴纸</code> · <code>深蓝白底</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/ai_suxiaole/status/2098367415768019289">来源原贴 @ai_suxiaole</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Transform the attached image into a minimal navy-and-white hand-drawn die-cut sticker illustration.
 
 Treat the uploaded image as the sole source of content. First identify the primary subject or subjects. Support a single person, a single pet, two people, two pets, or one person with one pet. Preserve the exact number and type of primary subjects. Preserve their left-to-right order, relative scale, interaction, pose, gesture, head angle, gaze direction, expression category, clothing categories, worn accessories, and any object that is essential to the action or story. Preserve the source crop and viewpoint; if the source is a close-up, keep it a close-up. Never invent off-frame bodies, limbs, clothing, or scenery.
@@ -616,24 +563,20 @@ Keep the original grouping and emotional relationship. Compress only empty space
 Avoid photorealism, line-art tracing, realistic portrait rendering, detailed anatomy, pencil or charcoal texture, watercolor, oil paint, anime or manga rendering, extreme chibi style, 3D rendering, gradients, glow, paper texture, grain, halftone, collage, complex lighting, detailed backgrounds, added props, altered subject count, duplicated limbs, malformed hands, text, captions, logos, signatures, and watermarks.
 
 Return exactly one finished square sticker illustration.
-```
-
-</details>
-
----
-
-## #018 · VOL.105 诗意色块与印刷肌理纸本拼贴
-<a id="018"></a>
-<a id="style-018"></a>
-
-[![#018 VOL.105 诗意色块与印刷肌理纸本拼贴](data/curated/images/prompt_018.webp)](data/curated/images/prompt_018.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `纸本拼贴` `丝网印刷` `上下双拼` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2098110986809200982)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="018"></a><a id="style-018"></a>
+      <a href="data/curated/images/prompt_018.webp">
+        <img src="data/curated/images/prompt_018.webp" alt="#018 VOL.105 诗意色块与印刷肌理纸本拼贴" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#018 · VOL.105 诗意色块与印刷肌理纸本拼贴</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>纸本拼贴</code> · <code>丝网印刷</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2098110986809200982">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -651,24 +594,22 @@ Return exactly one finished square sticker illustration.
 文字少量介入，不预设固定标题、地点、编号或语种。根据照片留下来的核心主题、情绪、动作或隐喻，自由生成少量真正有意义的字词、短句或微型注记，并利用留白、主体边缘和块面关系进行克制的图文混排，使文字像艺术出版物中的轻声注释，而不是信息栏目。
 
 整体呈现**诗意、极简、安静、朴拙、现代而有温度**的视觉气质。核心原则是：**只留下最值得被记住的画面，只画最有美感的部分，让删减本身成为设计。** 避免完整场景复刻、背景填满、多个并列主体、细节堆积、卡通化、商业插画感和模板化效果。
-```
-
-</details>
-
----
-
-## #019 · 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报
-<a id="019"></a>
-<a id="style-019"></a>
-
-[![#019 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报](data/curated/images/prompt_019.webp)](data/curated/images/prompt_019.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `毛毡手作` `滑稽圆钝` `旅行微缩` · @Hamburgerai</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Hamburgerai](https://x.com/Hamburgerai/status/2098065358926327899)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="019"></a><a id="style-019"></a>
+      <a href="data/curated/images/prompt_019.webp">
+        <img src="data/curated/images/prompt_019.webp" alt="#019 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#019 · 滑稽圆钝毛毡旅行角色 3:4 竖版对比海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>毛毡手作</code> · <code>滑稽圆钝</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Hamburgerai/status/2098065358926327899">来源原贴 @Hamburgerai</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将上传的旅行照片制作成一张3:4竖版“滑稽圆钝毛毡旅行角色”对比海报。
 
 画面采用清晰的上下两段结构。上方约占45%，完整保留原始旅行照片并横向铺满：保持人物、姿势、服装、随身物件、地点环境、拍摄视角、透视、光线、色彩及空间关系，只允许轻微摄影调色。上方不得毛毡化，也不得替换场景。
@@ -694,24 +635,20 @@ Return exactly one finished square sticker illustration.
 上方照片与下方毛毡舞台之间保持干净利落的水平边界。毛毡角色要足够大，能立刻读出圆钝滑稽的性格，但不得挤压布标。整体具有成熟的旅行编辑设计、温暖的手工质感和克制的幽默。
 
 避免：写实毛毡肖像、正常人体比例、小眼睛、优雅时装娃娃、完整场景机械复刻、无关道具、重复人物、作者名、摄影师名、品牌、Logo、水印、网址、乱码和随机文字。
-```
-
-</details>
-
----
-
-## #020 · 摄影 + 稚拙主义编辑插画海报
-<a id="020"></a>
-<a id="style-020"></a>
-
-[![#020 摄影 + 稚拙主义编辑插画海报](data/curated/images/prompt_020.webp)](data/curated/images/prompt_020.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `稚拙主义` `韩式插画` `双拼海报` · @hann7712</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @hann7712](https://x.com/hann7712/status/2098063748795924953)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="020"></a><a id="style-020"></a>
+      <a href="data/curated/images/prompt_020.webp">
+        <img src="data/curated/images/prompt_020.webp" alt="#020 摄影 + 稚拙主义编辑插画海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#020 · 摄影 + 稚拙主义编辑插画海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>稚拙主义</code> · <code>韩式插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/hann7712/status/2098063748795924953">来源原贴 @hann7712</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 为上传照片生成一张3:4竖版高端插画海报，非拼贴
 
 画面上下严格1:1分割。上半部分保留原照片：主体、结构、真实质感、自然光影和原有氛围不变，仅做轻微艺术杂志感摄影调色，可自然延展背景但不变形主体
@@ -723,24 +660,20 @@ Return exactly one finished square sticker illustration.
 最后加入简短英文标题和少量英文注释，沿主体、色块或负空间自然排版，可轻微旋转和错位，使文字融入画面
 
 整体感觉：真实摄影、儿童绘本式平面插画、独立出版物海报、明亮、童真、友好、俏皮
-```
-
-</details>
-
----
-
-## #021 · 旅行日记双拼海报人物定制
-<a id="021"></a>
-<a id="style-021"></a>
-
-[![#021 旅行日记双拼海报人物定制](data/curated/images/prompt_021.webp)](data/curated/images/prompt_021.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `旅行日记` `双拼海报` `人物换脸` · @Alina_with_Ai</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Alina_with_Ai](https://x.com/Alina_with_Ai/status/2097628670143954978)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="021"></a><a id="style-021"></a>
+      <a href="data/curated/images/prompt_021.webp">
+        <img src="data/curated/images/prompt_021.webp" alt="#021 旅行日记双拼海报人物定制" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#021 · 旅行日记双拼海报人物定制</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>旅行日记</code> · <code>双拼海报</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Alina_with_Ai/status/2097628670143954978">来源原贴 @Alina_with_Ai</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Create a realistic two-panel editorial travel diary poster using the first image as the exact composition/reference and the second uploaded image as the facial reference.
 
 Replace the woman in the original poster with the woman from my reference photo. Preserve my facial identity and recognizable facial features accurately—face shape, eyes, eyebrows, nose, lips, skin tone, and natural proportions. Do not beautify, alter, or redesign my face.
@@ -785,7 +718,7 @@ Keep my facial features recognizable while matching the illustrated style
 
 Preserve the street, buildings, plants, cars and perspective from the original
 
-TYPOGRAPHY & LAYOUT
+TYPOGRAPHY &amp; LAYOUT
 
 Keep the original poster layout and typography style:
 
@@ -801,25 +734,23 @@ Small diary number/details
 
 Right-side phrase: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
 
-Most important: My face should be the only facial identity used. Do not copy the original woman's face. Keep the overall poster composition, pose, clothing, background and artistic style as close to the reference as possible. High-quality, natural, seamless face integration, photorealistic top panel and authentic printed illustration bottom panel.
-```
-
-</details>
-
----
-
-## #022 · 复古刺绣图鉴风海报
-<a id="022"></a>
-<a id="style-022"></a>
-
-[![#022 复古刺绣图鉴风海报](data/curated/images/prompt_022.webp)](data/curated/images/prompt_022.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `复古刺绣` `图鉴海报` `上下双拼` · @hann7712</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @hann7712](https://x.com/hann7712/status/2097639117828075975)
-
-```text
+Most important: My face should be the only facial identity used. Do not copy the original woman&#x27;s face. Keep the overall poster composition, pose, clothing, background and artistic style as close to the reference as possible. High-quality, natural, seamless face integration, photorealistic top panel and authentic printed illustration bottom panel.
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="022"></a><a id="style-022"></a>
+      <a href="data/curated/images/prompt_022.webp">
+        <img src="data/curated/images/prompt_022.webp" alt="#022 复古刺绣图鉴风海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#022 · 复古刺绣图鉴风海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>复古刺绣</code> · <code>图鉴海报</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/hann7712/status/2097639117828075975">来源原贴 @hann7712</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请创作一张 3:4 竖版「摄影 × 刺绣图鉴」艺术海报。
 
 整体画面上下分区，但视觉风格必须统一、自然、克制、高级。
@@ -928,24 +859,20 @@ Soft Vintage Color Palette
 不要 Logo。
 不要平台标识。
 超高清，高细节，真实摄影质感，精细刺绣纹理。
-```
-
-</details>
-
----
-
-## #023 · VOL.028 立体模型微缩景观双拼海报
-<a id="023"></a>
-<a id="style-023"></a>
-
-[![#023 VOL.028 立体模型微缩景观双拼海报](data/curated/images/prompt_023.webp)](data/curated/images/prompt_023.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `立体模型` `微缩景观` `上下双拼` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090447110168822128)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="023"></a><a id="style-023"></a>
+      <a href="data/curated/images/prompt_023.webp">
+        <img src="data/curated/images/prompt_023.webp" alt="#023 VOL.028 立体模型微缩景观双拼海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#023 · VOL.028 立体模型微缩景观双拼海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>立体模型</code> · <code>微缩景观</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090447110168822128">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -959,24 +886,20 @@ Soft Vintage Color Palette
 文字作为构图的一部分巧妙介入，从照片的主题、地点、动作、状态或情绪中提炼一个简短英文标题，并搭配极少量编号、短句或微型注释。文字保持细瘦、克制、现代编辑感，可沿留白边缘、主体基座、水平轴线或等距结构排列，与图形共同形成安静而精致的版式节奏。
 
 整体参考**极简等距插画、微缩立体模型、纸上景观和高级编辑设计**，呈现安静、诗意、克制、精致、具有收藏感的视觉气质。避免卡通感、高饱和撞色、与原图无关的固定配色、塑料3D感、复杂场景堆积、电商感和模板感。
-```
-
-</details>
-
----
-
-## #024 · VOL.027 中国印压浮雕纸雕微金艺术海报
-<a id="024"></a>
-<a id="style-024"></a>
-
-[![#024 VOL.027 中国印压浮雕纸雕微金艺术海报](data/curated/images/prompt_024.webp)](data/curated/images/prompt_024.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `浮雕纸雕` `印压微金` `上下双拼` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090444626285261046)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="024"></a><a id="style-024"></a>
+      <a href="data/curated/images/prompt_024.webp">
+        <img src="data/curated/images/prompt_024.webp" alt="#024 VOL.027 中国印压浮雕纸雕微金艺术海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#024 · VOL.027 中国印压浮雕纸雕微金艺术海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>浮雕纸雕</code> · <code>印压微金</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -988,24 +911,22 @@ Soft Vintage Color Palette
 文字需转化为画面结构的一部分，而不是普通标题说明。从照片的主体身份、地点属性、主题气质、动作状态或象征意义中提炼简短文字，可使用**标题 + 关键词 + 少量编号、地点或微型注释 / 哲理金句**。文字采用克制的金色或深灰色衬线 / 高级编辑字体，可置于中央轴线、主体下方、留白边缘或与浮雕结构对齐，使其与压印主体共同形成秩序感与展览海报气质，而非后期贴上的信息层。
 
 整体风格追求**高级、宁静、极简、克制、东方美学、博物馆海报感与纸张雕塑感**。无论原图是建筑、人物、动物、植物、器物、交通工具或自然景观，下半部分都应保持真实摄影与压印浮雕重构之间清晰而优雅的视觉呼应。避免文字乱码、低清晰度、主体畸形、颜色杂乱、构图拥挤、廉价3D感和模板感。
-```
-
-</details>
-
----
-
-## #025 · VOL.026 极简抽象几何与微浮雕人文海报
-<a id="025"></a>
-<a id="style-025"></a>
-
-[![#025 VOL.026 极简抽象几何与微浮雕人文海报](data/curated/images/prompt_025.webp)](data/curated/images/prompt_025.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `极简几何` `人文浮雕` `上下双拼` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090433161096581434)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="025"></a><a id="style-025"></a>
+      <a href="data/curated/images/prompt_025.webp">
+        <img src="data/curated/images/prompt_025.webp" alt="#025 VOL.026 极简抽象几何与微浮雕人文海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#025 · VOL.026 极简抽象几何与微浮雕人文海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>极简几何</code> · <code>人文浮雕</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090433161096581434">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有杂志摄影和艺术展览质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -1019,24 +940,20 @@ Soft Vintage Color Palette
 文字保持少量且高级，不只是地点名，而应从照片的**主题、身份、情绪、动作、时间或隐喻**中提炼简洁英文标题，并搭配少量编号、状态词或微型注释。文字可沿主体轮廓、结构线、留白边缘或画面轴线自然排布，以克制的高级编辑方式与图形共同构图，形成低调但有设计感的版式关系。
 
 整体参考国际设计工作室、建筑海报、艺术展览海报与高级品牌视觉系统，呈现**高级、现代、安静、人文、艺术化、克制而温柔**的视觉气质。避免普通滤镜、廉价矢量感、过强3D、卡通感、电商感和模板感。
-```
-
-</details>
-
----
-
-## #026 · VOL.025 格式塔正负形莫兰迪色丝网版画
-<a id="026"></a>
-<a id="style-026"></a>
-
-[![#026 VOL.025 格式塔正负形莫兰迪色丝网版画](data/curated/images/prompt_026.webp)](data/curated/images/prompt_026.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `格式塔正负形` `莫兰迪色` `丝网版画` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090423630320779424)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="026"></a><a id="style-026"></a>
+      <a href="data/curated/images/prompt_026.webp">
+        <img src="data/curated/images/prompt_026.webp" alt="#026 VOL.025 格式塔正负形莫兰迪色丝网版画" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#026 · VOL.025 格式塔正负形莫兰迪色丝网版画</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>格式塔正负形</code> · <code>莫兰迪色</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -1054,24 +971,20 @@ Soft Vintage Color Palette
 整体呈现**极简几何、格式塔错视、柔和莫兰迪色、丝网版画与诗意叙事**结合的视觉气质。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持“一眼识别主体，第二眼发现隐藏意象”的双重阅读体验，避免多个并列焦点、直接拼贴、复杂插画、卡通感、商业宣传感和模板感。
 
 文字偏好：english
-```
-
-</details>
-
----
-
-## #027 · VOL.024 真实物象穿越几何情绪窗口海报
-<a id="027"></a>
-<a id="style-027"></a>
-
-[![#027 VOL.024 真实物象穿越几何情绪窗口海报](data/curated/images/prompt_027.webp)](data/curated/images/prompt_027.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `几何窗口` `穿透破框` `上下双拼` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090415726813393008)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="027"></a><a id="style-027"></a>
+      <a href="data/curated/images/prompt_027.webp">
+        <img src="data/curated/images/prompt_027.webp" alt="#027 VOL.024 真实物象穿越几何情绪窗口海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#027 · VOL.024 真实物象穿越几何情绪窗口海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>几何窗口</code> · <code>穿透破框</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有高端品牌广告、艺术杂志与展览视觉的精致质感。为适配画幅，可自然扩展天空、地面或环境背景，主体本身保持不变。
@@ -1085,24 +998,22 @@ Soft Vintage Color Palette
 文字作为版式结构的一部分自然介入。可从照片的主题、情绪、动作、状态或象征意义中提炼一个简短英文标题，并搭配少量副标题、地点、状态词或微型注释。标题可横排、竖排或沿色块与主体关系排布，辅助信息以小字号、细字重、舒展字距规整排列，使其呈现高端地产、奢侈品、美学杂志或节气视觉般的高级编辑感。
 
 整体气质强调**东方留白、现代秩序、自然生命力与高级商业美感**。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应保持真实摄影与几何情绪窗口之间清晰、优雅、可迁移的视觉呼应。
-```
-
-</details>
-
----
-
-## #028 · VOL.022 纯白纸面黑色几何手绘越界单点彩色插画
-<a id="028"></a>
-<a id="style-028"></a>
-
-[![#028 VOL.022 纯白纸面黑色几何手绘越界单点彩色插画](data/curated/images/prompt_028.webp)](data/curated/images/prompt_028.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `越界构图` `黑白插画` `单点彩色` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090277026066546845)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="028"></a><a id="style-028"></a>
+      <a href="data/curated/images/prompt_028.webp">
+        <img src="data/curated/images/prompt_028.webp" alt="#028 VOL.022 纯白纸面黑色几何手绘越界单点彩色插画" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#028 · VOL.022 纯白纸面黑色几何手绘越界单点彩色插画</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>越界构图</code> · <code>黑白插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -1118,24 +1029,20 @@ Soft Vintage Color Palette
 文字建立轻巧的黑白编辑式微排版系统，从照片的动作、情绪、状态或隐喻中提炼一个简短英文标题，并搭配1–3组极小注释、编号、状态词或短句。文字可贴近黑色矩形边缘、藏在负形中、顺着越界方向排列，或与主体轮廓形成对齐和错位；使用黑色手写字、细瘦无衬线或克制衬线字体，保持小尺度，让文字像插画师留下的签注和编辑标记，而不是商业标题。
 
 整体呈现纯白纸面 × 黑色几何色域 × 流畅手绘线条 × 主体越界 × 单点彩色强调的视觉气质，克制、聪明、轻巧、幽默、现代且具有艺术出版感。避免彩色卡通、复杂场景、光滑矢量描边、写实明暗、3D质感、纯黑剪影、粗糙乱线和模板式居中构图。
-```
-
-</details>
-
----
-
-## #029 · 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅
-<a id="029"></a>
-<a id="style-029"></a>
-
-[![#029 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅](data/curated/images/prompt_029.webp)](data/curated/images/prompt_029.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `记忆贴纸` `水彩票根` `流金珐琅` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092165086165246217)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="029"></a><a id="style-029"></a>
+      <a href="data/curated/images/prompt_029.webp">
+        <img src="data/curated/images/prompt_029.webp" alt="#029 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#029 · 四等分连贯演化：摄影 / 记忆贴纸 / 水彩票根 / 流金珐琅</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>记忆贴纸</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2092165086165246217">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1199,24 +1106,20 @@ Soft Vintage Color Palette
 文字作为徽章造型的一部分巧妙融入，而不是单独贴在背景上。从照片的地点、主体名称、主题或旅行情绪中提炼极短英文标题，可沿徽章边缘弧形排列、嵌入金属框架、穿插于主体负形或作为珐琅铭牌存在；文字同样具有金属或珐琅实体质感，与主体共享同一套结构语言，保持少量、精致、清晰。
 
 整体呈现原始影像 × 流金珐琅 × 白色金属描边 × 立体徽章 × 高级旅行纪念品的视觉气质，清爽、明亮、精致、有收藏感。无论主体是建筑、人物、动物、植物、器物、交通工具、食物或自然景观，都应保持高度可识别和良好迁移性。避免卡通贴纸、塑料三维、廉价金边、厚重阴影、复杂装饰、电商商品图和模板感。
-```
-
-</details>
-
----
-
-## #030 · 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木
-<a id="030"></a>
-<a id="style-030"></a>
-
-[![#030 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木](data/curated/images/prompt_030.webp)](data/curated/images/prompt_030.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `韩式稚拙` `童话版画` `乐高积木` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092062124730384570)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="030"></a><a id="style-030"></a>
+      <a href="data/curated/images/prompt_030.webp">
+        <img src="data/curated/images/prompt_030.webp" alt="#030 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#030 · 四等分连贯演化：摄影 / 韩式插画 / 童话版画 / 乐高积木</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>韩式稚拙</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2092062124730384570">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1272,24 +1175,22 @@ Soft Vintage Color Palette
 文字作为辅助设计元素，从照片的主体身份、动作、情绪或寓意中提炼一个简短英文标题，并搭配极少量标签词或微型注释。文字可使用模块化、像素化或积木说明书式的排版语言，与主体轮廓、底座和留白形成对齐或巧妙穿插，但始终保持克制，不抢主体。
 
 整体呈现原始影像 × 明艳积木重构的视觉关系：原图是真实世界，本层画面像将同一主题重新搭建成一件精致的积木艺术品。画面应鲜活、清爽、可爱而不幼稚，具有高级玩具品牌、设计收藏品和现代编辑海报的视觉气质，避免低饱和、灰脏色、复杂《我的世界》（Minecraft）场景、满地积木、儿童游戏界面和电商玩具展示感。
-```
-
-</details>
-
----
-
-## #031 · 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂
-<a id="031"></a>
-<a id="style-031"></a>
-
-[![#031 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂](data/curated/images/prompt_031.webp)](data/curated/images/prompt_031.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `涂鸦小人` `几何窗口` `3D厚涂` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092058937734713639)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="031"></a><a id="style-031"></a>
+      <a href="data/curated/images/prompt_031.webp">
+        <img src="data/curated/images/prompt_031.webp" alt="#031 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#031 · 四等分连贯演化：摄影 / 涂鸦叙事 / 几何窗口 / 3D厚涂</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>涂鸦小人</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2092058937734713639">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1347,24 +1248,20 @@ Soft Vintage Color Palette
 文字少量介入，从照片的主体身份、地点、情绪或象征意义中提炼一个简短标题，并搭配极少量副文、编号或微型注释。文字保持细致、克制、留白充足，可沿斜向主轴、主体边缘或大面积空白巧妙排布，像艺术出版物中的精致标注。
 
 整体呈现 明亮白底、鲜活厚涂、清透色彩、微缩主体、大面积留白与温暖光感 共同构成的高级治愈气质。无论主体是建筑、人物、动物、植物、器物、交通工具或自然景观，都应保持清晰身份与鲜活色彩，避免灰脏、沉闷、卡通玩具感、塑料感电脑渲染感、电商感和模板感。
-```
-
-</details>
-
----
-
-## #032 · 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场
-<a id="032"></a>
-<a id="style-032"></a>
-
-[![#032 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场](data/curated/images/prompt_032.webp)](data/curated/images/prompt_032.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `黑白粗蜡笔` `几何秩序` `磁场颗粒版画` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092058284333392032)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="032"></a><a id="style-032"></a>
+      <a href="data/curated/images/prompt_032.webp">
+        <img src="data/curated/images/prompt_032.webp" alt="#032 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#032 · 四等分连贯演化：摄影 / 粗蜡笔剪影 / 几何线性 / 动态磁场</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>黑白粗蜡笔</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2092058284333392032">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1422,24 +1319,20 @@ Soft Vintage Color Palette
 文字建立克制的实验艺术书微排版系统。从照片的动作、距离、状态、情绪或隐喻中提炼一个极短英文标题，并搭配2–4组微型文字，可由短句、状态词、地点或对象信息、序列号、坐标式数字、方向词、档案标签或观察注释自由组合。文字可沿地平线、动态轨迹、主体轴线或留白边缘排列，也可纵排、旋转、拉开字距、嵌入颗粒场或被线条轻微穿过，使排版本身参与空间与运动，而不是独立贴在画面上。
 
 整体追求极小主体、极大留白、强烈尺度反差、单一动态场与粗粝印刷质感，呈现安静、孤独、神秘、诗意又带有轻微超现实感的实验编辑视觉。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持原始影像与抽象场域之间清晰的身份呼应，避免复杂场景、多重焦点、装饰堆积、普通渐变、商业海报感和模板感。
-```
-
-</details>
-
----
-
-## #033 · 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网
-<a id="033"></a>
-<a id="style-033"></a>
-
-[![#033 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网](data/curated/images/prompt_033.webp)](data/curated/images/prompt_033.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `复古扁平` `喷墨干刷` `极简丝网` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091896977974030695)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="033"></a><a id="style-033"></a>
+      <a href="data/curated/images/prompt_033.webp">
+        <img src="data/curated/images/prompt_033.webp" alt="#033 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#033 · 四等分连贯演化：摄影 / 复古现代主义 / 喷墨干刷 / 极简丝网</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>复古扁平</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2091896977974030695">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1499,24 +1392,22 @@ Soft Vintage Color Palette
 文字层级保持克制：一个极短主标题 + 1–3组极小辅助文字即可。字体参考高级艺术出版物与现代主义编辑设计，使用克制的无衬线、温和衬线或极简窄体字，通过极端字号反差、宽字距、细字重、上下标、小型大写和不对称排版制造精致感。文字颜色与主墨色或雾层色统一，可带轻微套印错位与油墨颗粒，使文字和图形属于同一次印刷，而不是数字排版覆盖层。
 
 整体追求极少元素、极大留白、极小主体、极强秩序，以及微妙而聪明的文字介入，呈现安静、孤独、辽阔、含蓄、诗意、知识感和收藏感。避免复杂构图、多个焦点、无意义装饰、大标题压画面、商业广告文案、普通渐变、廉价复古滤镜和模板感。
-```
-
-</details>
-
----
-
-## #034 · 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷
-<a id="034"></a>
-<a id="style-034"></a>
-
-[![#034 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷](data/curated/images/prompt_034.webp)](data/curated/images/prompt_034.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `扁平矢量` `几何浅浮雕` `纪念碑谷3D` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091824283068813811)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="034"></a><a id="style-034"></a>
+      <a href="data/curated/images/prompt_034.webp">
+        <img src="data/curated/images/prompt_034.webp" alt="#034 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#034 · 四等分连贯演化：摄影 / 扁平矢量 / 几何浅浮雕 / 纪念碑谷</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>扁平矢量</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2091824283068813811">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1574,24 +1465,20 @@ Soft Vintage Color Palette
 文字只作为小尺寸编辑注释存在，不做大标题，不抢主体。根据照片中的情绪、关系或故事提炼一句简短、有余韵的中文金句或诗性短句，使用纤细、简洁、几何化的纪念碑谷式排版语言，字号较小、字距舒展、留白充足，可安静地放置在画面边缘、角落、建筑留白或下方空白处，并与几何结构形成对齐、遮挡或微妙穿插。可附一行更小的英文意译。不要出现年份、日期、编号、卷号，不要巨大文字、粗体标题或海报式口号。
 
 整体呈现“由真实世界进入诗意空间”的完整叙事：原图提供真实与记忆，几何空间负责情绪与隐喻，小字金句负责留下余韵。最终效果明亮、纯净、梦幻、克制、聪明，具有鲜明的纪念碑谷式空间语言与粉彩配色，同时适配人物、建筑、动物、静物、自然景观和室内空间等不同题材。
-```
-
-</details>
-
----
-
-## #035 · 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣
-<a id="035"></a>
-<a id="style-035"></a>
-
-[![#035 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣](data/curated/images/prompt_035.webp)](data/curated/images/prompt_035.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `蜡粉笔手绘` `拼布贴画` `东方刺绣` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091812131796840654)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="035"></a><a id="style-035"></a>
+      <a href="data/curated/images/prompt_035.webp">
+        <img src="data/curated/images/prompt_035.webp" alt="#035 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#035 · 四等分连贯演化：摄影 / 蜡粉笔手绘 / 拼布贴画 / 东方刺绣</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>蜡粉笔手绘</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2091812131796840654">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1651,24 +1538,20 @@ Soft Vintage Color Palette
 文字只作为轻巧的编辑性点睛，从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句。可使用细线刺绣、纤细题签或极简小字，让文字顺着丝线走势、嵌入负空间、贴近主体边缘，甚至像一根线一样成为构图的一部分；少而有意味，不做说明标签，不抢夺刺绣主体。
 
 整体追求一图一核、一核一意象：先理解原图，再选择最值得被留下的东西；其他元素宁可舍弃，也不要为了丰富而堆砌。最终呈现中国刺绣特有的灵动色彩、丝线光泽、东方留白、含蓄寓意与当代编辑设计感，清亮、有神、有情绪、有生命力。避免整图复刻、元素堆积、脏米色背景、泛黄旧布、固定国风配色、满版刺绣、文创商品感和模板感。
-```
-
-</details>
-
----
-
-## #036 · 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕
-<a id="036"></a>
-<a id="style-036"></a>
-
-[![#036 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕](data/curated/images/prompt_036.webp)](data/curated/images/prompt_036.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `东方民俗拓印` `木刻版画` `金色浮雕` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091811515880087681)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="036"></a><a id="style-036"></a>
+      <a href="data/curated/images/prompt_036.webp">
+        <img src="data/curated/images/prompt_036.webp" alt="#036 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#036 · 四等分连贯演化：摄影 / 东方民俗拓印 / 木刻版画 / 金色浮雕</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>东方民俗拓印</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2091811515880087681">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1726,24 +1609,22 @@ Soft Vintage Color Palette
 文字需转化为画面结构的一部分，而不是普通标题说明。从照片的主体身份、地点属性、主题气质、动作状态或象征意义中提炼简短文字，可使用标题 + 关键词 + 少量编号、地点或微型注释 / 哲理金句。文字采用克制的金色或深灰色衬线 / 高级编辑字体，可置于中央轴线、主体下方、留白边缘或与浮雕结构对齐，使其与压印主体共同形成秩序感与展览海报气质，而非后期贴上的信息层。
 
 整体风格追求高级、宁静、极简、克制、东方美学、博物馆海报感与纸张雕塑感。无论原图是建筑、人物、动物、植物、器物、交通工具或自然景观，本层画面都应保持原始影像与压印浮雕重构之间清晰而优雅的视觉呼应。避免文字乱码、低清晰度、主体畸形、颜色杂乱、构图拥挤、廉价三维感和模板感。
-```
-
-</details>
-
----
-
-## #037 · 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观
-<a id="037"></a>
-<a id="style-037"></a>
-
-[![#037 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观](data/curated/images/prompt_037.webp)](data/curated/images/prompt_037.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `钢笔淡彩` `立体折纸` `微缩纸艺` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091810861941969183)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="037"></a><a id="style-037"></a>
+      <a href="data/curated/images/prompt_037.webp">
+        <img src="data/curated/images/prompt_037.webp" alt="#037 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#037 · 四等分连贯演化：摄影 / 观察式钢笔淡彩 / 立体折纸 / 微缩纸艺景观</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>钢笔淡彩</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2091810861941969183">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -1803,24 +1684,20 @@ Soft Vintage Color Palette
 文字同样融入微缩纸艺语言。从照片的地点、主体身份、主题或情绪中提炼一个简短英文标题，不限定必须是城市名称。标题采用小型、精致、略带手写感的字形，优先放置在景观带下方的留白区域，也可根据主体关系轻微弯曲、沿基座排列或与微缩场景形成空间呼应；保持极少、优雅、克制，不加入大段说明，让文字像作品签名而不是商业标题。
 
 整体呈现微缩立体场景、手工纸艺、奇趣三维插画、高级旅行明信片的高级视觉气质：轻盈、温柔、精致、可触摸、有生活感，同时保持清晰的设计秩序与大量呼吸空间。无论原图是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持原始影像与微缩手工世界之间清晰而巧妙的视觉对应，避免塑料三维、玩具感、儿童手工感、复杂堆积、过度可爱和电商展示感。
-```
-
-</details>
-
----
-
-## #038 · 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿
-<a id="038"></a>
-<a id="style-038"></a>
-
-[![#038 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿](data/curated/images/prompt_038.webp)](data/curated/images/prompt_038.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `透明蓝图` `水彩结构` `达芬奇手稿` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2091765454876610627)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="038"></a><a id="style-038"></a>
+      <a href="data/curated/images/prompt_038.webp">
+        <img src="data/curated/images/prompt_038.webp" alt="#038 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#038 · 四等分连贯演化：摄影 / 透明蓝图 / 水彩结构研究 / 达芬奇手稿</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>透明蓝图</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2091765454876610627">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的照片制作成一张 3:4竖版四拼海报。画面从上到下严格四等分为四个横向区域，每一层高度精确占整体高度的25%，比例严格为 1:1:1:1，不允许偏差。各区域无缝相连，无边框、无间隙。顺序为：
 
 原图 → 透明结构蓝图 → 分层水彩结构研究图 → 达·芬奇式等距研究手稿
@@ -1840,24 +1717,20 @@ Soft Vintage Color Palette
 将同一场景转译为文艺复兴风格的研究手稿。背景为微黄旧纸，主体采用褐色或深灰色细密手绘线条，以等距或近等距方式呈现结构关系。允许出现少量简洁的辅助草图感线条、剖析感细节和观察笔触，但不加入明显现代排版。整体应有古典研究图的智慧感、手稿感和克制留白。
 
 四层必须保持同一主体的结构连续性，让人看出从现实到蓝图、研究图、古典手稿的逐步演化。禁止卡通、赛博朋克、重度机械科幻、复杂文字说明、Logo、水印、标题。
-```
-
-</details>
-
----
-
-## #039 · 上下双拼：摄影/极简东方水墨草图残稿
-<a id="039"></a>
-<a id="style-039"></a>
-
-[![#039 上下双拼：摄影/极简东方水墨草图残稿](data/curated/images/prompt_039.webp)](data/curated/images/prompt_039.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `水墨极简` `淡彩水彩` `禅意草图` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090372152751239260)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="039"></a><a id="style-039"></a>
+      <a href="data/curated/images/prompt_039.webp">
+        <img src="data/curated/images/prompt_039.webp" alt="#039 上下双拼：摄影/极简东方水墨草图残稿" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#039 · 上下双拼：摄影/极简东方水墨草图残稿</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>水墨极简</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2090372152751239260">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的照片制作成一张 3:4 竖版双层拼图海报。画面从上到下严格分为两个横向区域，每个区域的高度必须精确占整体画面高度的50%，上下两层比例严格为 1:1，不允许出现比例偏差。两个区域之间无缝衔接，不设分隔线、不留间隙。由于每层为约3:1的极扁横幅比例，主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸、贴边或构图拥挤。上下两层在主体位置、透视关系、空间方向和视觉重心上保持一致，形成同一画面的克制转译。
 
 上半部分：
@@ -1866,24 +1739,22 @@ Soft Vintage Color Palette
 下半部分：主体为 {主体}，仅保留最核心、最具识别性的轮廓与结构特征，其余一切细节全部删减与抽象化，使其呈现为高度概括的符号化形态，采用 水墨 + 淡彩水彩 + 极简设计草图 的融合语言，但进一步弱化表现：线条更少、更轻、更断续，仅用必要的几笔勾勒形体，不追求完整描绘，允许大量留白与“未完成感”。画面背景为接近纯净的 米白宣纸质感，纸纹极轻微，仅作为底色存在，几乎不干扰视觉。背景保持大面积空白，使主体处于近乎孤立的静态空间中，强化极简与禅意。主体置于画面中心或略偏中心，但整体占比缩小至约 30%–40%，进一步增强空旷感。内部结构大幅简化，仅保留最关键的形状关系，其余细节全部省略或用单一墨色暗示。仅允许极少量 {辅助元素} 出现，且必须被压缩为抽象墨点或极简色块，不形成完整形态，甚至可以“若隐若现”。色彩进一步收敛，仅保留 墨黑、浅灰、极淡赭色或极弱水色，整体趋近单色系统，彩色仅作为极轻微的气息存在，不作为视觉重点。光影几乎完全消失，仅依靠墨色浓淡与留白关系建立层次，整体更接近“草图残稿”或“未完成的古代画稿”。构图极度克制：大量留白占据画面70%以上，所有元素远离边缘，避免任何装饰性布局，画面呈现近乎静止的呼吸感。气质：极简东方草图 × 未完成水墨残稿 × 概念性视觉符号，强调“少到几乎只剩意象”。
 
 整体要求上下两层形成明显对照。严格避免文字、标题、Logo、水印、卡通感、廉价商业海报感、复杂背景、装饰过多和模板感。
-```
-
-</details>
-
----
-
-## #040 · 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象
-<a id="040"></a>
-<a id="style-040"></a>
-
-[![#040 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象](data/curated/images/prompt_040.webp)](data/curated/images/prompt_040.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `描图纸分层` `磨砂玻璃` `等高线抽象` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090365395509379453)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="040"></a><a id="style-040"></a>
+      <a href="data/curated/images/prompt_040.webp">
+        <img src="data/curated/images/prompt_040.webp" alt="#040 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#040 · 四等分连贯演化：摄影 / 描图纸分层 / 磨砂玻璃蚀刻 / 等高线抽象</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>描图纸分层</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2090365395509379453">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%，四层比例严格为 1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图 → 风格1 → 风格2 → 风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在主体站位、场景结构、透视方向和视觉重心上保持连贯呼应，呈现同一画面被逐层转译的整体感。
 
 风格层（第二至第四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留 1个最核心的主体符号 及少量必要结构，其余次要装饰、背景细节、纹理堆砌和陪衬元素一律省略，画面留白占比不低于60%。第二至第四层都不要做成普通插画或常规滤镜效果，而应从原始照片中提取主体最具识别性的 轮廓、比例、空间关系、方向关系与结构节奏，用更高级、克制、材料化、展陈化的方式进行转译。
@@ -1937,24 +1808,20 @@ Soft Vintage Color Palette
 色彩均需从原图中提取归纳，每层严格控制在少量主色范围内，不可随意加入与原图无关的强饱和颜色。四个区域高度比例必须严格保持 1:1:1:1（各占25%），不可出现拼接错位、比例偏差或层与层风格过于接近的问题。
 
 整体严格避免：朋克 / 赛博朋克 / 蒸汽朋克、复杂纹样、普通扁平插画、卡通、3D渲染感、廉价滤镜感、商业宣传海报感、复杂背景堆砌、过度写实叠加、元素过多、模板感，以及任何文字、标题、Logo、水印。
-```
-
-</details>
-
----
-
-## #041 · 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺
-<a id="041"></a>
-<a id="style-041"></a>
-
-[![#041 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺](data/curated/images/prompt_041.webp)](data/curated/images/prompt_041.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `建筑构成` `丝网套色` `盲压浮雕` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090323273993331125)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="041"></a><a id="style-041"></a>
+      <a href="data/curated/images/prompt_041.webp">
+        <img src="data/curated/images/prompt_041.webp" alt="#041 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#041 · 四等分连贯演化：摄影 / 建筑构成抽象 / 丝网套色印刷 / 盲压浮雕纸艺</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>建筑构成</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2090323273993331125">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的照片制作成一张竖版四层拼图艺术海报，整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为 1:1:1:1，不得出现任何比例偏差。区域之间无缝连接，不设置边框、不留间隙、不加入分隔线。
 
 四层顺序严格为：
@@ -2100,24 +1967,20 @@ Soft Vintage Color Palette
 严格避免：
 朋克、赛博朋克、蒸汽朋克、故障艺术、霓虹灯、卡通、动漫、3D渲染、复杂插画、过度写实、廉价滤镜、模板化海报、复杂背景、密集装饰、文字、标题、Logo、水印。
 最终必须确保四个区域高度完全一致，均严格占整体高度25%，无缝拼接，四层人物或主体位置相互对应，在纵向浏览时形成明显的视觉连续性。
-```
-
-</details>
-
----
-
-## #042 · 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎
-<a id="042"></a>
-<a id="style-042"></a>
-
-[![#042 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎](data/curated/images/prompt_042.webp)](data/curated/images/prompt_042.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `青花瓷绘` `敦煌壁画` `刺绣锦缎` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="042"></a><a id="style-042"></a>
+      <a href="data/curated/images/prompt_042.webp">
+        <img src="data/curated/images/prompt_042.webp" alt="#042 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#042 · 四等分连贯演化：摄影 / 青花瓷绘 / 敦煌壁画 / 刺绣锦缎</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>青花瓷绘</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2090310144190218272">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
 
 第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。
@@ -2129,24 +1992,22 @@ Soft Vintage Color Palette
 第四层为刺绣锦缎风格：以刺绣针脚肌理表现人物与场景轮廓，呈现丝缎光泽与针线纹理感，图案需极简概括。背景为米白或浅灰缎面底色。色彩以2至3种柔和色搭配金线点缀。避免针脚过密显繁琐，避免金线过多显浮夸。
 
 每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。
-```
-
-</details>
-
----
-
-## #043 · 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版
-<a id="043"></a>
-<a id="style-043"></a>
-
-[![#043 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版](data/curated/images/prompt_043.webp)](data/curated/images/prompt_043.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `木刻版画` `撕纸拼贴` `蓝晒氰版` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2090274693601480772)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="043"></a><a id="style-043"></a>
+      <a href="data/curated/images/prompt_043.webp">
+        <img src="data/curated/images/prompt_043.webp" alt="#043 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#043 · 四等分连贯演化：摄影 / 木刻版画 / 撕纸拼贴 / 蓝晒氰版</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>木刻版画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2090274693601480772">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
 
 第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。
@@ -2158,24 +2019,20 @@ Soft Vintage Color Palette
 第四层为蓝晒氰版风格：采用氰版摄影（蓝晒）风格，以单一普鲁士蓝与白表现人物与环境剪影，营造老工艺质感。背景为米白或浅蓝白底，可有轻微显影颗粒感。色彩为普鲁士蓝与白的单色系。避免加入其他杂色，避免颗粒感过重显脏。
 
 每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。
-```
-
-</details>
-
----
-
-## #044 · VOL.040 趣味小人极简生活插画
-<a id="044"></a>
-<a id="style-044"></a>
-
-[![#044 VOL.040 趣味小人极简生活插画](data/curated/images/prompt_044.webp)](data/curated/images/prompt_044.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `趣味小人` `极简插画` `生活情绪` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090834371423183135)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="044"></a><a id="style-044"></a>
+      <a href="data/curated/images/prompt_044.webp">
+        <img src="data/curated/images/prompt_044.webp" alt="#044 VOL.040 趣味小人极简生活插画" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#044 · VOL.040 趣味小人极简生活插画</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>趣味小人</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090834371423183135">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有生活方式杂志、独立出版物和艺术摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2191,24 +2048,20 @@ Soft Vintage Color Palette
 整体保持**真实主体、核心寓意、微型叙事、稚拙线条和大量留白**之间的平衡。无论原图是人物、动物、植物、食物、建筑、器物、交通工具或自然场景，都应先抓住“这张照片真正讲的是什么”，再决定如何重构，避免只抓物体不抓关系、只做可爱互动没有主题、卡通贴纸感、复杂装饰和模板感。
 
 💣language：english
-```
-
-</details>
-
----
-
-## #045 · VOL.039 刺绣内核线缝布艺
-<a id="045"></a>
-<a id="style-045"></a>
-
-[![#045 VOL.039 刺绣内核线缝布艺](data/curated/images/prompt_045.webp)](data/curated/images/prompt_045.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `手工刺绣` `线缝布艺` `肌理重构` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090817611953270966)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="045"></a><a id="style-045"></a>
+      <a href="data/curated/images/prompt_045.webp">
+        <img src="data/curated/images/prompt_045.webp" alt="#045 VOL.039 刺绣内核线缝布艺" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#045 · VOL.039 刺绣内核线缝布艺</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>手工刺绣</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -2226,24 +2079,22 @@ Soft Vintage Color Palette
 文字只作为轻巧的编辑性点睛，从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句。可使用细线刺绣、纤细题签或极简小字，让文字顺着丝线走势、嵌入负空间、贴近主体边缘，甚至像一根线一样成为构图的一部分；少而有意味，不做说明标签，不抢夺刺绣主体。
 
 整体追求一图一核、一核一意象：先理解原图，再选择最值得被留下的东西；其他元素宁可舍弃，也不要为了丰富而堆砌。最终呈现中国刺绣特有的灵动色彩、丝线光泽、东方留白、含蓄寓意与当代编辑设计感，清亮、有神、有情绪、有生命力。避免整图复刻、元素堆积、脏米色背景、泛黄旧布、固定国风配色、满版刺绣、文创商品感和模板感。
-```
-
-</details>
-
----
-
-## #046 · VOL.038 柔软布艺情绪贴布绣
-<a id="046"></a>
-<a id="style-046"></a>
-
-[![#046 VOL.038 柔软布艺情绪贴布绣](data/curated/images/prompt_046.webp)](data/curated/images/prompt_046.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `布艺情绪` `拼布艺术` `贴布绣` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090807474467291568)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="046"></a><a id="style-046"></a>
+      <a href="data/curated/images/prompt_046.webp">
+        <img src="data/curated/images/prompt_046.webp" alt="#046 VOL.038 柔软布艺情绪贴布绣" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#046 · VOL.038 柔软布艺情绪贴布绣</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>布艺情绪</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090807474467291568">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -2259,24 +2110,20 @@ Soft Vintage Color Palette
 文字不是简单放一句英文，而应成为情绪与构图的一部分。从原图没有直接说出的情绪、动作、关系或隐喻中提炼一个极短英文词或短句，避免仅仅写地点或物体名称。文字可用细线刺绣、手缝线迹或轻微手写形式，顺着主体走势、贴近布片边缘、藏入负空间、与缝线发生延续或停顿，让图形与文字共同形成阅读节奏。文字应少而有意味，像一句没有说完的话，而不是说明标签。
 
 整体呈现治愈、温暖、安静、有人情味、有生命力、有留白、有故事感的视觉气质，像高级生活杂志、独立绘本与当代纺织艺术结合的作品。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应先理解原图真正想表达什么，再决定如何取舍、留白、拼接与排版，避免儿童手工课感、机械临摹、平均构图、无意义装饰和模板感。
-```
-
-</details>
-
----
-
-## #047 · VOL.037 鎏金珐琅金属徽章冰箱贴
-<a id="047"></a>
-<a id="style-047"></a>
-
-[![#047 VOL.037 鎏金珐琅金属徽章冰箱贴](data/curated/images/prompt_047.webp)](data/curated/images/prompt_047.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `鎏金珐琅` `金属徽章` `旅行冰箱贴` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090799598336168140)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="047"></a><a id="style-047"></a>
+      <a href="data/curated/images/prompt_047.webp">
+        <img src="data/curated/images/prompt_047.webp" alt="#047 VOL.037 鎏金珐琅金属徽章冰箱贴" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#047 · VOL.037 鎏金珐琅金属徽章冰箱贴</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>鎏金珐琅</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090799598336168140">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级旅行设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有旅行摄影、独立出版物和艺术明信片质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -2293,45 +2140,39 @@ Soft Vintage Color Palette
 
 整体呈现真实摄影 × 流金珐琅 × 白色金属描边 × 立体徽章 × 高级旅行纪念品的视觉气质，清爽、明亮、精致、有收藏感。无论主体是建筑、人物、动物、植物、器物、交通工具、食物或自然景观，都应保持高度可识别和良好迁移性。避免卡通贴纸、塑料3D、廉价金边、厚重阴影、复杂装饰、电商商品图和模板感。
 ✈️
-```
-
-</details>
-
----
-
-## #048 · 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)
-<a id="048"></a>
-<a id="style-048"></a>
-
-[![#048 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)](data/curated/images/prompt_048.webp)](data/curated/images/prompt_048.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `民俗拓印` `几何秩序` `英文提示词` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090753061857931599)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="048"></a><a id="style-048"></a>
+      <a href="data/curated/images/prompt_048.webp">
+        <img src="data/curated/images/prompt_048.webp" alt="#048 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#048 · 几何美学补充：民俗拓印与现代几何秩序 (英文完整版)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>民俗拓印</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090753061857931599">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Please turn each photo I upload into a separate premium-designed poster, with no multi-image collage; output each photo as an independent poster. Use an overall 3:4 vertical composition, strictly divided into two equal-height sections, with the upper and lower halves each occupying exactly 50% of the canvas. The upper half should preserve the original photograph, maintaining the subject’s structure, realistic texture, natural lighting and shadows, and original color atmosphere, with only subtle high-end photographic color grading to give it the quality of an art publication or exhibition photograph. To adapt the image to the required aspect ratio, you may naturally extend the sky, ground, or environmental background, but you must not stretch, distort, or alter the main subject. The lower half should extract the most recognizable subject, silhouette, posture, and narrative relationship from the photograph; first understand its core meaning, cultural attributes, or emotional relationship, then reconstruct it into a graphic composition combining the character of a folk-culture catalog, antique rubbing prints, and modern graphic design. Do not translate every element in the photograph one by one, and do not add generic traditional patterns; retain only one core visual motif and a very small number of auxiliary forms that truly carry narrative significance. Use silhouette, negative space, partial enlargement, shape merging, and symbolic transformation so that the graphic not only corresponds to the original object but also expresses the meaning behind it. Build the composition on a rigorous geometric framework and proportional system: derive circles, squares, triangles, arcs, axes, or repeated proportions from the structure of the subject itself as the “geometric matrix,” then align all main forms, secondary graphics, typography, and negative space through shared tangencies, common axes, nesting, mirroring, proportional progression, or edge cropping relationships. The layout may be freely distributed, off-center, extend beyond boundaries, or be asymmetrical, but every element must obey the same structural logic, creating a clear visual center of gravity, hierarchy, rhythm, and negative space; from a distance the order should be immediately legible, while closer viewing should reveal traditional print traces and subtle details. Avoid random scattered elements and decorative accumulation. Extract the most distinctive, lively, and spiritually expressive colors from the upper photograph and reorganize them into a clean, restrained paper-printing palette. Use a bright, light paper-colored background to create breathing room, one dark color to establish the visual skeleton, and one or two theme colors derived from the original photograph to organize the main subject and limited accents. Build depth through area ratios, overprinting, and tonal contrast. Colors should feel clean, vivid, and spirited; avoid muddy artificial aging, fixed stereotypical folk palettes, or chaotic multicolor combinations. Use a hybrid material texture combining woodblock rubbing, dry-brush screen printing, and vintage catalog printing. Broken ink, abrasion marks, exposed paper, and uneven ink density should mainly appear inside the graphic forms, while geometric boundaries, important contours, and the overall layout should remain crisp and precise, creating a contrast between “rough material texture × rigorous geometric order.” Typography should function only as supporting compositional information. Extract a small amount of title text and micro-annotations from the photograph’s theme, meaning, or cultural attributes, and allow them to follow geometric axes, negative space, or graphic boundaries in flexible arrangements, aligning, nesting, or interweaving with the main forms without competing for the visual center. The overall visual character should prioritize meaning, restrained graphics, rigorous geometry, rough rubbing textures, clear negative space, and the coexistence of traditional cultural sensibility with modern design order. Every graphic element that appears must have a source, a meaning, and a structural function; remove anything that does not strengthen understanding of the theme, and avoid collage-like material assembly, arbitrary insertion of traditional symbols, evenly distributed layouts, realistic illustration, and template-like design. 
 
 💣Text preference: Japanese.
-```
-
-</details>
-
----
-
-## #049 · VOL.031 拓印粗粝做旧印刷
-<a id="049"></a>
-<a id="style-049"></a>
-
-[![#049 VOL.031 拓印粗粝做旧印刷](data/curated/images/prompt_049.webp)](data/curated/images/prompt_049.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `拓印粗粝` `做旧印刷` `几何剪影` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090606881987600812)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="049"></a><a id="style-049"></a>
+      <a href="data/curated/images/prompt_049.webp">
+        <img src="data/curated/images/prompt_049.webp" alt="#049 VOL.031 拓印粗粝做旧印刷" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#049 · VOL.031 拓印粗粝做旧印刷</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>拓印粗粝</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090606881987600812">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -2347,24 +2188,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字仅作为构图中的辅助信息，从照片的主题、寓意或文化属性中提炼少量标题与微型注释，可顺应几何轴线、负形或图形边界自由排布，与主体形成对齐、嵌套或穿插关系，但不抢夺视觉中心。
 
 整体呈现**寓意先行、图形克制、几何严谨、拓印粗粝、留白清晰、传统文化感与现代设计秩序并存**的视觉气质。每一个出现的图形都必须有来源、有寓意、有结构作用；删除不能增强主题理解的装饰元素，避免素材拼贴、传统符号乱入、平均排版、写实插画和模板感
-```
-
-</details>
-
----
-
-## #050 · VOL.030 植物重构自然材料拼合
-<a id="050"></a>
-<a id="style-050"></a>
-
-[![#050 VOL.030 植物重构自然材料拼合](data/curated/images/prompt_050.webp)](data/curated/images/prompt_050.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `植物重构` `自然材料` `标本拼贴` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090464374188310979)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="050"></a><a id="style-050"></a>
+      <a href="data/curated/images/prompt_050.webp">
+        <img src="data/curated/images/prompt_050.webp" alt="#050 VOL.030 植物重构自然材料拼合" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#050 · VOL.030 植物重构自然材料拼合</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>植物重构</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -2380,24 +2217,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字保持极少，并作为编辑设计中的轻量元素。从照片的情绪、动作、关系或隐喻中提炼一个简短英文标题和少量微型注释，可贴近矩形色域边缘、悬置于留白中，或与一根枝条、叶片方向形成巧妙对齐。不要抢主体，也不要做成常规海报标题。
 
 整体呈现**真实自然材料 × 轻微黑色手绘痕迹 × 几何色域 × 自然越界**的视觉关系，保持手工、聪明、松弛、诗意和高级编辑感。避免完整黑色描边、植物被切成规则色块、儿童树叶贴画、刻意越界、卡通拼贴和模板化构图。
-```
-
-</details>
-
----
-
-## #051 · VOL.029 蜡粉笔松弛感手绘
-<a id="051"></a>
-<a id="style-051"></a>
-
-[![#051 VOL.029 蜡粉笔松弛感手绘](data/curated/images/prompt_051.webp)](data/curated/images/prompt_051.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `蜡粉笔` `松弛感` `稚拙手绘` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2090452158827422135)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="051"></a><a id="style-051"></a>
+      <a href="data/curated/images/prompt_051.webp">
+        <img src="data/curated/images/prompt_051.webp" alt="#051 VOL.029 蜡粉笔松弛感手绘" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#051 · VOL.029 蜡粉笔松弛感手绘</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>蜡粉笔</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -2409,24 +2242,22 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字从照片的**情绪、动作、状态或隐喻**中提炼一句简短英文短句，以柔软、潦草、略带不完美的手写方式融入画面。文字可沿色块边缘、主体走势或留白区域自然排列，也可与轮廓发生轻微穿插、错位或跨界，使文字像手绘作品的一部分，而不是后期添加的标题。
 
 整体呈现**安静、松弛、温柔、复古、文艺而克制**的纸上编辑视觉，兼具手工温度与现代构图感。无论主体是人物、动物、植物、建筑、器物、交通工具或自然景观，都保持真实摄影与极简手绘之间清晰而巧妙的视觉呼应，避免卡通感、廉价手账感、复杂装饰、固定配色和模板感。
-```
-
-</details>
-
----
-
-## #052 · VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)
-<a id="052"></a>
-<a id="style-052"></a>
-
-[![#052 VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)](data/curated/images/prompt_052.webp)](data/curated/images/prompt_052.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `左右双拼` `粗铅笔` `民俗剪影` `天真质感` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093627864973295787)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="052"></a><a id="style-052"></a>
+      <a href="data/curated/images/prompt_052.webp">
+        <img src="data/curated/images/prompt_052.webp" alt="#052 VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#052 · VOL.100 粗铅笔剪影天真民俗叙事 (含7:6左右并排变体)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>左右双拼</code> · <code>粗铅笔</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2093627864973295787">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2448,24 +2279,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 我们改成左右布局，sidebyside 不要上下布局
 比例7:6
-```
-
-</details>
-
----
-
-## #053 · VOL.087 实体线绳网络信息图 (Physical String-based)
-<a id="053"></a>
-<a id="style-053"></a>
-
-[![#053 VOL.087 实体线绳网络信息图 (Physical String-based)](data/curated/images/prompt_053.webp)](data/curated/images/prompt_053.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `线绳网络` `信息图` `实体装置` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093543076367389130)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="053"></a><a id="style-053"></a>
+      <a href="data/curated/images/prompt_053.webp">
+        <img src="data/curated/images/prompt_053.webp" alt="#053 VOL.087 实体线绳网络信息图 (Physical String-based)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#053 · VOL.087 实体线绳网络信息图 (Physical String-based)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>线绳网络</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2093543076367389130">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2481,24 +2308,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字作为系统中的**Hand-lettered Annotation** 自由介入，不预设固定标题、地点、年份或菜单式信息。根据照片中的主体、动作、位置、情绪、关系或隐喻，自由生成少量关键词、短句、箭头、圈注或微型说明，并直接写在节点附近、线绳交汇处或留白区域。字体使用**细小、松弛、略带研究笔记感与书写偏差的手写注释字体**，让文字像观察过程中自然留下的思考痕迹，同时保持高级编辑设计的克制与可读性。
 
 整体呈现**实体节点、红色线绳、关系映射、涌现几何、手写注释与大量留白**共同构成的高级实验视觉。无论主体是人物、动物、植物、建筑、器物、交通工具、自然景观或复杂场景，都应把“它是什么”进一步转译为“它的各部分如何发生关系”，形成具有研究感、艺术感、系统性与手工温度的实体信息可视化。避免随机红线、无意义节点、满版混乱、恐怖犯罪板、数字网络UI、卡通图钉、模板化思维导图和普通流程图。
-```
-
-</details>
-
----
-
-## #054 · VOL.074 现代极简图标转绘 (Icon Design)
-<a id="054"></a>
-<a id="style-054"></a>
-
-[![#054 VOL.074 现代极简图标转绘 (Icon Design)](data/curated/images/prompt_054.webp)](data/curated/images/prompt_054.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `图标转绘` `极简矢量` `设计系统` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093359609277042724)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="054"></a><a id="style-054"></a>
+      <a href="data/curated/images/prompt_054.webp">
+        <img src="data/curated/images/prompt_054.webp" alt="#054 VOL.074 现代极简图标转绘 (Icon Design)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#054 · VOL.074 现代极简图标转绘 (Icon Design)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>图标转绘</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2093359609277042724">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2518,24 +2341,22 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 下半部分外围保持大面积干净留白，只展示这一枚完整的圆角方形图标。文字如需介入，仅使用极少量精致的编辑性文字置于图标之外，与整体版式建立安静、克制的关系，不增加周边装饰或视觉噪音。
 
 整体追求**固定圆角方形舞台 + 原图灵魂提炼 + 正面伪3D层次 + 原图色彩再艺术指导 + 强识别度与原创隐喻**。最终应像一枚真正可以进入品牌视觉提案或图标创意评审的作品，而不是照片缩略图、剪纸插画、等距模型或模板化App Icon。
-```
-
-</details>
-
----
-
-## #055 · VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)
-<a id="055"></a>
-<a id="style-055"></a>
-
-[![#055 VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)](data/curated/images/prompt_055.webp)](data/curated/images/prompt_055.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `脚手架` `等距视角` `微缩景观` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093347851330027909)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="055"></a><a id="style-055"></a>
+      <a href="data/curated/images/prompt_055.webp">
+        <img src="data/curated/images/prompt_055.webp" alt="#055 VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#055 · VOL.073 等距脚手架微缩景观 (3D Isometric Scaffold)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>脚手架</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2093347851330027909">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2553,24 +2374,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字可少量介入，加入简洁的英文标题、编号或年份，并与主体、脚手架或留白形成自然的排版关系。文字应精致、现代、克制，像国际设计工作室、建筑海报、艺术展览海报和高端品牌视觉系统中的编辑性标注，不喧宾夺主。
 
 整体风格呈现**高级、现代、雅致、克制、艺术化**的视觉效果，融合微缩立体景观、建筑剖面图、等距视图、脚手架系统与极简海报版式。避免过度滤镜、廉价塑料质感、卡通感、强电脑生成感、模板化效果、错误视图和无逻辑的装饰性结构。
-```
-
-</details>
-
----
-
-## #056 · VOL.061 水粉拆分治愈配色
-<a id="056"></a>
-<a id="style-056"></a>
-
-[![#056 VOL.061 水粉拆分治愈配色](data/curated/images/prompt_056.webp)](data/curated/images/prompt_056.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `水粉拆分` `治愈配色` `轻盈稚拙` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2093240983215640932)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="056"></a><a id="style-056"></a>
+      <a href="data/curated/images/prompt_056.webp">
+        <img src="data/curated/images/prompt_056.webp" alt="#056 VOL.061 水粉拆分治愈配色" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#056 · VOL.061 水粉拆分治愈配色</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>水粉拆分</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2093240983215640932">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于主题联想与选择性记忆的艺术重构，上下自然呼应。
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
 下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，进一步理解画面真正值得被记住的情绪、动作、环境线索与视觉隐喻，将其重构成一组彼此关联的**视觉记忆片段**。不要完整重画原图，也不要随机罗列物件；围绕一个核心主题，自主提炼约3–6个最有意义的形象，可以是主体本身、局部特征、动作、环境元素，也可以是由原图自然联想到的象征性形状，让这些片段共同讲述同一个主题。
@@ -2580,24 +2397,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 配色采用**柔和、通透、略微去饱和的治愈系高级色盘**，从原图综合色温与最有生命力的特征色中灵活调整。可使用浅粉蓝、雾蓝、天空蓝、奶油白、象牙白、浅米色、柔和灰绿、奶杏色、blush pink、soft peach、dusty rose 等轻盈色彩，并保留少量更清晰的原图特征色作为视觉跳点。整体明亮、干净、有空气感，避免脏灰、高饱和撞色和厚重复古滤镜。
 文字不预设标题、编号、地点、年份或固定语种。根据照片的主题、动作、情绪、声音、记忆或隐喻，自由生成极少量真正与画面有关的字、词、短句或随笔式片段。文字可以像手写观察笔记，也可以混合极细的编辑字体；可散落在片段之间、贴近某个图形、顺着视觉方向书写、藏在大面积留白中，甚至成为连接两个图形的叙事线索。文字内容与排版都应随主题变化，不做菜单式信息，也不为了装饰而添加伪文字。
 整体像一本被偶然翻开的**私人视觉日记、独立艺术刊物与诗意观察手册**：轻盈、治愈、聪明、松弛、略带稚拙和幽默，同时具有成熟的构图判断与编辑设计感。最终不是“原照片的插画版”，而是把原照片最核心的美感和隐喻重新组织成一页值得反复观看的视觉记忆。
-```
-
-</details>
-
----
-
-## #057 · VOL.060 禅意极简抽象重构
-<a id="057"></a>
-<a id="style-057"></a>
-
-[![#057 VOL.060 禅意极简抽象重构](data/curated/images/prompt_057.webp)](data/curated/images/prompt_057.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `禅意极简` `抽象重构` `中式意境` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092191356177576004)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="057"></a><a id="style-057"></a>
+      <a href="data/curated/images/prompt_057.webp">
+        <img src="data/curated/images/prompt_057.webp" alt="#057 VOL.060 禅意极简抽象重构" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#057 · VOL.060 禅意极简抽象重构</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>禅意极简</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2092191356177576004">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为极简抽象重构！
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2615,24 +2428,22 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字不预设固定标题、编号、地点或语种，也不做菜单式信息。可根据照片的主题、动作、情绪或隐喻，自由生成极少量真正有意义的字、词或短句，轻轻放入留白之中。文字应极少、极轻、极克制，像一句旁白、一个概念注记或一段思考的碎片，与图形共同形成哲思感，而不是解释画面。
 
 整体气质应像一本独立出版的视觉哲学手册或诗性艺术海报：黑色为主、背景极浅、图形极少、留白极大、寓意极深、安静而有回声。 避免写实重构、场景堆积、彩色主导、复杂叙事、卡通感、装饰性东方符号泛滥、电商插画感和模板化海报感。
-```
-
-</details>
-
----
-
-## #058 · VOL.059 绘本童真手绘叙事
-<a id="058"></a>
-<a id="style-058"></a>
-
-[![#058 VOL.059 绘本童真手绘叙事](data/curated/images/prompt_058.webp)](data/curated/images/prompt_058.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `童真绘本` `寓言插画` `手绘叙事` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092183407778509243)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="058"></a><a id="style-058"></a>
+      <a href="data/curated/images/prompt_058.webp">
+        <img src="data/curated/images/prompt_058.webp" alt="#058 VOL.059 绘本童真手绘叙事" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#058 · VOL.059 绘本童真手绘叙事</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>童真绘本</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2092183407778509243">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于核心意象与潜台词的手绘叙事重构
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2650,24 +2461,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字不预设固定标题、编号、地点或语种，也不做菜单式信息。应根据照片的主体、情绪、动作、记忆或隐喻，自由生成极少量真正有意义的字、词、短句或片段，并通过高级编辑排版自然融入留白区域。文字应小、轻、克制、精致，像独立出版物中的诗性注记或聪明旁白，与画面形成若有若无的呼应，而不是直白解释画面。
 
 整体气质应像一本独立出版的艺术旅行绘本或寓言式视觉手册：淡色、留白、温暖、童真、聪明、安静、诙谐、带隐喻与即兴感，同时具有清晰的核心主题和高级版式秩序。 避免完整写实风景、信息堆积、主体过满、背景过实、模板化海报感、电商插画感、卡通套路、过度装饰和无意义的可爱化处理。
-```
-
-</details>
-
----
-
-## #059 · VOL.058 几何抽象观念景观
-<a id="059"></a>
-<a id="style-059"></a>
-
-[![#059 VOL.058 几何抽象观念景观](data/curated/images/prompt_059.webp)](data/curated/images/prompt_059.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `几何抽象` `观念景观` `达芬奇严谨感` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092176222445035612)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="059"></a><a id="style-059"></a>
+      <a href="data/curated/images/prompt_059.webp">
+        <img src="data/curated/images/prompt_059.webp" alt="#059 VOL.058 几何抽象观念景观" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#059 · VOL.058 几何抽象观念景观</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>几何抽象</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2092176222445035612">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于潜台词与寓意的艺术化重构；
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2683,24 +2490,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字不预设固定标题、编号、地点或语种，也不做菜单式信息。应根据照片的主题、情绪、寓意、记忆或文化语境，自由生成极少量真正有意义的字、词、短句或片段，并通过高级编辑排版自然进入留白区域。文字应小、轻、克制、精致，可沿轴线、边缘、路径或主体周围排布，像独立出版物中的注记、题签或观察性短语，与几何构图形成安静而聪明的关系。
 
 整体气质应像一本独立出版的艺术旅行刊物或视觉寓言手册：**极简、诗意、浪漫、理性、克制、带有几何秩序与观念美感。** 避免完整写实风景、信息堆积、复杂装饰、主体过满、背景过实、模板化海报感、电商插画感、卡通感和廉价拼贴感。
-```
-
-</details>
-
----
-
-## #060 · VOL.057 几何拼贴智能马赛克重组
-<a id="060"></a>
-<a id="style-060"></a>
-
-[![#060 VOL.057 几何拼贴智能马赛克重组](data/curated/images/prompt_060.webp)](data/curated/images/prompt_060.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `几何拼贴` `智能马赛克` `建筑图解` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2092160522711978218)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="060"></a><a id="style-060"></a>
+      <a href="data/curated/images/prompt_060.webp">
+        <img src="data/curated/images/prompt_060.webp" alt="#060 VOL.057 几何拼贴智能马赛克重组" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#060 · VOL.057 几何拼贴智能马赛克重组</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>几何拼贴</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2092160522711978218">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为对原图核心意象的几何化重构，上下形成现实与记忆之间的呼应。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2718,24 +2521,22 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字不预设固定标题、地点、编号或语种，根据原图的主题、动作、环境、情绪或隐喻自由生成极少量真正有意义的文字。文字可作为版式系统的一部分，置于留白区、底部中心、边角或几何分区之间，使用细瘦、克制、疏朗的排版方式，与几何结构形成呼应；整体保持小、轻、安静，不机械套模板。
 
 整体气质应像**建筑图解、艺术地图、现代拼贴海报与高级编辑设计**之间的结合：安静、理性、精致、现代，同时保留记忆化提炼与色彩温度。避免完整场景复刻、随机像素化、贴纸逻辑、繁复纹理、光滑3D、卡通模板感和为了丰富而加入无意义元素。
-```
-
-</details>
-
----
-
-## #061 · VOL.056 暖色色盘稚拙手绘视觉记忆
-<a id="061"></a>
-<a id="style-061"></a>
-
-[![#061 VOL.056 暖色色盘稚拙手绘视觉记忆](data/curated/images/prompt_061.webp)](data/curated/images/prompt_061.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `暖色色盘` `稚拙手绘` `视觉记忆` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091730850723586307)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="061"></a><a id="style-061"></a>
+      <a href="data/curated/images/prompt_061.webp">
+        <img src="data/curated/images/prompt_061.webp" alt="#061 VOL.056 暖色色盘稚拙手绘视觉记忆" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#061 · VOL.056 暖色色盘稚拙手绘视觉记忆</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>暖色色盘</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2091730850723586307">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为对原图核心意象的绘画式提炼，上下形成现实与记忆之间的呼应。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2754,24 +2555,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 整体追求**极浅背景、巨大留白、少量主体、鲜活而温暖的色彩关系、稚拙手绘感与明确的视觉隐喻**。画面应安静但不寡淡，治愈但不甜腻，艺术但不故作高级，像一本被艺术家亲手画过的独立出版物。避免完整场景复刻、背景填满、物件罗列、统一粉彩滤镜、精致商业插画、光滑矢量、卡通模板和为了丰富而加入无意义元素。
 🥴😵‍
-```
-
-</details>
-
----
-
-## #062 · VOL.055 治愈粉彩浅浅油画质感
-<a id="062"></a>
-<a id="style-062"></a>
-
-[![#062 VOL.055 治愈粉彩浅浅油画质感](data/curated/images/prompt_062.webp)](data/curated/images/prompt_062.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `治愈粉彩` `油画质感` `绘画叙事` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091726763701555207)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="062"></a><a id="style-062"></a>
+      <a href="data/curated/images/prompt_062.webp">
+        <img src="data/curated/images/prompt_062.webp" alt="#062 VOL.055 治愈粉彩浅浅油画质感" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#062 · VOL.055 治愈粉彩浅浅油画质感</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>治愈粉彩</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2091726763701555207">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于主体叙事的绘画式重构
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2788,24 +2585,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 
 整体气质应像一本独立出版的视觉手册或艺术旅行刊物：温柔、明亮、治愈、现代、安静、松弛，同时具有明确的主体叙事与高级排版秩序。 避免贴纸逻辑、完整写实风景、细碎堆积、粗重轮廓、模板化海报感、电商插画感、卡通感和过度装饰。
 😍☺️
-```
-
-</details>
-
----
-
-## #063 · VOL.054 旧物感六枚记忆贴纸
-<a id="063"></a>
-<a id="style-063"></a>
-
-[![#063 VOL.054 旧物感六枚记忆贴纸](data/curated/images/prompt_063.webp)](data/curated/images/prompt_063.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `旧物感` `记忆贴纸` `Risograph` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091539410533691899)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="063"></a><a id="style-063"></a>
+      <a href="data/curated/images/prompt_063.webp">
+        <img src="data/curated/images/prompt_063.webp" alt="#063 VOL.054 旧物感六枚记忆贴纸" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#063 · VOL.054 旧物感六枚记忆贴纸</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>旧物感</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于选择性记忆的平面重构，上下自然呼应。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
@@ -2823,24 +2616,22 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字不预设固定标题、编号、地点或语种。根据照片的主体、动作、环境、情绪、声音、记忆或文化语境，自由生成极少量真正有意义的文字，并让其自然进入留白、贴纸间隙或主视觉边缘，与图形形成编辑排版关系。文字应小、轻、克制，不做菜单式信息栏，也不把每枚贴纸逐一标注。
 
 整体像一本独立出版的视觉旅行手册、私人记忆册与高级贴纸艺术页：安静、现代、敏锐、松弛，既有专业平面秩序，又保留剪贴、收藏和手工材料的温度。避免贴纸商品目录感、六宫格、等尺寸排列、完整写实风景、密集细节、商业明信片模板、卡通、动漫和电商素材感。
-```
-
-</details>
-
----
-
-## #064 · VOL.053 观察式钢笔淡彩手稿
-<a id="064"></a>
-<a id="style-064"></a>
-
-[![#064 VOL.053 观察式钢笔淡彩手稿](data/curated/images/prompt_064.webp)](data/curated/images/prompt_064.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `观察式手绘` `钢笔淡彩` `音乐性节奏` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2091521812878459186)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="064"></a><a id="style-064"></a>
+      <a href="data/curated/images/prompt_064.webp">
+        <img src="data/curated/images/prompt_064.webp" alt="#064 VOL.053 观察式钢笔淡彩手稿" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#064 · VOL.053 观察式钢笔淡彩手稿</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>观察式手绘</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为观察式手绘重构；上下自然衔接，避免生硬的50:50硬切割。
 
 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
@@ -2856,24 +2647,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字自由根据照片本身生成，不预设固定标题、编号、地点、年份或固定语种。可从主体、动作、环境、情绪、声音、时间感、记忆或偶然细节中提炼少量真正有意义的字、词、短句或符号。文字也遵循画面的节奏，可像一个轻微重音、停顿或回声一样进入留白，沿轮廓、视线、运动方向或未完成边缘自然排列；宁可少、偏、轻、巧，也不要形成菜单式信息区。
 
 整体像一本被精心编辑过的私人观察手册：页面极简、留白大胆、构图敏锐，线条自由却不散乱，局部即兴而整体高度克制。 让画面具有“一个视觉动机被观察、重复、变奏，然后在最恰当的位置停下”的艺术感。避免完整水彩风景、平均构图、填满背景、过度精描、装饰性笔触、粗黑轮廓、矢量线、卡通、3D渲染、菜单式排版和商业海报模板感。
-```
-
-</details>
-
----
-
-## #065 · 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup
-<a id="065"></a>
-<a id="style-065"></a>
-
-[![#065 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup](data/curated/images/prompt_065.webp)](data/curated/images/prompt_065.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `几何抽象` `Logo重构` `品牌包装系统` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2093255701447786922)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="065"></a><a id="style-065"></a>
+      <a href="data/curated/images/prompt_065.webp">
+        <img src="data/curated/images/prompt_065.webp" alt="#065 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#065 · 四等分连贯演化：摄影 / 人文几何抽象 / Logo重构 / 品牌包装Mockup</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>几何抽象</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2093255701447786922">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -2929,24 +2716,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字也作为整个包装系统的一部分统一设计。从原图的主体名称、主题、情绪、功能或象征意义中提炼一个简短英文主标题，并延展出极少量副标题、短句、编号、品类名称或微型说明。文字可以根据不同载体自然变化：竖排于吊牌、沿包装边缘延伸、环绕圆形标签、跨越盒面、隐藏在图形之间或成为包装封口结构的一部分，使字体、图形和材质共同形成完整品牌语言，而不是每件物料重复贴上同一个标题。
 
 整体呈现为一张高级品牌包装系统 / 视觉识别提案板：丰富但不拥挤，活泼但有秩序，既展示完整系列，也能看到图形、文字、材质与不同载体之间的设计逻辑。无论原图是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应从原图本身建立独特的包装语言，避免固定产品组合、重复模板、电商展示感和普通品牌样机展示套版。
-```
-
-</details>
-
----
-
-## #066 · 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条
-<a id="066"></a>
-<a id="style-066"></a>
-
-[![#066 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条](data/curated/images/prompt_066.webp)](data/curated/images/prompt_066.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `复古水彩` `黑白越界` `荆棘观念线条` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092989290691326305)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="066"></a><a id="style-066"></a>
+      <a href="data/curated/images/prompt_066.webp">
+        <img src="data/curated/images/prompt_066.webp" alt="#066 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#066 · 四等分连贯演化：摄影 / 复古水彩 / 黑白越界 / 荆棘式观念线条</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>复古水彩</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2092989290691326305">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -2996,24 +2779,22 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 画面以冷白、米白或低饱和浅色为底，大面积留白，主体偏下、偏侧或靠近边缘，不居中、不铺满。线条粗细略有变化，保留墨线的摩擦、迟疑、断裂与压力感；尖刺、结点、倒钩或短横仅出现在受力、交叉和方向改变的位置。整体安静而紧张，简洁却不轻松，意义在线条的缠绕、限制、穿越、收紧与释放之间逐渐显现。
 
 文字只作极少量使用，可加入简短英文主题词、编号、地点或适配金句，但必须像线条系统中的一个微小痕迹，以纤细、克制、略带手工感的排版融入空白或线条转折处，不成为视觉中心，也不直接解释画面。整体参考现代主义观念海报、社会议题视觉、艺术出版物和实验编辑设计，避免复杂场景、写实光影、三维质感、多色填充、卡通感、商业广告感、装饰性曲线和无意义的视觉丰富。
-```
-
-</details>
-
----
-
-## #067 · 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构
-<a id="067"></a>
-<a id="style-067"></a>
-
-[![#067 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构](data/curated/images/prompt_067.webp)](data/curated/images/prompt_067.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `四等分演化` `复古手绘` `自然材料拼贴` `肥皂泡沫重构` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2092775223997390926)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="067"></a><a id="style-067"></a>
+      <a href="data/curated/images/prompt_067.webp">
+        <img src="data/curated/images/prompt_067.webp" alt="#067 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#067 · 四等分连贯演化：摄影 / 复古手绘 / 自然材料拼贴 / 肥皂泡沫平面重构</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>四等分演化</code> · <code>复古手绘</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2092775223997390926">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 
 整体采用 3:4竖版构图。画面从上到下严格四等分为四个横向区域，每个区域高度必须精确占整体画面的25%，四层比例严格为1:1:1:1，不允许出现比例偏差。区域之间无缝衔接，无分隔线、无留白间隙。这里的“无留白间隙”仅指层与层的接缝不能出现空隙；每层内部仍可按照对应风格保留负空间、纸面或纯色背景。
@@ -3069,24 +2850,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 文字作为构图的一部分巧妙介入，从照片的主体身份、动作、情绪或隐喻中提炼一个极短英文标题，并搭配少量状态词或微型注释。文字可沿主体轮廓、画面轴线、泡沫边缘或背景结构排列，也可局部被泡沫遮挡、穿过或留出负形，使文字像原本就存在于这块平面上的编辑性标记，而不是后期贴上的标题。
 
 整体呈现真实物象 × 白色平面泡沫 × 深色情绪底色 × 极简秩序 × 高级编辑摄影的视觉气质。无论主体是人物、动物、植物、建筑、器物、食物、交通工具或自然景观，都应从原图最有辨识度的形态出发完成真实、克制、巧妙的泡沫重构。避免三维体块、镜头畸变、透视夸张、浅色无对比背景、卡通泡泡、浴室广告感和模板感。
-```
-
-</details>
-
----
-
-## #068 · 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报
-<a id="068"></a>
-<a id="style-068"></a>
-
-[![#068 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报](data/curated/images/prompt_068.webp)](data/curated/images/prompt_068.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `真实人像` `单色线稿` `手绘环境` · @hann7712</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @hann7712](https://x.com/hann7712/status/2100105969724535243)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="068"></a><a id="style-068"></a>
+      <a href="data/curated/images/prompt_068.webp">
+        <img src="data/curated/images/prompt_068.webp" alt="#068 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#068 · 上下双拼：真实人物主体 × 单色记号笔手绘环境对照海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>真实人像</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/hann7712/status/2100105969724535243">来源原贴 @hann7712</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的照片制作成一张 3:4 竖版「上方原始摄影 / 下方线稿转译」对照海报。
 
 **【主体保持真实】**
@@ -3164,24 +2941,20 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 不做渐变、水彩、3D、动漫、漫画或精致矢量插画；
 
 不添加文字、Logo、水印、界面元素或任何 UI。
-```
-
-</details>
-
----
-
-## #069 · 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）
-<a id="069"></a>
-<a id="style-069"></a>
-
-[![#069 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）](data/curated/images/prompt_069.webp)](data/curated/images/prompt_069.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `东方刺绣` `丝线光泽` `意象重构` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2100047073957810677)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="069"></a><a id="style-069"></a>
+      <a href="data/curated/images/prompt_069.webp">
+        <img src="data/curated/images/prompt_069.webp" alt="#069 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#069 · 上下双拼：真实原图 × 东方刺绣意象重构（人物/宠物抓拍）</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>东方刺绣</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2100047073957810677">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼风格图像，整张画布严格纵向排版，上半部分与下半部分高度精准 1:1，构成“真实原图 × 东方刺绣寓意重构”的双拼画面。
 
 上半部分：
@@ -3221,24 +2994,22 @@ Please turn each photo I upload into a separate premium-designed poster, with no
 整体追求一图一核、一核一意象：先理解原图，再选择最值得被留下的东西；其他元素宁可舍弃，也不要为了丰富而堆砌。
 最终呈现中国刺绣特有的灵动色彩、丝线光泽、东方留白、含蓄寓意与当代编辑设计感，清亮、有神、有情绪、有生命力。
 避免整图复刻、元素堆积、脏米色背景、泛黄旧布、固定国风配色、满版刺绣、文创商品感和模板感。
-```
-
-</details>
-
----
-
-## #070 · 上下双拼：摄影真实呈现 × 极简水墨意象重构
-<a id="070"></a>
-<a id="style-070"></a>
-
-[![#070 上下双拼：摄影真实呈现 × 极简水墨意象重构](data/curated/images/prompt_070.webp)](data/curated/images/prompt_070.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `水墨意象` `当代水墨` `极简留白` · @king1818888</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @king1818888](https://x.com/king1818888/status/2100094064255459609)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="070"></a><a id="style-070"></a>
+      <a href="data/curated/images/prompt_070.webp">
+        <img src="data/curated/images/prompt_070.webp" alt="#070 上下双拼：摄影真实呈现 × 极简水墨意象重构" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#070 · 上下双拼：摄影真实呈现 × 极简水墨意象重构</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>水墨意象</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/king1818888/status/2100094064255459609">来源原贴 @king1818888</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Create a sophisticated contemporary East Asian art poster based on the uploaded photograph.
 
 FORMAT
@@ -3275,7 +3046,7 @@ Small amounts of restrained color may be extracted from the photograph: misty bl
 
 Ink and negative space must remain dominant.
 
-SUBJECT SCALE & NEGATIVE SPACE — VERY IMPORTANT
+SUBJECT SCALE &amp; NEGATIVE SPACE — VERY IMPORTANT
 
 The entire ink-wash scene in the bottom half must remain SMALL.
 
@@ -3326,24 +3097,20 @@ The ink painting preserves what was felt.
 
 AVOID:
 full-frame watercolor, oversized subjects, excessive detail, photorealistic copying, decorative clutter, muddy colors, heavy brown filters, excessive typography, generic postcard layouts, or changing the identity of the original photograph.
-```
-
-</details>
-
----
-
-## #071 · 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴
-<a id="071"></a>
-<a id="style-071"></a>
-
-[![#071 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴](data/curated/images/prompt_071.webp)](data/curated/images/prompt_071.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `建筑拼贴` `半调网点` `ASCII代码` · @Naiknelofar788</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Naiknelofar788](https://x.com/Naiknelofar788/status/2100067049288634730)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="071"></a><a id="style-071"></a>
+      <a href="data/curated/images/prompt_071.webp">
+        <img src="data/curated/images/prompt_071.webp" alt="#071 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#071 · 上下双拼：真实建筑摄影 × 撕纸ASCII半调实验拼贴</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>建筑拼贴</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Naiknelofar788/status/2100067049288634730">来源原贴 @Naiknelofar788</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
 
 FORMAT
@@ -3420,24 +3187,20 @@ AVOID
 Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
 
 Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.
-```
-
-</details>
-
----
-
-## #072 · 彩色剪纸贴纸风格：手作立体拼贴角色
-<a id="072"></a>
-<a id="style-072"></a>
-
-[![#072 彩色剪纸贴纸风格：手作立体拼贴角色](data/curated/images/prompt_072.webp)](data/curated/images/prompt_072.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `彩色剪纸` `立体卡纸` `贴纸风` `手工拼贴` · @ai_suxiaole</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2100196205011820590)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="072"></a><a id="style-072"></a>
+      <a href="data/curated/images/prompt_072.webp">
+        <img src="data/curated/images/prompt_072.webp" alt="#072 彩色剪纸贴纸风格：手作立体拼贴角色" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#072 · 彩色剪纸贴纸风格：手作立体拼贴角色</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>彩色剪纸</code> · <code>立体卡纸</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/ai_suxiaole/status/2100196205011820590">来源原贴 @ai_suxiaole</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Use the uploaded image as the sole content source and transform its main subject into a refined full-body handcrafted paper-cut fashion character. Preserve the subject’s identity cues, age category, gender presentation, skin tone, facial expression, hairstyle or head covering, pose, body orientation, clothing categories, garment layers, colors, patterns, accessories, footwear, and important carried objects. Preserve culturally specific clothing accurately: if the source includes a hijab, headscarf, traditional textile, batik, embroidery, jewelry, or modest layered garments, retain their recognizable wrapping, coverage, construction, motifs, and color relationships. Do not add a hijab, cultural garment, accessory, or pattern that is absent from the source.
 
 Gently stylize the person into an elegant storybook fashion doll with a slightly enlarged head, softly rounded face, slender simplified body, graceful posture, and clean readable silhouette. Keep the person recognizable without copying photographic anatomy exactly. Render the face with large warm almond-shaped eyes, fine dark lashes, softly arched eyebrows, a tiny simplified nose, subtle rosy cheeks, and a small natural smile that matches the source expression. Keep facial features balanced and mature enough for the subject’s age; avoid infant-like proportions, extreme chibi anatomy, exaggerated eyes, or a generic identical doll face.
@@ -3447,24 +3210,22 @@ Construct the entire character as layered cut paper and lightly embossed cardsto
 Place the finished character upright and centered against a plain warm beige, cream, or light oatmeal paper background. Surround the complete silhouette with a narrow warm-white die-cut paper border, like a premium collectible sticker or mounted paper doll. Add a soft diffuse shadow falling slightly to the lower right so the figure appears gently raised above the background. Maintain generous negative space, a calm vertical composition, soft warm studio lighting, low contrast, muted natural colors, and a polished handmade editorial finish. The entire figure should be visible from head to footwear unless the source is already cropped; never invent body parts outside the source framing.
 
 The final image should feel delicate, warm, sophisticated, tactile, and collectible: a contemporary paper-cut storybook portrait combining modest fashion illustration, subtle anime-inspired facial simplification, layered cardstock craftsmanship, and faithful clothing design. Avoid photorealism, 3D plastic dolls, glossy surfaces, clay, fabric embroidery, yarn, watercolor bleeding, rough sketch lines, heavy outlines, harsh cel shading, neon colors, busy scenery, extra people, invented accessories, altered clothing coverage, malformed hands, duplicated limbs, text, logos, signatures, frames, and watermarks. Output one finished vertical paper-cut character illustration only.
-```
-
-</details>
-
----
-
-## #073 · 上下双拼：真实摄影 × 韩式平面编辑插画海报
-<a id="073"></a>
-<a id="style-073"></a>
-
-[![#073 上下双拼：真实摄影 × 韩式平面编辑插画海报](data/curated/images/prompt_073.webp)](data/curated/images/prompt_073.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `韩式插画` `编辑设计` `平面插画` · @aronhouyu</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @aronhouyu](https://x.com/aronhouyu/status/2100206857411522575)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="073"></a><a id="style-073"></a>
+      <a href="data/curated/images/prompt_073.webp">
+        <img src="data/curated/images/prompt_073.webp" alt="#073 上下双拼：真实摄影 × 韩式平面编辑插画海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#073 · 上下双拼：真实摄影 × 韩式平面编辑插画海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>韩式插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/aronhouyu/status/2100206857411522575">来源原贴 @aronhouyu</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高端设计海报，不要拼贴，每张单独输出。
 
 画面比例：
@@ -3523,24 +3284,20 @@ The final image should feel delicate, warm, sophisticated, tactile, and collecti
 真实摄影 × 笨拙平面插画 × 轻松编辑设计
 的视觉风格。
 整体感觉要明亮、童真、友好、俏皮、有设计感、高级但不严肃。
-```
-
-</details>
-
----
-
-## #074 · 上下双拼：真实摄影 × 东方印压纸雕浮雕
-<a id="074"></a>
-<a id="style-074"></a>
-
-[![#074 上下双拼：真实摄影 × 东方印压纸雕浮雕](data/curated/images/prompt_074.webp)](data/curated/images/prompt_074.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `东方纸雕` `压印浮雕` `纸张雕塑` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2100384278320427032)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="074"></a><a id="style-074"></a>
+      <a href="data/curated/images/prompt_074.webp">
+        <img src="data/curated/images/prompt_074.webp" alt="#074 上下双拼：真实摄影 × 东方印压纸雕浮雕" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#074 · 上下双拼：真实摄影 × 东方印压纸雕浮雕</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>东方纸雕</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2100384278320427032">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张竖版上下双拼视觉作品。
 
 上半部分呈现用户上传的真实人物、宠物、动物或主体照片；下半部分以同一个主体为核心，重构成中国印压浮雕 / 纸雕凹凸质感的东方极简艺术画面。
@@ -3620,24 +3377,20 @@ The final image should feel delicate, warm, sophisticated, tactile, and collecti
 禁止改变宠物的关键轮廓和动作。
 
 禁止复杂建筑抢夺下方主体。
-```
-
-</details>
-
----
-
-## #075 · 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)
-<a id="075"></a>
-<a id="style-075"></a>
-
-[![#075 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)](data/curated/images/prompt_075.webp)](data/curated/images/prompt_075.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `韩式插画` `编辑设计` `平面插画` · @Goodmanprotocol</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Goodmanprotocol](https://x.com/Goodmanprotocol/status/2100232177052991760)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="075"></a><a id="style-075"></a>
+      <a href="data/curated/images/prompt_075.webp">
+        <img src="data/curated/images/prompt_075.webp" alt="#075 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#075 · 上下双拼：真实摄影 × 韩式平面编辑插画海报 (英文标准版)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>韩式插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Goodmanprotocol/status/2100232177052991760">来源原贴 @Goodmanprotocol</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Create one premium 3:4 vertical artwork for [COUNTRY / LOCATION / SUBJECT].
 
 Generate the complete artwork from the text “[COUNTRY / LOCATION / SUBJECT]” alone. The subject name is the only input needed.
@@ -3660,7 +3413,7 @@ Preserve the recognizable subject, main shapes, poses, relationships, and visual
 
 Use slightly shaky, imperfect, uneven outlines and charmingly awkward proportions. Keep the result expressive and immediately recognizable without becoming realistic.
 
-COMPOSITION & COLORS
+COMPOSITION &amp; COLORS
 
 Maintain one clear visual focal point and arrange supporting elements through scale variation, overlap, cropping, asymmetry, and playful positioning.
 
@@ -3686,29 +3439,27 @@ Create a seamless visual combination of:
 
 realistic cinematic scene × playful flat illustration × Korean editorial design × vivid colors × imperfect hand-drawn graphics × expressive typography.
 
-The artwork should feel bright, innocent, friendly, playful, contemporary, and highly designed—like a sophisticated children's picture book combined with an independent design magazine.
+The artwork should feel bright, innocent, friendly, playful, contemporary, and highly designed—like a sophisticated children&#x27;s picture book combined with an independent design magazine.
 
 STRICT 3:4 VERTICAL | EXACT 50/50 SPLIT | HIGH RESOLUTION | PREMIUM EDITORIAL DESIGN | CLEAN GRAPHIC FINISH.
 
 The entire composition must be invented autonomously from [COUNTRY / LOCATION / SUBJECT]. Do not request any additional visual material.
-```
-
-</details>
-
----
-
-## #076 · 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)
-<a id="076"></a>
-<a id="style-076"></a>
-
-[![#076 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)](data/curated/images/prompt_076.webp)](data/curated/images/prompt_076.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `焦外双生` `85mm人像` `大光圈虚化` · @derek_wall90176</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @derek_wall90176](https://x.com/derek_wall90176/status/2100419796575903898)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="076"></a><a id="style-076"></a>
+      <a href="data/curated/images/prompt_076.webp">
+        <img src="data/curated/images/prompt_076.webp" alt="#076 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#076 · 上下双拼：焦外抽离双生 (85mm F1.2 景深光学重拍)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>焦外双生</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/derek_wall90176/status/2100419796575903898">来源原贴 @derek_wall90176</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请基于我上传的照片，制作一张独立的3:4竖版“焦外抽离双生”视觉海报。
 
 画面严格分为上下两个区域，高度1:1，各占50%。
@@ -3798,29 +3549,25 @@ The entire composition must be invented autonomously from [COUNTRY / LOCATION / 
 禁止塑料皮肤。
 
 禁止AI棚拍感。
-```
-
-</details>
-
----
-
-## #077 · 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙
-<a id="077"></a>
-<a id="style-077"></a>
-
-[![#077 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙](data/curated/images/prompt_077.webp)](data/curated/images/prompt_077.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `3D粘土卡通` `摇头娃娃` `真人双生` `Q版人偶` · @HaniaAi12</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @HaniaAi12](https://x.com/HaniaAi12/status/2100403540757725645)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="077"></a><a id="style-077"></a>
+      <a href="data/curated/images/prompt_077.webp">
+        <img src="data/curated/images/prompt_077.webp" alt="#077 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#077 · 真人与3D卡通同框互动：真人与Q版大头3D公仔同棚逗趣对峙</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>3D粘土卡通</code> · <code>摇头娃娃</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/HaniaAi12/status/2100403540757725645">来源原贴 @HaniaAi12</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Create a high-resolution, ultra-realistic studio composition in a 4:5 vertical aspect ratio, featuring a real woman standing beside a stylized 3D caricature (bobblehead-style) version of the same person.
 
 Use the provided reference image as the ONLY source of identity and hairstyle. Strictly preserve the subject’s recognizable facial structure, facial proportions, skin tone, natural features, and hairstyle from the reference image. Do not change the person’s identity or make the face generic. The real subject and the caricature must clearly look like the same person.
 
-COMPOSITION & FRAMING:
+COMPOSITION &amp; FRAMING:
 Full-body vertical shot with a clean, centered composition. The real woman stands on the RIGHT side, while the 3D caricature stands on the LEFT at approximately 50–60% of the real subject’s height. Both subjects should face each other and appear to be playfully sulking and lightly arguing.
 
 REAL SUBJECT — PHOTOGRAPHIC:
@@ -3837,7 +3584,7 @@ The caricature stands on the LEFT, looking upward toward the real woman with a p
 CARICATURE CLOTHING:
 Soft pink cardigan, white fitted cami top, light blue denim mini skirt, white sneakers, and a small pink quilted handbag matching the real subject.
 
-LIGHTING & BACKGROUND:
+LIGHTING &amp; BACKGROUND:
 Soft, diffused professional studio lighting with smooth highlights and gentle natural shadows. Use a clean light-gray seamless gradient studio background. Realistic contact shadows beneath both subjects.
 
 OUTPUT STYLE:
@@ -3846,24 +3593,20 @@ Ultra-clean, cinematic, polished, high-detail render. Blend the photorealistic w
 Maintain accurate anatomy, realistic proportions for the real woman, detailed facial features, natural hands and fingers, clean clothing details, and high-quality textures.
 
 No text, no watermark, no logo, no extra people, no duplicate subjects, no distorted face, no deformed hands.
-```
-
-</details>
-
----
-
-## #078 · 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框
-<a id="078"></a>
-<a id="style-078"></a>
-
-[![#078 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框](data/curated/images/prompt_078.webp)](data/curated/images/prompt_078.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `街头漫画` `夸张肖像` `巴黎蒙马特` `手绘线描` · @Shinebynous</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Shinebynous](https://x.com/Shinebynous/status/2099887409257177093)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="078"></a><a id="style-078"></a>
+      <a href="data/curated/images/prompt_078.webp">
+        <img src="data/curated/images/prompt_078.webp" alt="#078 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#078 · 巴黎街头夸张肖像漫画：真人手持夸张漫画画纸在蒙马特街头同框</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>街头漫画</code> · <code>夸张肖像</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Shinebynous/status/2099887409257177093">来源原贴 @Shinebynous</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Use the uploaded portrait photo as the primary identity reference. Preserve the person’s recognizable facial identity as accurately as possible, including their face shape, apparent age, receding hairline or hairstyle, eyebrows, eye shape, nose, mouth, jawline, salt and pepper beard pattern, skin tone, expression, and overall individual character.
 
 Create a cinematic, photorealistic 4:3 portrait scene in a quiet, charming corner of Montmartre, Paris. Show the same person from the uploaded photograph sitting or standing outside a classic Parisian café on a peaceful tourist street. The setting should feel authentically Montmartre, with a cobblestone street, old cream-colored buildings, café chairs, a red café awning, soft daylight, an artistic street atmosphere, and the Sacré-Cœur softly visible in the background.
@@ -3882,24 +3625,22 @@ The caricature drawing of the same person on the paper
 Use realistic lighting, a clean composition, high detail, natural skin texture, believable hands holding the paper, a calm background, and a playful vintage Parisian tourist-souvenir atmosphere.
 
 Aspect ratio: 4:3.
-```
-
-</details>
-
----
-
-## #079 · 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报
-<a id="079"></a>
-<a id="style-079"></a>
-
-[![#079 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报](data/curated/images/prompt_079.webp)](data/curated/images/prompt_079.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `黑白水墨` `质感插画` `杂志肖像` `泼墨肌理` · @AiWithTariq</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @AiWithTariq](https://x.com/AiWithTariq/status/2100427348789363114)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="079"></a><a id="style-079"></a>
+      <a href="data/curated/images/prompt_079.webp">
+        <img src="data/curated/images/prompt_079.webp" alt="#079 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#079 · 黑白水墨混合媒介肖像：高反差质感泼墨与涂鸦素描杂志海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>黑白水墨</code> · <code>质感插画</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/AiWithTariq/status/2100427348789363114">来源原贴 @AiWithTariq</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Use the uploaded image as the main composition and style reference. Recreate the artwork almost exactly, keeping the same overall pose, side-profile angle, moody expression, rough painterly texture, abstract ink treatment, distressed overlays, and minimal beige background.
 
 Create a high-contrast black-and-white editorial portrait illustration of a stylish man shown in left-facing side profile, wearing round dark sunglasses and a dark jacket, with his head slightly lowered in a thoughtful pose. Keep one hand raised near his mouth/chin in the same position as the reference.
@@ -3920,24 +3661,20 @@ Preserve the same grunge fine-art aesthetic:
 Keep the figure vertically centered with a clean off-white / warm beige background, lots of negative space, and the lower body dissolving into abstract painterly textures. Maintain the same premium fashion-poster / gallery-art vibe.
 
 Style: ultra-detailed monochrome mixed-media portrait, contemporary editorial wall art, expressive ink illustration, dramatic contrast, textured fine-art poster, premium minimalist composition.
-```
-
-</details>
-
----
-
-## #080 · 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片
-<a id="080"></a>
-<a id="style-080"></a>
-
-[![#080 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片](data/curated/images/prompt_080.webp)](data/curated/images/prompt_080.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `动漫插画` `时尚海报` `美漫风` `天台街拍` · @OrhanGhazi65942</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @OrhanGhazi65942](https://x.com/OrhanGhazi65942/status/2100437542915231869)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="080"></a><a id="style-080"></a>
+      <a href="data/curated/images/prompt_080.webp">
+        <img src="data/curated/images/prompt_080.webp" alt="#080 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#080 · 现代电影感动漫插画：天台潮流穿搭低仰角时尚大片</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>动漫插画</code> · <code>时尚海报</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/OrhanGhazi65942/status/2100437542915231869">来源原贴 @OrhanGhazi65942</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Use the uploaded image as the primary visual reference. Recreate the same overall composition, camera angle, framing, pose, environment, clothing, lighting, color palette, and stylized illustrated aesthetic.
 
 Create a high-detail cinematic comic-book/anime-inspired fashion illustration of a confident, stylish adult man sitting casually on a rooftop ledge. He has tousled dark-brown hair with subtle highlights, light natural stubble, tinted rectangular sunglasses, and a calm, confident expression while looking slightly upward and away from the camera.
@@ -3953,24 +3690,20 @@ Composition: low-angle perspective, subject dominating the center of the frame, 
 Aspect ratio: 9:16.
 
 Negative prompt: blurry face, distorted hands, extra fingers, malformed shoes, duplicate limbs, bad anatomy, plastic skin, excessive cartoon exaggeration, photorealistic rendering, 3D CGI, text, logos, watermark, random objects, oversaturated skin, messy background.
-```
-
-</details>
-
----
-
-## #081 · 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)
-<a id="081"></a>
-<a id="style-081"></a>
-
-[![#081 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)](data/curated/images/prompt_081.webp)](data/curated/images/prompt_081.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `糖霜曲奇` `浅浮雕` `微缩艺术` · @xiaoxiaodong01</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2100555267608035471)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="081"></a><a id="style-081"></a>
+      <a href="data/curated/images/prompt_081.webp">
+        <img src="data/curated/images/prompt_081.webp" alt="#081 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#081 · 上下双拼：现实摄影 × 糖霜曲奇浅浮雕微缩海报 (XXD Panel 226)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>糖霜曲奇</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/xiaoxiaodong01/status/2100555267608035471">来源原贴 @xiaoxiaodong01</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 
 上半部分保留原始照片的主体、结构、姿态、自然光影与色彩氛围，仅进行轻微高级调色；为适配画幅可自然扩展环境，但不得拉伸、扭曲或改变主体。
@@ -3984,24 +3717,22 @@ Negative prompt: blurry face, distorted hands, extra fingers, malformed shoes, d
 配色从原图中提取最鲜活、最有记忆点的色彩，再转译为明亮柔和的糖霜色系：奶油白、天空蓝、湖水青、嫩绿、奶油黄、杏橙、珊瑚粉等可随原图自然变化，整体提亮、提纯、去灰，温暖治愈但不甜腻。文字仅作极少量编辑性介入，自由根据原图语境生成，安静融入留白。
 
 整体不是“照片做成饼干”，而是用糖霜曲奇这一统一材料重新理解并讲述原图：简洁、完整、诗意、温暖、具有收藏感。避免逐物复刻、背景填满、复杂写实、塑料高光、厚重阴影、廉价卡通感和模板化图标。
-```
-
-</details>
-
----
-
-## #082 · 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底
-<a id="082"></a>
-<a id="style-082"></a>
-
-[![#082 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底](data/curated/images/prompt_082.webp)](data/curated/images/prompt_082.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `手绘插画` `极简杂志风` `色块拼贴` `生活方式` · @AdrianPunk115</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @AdrianPunk115](https://x.com/AdrianPunk115/status/2100587074885742645)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="082"></a><a id="style-082"></a>
+      <a href="data/curated/images/prompt_082.webp">
+        <img src="data/curated/images/prompt_082.webp" alt="#082 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#082 · 极简手绘杂志风插画：有机墨线平涂色块与不规则抽象衬底</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>手绘插画</code> · <code>极简杂志风</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/AdrianPunk115/status/2100587074885742645">来源原贴 @AdrianPunk115</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Transform the uploaded photo into a minimalist hand-drawn editorial illustration.
 
 Use the uploaded image as the main reference. Preserve the most recognizable elements of the original photo, including the subject, appearance, hairstyle, pose, gesture, clothing, accessories, important objects, spatial relationships, and overall composition.
@@ -4039,24 +3770,20 @@ Do not add text, captions, logos, borders, decorative icons, or unrelated object
 
 Final look:
 minimal, warm, stylish, slightly retro, expressive, casual, human, and effortlessly hand-drawn — like a modern lifestyle magazine illustration printed on textured paper.
-```
-
-</details>
-
----
-
-## #083 · 复古旅行日记海报：孔版印刷与丝网版画质感
-<a id="083"></a>
-<a id="style-083"></a>
-
-[![#083 复古旅行日记海报：孔版印刷与丝网版画质感](data/curated/images/prompt_083.webp)](data/curated/images/prompt_083.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `复古日记` `孔版印刷` `丝网版画` `旅行海报` · @ai_suxiaole</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2100910238539141498)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="083"></a><a id="style-083"></a>
+      <a href="data/curated/images/prompt_083.webp">
+        <img src="data/curated/images/prompt_083.webp" alt="#083 复古旅行日记海报：孔版印刷与丝网版画质感" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#083 · 复古旅行日记海报：孔版印刷与丝网版画质感</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>复古日记</code> · <code>孔版印刷</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/ai_suxiaole/status/2100910238539141498">来源原贴 @ai_suxiaole</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Use the single uploaded photograph as the sole content source. Transform it into one finished vintage travel-diary art poster. Output only the transformed poster—do not include the original photograph, a before-and-after comparison, split layout, collage, mockup, or explanatory text. Preserve the source aspect ratio unless the user explicitly requests another format.
 
 Faithfully preserve the photograph’s principal subject, identity cues, age category, facial structure, hairstyle, expression, gaze direction, pose, clothing, accessories, handheld objects, interaction, viewpoint, and essential scene narrative. Preserve important environmental elements that establish the place or story, such as water, boats, streets, buildings, snow, trees, railings, vehicles, or distant figures. Simplify incidental clutter without changing the meaning of the moment. Do not add, remove, duplicate, or replace important people or objects.
@@ -4074,24 +3801,20 @@ Add a restrained diary-style typography system using the following optional fiel
 If the user leaves a text field blank or omits all text, automatically create concise copy appropriate to the uploaded image: generate a two-to-five-word poetic English title, one short atmospheric sentence of no more than twelve words, and use the current date only if a date is desired by the layout. Do not invent specific locations, names, historical facts, or events that cannot be determined from the photograph. Use no more than one large title, one brief caption, one date or issue line, and two tiny decorative rules. Ensure every visible character is correctly spelled and fully legible; if reliable typography cannot be produced, omit the uncertain supporting text rather than rendering gibberish.
 
 Maintain a spacious, nostalgic, literary mood with strong visual hierarchy, understated emotion, muted ink colors, tactile paper texture, and the appearance of a collectible independent magazine cover or personal travel journal print. Avoid photorealism, glossy paper, neon colors, excessive colors, smooth airbrushing, clean vector outlines, modern advertising gradients, heavy 3D effects, generic anime styling, malformed faces or hands, changed clothing, invented landmarks, dense text blocks, random letters, logos, signatures, watermarks, borders, and frames. Output only the completed vintage risograph diary poster.
-```
-
-</details>
-
----
-
-## #084 · 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感
-<a id="084"></a>
-<a id="style-084"></a>
-
-[![#084 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感](data/curated/images/prompt_084.webp)](data/curated/images/prompt_084.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `手工羊毛毡` `针毡玩偶` `贴布绣` `手作贴纸` · @ai_suxiaole</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @ai_suxiaole](https://x.com/ai_suxiaole/status/2100556460375920746)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="084"></a><a id="style-084"></a>
+      <a href="data/curated/images/prompt_084.webp">
+        <img src="data/curated/images/prompt_084.webp" alt="#084 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#084 · 手工羊毛毡贴布绣：微缩玩偶与手作贴纸质感</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>手工羊毛毡</code> · <code>针毡玩偶</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/ai_suxiaole/status/2100556460375920746">来源原贴 @ai_suxiaole</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Use the single uploaded photograph as the sole content source. Output only one transformed image—do not include the original photograph, a before-and-after comparison, split layout, collage, divider, frame, caption, or explanatory text. Preserve the source image’s aspect ratio and framing.
 
 Transform the photograph’s principal subjects and all objects essential to their action into charming handcrafted needle-felted wool appliqué characters. Preserve the exact number of people and animals, their relative sizes, left-to-right order, pose, gesture, gaze direction, body orientation, interaction, overlap, spacing, and emotional meaning. Faithfully retain recognizable hairstyles, hats, clothing categories, garment colors, patterns, footwear, accessories, handheld objects, and unusual improvised objects. Preserve interaction-defining items such as poles, nets, baskets, toys, tools, or props, including how they connect to or cover the subjects. Do not add, remove, duplicate, merge, or replace any important person, animal, limb, accessory, or object.
@@ -4105,24 +3828,22 @@ Remove the photographic environment and isolate the transformed subjects on a so
 Use a soft, muted palette sampled from the source photograph. Preserve important color contrasts and signature garments while slightly reducing saturation to suit natural wool. Illuminate the scene with bright diffused studio light from the upper left, minimal contrast, delicate contact shadows, and a calm high-key editorial finish. The result should feel cozy, playful, collectible, meticulously handmade, and photographed directly from above.
 
 Avoid text, captions, logos, signatures, watermarks, borders, additional scenery, invented props, malformed anatomy, duplicated limbs, missing subjects, incorrect animal counts, generic clothing, excessive facial detail, harsh shadows, oversaturated colors, and smooth synthetic surfaces. Output only the completed needle-felted transformation.
-```
-
-</details>
-
----
-
-## #085 · 上下双拼：纪实摄影 × 日系手绘素描画册
-<a id="085"></a>
-<a id="style-085"></a>
-
-[![#085 上下双拼：纪实摄影 × 日系手绘素描画册](data/curated/images/prompt_085.webp)](data/curated/images/prompt_085.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `黑白素描` `钢笔速写` `日系手账` · @itxsarmadd</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @itxsarmadd](https://x.com/itxsarmadd/status/2100874791532290319)
-
-```text
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="085"></a><a id="style-085"></a>
+      <a href="data/curated/images/prompt_085.webp">
+        <img src="data/curated/images/prompt_085.webp" alt="#085 上下双拼：纪实摄影 × 日系手绘素描画册" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#085 · 上下双拼：纪实摄影 × 日系手绘素描画册</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>黑白素描</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/itxsarmadd/status/2100874791532290319">来源原贴 @itxsarmadd</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 A premium nostalgic editorial photo-and-sketch artbook page featuring a young East Asian woman at an airport terminal, arranged in a clean vertical 3:4 composition. The upper section shows an ultra-realistic candid photograph of the woman standing beside a large airport window, wearing a fitted white sleeveless top with a black puffer jacket casually slipping off her shoulders. She has long dark-brown hair falling naturally over one shoulder and holds a dark green Korean passport gently with both hands near her waist. Her pose is relaxed and natural, with her head turned to the side as she gazes thoughtfully toward the airport runway.
 
 Behind her, realistic airport architecture, glass windows, the runway, painted ground lines, and a boarding gate create an authentic travel atmosphere. Soft natural daylight enters through the window, with subtle film grain, realistic skin texture, authentic colors, shallow depth of field, and an intimate candid photography feeling.
@@ -4132,24 +3853,20 @@ The lower section transforms the exact same woman, clothing, pose, airport envir
 Add elegant minimalist editorial typography in the surrounding cream negative space: a small “No. 24.” title, subtle Japanese handwritten-style text, a short poetic caption reading “Sometimes, I just stand in the light and let time be quiet.”, and tiny documentary-style notes such as time, date, location, and weather. Include understated words like “note.”, “observed.”, and “thought.” around the layout.
 
 Warm off-white paper texture, slightly imperfect ink printing, sophisticated contemporary photography journal design, nostalgic analog mood, generous negative space, cohesive transition between realistic photograph and sketch illustration, emotionally warm, highly detailed, premium artbook aesthetic, no watermark, no logos, vertical 3:4 aspect ratio.
-```
-
-</details>
-
----
-
-## #086 · 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)
-<a id="086"></a>
-<a id="style-086"></a>
-
-[![#086 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)](data/curated/images/prompt_086.webp)](data/curated/images/prompt_086.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `原生艺术` `ArtBrut` `抽象符号` · @zhidawang219555</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @zhidawang219555](https://x.com/zhidawang219555/status/2101117661476491768)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="086"></a><a id="style-086"></a>
+      <a href="data/curated/images/prompt_086.webp">
+        <img src="data/curated/images/prompt_086.webp" alt="#086 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#086 · 上下双拼：真实摄影 × 原生艺术 (Raw Art / Art Brut)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>原生艺术</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/zhidawang219555/status/2101117661476491768">来源原贴 @zhidawang219555</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 创作一张“上下双拼构图”的竖版插画作品，画布纵向排版，上下区域高度比例严格为 1:1，整体为同一张完整作品，不是两张独立图片拼贴。
 
 上半部分：
@@ -4164,43 +3881,37 @@ Warm off-white paper texture, slightly imperfect ink printing, sophisticated con
 
 整体补充要求：
 上下两部分必须明显对应同一主体，形成“原图主体 / 风格转译主体”的上下对照关系。下半部分要体现原生、直接、未经修饰的粗粝艺术感，但不能失去主体辨识度。整体保持手工、质朴、原始、有冲击力的视觉语言，不要做成精致商业插画。不要额外生成说明文字、标题、Logo、水印、UI、边框。
-```
-
-</details>
-
----
-
-## #087 · 上下双拼：风景摄影 × 低多边形几何面艺术海报
-<a id="087"></a>
-<a id="style-087"></a>
-
-[![#087 上下双拼：风景摄影 × 低多边形几何面艺术海报](data/curated/images/prompt_087.webp)](data/curated/images/prompt_087.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `风景摄影` `低多边形` `LowPoly` · @aiwithlumi</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @aiwithlumi](https://x.com/aiwithlumi/status/2101265866226602262)
-
-```text
-Create a split vintage travel poster: the top shows a realistic autumn lakeside scene with a rustic log cabin, five grazing cows, golden-orange trees, fallen leaves, and sunlight sparkling across deep blue water; the bottom recreates the same scene in a sharp low-poly geometric style with faceted cabin, cows, trees, and jagged golden reflections. Use a cream divider with dark blue serif text “RAISE & ROAR”, “MOUNTAINS / LAKE / LIFE”, “NO.07”, and “03/25”.
-```
-
-</details>
-
----
-
-## #088 · 上下双拼：纪实原图 × 现代硬边几何抽象色块插画
-<a id="088"></a>
-<a id="style-088"></a>
-
-[![#088 上下双拼：纪实原图 × 现代硬边几何抽象色块插画](data/curated/images/prompt_088.webp)](data/curated/images/prompt_088.webp)
-
-<details>
-<summary>📋 <b>展开提示词 (Prompt)</b> · `上下双拼` `硬边几何` `几何抽象` `色块拼贴` · @Sairah_0</summary>
-
-> 🔗 **来源原贴**：[X (Twitter) @Sairah_0](https://x.com/Sairah_0/status/2101888385627598947)
-
-```text
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="087"></a><a id="style-087"></a>
+      <a href="data/curated/images/prompt_087.webp">
+        <img src="data/curated/images/prompt_087.webp" alt="#087 上下双拼：风景摄影 × 低多边形几何面艺术海报" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#087 · 上下双拼：风景摄影 × 低多边形几何面艺术海报</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>风景摄影</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/aiwithlumi/status/2101265866226602262">来源原贴 @aiwithlumi</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
+Create a split vintage travel poster: the top shows a realistic autumn lakeside scene with a rustic log cabin, five grazing cows, golden-orange trees, fallen leaves, and sunlight sparkling across deep blue water; the bottom recreates the same scene in a sharp low-poly geometric style with faceted cabin, cows, trees, and jagged golden reflections. Use a cream divider with dark blue serif text “RAISE &amp; ROAR”, “MOUNTAINS / LAKE / LIFE”, “NO.07”, and “03/25”.
+        </pre>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a id="088"></a><a id="style-088"></a>
+      <a href="data/curated/images/prompt_088.webp">
+        <img src="data/curated/images/prompt_088.webp" alt="#088 上下双拼：纪实原图 × 现代硬边几何抽象色块插画" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#088 · 上下双拼：纪实原图 × 现代硬边几何抽象色块插画</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>上下双拼</code> · <code>硬边几何</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/Sairah_0/status/2101888385627598947">来源原贴 @Sairah_0</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
 Using the uploaded photo, create a vertical 3:4 “before-and-after” comparison poster. If multiple photos are uploaded, create one separate poster for each photo; do not mix different photos on the same page. The upper and lower sections should each occupy exactly half of the total height, with a seamless transition between them. Do not add borders, arrows, or “Before” / “After” labels.
 
 【TOP SECTION: ORIGINAL PHOTO】  
@@ -4221,9 +3932,12 @@ Add a small amount of archival-style typography to the lower section: automatica
 Do not fabricate real locations, dates, identities, or events, and do not add overly dense explanatory text. The overall composition should resemble a page from a contemporary art book: a rich, realistic photograph on top paired with a bold, highly simplified, orderly geometric interpretation beneath it.
 
 Keep the overall work restrained, gentle, and distinctive. Avoid cartoon-like faces, 3D effects, plastic-like materials, clashing neon colors, or random doodles.
-```
-
-</details>
+        </pre>
+      </details>
+    </td>
+    <td width="33.3%"></td>
+    <td width="33.3%"></td>
+  </tr>
+</table>
 
 ---
-
