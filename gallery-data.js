@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-09-20 06:31:46",
-  "total_count": 87,
+  "updated_at": "2026-09-21 12:48:10",
+  "total_count": 88,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -127,6 +127,7 @@ window.ARTSHIFT_DATA = {
     "松弛感",
     "极简丝网",
     "极简几何",
+    "极简扁平",
     "极简插画",
     "极简景观",
     "极简杂志风",
@@ -168,6 +169,7 @@ window.ARTSHIFT_DATA = {
     "真人双生",
     "真人同框",
     "真实人像",
+    "硬边几何",
     "磁场颗粒版画",
     "磨砂玻璃",
     "禅意极简",
@@ -207,6 +209,7 @@ window.ARTSHIFT_DATA = {
     "自然材料拼贴",
     "色块拼贴",
     "艺术海报",
+    "艺术画册",
     "英文提示词",
     "荆棘观念线条",
     "莫兰迪色",
@@ -258,6 +261,7 @@ window.ARTSHIFT_DATA = {
     "HaniaAi12",
     "Naiknelofar788",
     "OrhanGhazi65942",
+    "Sairah_0",
     "Shinebynous",
     "ai_suxiaole",
     "aiwithlumi",
@@ -1914,6 +1918,27 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "上下双拼：风景摄影 × 低多边形几何面艺术海报 - 主贴正文提取",
       "created_at": "2026-09-20 06:31"
+    },
+    {
+      "id": 88,
+      "author": "Sairah_0",
+      "author_name": "Sairah",
+      "author_url": "https://x.com/Sairah_0",
+      "prompt": "Using the uploaded photo, create a vertical 3:4 “before-and-after” comparison poster. If multiple photos are uploaded, create one separate poster for each photo; do not mix different photos on the same page. The upper and lower sections should each occupy exactly half of the total height, with a seamless transition between them. Do not add borders, arrows, or “Before” / “After” labels.\n\n【TOP SECTION: ORIGINAL PHOTO】  \nThe top section should use the uploaded original photo, filling the full width of the canvas. Preserve the original subject, pose/action, scene, natural lighting, and dominant color palette. Only allow subtle overall color adjustments; do not change the atmosphere or add any filter effects. Maintain the photo’s original aspect ratio and do not stretch the subject. To fit the top section, you may crop unimportant edges; if cropping would remove the main subject, prioritize adding a small amount of background instead, but never invent or alter the subject or key elements of the scene.\n\n【BOTTOM SECTION: GEOMETRIC ABSTRACT】  \nUsing the same photo from the top section as the only reference, recreate the core subject and a few key environmental elements as a hard-edged, geometric, flat-style illustration. Do not add any people, animals, objects, or actions that were not present in the original photo. Preserve the core subject’s left/right position, pose, direction, interactions, and major occlusion relationships from the photo so that the top and bottom sections appear visually aligned at first glance; however, there is no need to reproduce the image pixel-for-pixel.\n\nRemove secondary background elements and insignificant details. The subject may be scaled down slightly to create generous negative space around it. Construct objects using a limited number of polygons of varying sizes, simplified curves, and solid color blocks. Preserve enough of the subject’s silhouette, movement, and defining characteristics so that it remains recognizable as the specific subject from the original photo; do not reduce it to a generic icon.\n\nUse adjacent color blocks of different shapes and brightness levels to define structure. Do not use gradients, outlines, 3D shadows, or realistic textures. Extract approximately 5–6 representative colors from the original photo and organize them into a cohesive palette with slightly reduced saturation. Use a warm off-white/beige tone as the background color for the lower section. Reserve the darkest tones for a few visual focal points, and retain one accent color that echoes the original photograph. Do not arbitrarily change the most recognizable colors of the core subject.\n\nKeep all geometric edges crisp and sharp. Add only an extremely subtle printed grain texture within the color blocks, with slight registration misalignment allowed on a few edges. Do not render the entire image with a rough paper texture or glitch-art effect.\n\n【TEXT】  \nAdd a small amount of archival-style typography to the lower section: automatically generate a short English title based on the content of the photo, accompanied by the small number “NO. 023”. Place the title in an area of negative space where it does not obstruct the subject, and position the number diagonally opposite the title to create visual balance.\n\nDo not fabricate real locations, dates, identities, or events, and do not add overly dense explanatory text. The overall composition should resemble a page from a contemporary art book: a rich, realistic photograph on top paired with a bold, highly simplified, orderly geometric interpretation beneath it.\n\nKeep the overall work restrained, gentle, and distinctive. Avoid cartoon-like faces, 3D effects, plastic-like materials, clashing neon colors, or random doodles.",
+      "image": "prompt_088.webp",
+      "image_path": "data/curated/images/prompt_088.webp",
+      "source_tweet_id": "2101888385627598947",
+      "source_url": "https://x.com/Sairah_0/status/2101888385627598947",
+      "tags": [
+        "上下双拼",
+        "硬边几何",
+        "几何抽象",
+        "色块拼贴",
+        "极简扁平",
+        "艺术画册"
+      ],
+      "notes": "上下双拼：纪实原图 × 现代硬边几何抽象色块插画 - 主贴正文提取",
+      "created_at": "2026-09-21 12:48"
     }
   ]
 };
