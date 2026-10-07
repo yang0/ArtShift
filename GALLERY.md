@@ -1,8 +1,8 @@
 # 🎨 ArtShift 风格迁移视觉画廊 (Visual Gallery)
 
-> 🖼️ **纯视觉画廊（一行多张大图）** | 收录全部 **89** 款风格高清效果图。点击图片可查看原始大图，点击图片下方按钮可一键展开复制完整提示词（Prompt）。
+> 🖼️ **纯视觉画廊（一行多张大图）** | 收录全部 **90** 款风格高清效果图。点击图片可查看原始大图，点击图片下方按钮可一键展开复制完整提示词（Prompt）。
 
-**快速跳转**：[#001 - #030](#001) · [#031 - #060](#031) · [#061 - #089](#061)
+**快速跳转**：[#001 - #030](#001) · [#031 - #060](#031) · [#061 - #090](#061)
 
 ---
 
@@ -4220,7 +4220,76 @@ Q版人物，
         </pre>
       </details>
     </td>
-    <td width="33.3%"></td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="090"></a><a id="style-090"></a>
+      <a href="data/curated/images/prompt_090.webp">
+        <img src="data/curated/images/prompt_090.webp" alt="#090 实拍 × 绘本续绘：照片与暖象牙纸手绘故事自然串联 (混合媒介)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#090 · 实拍 × 绘本续绘：照片与暖象牙纸手绘故事自然串联 (混合媒介)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>实拍插画续绘</code> · <code>混合媒介</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/ai_suxiaole/status/2107815596503277626">来源原贴 @ai_suxiaole</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
+Create one integrated mixed-media artwork from the uploaded photograph: a photographic upper region continuing into an original illustrated story on warm ivory paper below. Use the photograph as the starting point for a playful visual invention. The result must read as one connected composition.
+
+PHOTOGRAPHIC REGION
+Preserve the recognizable appearance of the source photograph: its main subjects, facial identities, apparent ages, existing poses, expressions, and important objects, colors, patterns, and materials. Retain photographic detail, natural lighting, and photographic depth in this region.
+
+Do not repaint the entire image, replace faces, cartoonize the photographic subjects, or cover the upper region with paper texture.
+
+A photographic person, animal, or object may extend across the transition into the paper region when this supports the composition. Preserve its photographic appearance as it crosses. Keep important faces and existing source interactions readable.
+
+ONE CONNECTING IDEA
+First identify one strong visual anchor in the actual photograph: a distinctive object, contour, pattern, material, gesture, or direction of movement. Build one clear imaginative idea around that anchor.
+
+Make the connection across the transition immediately understandable. Continue an object&#x27;s shape or pattern into a drawn extension; give a photographed action a drawn destination or support; extend a photographic object into the paper world; or reinterpret a source form so that a new illustrated activity grows from it.
+
+Align the crossing point, direction, contours, patterns, and relevant scale so the viewer can follow the connection. Draw clear attachments, contact points, supports, or movement paths wherever the story requires them.
+
+A matching color scheme or a small character placed nearby is not enough. The lower story must actively use the source-derived connection.
+
+Choose the transformation that best suits this particular photograph. Do not automatically turn every input into a slide, balloon, ladder, or playground.
+
+ORIGINAL ILLUSTRATED STORY
+Invent a new scene below the photograph rather than reproducing the existing scene as a cartoon. You may add small illustrated characters, animals, structures, props, and activities that serve the connecting idea. Selected source shapes may be extended, bent, enlarged, repeated, or imaginatively reinterpreted.
+
+Focus on one understandable event, with supporting details kept secondary. Avoid unrelated decorations or several competing stories.
+
+If drawn counterparts of photographed people or animals appear, they may adopt new poses, scales, and activities within the imagined scene. Retain recognizable visual cues where useful. The invented cast does not have to duplicate the number of photographic subjects.
+
+ILLUSTRATION STYLE
+Use warm, lightly textured ivory paper as the visible base of the lower region. Draw with informal fine black lines, slightly wavering contours, occasional broken strokes, sparse directional hatching, and simple expressive marks.
+
+Small characters should have economical facial features, readable gestures, and a charming hand-drawn storybook appearance. Use motion strokes, splashes, or other action marks selectively where they clarify the event.
+
+Add selective colored-pencil or wax-crayon color with visible strokes, uneven coverage, and exposed paper. Draw accent colors from the source photograph and the invented story rather than imposing a fixed palette.
+
+Leave generous open paper. Concentrate detail around the main activity. Avoid dense painted backgrounds, smooth vector fills, glossy digital surfaces, and photographic tonal rendering throughout the drawn world.
+
+A few source-derived objects may retain photographic texture within the lower region when they directly participate in the story. Integrate them through clear contact, attachment, or interaction. Do not scatter arbitrary photographic cutouts.
+
+TRANSITION AND COMPOSITION
+Use a portrait 3:4 canvas by default. Let the photographic region occupy approximately the upper half, with flexibility when the subjects or connecting forms require more space. Treat fifty-fifty as a starting point rather than a rigid boundary.
+
+Allow modest scaling or cropping of secondary photographic surroundings to fit the composition, while protecting the principal subjects and essential source objects.
+
+Join the regions directly, without a frame, dividing white gutter, or broad fading gradient. The transition may be straight, slightly irregular, or shaped around the source content. Continue selected contours, objects, patterns, or actions across it.
+
+Create one continuous artwork, not two independent panels, a before-and-after comparison, or a photograph above a duplicate illustration.
+
+HANDWRITTEN SENTENCE
+Add one original short English sentence in relaxed, legible black handwriting within open paper space. Keep it brief, usually four to ten words, and let it respond to the imagined story with a playful, natural tone.
+
+The sentence may refer to the invented visual idea, but must not claim real personal history or relationships for the photographed subjects. Do not copy example slogans or force every image into a summer or travel theme.
+
+Keep the lettering away from faces, essential objects, and the central connection. Add no separate large title, watermark, signature, or additional captions.
+
+OUTPUT
+Produce exactly one finished mixed-media artwork. Prioritize recognizable photography, a readable cross-boundary connection, and a coherent original story over an exact division of the canvas.
+        </pre>
+      </details>
+    </td>
   </tr>
 </table>
 
