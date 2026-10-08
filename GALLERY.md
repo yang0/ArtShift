@@ -1,8 +1,8 @@
 # 🎨 ArtShift 风格迁移视觉画廊 (Visual Gallery)
 
-> 🖼️ **纯视觉画廊（一行多张大图）** | 收录全部 **92** 款风格高清效果图。点击图片可查看原始大图，点击图片下方按钮可一键展开复制完整提示词（Prompt）。
+> 🖼️ **纯视觉画廊（一行多张大图）** | 收录全部 **93** 款风格高清效果图。点击图片可查看原始大图，点击图片下方按钮可一键展开复制完整提示词（Prompt）。
 
-**快速跳转**：[#001 - #030](#001) · [#031 - #060](#031) · [#061 - #090](#061) · [#091 - #092](#091)
+**快速跳转**：[#001 - #030](#001) · [#031 - #060](#031) · [#061 - #090](#061) · [#091 - #093](#091)
 
 ---
 
@@ -4362,7 +4362,208 @@ Negative: No detached lower-half illustration, no generic torn-paper template, n
         </pre>
       </details>
     </td>
-    <td width="33.3%"></td>
+    <td width="33.3%" align="center" valign="top">
+      <a id="093"></a><a id="style-093"></a>
+      <a href="data/curated/images/prompt_093.webp">
+        <img src="data/curated/images/prompt_093.webp" alt="#093 「第二世界」结构化 JSON 提示词 v1.2：现实摄影 × 暖纸手绘续画 (虎小象优化版)" style="max-width:100%; border-radius:6px;" />
+      </a>
+      <br />
+      <p align="center"><b>#093 · 「第二世界」结构化 JSON 提示词 v1.2：现实摄影 × 暖纸手绘续画 (虎小象优化版)</b></p>
+      <details>
+        <summary>📋 <b>复制提示词</b> (<code>第二世界</code> · <code>JSON提示词</code>)</summary>
+        <p align="left"><small>🔗 <a href="https://x.com/hx831126/status/2108115838083449017">来源原贴 @hx831126</a></small></p>
+        <pre align="left" style="white-space:pre-wrap; word-break:break-all; font-size:12px;">
+{
+  &quot;name&quot;: &quot;第二世界&quot;,
+  &quot;version&quot;: &quot;1.2&quot;,
+  &quot;task&quot;: &quot;以每张上传照片为独立来源，各生成一张完整海报。不得把多张照片合并到同一画布。&quot;,
+  &quot;output&quot;: {
+    &quot;aspect_ratio&quot;: &quot;3:4&quot;,
+    &quot;orientation&quot;: &quot;vertical&quot;,
+    &quot;one_poster_per_photo&quot;: true,
+    &quot;layout&quot;: &quot;画布在高度精确50%处水平分割，上下各占50%，宽度相同&quot;,
+    &quot;no_mockup&quot;: true
+  },
+  &quot;core_principle&quot;: &quot;第二世界原本就藏在照片里。让同一个场景穿过中线，继续向下延伸，只在下半部分改变物理规则。跨界结构的连续性是最高视觉优先级。&quot;,
+  &quot;upper_half&quot;: {
+    &quot;source&quot;: &quot;当前这张上传照片&quot;,
+    &quot;preserve&quot;: [
+      &quot;主体身份与外观&quot;,
+      &quot;人物姿势、表情和动作&quot;,
+      &quot;空间关系、比例与透视&quot;,
+      &quot;原始色彩氛围&quot;,
+      &quot;自然光线与阴影&quot;,
+      &quot;环境和重要细节&quot;
+    ],
+    &quot;allowed_change&quot;: &quot;仅为适应上半画幅进行必要的比例裁剪，避免裁掉关键主体或连接结构&quot;,
+    &quot;forbidden&quot;: [
+      &quot;重新设计照片&quot;,
+      &quot;重新绘制或替换主体&quot;,
+      &quot;重新安排人物和物件&quot;,
+      &quot;改变照片色彩&quot;,
+      &quot;虚构光线或背景&quot;
+    ],
+    &quot;fidelity_rule&quot;: &quot;优先直接复用原照片；不得将生成式重绘宣称为原片无损保留。若工具无法满足原片保留与精确布局，须说明限制，不得自行降低要求后宣称完全达标。&quot;
+  },
+  &quot;continuity&quot;: {
+    &quot;choose_one_source_structure&quot;: &quot;从原照片中识别一条能够自然延伸到中线的结构，例如道路、海岸线、水面、倒影、树枝、光束、建筑线条、衣物走势或身体动作&quot;,
+    &quot;requirements&quot;: [
+      &quot;结构必须在中线的准确相遇位置继续进入下半部&quot;,
+      &quot;保持方向、位置、尺度和遮挡关系的可信连续性&quot;,
+      &quot;先建立可见的连接，再发展下半部的想象&quot;,
+      &quot;两半必须读作同一个场景，不能像两张独立图片上下摆放&quot;
+    ],
+    &quot;transition_edge&quot;: {
+      &quot;optional&quot;: &quot;允许不规则撕纸边缘&quot;,
+      &quot;rule&quot;: &quot;撕裂必须顺着原图结构发生，不得仅作为装饰，不得每张使用同一种撕裂形状&quot;,
+      &quot;interaction&quot;: &quot;源元素可以触碰、贴着、穿过或越过撕裂边缘&quot;
+    }
+  },
+  &quot;lower_half&quot;: {
+    &quot;background&quot;: &quot;温暖象牙色纸张，细微可见纤维，丰富负空间&quot;,
+    &quot;media&quot;: [
+      &quot;克制的照片碎片&quot;,
+      &quot;简洁剪纸形状&quot;,
+      &quot;少量黑色手绘线条&quot;
+    ],
+    &quot;construction&quot;: &quot;从上半部源结构与中线相遇的位置向下延续，再逐渐将其重新解释为第二世界&quot;,
+    &quot;prohibited&quot;: &quot;不得成为孤立入口、窗口、舞台、平台或漂浮小插图，除非该形态明显由原照片连续生长出来&quot;,
+    &quot;density&quot;: &quot;明亮、通透、克制，避免密集绘制和拼贴堆砌&quot;
+  },
+  &quot;second_world_logic&quot;: {
+    &quot;question&quot;: &quot;如果照片里的这个结构变得可以触摸、使用、进入、折叠、拉伸或改变，它会自然变成什么？&quot;,
+    &quot;interaction_count&quot;: 1,
+    &quot;instruction&quot;: &quot;每张只建立一种具体、清楚、有趣的互动，优先从原图的形状和动作发现可能性，不从固定道具或模板倒推。&quot;,
+    &quot;examples_for_logic_only&quot;: [
+      &quot;水面保持与湖相连，同时被卷起或拉伸&quot;,
+      &quot;道路延续到纸面，变成可以继续画出的路径&quot;,
+      &quot;一束原有的光线延下来，变成可以轻轻拿住的东西&quot;
+    ],
+    &quot;variation&quot;: &quot;多张作品分别判断，不机械重复动作、连接结构、构图或玩笑。示例不是必须出现的内容。&quot;
+  },
+  &quot;tiny_figures&quot;: {
+    &quot;count&quot;: &quot;0–3&quot;,
+    &quot;appearance&quot;: &quot;极简、微小的黑色线条人物&quot;,
+    &quot;add_only_if&quot;: &quot;人物能与延续结构发生必要而明确的物理互动&quot;,
+    &quot;omit_if&quot;: &quot;源照片已包含强烈的人类动作&quot;,
+    &quot;forbidden&quot;: &quot;把小人当作无关装饰或为凑热闹添加人群&quot;
+  },
+  &quot;copy&quot;: {
+    &quot;language&quot;: &quot;中文为主，搭配一小段英文点睛&quot;,
+    &quot;main_text&quot;: &quot;一句短小、俏皮、可爱、诙谐或带有轻微意外洞察的中文旁注&quot;,
+    &quot;english&quot;: &quot;更短、更轻的英文补充；可以与中文互相补充，不必逐字翻译&quot;,
+    &quot;intent&quot;: &quot;让人看完画面，再看到小字时会心一笑，或突然多理解一层&quot;,
+    &quot;requirements&quot;: [
+      &quot;根据这张照片与第二世界的具体互动重新创作&quot;,
+      &quot;不要只是给动作命名，也不要机械看图说话&quot;,
+      &quot;可以有拟人、轻微反差、一本正经的小玩笑或温柔的自嘲&quot;,
+      &quot;可以有点醒人的意味，但不讲人生大道理&quot;,
+      &quot;不强行套用自爱、励志或情绪安慰模板&quot;,
+      &quot;幽默针对情境，不贬损人物外貌、身份或处境&quot;
+    ],
+    &quot;avoid&quot;: [
+      &quot;空泛鸡汤&quot;,
+      &quot;宏大格言&quot;,
+      &quot;说教&quot;,
+      &quot;广告标语&quot;,
+      &quot;无关网络热梗&quot;,
+      &quot;固定的“同样……，不同……”句式&quot;,
+      &quot;每张复用相同文案&quot;
+    ],
+    &quot;examples_for_tone_only&quot;: [
+      {
+        &quot;context&quot;: &quot;把晚霞带走&quot;,
+        &quot;chinese&quot;: &quot;这个不算超重吧&quot;,
+        &quot;english&quot;: &quot;just a little sunset&quot;
+      },
+      {
+        &quot;context&quot;: &quot;将湖面卷成纸带&quot;,
+        &quot;chinese&quot;: &quot;不用袋子，我卷着走&quot;,
+        &quot;english&quot;: &quot;no bag, thanks&quot;
+      },
+      {
+        &quot;context&quot;: &quot;影子卷成被角&quot;,
+        &quot;chinese&quot;: &quot;影子先躺了，我再走会儿&quot;,
+        &quot;english&quot;: &quot;five more minutes&quot;
+      }
+    ],
+    &quot;example_rule&quot;: &quot;只借鉴幽默机制，不把例句固定写进新作品。&quot;
+  },
+  &quot;handwriting&quot;: {
+    &quot;scale&quot;: &quot;小号旁注，英文更小，不做抢占画面的巨大标题&quot;,
+    &quot;placement&quot;: &quot;放在自然留白处，不遮挡主体、跨界连接点或关键互动&quot;,
+    &quot;chinese&quot;: &quot;真正自然、略潦草的手写字，不是整齐的电脑手写字体&quot;,
+    &quot;english&quot;: &quot;同样像随手写下，轻松、不规整&quot;,
+    &quot;details&quot;: [
+      &quot;字大小略有差异&quot;,
+      &quot;基线轻微起伏&quot;,
+      &quot;倾斜角度不完全一致&quot;,
+      &quot;间距自然变化&quot;,
+      &quot;笔画有压力和停顿&quot;,
+      &quot;少量笔迹可重叠或不完整&quot;
+    ],
+    &quot;corrections&quot;: {
+      &quot;allowed&quot;: true,
+      &quot;frequency&quot;: &quot;偶尔出现即可，不要求每张都有&quot;,
+      &quot;method&quot;: &quot;可以将一个写错或想改的词轻轻划掉，在旁边或上方补写正确版本&quot;,
+      &quot;limit&quot;: &quot;通常最多1–2处，不把整页做成反复涂改的草稿&quot;,
+      &quot;legibility&quot;: &quot;最终意思必须清楚，不能用乱码或无意义错字模拟手写&quot;
+    }
+  },
+  &quot;overall_style&quot;: {
+    &quot;mood&quot;: [
+      &quot;独立杂志感&quot;,
+      &quot;明亮通透&quot;,
+      &quot;温暖纸感&quot;,
+      &quot;克制&quot;,
+      &quot;轻巧幽默&quot;,
+      &quot;细微手工痕迹&quot;
+    ],
+    &quot;hierarchy&quot;: [
+      &quot;原照片与跨界结构&quot;,
+      &quot;下半部明确的互动&quot;,
+      &quot;小号双语手写旁注&quot;
+    ],
+    &quot;finish&quot;: &quot;像照片中的隐藏世界被轻轻揭开，而非在照片下方额外贴上一幅插画&quot;
+  },
+  &quot;negative_prompt&quot;: [
+    &quot;分离的下半部插图&quot;,
+    &quot;断裂的跨界连续性&quot;,
+    &quot;通用撕纸模板&quot;,
+    &quot;孤立入口或窗口&quot;,
+    &quot;无关的小插图&quot;,
+    &quot;密集插画&quot;,
+    &quot;随机装饰&quot;,
+    &quot;装饰性人群&quot;,
+    &quot;改变原照片颜色&quot;,
+    &quot;上层照片重新设计&quot;,
+    &quot;光泽3D&quot;,
+    &quot;剪贴簿式杂乱&quot;,
+    &quot;巨大标题&quot;,
+    &quot;整齐印刷式手写&quot;,
+    &quot;胡言乱语文本&quot;,
+    &quot;励志鸡汤&quot;,
+    &quot;水印&quot;,
+    &quot;徽标&quot;,
+    &quot;UI&quot;,
+    &quot;多张照片合并&quot;,
+    &quot;九宫格&quot;
+  ],
+  &quot;final_check&quot;: [
+    &quot;是否每张原图对应一张独立的3:4海报？&quot;,
+    &quot;上下区域是否严格各占50%？&quot;,
+    &quot;上半原照片是否忠实保留，仅做必要裁剪？&quot;,
+    &quot;是否有一条真实源结构在中线准确接续？&quot;,
+    &quot;下半部是否与原图属于同一场景，而非孤立插画？&quot;,
+    &quot;是否只有一种清楚、自然且不重复套用的互动？&quot;,
+    &quot;中文是否有趣、有余味，而非简单动作标签或说教？&quot;,
+    &quot;中英文是否小号、自然潦草且可读？&quot;,
+    &quot;是否保留了足够的负空间？&quot;
+  ]
+}
+        </pre>
+      </details>
+    </td>
   </tr>
 </table>
 
