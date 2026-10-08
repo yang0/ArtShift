@@ -1,8 +1,8 @@
 // ArtShift 自动生成的数据源，供 index.html 直接读取（无跨域限制）
 window.ARTSHIFT_DATA = {
   "title": "ArtShift 精选 AI 提示词与画廊",
-  "updated_at": "2026-10-08 07:55:38",
-  "total_count": 91,
+  "updated_at": "2026-10-08 09:27:14",
+  "total_count": 92,
   "tags": [
     "3D厚涂",
     "3D粘土卡通",
@@ -29,6 +29,7 @@ window.ARTSHIFT_DATA = {
     "人文浮雕",
     "人物宠物",
     "人物换脸",
+    "人物角色",
     "低多边形",
     "信息图",
     "做旧印刷",
@@ -41,6 +42,7 @@ window.ARTSHIFT_DATA = {
     "几何窗口",
     "刺绣锦缎",
     "动漫插画",
+    "动漫游戏",
     "半调网点",
     "单点彩色",
     "单色线稿",
@@ -263,6 +265,7 @@ window.ARTSHIFT_DATA = {
     "黑白高亮"
   ],
   "authors": [
+    "0xkyne",
     "AdrianPunk115",
     "AiWithTariq",
     "Alina_with_Ai",
@@ -2014,6 +2017,27 @@ window.ARTSHIFT_DATA = {
       ],
       "notes": "上下双拼：现实摄影 × 撕纸续画第二世界 (Second World) - 作者回复区置顶提取",
       "created_at": "2026-10-08 07:55"
+    },
+    {
+      "id": 92,
+      "author": "0xkyne",
+      "author_name": "月无关 | 0xKyne",
+      "author_url": "https://x.com/0xkyne",
+      "prompt": "Create one independent “Second World” poster per upload. Never combine photos.\n\nFormat: Vertical 3:4 canvas split into two strictly equal horizontal halves, top 50% and bottom 50%. Upper half stays photographic; lower half becomes the continued Second World. They must read as one scene.\n\nUpper Half: Keep the photo faithful. Preserve subject, pose, spatial relationships, color atmosphere, and natural light. Do not redesign, repaint, replace, or restage it. Only allow necessary proportional cropping.\n\nContinuity: The top-to-bottom connection is the highest priority. Identify one source structure that naturally reaches the center split, such as a road, shoreline, water, reflection, branch, light, architecture, or body movement. This structure must cross the boundary and continue into the lower half. The Second World must begin from the photograph itself, so the same scene passes through the seam and changes physical rules.\n\nTransition Edge: The center may use an irregular torn-paper edge, but the tear must follow the source structure, not act as decoration. Allow source elements to touch, follow, break through, or extend beyond it. Never force the same tear shape onto every image.\n\nLower Half: Use ivory paper with subtle fibers and abundant negative space. Continue the chosen structure downward from the exact point where it meets the split, then reinterpret it with restrained photo fragments, cut-paper forms, and minimal black hand-drawn lines. The lower world must remain visibly attached. Never isolate it as a separate portal, window, stage, platform, or floating vignette unless clearly derived from the photo.\n\nSecond World Logic: Ask: if this structure became touchable, usable, enterable, or changeable, what would it naturally become? Create one image-specific interaction. For example, water may stay attached while being pulled, a road may continue as a drawn path, or light may become something held. Do not mechanically repeat actions.\n\nFigures: Add 0–3 tiny black line figures only when useful. They must physically interact with the continued structure. If the source already contains strong human action, add none. Never use figures as decoration.\n\nCaption: Add one short handwritten English caption based on the action. Keep it natural, light, and slightly witty. No inspirational quote and no fixed “Same..., different...” phrasing.\n\nStyle: Real photography above, warm paper below, minimal black line doodle, subtle handmade collage texture, independent-magazine mood, bright, airy, and restrained. The result should feel as if the second world was already hidden inside the photo and simply continued downward.\n\nNegative: No detached lower-half illustration, no generic torn-paper template, no isolated portal, no unrelated vignette, no broken continuity, no dense illustration, no random decoration, no crowd, no altered photo colors, no redesign of the upper image, no glossy 3D, no scrapbook clutter, no gibberish text, no watermark, no logo, no UI.",
+      "image": "prompt_092.webp",
+      "image_path": "data/curated/images/prompt_092.webp",
+      "source_tweet_id": "2107666426513568006",
+      "source_url": "https://x.com/0xkyne/status/2107666426513568006",
+      "tags": [
+        "人物角色",
+        "第二世界",
+        "撕纸拼贴",
+        "虚实结合",
+        "动漫游戏",
+        "上下双拼"
+      ],
+      "notes": "人物角色 × 撕纸续画第二世界：动漫游戏/人物肖像与撕纸手绘趣味互动 (阿狸/二次元结合拓展)",
+      "created_at": "2026-10-08 09:27"
     }
   ]
 };
